@@ -1,150 +1,132 @@
 # Awesome Remote MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **remote & hosted** Model Context Protocol (MCP) servers — no local setup, no Docker, no configuration required.
+> Connect your AI assistant to the world — no installs, no Docker, no config files.
 
-[Model Context Protocol (MCP)](https://modelcontextprotocol.io) is an open standard that enables AI models to securely interact with external tools and data sources. This list focuses exclusively on **remote servers** — servers you can connect to instantly without installing anything locally.
+Remote MCP servers are accessible via a URL. Paste the endpoint into your AI client and start using it immediately.
 
-## Why Remote MCP?
+**→ Want to host your own?** [freemcp.space](https://freemcp.space) deploys any MCP server from a Dockerfile or GitHub repo in seconds.
 
-| | Local MCP | Remote MCP |
-|---|---|---|
-| Setup | Install + configure | Just a URL |
-| Maintenance | You manage it | Provider manages it |
-| Availability | Your machine must be on | Always-on |
-| Team sharing | Difficult | Share a URL |
+---
+
+## How to Connect
+
+Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your client settings:
+
+| Client | Where to add |
+|--------|-------------|
+| Claude Desktop | `claude_desktop_config.json` → `url` field |
+| Cursor | Settings → MCP → Add Server URL |
+| Windsurf | MCP Config → Remote |
+| Continue.dev | `config.json` → mcpServers |
 
 ---
 
 ## Contents
 
-- [Platforms](#platforms)
-- [Developer Tools](#developer-tools)
-- [Data & Databases](#data--databases)
-- [Productivity](#productivity)
-- [AI & LLMs](#ai--llms)
-- [Finance](#finance)
+- [Platforms & Hosting](#platforms--hosting)
+- [Code & Development](#code--development)
+- [Data & Search](#data--search)
+- [Productivity & Workspace](#productivity--workspace)
+- [Cloud Infrastructure](#cloud-infrastructure)
+- [Finance & Payments](#finance--payments)
 - [Communication](#communication)
-- [Infrastructure & DevOps](#infrastructure--devops)
-- [Security](#security)
-- [Contributing](#contributing)
+- [AI & Models](#ai--models)
 
 ---
 
-## Legend
+## Badge Guide
 
-| Symbol | Meaning |
-|--------|---------|
-| ☁️ | Fully hosted, always-on |
-| ⚡ | One-click deploy |
+| Badge | Meaning |
+|-------|---------|
 | 🆓 | Free tier available |
-| 🔐 | Auth required |
+| 💰 | Paid only |
+| 🔑 | API key required |
 | 🌐 | Open source |
+| ✅ | Verified working (April 2026) |
 
 ---
 
-## Platforms
+## Platforms & Hosting
 
-> Platforms that let you host and deploy your own MCP servers remotely.
+> Deploy and run your own MCP servers remotely.
 
-- **[freemcp.space](https://freemcp.space)** ☁️ ⚡ 🆓 — Deploy any MCP server from a Dockerfile or GitHub repo in seconds. Free tier includes 2 servers. No infrastructure management needed.
-- **[Cloudflare Workers MCP](https://developers.cloudflare.com/agents/guides/remote-mcp-server/)** ☁️ 🌐 — Deploy MCP servers on Cloudflare's edge network globally.
-- **[Smithery](https://smithery.ai)** ☁️ 🆓 — MCP server registry and remote hosting platform.
-
----
-
-## Developer Tools
-
-- **[GitHub MCP](https://github.com/github/github-mcp-server)** ☁️ 🔐 🌐 — Official GitHub MCP server. Access repos, issues, PRs, and code search.
-- **[GitMCP](https://gitmcp.io)** ☁️ 🆓 — Turn any GitHub repository into an MCP server instantly.
-- **[Sentry MCP](https://mcp.sentry.dev/sse)** ☁️ 🔐 — Query and manage Sentry issues directly from your AI assistant.
+- **[freemcp.space](https://freemcp.space)** 🆓 🌐 ✅ — Host any MCP server from a Dockerfile or GitHub repo. Free tier: 2 servers. Instant deploy, no infrastructure management. `{username}/{slug}/mcp`
+- **[Cloudflare Workers MCP](https://developers.cloudflare.com/agents/guides/remote-mcp-server/)** 🆓 🌐 ✅ — Run MCP servers on Cloudflare's global edge network.
+- **[Smithery](https://smithery.ai)** 🆓 ✅ — MCP server registry with remote hosting and one-click deploy.
 
 ---
 
-## Data & Databases
+## Code & Development
 
-- **[Airtable MCP](https://airtable.com)** ☁️ 🔐 — Query and update Airtable bases remotely.
-- **[Notion MCP](https://www.notion.so/product/notion-ai)** ☁️ 🔐 — Read and write Notion pages and databases.
-
----
-
-## Productivity
-
-- **[Linear MCP](https://linear.app/changelog/2025-03-18-mcp)** ☁️ 🔐 — Manage Linear issues, projects, and teams via AI.
-- **[Atlassian MCP](https://www.atlassian.com)** ☁️ 🔐 — Jira and Confluence integration for AI assistants.
+- **[GitHub MCP](https://github.com/github/github-mcp-server)** 🔑 🌐 ✅ — Repos, issues, PRs, code search, and file access. Official GitHub server.
+  `https://api.githubcopilot.com/mcp/`
+- **[GitMCP](https://gitmcp.io)** 🆓 ✅ — Any GitHub repo becomes an MCP server instantly. No setup needed.
+  `https://gitmcp.io/{owner}/{repo}`
+- **[Sentry](https://mcp.sentry.dev/sse)** 🔑 ✅ — Query issues, events, and releases from Sentry.
 
 ---
 
-## AI & LLMs
+## Data & Search
 
-- **[OpenAI MCP](https://openai.com)** ☁️ 🔐 — Access OpenAI models and fine-tuning APIs.
-- **[Replicate MCP](https://replicate.com)** ☁️ 🔐 — Run thousands of AI models remotely.
+- **[Brave Search](https://brave.com/search/api/)** 🆓 🔑 ✅ — Web and local search without tracking.
+- **[Exa](https://exa.ai)** 🔑 ✅ — Semantic web search optimized for AI agents.
+- **[Kagi](https://kagi.com)** 💰 🔑 — Privacy-first search with high-quality results.
 
 ---
 
-## Finance
+## Productivity & Workspace
 
-- **[Stripe MCP](https://docs.stripe.com/building-with-llms/mcp)** ☁️ 🔐 — Query Stripe payments, customers, and invoices.
-- **[Coinbase MCP](https://www.coinbase.com)** ☁️ 🔐 — Crypto portfolio and market data.
+- **[Linear](https://linear.app/changelog/2025-03-18-mcp)** 🔑 ✅ — Issues, projects, and team management.
+- **[Notion](https://www.notion.so)** 🔑 ✅ — Read and write pages, databases, and blocks.
+- **[Airtable](https://airtable.com)** 🔑 — Bases, records, and views.
+
+---
+
+## Cloud Infrastructure
+
+- **[AWS MCP](https://github.com/awslabs/mcp)** 🔑 🌐 ✅ — S3, Lambda, CloudWatch, and more. Official AWS servers.
+- **[Azure MCP](https://github.com/microsoft/azure-mcp)** 🔑 🌐 ✅ — Azure resource management. Official Microsoft server.
+- **[Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare)** 🔑 🌐 ✅ — Zones, Workers, KV, and R2. Official Cloudflare server.
+- **[Vercel MCP](https://vercel.com/docs/mcp)** 🔑 ✅ — Deployments, domains, and project management.
+
+---
+
+## Finance & Payments
+
+- **[Stripe MCP](https://docs.stripe.com/building-with-llms/mcp)** 🔑 ✅ — Customers, payments, invoices, and subscriptions. Official Stripe server.
+- **[Resend MCP](https://resend.com/mcp)** 🆓 🔑 ✅ — Send transactional emails directly from your AI assistant.
 
 ---
 
 ## Communication
 
-- **[Slack MCP](https://slack.com)** ☁️ 🔐 — Read and send Slack messages, manage channels.
-- **[Resend MCP](https://resend.com/mcp)** ☁️ 🔐 — Send transactional emails via AI.
+- **[Slack MCP](https://slack.com)** 🔑 — Channels, messages, and user management.
+- **[Twilio](https://twilio.com)** 🔑 — SMS, calls, and messaging APIs.
 
 ---
 
-## Infrastructure & DevOps
+## AI & Models
 
-- **[AWS MCP](https://github.com/awslabs/mcp)** ☁️ 🔐 🌐 — Official AWS MCP servers for S3, Lambda, CloudWatch and more.
-- **[Azure MCP](https://github.com/microsoft/azure-mcp)** ☁️ 🔐 🌐 — Microsoft Azure resource management via MCP.
-- **[Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare)** ☁️ 🔐 🌐 — Manage Cloudflare zones, workers, and KV remotely.
-- **[Vercel MCP](https://vercel.com)** ☁️ 🔐 — Deploy and manage Vercel projects.
-
----
-
-## Security
-
-- **[Snyk MCP](https://snyk.io)** ☁️ 🔐 — Scan dependencies for vulnerabilities remotely.
+- **[Replicate MCP](https://replicate.com)** 🆓 🔑 ✅ — Run image generation, video, audio, and language models.
+- **[OpenAI MCP](https://openai.com)** 🔑 — Models, fine-tuning, and assistants API.
+- **[Anthropic MCP](https://anthropic.com)** 🔑 — Claude API access and prompt management.
 
 ---
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting.
 
-### Criteria for inclusion
-
-- **Must be remote** — The server must be accessible via a URL without local installation.
-- **Must be functional** — No dead links or abandoned projects.
-- **Must have a description** — Explain what the server does in one sentence.
-
-### How to add a server
-
-1. Fork this repository
-2. Add your server to the appropriate category in `README.md`
-3. Follow the existing format: `**[Name](URL)** badges — description`
-4. Open a pull request
+**Only remote servers are listed here.** For local servers, see [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers).
 
 ---
 
-## Deploy Your Own
+## Related
 
-Want to host your own MCP server remotely?
-
-👉 **[freemcp.space](https://freemcp.space)** — Deploy from Dockerfile or GitHub in seconds. Free tier available.
-
----
-
-## Related Lists
-
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — The original comprehensive list (local + remote)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — Official reference servers
-- [best-of-mcp-servers](https://github.com/tolkonepiu/best-of-mcp-servers) — Weekly ranked list
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Comprehensive list, local + remote
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — Official reference implementations
+- [PulseMCP](https://pulsemcp.com) — Discovery and rankings
 
 ---
 
-## License
-
-[CC0 1.0](LICENSE) — Public Domain
+*Maintained by [Appnova](https://freemcp.space) · [CC0 License](LICENSE)*

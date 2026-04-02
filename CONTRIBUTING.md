@@ -1,38 +1,40 @@
-# Contributing to Awesome Remote MCP Servers
+# Contributing
 
-Thank you for contributing! This list focuses on **remote** MCP servers only.
+## The one rule
 
-## Requirements
+**Only remote servers.** If someone needs to run `npx`, `pip install`, or `docker run` on their own machine, it doesn't belong here. That's what [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) is for.
 
-- ✅ Accessible via URL (no `npx`, no local install)
-- ✅ Active and functional
-- ✅ One clear sentence description
-- ❌ No local-only servers (use [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) instead)
-- ❌ No abandoned/unmaintained projects
+## What qualifies
 
-## Format
+- Accessible via a public URL (SSE or HTTP transport)
+- Active and responding
+- Has a stable endpoint (not a personal demo)
+
+## Entry format
 
 ```
-- **[Server Name](https://url.com)** ☁️ 🆓 — One sentence description.
+- **[Name](https://url.com)** badges — One sentence. What can you do with it?
+  `https://the-actual-mcp-endpoint/path`
 ```
+
+Include the actual MCP endpoint URL if it's different from the homepage.
 
 ## Badges
 
-| Badge | When to use |
-|-------|-------------|
-| ☁️ | Always-on hosted server |
-| ⚡ | One-click deploy available |
-| 🆓 | Has a free tier |
-| 🔐 | Requires authentication/API key |
-| 🌐 | Open source |
+| Badge | Use when |
+|-------|---------|
+| 🆓 | Free tier exists |
+| 💰 | Paid only |
+| 🔑 | Requires API key or auth |
+| 🌐 | Source code is public |
+| ✅ | You've personally verified it works |
 
-## Pull Request Process
+## Pull request
 
-1. Fork the repo
-2. Add to the correct category (alphabetical order within category)
-3. Run a quick check: is the URL live?
-4. Submit PR with title: `Add [Server Name]`
+Title: `Add [Server Name]`
 
-## New Categories
-
-If your server doesn't fit an existing category, propose a new one in your PR with at least 3 servers to populate it.
+Check before submitting:
+- [ ] The endpoint URL responds
+- [ ] It's in the right category
+- [ ] Alphabetical order within the category
+- [ ] Description is one sentence max
