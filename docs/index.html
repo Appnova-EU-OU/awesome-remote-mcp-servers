@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Awesome Remote MCP Servers — No setup, just connect</title>
+  <meta name="description" content="A curated list of remote & hosted MCP (Model Context Protocol) servers. Connect Claude, Cursor, or any AI assistant instantly — no Docker, no npm, no config files.">
+  <meta name="keywords" content="MCP servers, Model Context Protocol, remote MCP, hosted MCP, AI tools, Claude MCP, Cursor MCP, MCP hosting">
+  <meta name="author" content="freemcp.space">
+  <meta name="robots" content="index, follow">
+
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mcp.freemcp.space">
+  <meta property="og:title" content="Awesome Remote MCP Servers — No setup, just connect">
+  <meta property="og:description" content="Remote MCP servers you can connect to instantly. No Docker, no installs — just paste the URL into your AI client.">
+  <meta property="og:site_name" content="Awesome Remote MCP Servers">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Awesome Remote MCP Servers">
+  <meta name="twitter:description" content="Remote MCP servers. No setup required.">
+
+  <link rel="canonical" href="https://mcp.freemcp.space">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Awesome Remote MCP Servers",
+    "url": "https://mcp.freemcp.space",
+    "description": "A curated list of remote & hosted Model Context Protocol (MCP) servers — no local setup required",
+    "publisher": {
+      "@type": "Organization",
+      "name": "freemcp.space",
+      "url": "https://freemcp.space"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://mcp.freemcp.space?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --brand: #6366f1;
+      --brand-dim: rgba(99,102,241,0.1);
+      --bg: #f6f8fb;
+      --surface: #ffffff;
+      --surface-2: #f1f3f7;
+      --border: #e5e7eb;
+      --text: #111827;
+      --text-muted: #6b7280;
+      --text-label: #374151;
+      --radius: 10px;
+      --shadow: 0 1px 3px rgba(0,0,0,0.06),0 1px 2px rgba(0,0,0,0.04);
+      --shadow-md: 0 4px 16px rgba(0,0,0,0.09);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --surface: #161b22;
+        --surface-2: #21262d;
+        --border: #30363d;
+        --text: #e6edf3;
+        --text-muted: #8b949e;
+        --text-label: #b1bac4;
+        --brand: #818cf8;
+        --brand-dim: rgba(129,140,248,0.12);
+      }
+    }
+
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: var(--brand); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 1160px; margin: 0 auto; padding: 0 24px; }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      backdrop-filter: blur(12px);
+    }
+    .header-inner {
+      display: flex; align-items: center;
+      justify-content: space-between; height: 56px;
+    }
+    .logo {
+      display: flex; align-items: center; gap: 9px;
+      font-weight: 700; font-size: 14px;
+      color: var(--text); text-decoration: none;
+    }
+    .logo-icon {
+      width: 28px; height: 28px; border-radius: 7px;
+      background: var(--brand); display: flex;
+      align-items: center; justify-content: center;
+    }
+    .logo-icon svg { display: block; }
+    .logo-text { letter-spacing: -0.01em; }
+    .logo-sub { font-size: 11px; font-weight: 500; color: var(--text-muted); }
+    .header-nav {
+      display: flex; align-items: center; gap: 14px;
+    }
+    .header-nav a {
+      font-size: 13px; color: var(--text-muted);
+      text-decoration: none; transition: color 0.15s;
+    }
+    .header-nav a:hover { color: var(--text); }
+    .btn-primary {
+      background: var(--brand); color: #fff !important;
+      padding: 7px 14px; border-radius: 7px;
+      font-size: 13px; font-weight: 500;
+      text-decoration: none !important;
+      transition: opacity 0.15s; white-space: nowrap;
+    }
+    .btn-primary:hover { opacity: 0.85; }
+
+    /* ── Hero ── */
+    .hero { padding: 64px 0 48px; text-align: center; }
+    .eyebrow {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-size: 12px; font-weight: 600; letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--brand); background: var(--brand-dim);
+      padding: 4px 12px; border-radius: 20px; margin-bottom: 20px;
+    }
+    .hero h1 {
+      font-size: clamp(26px, 5vw, 46px); font-weight: 700;
+      line-height: 1.18; letter-spacing: -0.025em;
+      margin-bottom: 16px;
+    }
+    .hero p {
+      font-size: 16px; color: var(--text-muted);
+      max-width: 560px; margin: 0 auto 36px; line-height: 1.75;
+    }
+    .stats {
+      display: inline-flex; gap: 0;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 12px; box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    .stat {
+      padding: 14px 28px; text-align: center;
+      border-right: 1px solid var(--border);
+    }
+    .stat:last-child { border-right: none; }
+    .stat-value {
+      display: block; font-size: 22px; font-weight: 700;
+      line-height: 1.2; color: var(--text);
+    }
+    .stat-label {
+      font-size: 11px; color: var(--text-muted);
+      text-transform: uppercase; letter-spacing: 0.07em;
+    }
+
+    /* ── How to connect ── */
+    .connect-section { padding: 0 0 48px; }
+    .section-label {
+      font-size: 11px; font-weight: 700; letter-spacing: 0.1em;
+      text-transform: uppercase; color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .connect-cards {
+      display: grid; gap: 10px;
+      grid-template-columns: repeat(4, 1fr);
+    }
+    @media (max-width: 760px) {
+      .connect-cards { grid-template-columns: repeat(2, 1fr); }
+    }
+    .connect-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 14px 16px;
+    }
+    .connect-client { font-size: 13px; font-weight: 600; margin-bottom: 4px; }
+    .connect-hint { font-size: 11px; color: var(--text-muted); line-height: 1.4; }
+    .connect-hint code {
+      font-family: 'SFMono-Regular', Consolas, monospace;
+      background: var(--surface-2); padding: 1px 4px;
+      border-radius: 3px; font-size: 10px;
+    }
+
+    /* ── Filters ── */
+    .filters-section { padding: 0 0 28px; }
+    .search-wrap { position: relative; max-width: 440px; margin: 0 auto 18px; }
+    .search-icon {
+      position: absolute; left: 13px; top: 50%;
+      transform: translateY(-50%); color: var(--text-muted);
+      pointer-events: none;
+    }
+    .search-input {
+      width: 100%; padding: 10px 16px 10px 40px;
+      border: 1px solid var(--border); border-radius: 8px;
+      background: var(--surface); color: var(--text);
+      font-size: 14px; font-family: inherit;
+      outline: none; transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .search-input:focus {
+      border-color: var(--brand);
+      box-shadow: 0 0 0 3px var(--brand-dim);
+    }
+    .search-input::placeholder { color: var(--text-muted); }
+
+    .pills {
+      display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;
+    }
+    .pill {
+      padding: 5px 13px; border-radius: 20px; font-size: 12px;
+      font-weight: 500; border: 1px solid var(--border);
+      background: var(--surface); color: var(--text-muted);
+      cursor: pointer; transition: all 0.15s;
+      font-family: inherit;
+    }
+    .pill:hover {
+      border-color: var(--pill-color, var(--brand));
+      color: var(--pill-color, var(--brand));
+    }
+    .pill.active {
+      background: color-mix(in srgb, var(--pill-color, var(--brand)) 12%, transparent);
+      border-color: color-mix(in srgb, var(--pill-color, var(--brand)) 45%, transparent);
+      color: var(--pill-color, var(--brand));
+    }
+
+    /* ── Grid ── */
+    .servers-section { padding-bottom: 56px; }
+    .section-header {
+      display: flex; align-items: center;
+      justify-content: space-between; margin-bottom: 18px;
+    }
+    .section-title { font-size: 13px; font-weight: 600; color: var(--text-label); }
+    .count-label { font-size: 12px; color: var(--text-muted); }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+    @media (max-width: 900px) { .grid { grid-template-columns: repeat(2,1fr); } }
+    @media (max-width: 560px) { .grid { grid-template-columns: 1fr; } }
+
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 18px 20px;
+      display: flex; flex-direction: column; gap: 10px;
+      transition: box-shadow 0.15s, transform 0.15s, border-color 0.15s;
+    }
+    .card:hover {
+      box-shadow: var(--shadow-md);
+      transform: translateY(-1px);
+      border-color: color-mix(in srgb, var(--brand) 35%, var(--border));
+    }
+
+    .card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
+    .card-name { font-size: 14px; font-weight: 600; line-height: 1.35; }
+    .card-badges { display: flex; gap: 4px; flex-shrink: 0; flex-wrap: wrap; }
+    .badge {
+      font-size: 9px; font-weight: 700; padding: 2px 5px;
+      border-radius: 3px; letter-spacing: 0.04em; white-space: nowrap;
+    }
+    .badge-verified { background: #dbeafe; color: #1d4ed8; }
+    .badge-template { background: #ede9fe; color: #7c3aed; }
+    .badge-featured { background: #fef3c7; color: #b45309; }
+    @media (prefers-color-scheme: dark) {
+      .badge-verified { background: #172554; color: #93c5fd; }
+      .badge-template { background: #2e1065; color: #c4b5fd; }
+      .badge-featured { background: #451a03; color: #fde68a; }
+    }
+
+    .card-desc {
+      font-size: 12px; color: var(--text-muted); line-height: 1.55;
+      display: -webkit-box; -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical; overflow: hidden; flex: 1;
+    }
+
+    .card-footer { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .cat-badge {
+      display: inline-flex; align-items: center; gap: 4px;
+      font-size: 11px; font-weight: 500;
+      color: var(--cat-color, var(--text-muted));
+      background: color-mix(in srgb, var(--cat-color, #8b949e) 10%, transparent);
+      padding: 2px 7px; border-radius: 4px;
+    }
+    .cat-dot {
+      width: 5px; height: 5px; border-radius: 50%;
+      background: var(--cat-color, #8b949e); flex-shrink: 0;
+    }
+    .tag {
+      font-size: 11px; color: var(--text-muted);
+      background: var(--surface-2); padding: 2px 6px; border-radius: 4px;
+    }
+
+    .endpoint-row {
+      display: flex; align-items: center; gap: 6px;
+      background: var(--surface-2); border-radius: 6px;
+      padding: 7px 10px; cursor: pointer;
+      transition: background 0.12s;
+    }
+    .endpoint-row:hover { background: var(--border); }
+    .endpoint-url {
+      flex: 1; font-size: 10px;
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+      color: var(--text-muted); overflow: hidden;
+      text-overflow: ellipsis; white-space: nowrap;
+    }
+    .copy-btn {
+      font-size: 10px; font-weight: 500;
+      background: none; border: none; color: var(--text-muted);
+      cursor: pointer; padding: 0; flex-shrink: 0;
+      font-family: inherit; transition: color 0.12s;
+    }
+    .copy-btn:hover { color: var(--brand); }
+
+    /* ── Skeleton ── */
+    .skeleton {
+      background: linear-gradient(90deg,
+        var(--surface-2) 25%, var(--border) 50%, var(--surface-2) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite; border-radius: 4px;
+    }
+    @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+    .card-skeleton {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 18px 20px;
+      display: flex; flex-direction: column; gap: 10px;
+    }
+
+    /* ── Load more ── */
+    .load-more-wrap { text-align: center; padding: 24px 0 0; }
+    .btn-outline {
+      padding: 9px 22px; border: 1px solid var(--border);
+      border-radius: 8px; background: var(--surface); color: var(--text);
+      font-size: 13px; font-weight: 500; font-family: inherit;
+      cursor: pointer; transition: all 0.15s;
+    }
+    .btn-outline:hover { border-color: var(--brand); color: var(--brand); }
+
+    /* ── Notice ── */
+    .notice {
+      display: none;
+      background: var(--brand-dim); border: 1px solid color-mix(in srgb, var(--brand) 25%, transparent);
+      border-radius: 8px; padding: 11px 16px;
+      font-size: 13px; color: var(--text-muted);
+      text-align: center; margin-bottom: 18px;
+    }
+    .notice a { color: var(--brand); }
+
+    /* ── Empty ── */
+    .empty {
+      grid-column: 1 / -1; text-align: center; padding: 56px 24px;
+      color: var(--text-muted); font-size: 14px;
+    }
+    .empty a { color: var(--brand); }
+
+    /* ── CTA ── */
+    .cta-section {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 14px; padding: 52px 40px;
+      text-align: center; margin-bottom: 56px;
+    }
+    .cta-section h2 { font-size: 22px; font-weight: 700; margin-bottom: 10px; }
+    .cta-section p { color: var(--text-muted); font-size: 14px; margin-bottom: 24px; max-width: 480px; margin-left: auto; margin-right: auto; }
+    .cta-btns { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+    @media (max-width: 480px) { .cta-section { padding: 36px 24px; } }
+
+    /* ── Footer ── */
+    footer { border-top: 1px solid var(--border); padding: 24px 0; }
+    .footer-inner {
+      display: flex; align-items: center;
+      justify-content: space-between; gap: 16px; flex-wrap: wrap;
+    }
+    .footer-links { display: flex; gap: 18px; flex-wrap: wrap; }
+    .footer-links a { font-size: 12px; color: var(--text-muted); text-decoration: none; }
+    .footer-links a:hover { color: var(--text); }
+    .footer-right { font-size: 12px; color: var(--text-muted); }
+    .footer-right a { color: var(--text-muted); }
+
+    /* ── Toast ── */
+    .toast {
+      position: fixed; bottom: 24px; left: 50%;
+      transform: translateX(-50%) translateY(80px);
+      background: var(--text); color: var(--surface);
+      padding: 9px 20px; border-radius: 8px;
+      font-size: 13px; font-weight: 500;
+      pointer-events: none; z-index: 999;
+      transition: transform 0.22s cubic-bezier(0.16,1,0.3,1);
+    }
+    .toast.show { transform: translateX(-50%) translateY(0); }
+
+    @media (max-width: 480px) {
+      .header-nav .btn-primary { display: none; }
+      .stats { width: 100%; }
+      .stat { flex: 1; padding: 12px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container header-inner">
+    <a href="/" class="logo">
+      <div class="logo-icon">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+          <path d="M4 12h4l3-7 4 14 3-7h2" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div>
+        <div class="logo-text">awesome-remote-mcp</div>
+        <div class="logo-sub">curated list</div>
+      </div>
+    </a>
+    <nav class="header-nav">
+      <a href="https://github.com/Appnova-EU-OU/awesome-remote-mcp-servers">GitHub</a>
+      <a href="https://freemcp.space/explore">Browse All</a>
+      <a href="https://freemcp.space" class="btn-primary">Deploy yours →</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <div class="eyebrow">
+        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+        </svg>
+        Remote Only · Updated Daily
+      </div>
+      <h1>Remote MCP Servers<br>No setup. Just connect.</h1>
+      <p>A curated list of hosted Model Context Protocol servers. Connect Claude, Cursor, Windsurf or any MCP client with a single URL — no Docker, no npm, no config files.</p>
+      <div class="stats">
+        <div class="stat">
+          <span class="stat-value" id="stat-total">—</span>
+          <span class="stat-label">Servers</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="stat-live">—</span>
+          <span class="stat-label">Live</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value">13</span>
+          <span class="stat-label">Categories</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How to connect -->
+  <section class="connect-section">
+    <div class="container">
+      <div class="section-label">How to connect</div>
+      <div class="connect-cards">
+        <div class="connect-card">
+          <div class="connect-client">Claude Desktop</div>
+          <div class="connect-hint"><code>claude_desktop_config.json</code> → mcpServers → url</div>
+        </div>
+        <div class="connect-card">
+          <div class="connect-client">Cursor</div>
+          <div class="connect-hint">Settings → MCP → Add Server URL</div>
+        </div>
+        <div class="connect-card">
+          <div class="connect-client">Windsurf</div>
+          <div class="connect-hint">MCP Config → Remote → enter URL</div>
+        </div>
+        <div class="connect-card">
+          <div class="connect-client">Continue.dev</div>
+          <div class="connect-hint"><code>config.json</code> → mcpServers array</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filters -->
+  <section class="filters-section">
+    <div class="container">
+      <div class="search-wrap">
+        <svg class="search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="search" class="search-input" id="search" placeholder="Search servers…" autocomplete="off">
+      </div>
+      <div class="pills" id="pills"></div>
+    </div>
+  </section>
+
+  <!-- Server Grid -->
+  <section class="servers-section">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-title">Servers</span>
+        <span class="count-label" id="count-label"></span>
+      </div>
+      <div class="notice" id="notice">
+        Live data loads from <a href="https://freemcp.space">freemcp.space</a>.
+        Can't see servers? <a href="https://freemcp.space/explore">Browse the full catalog →</a>
+      </div>
+      <div class="grid" id="grid"></div>
+      <div class="load-more-wrap" id="load-more-wrap" style="display:none">
+        <button class="btn-outline" id="load-more-btn" onclick="loadMore()">Load more</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section>
+    <div class="container">
+      <div class="cta-section">
+        <h2>Want to host your own MCP server?</h2>
+        <p>Deploy from a Dockerfile or GitHub repo in seconds. Free tier includes 2 servers. No infrastructure to manage.</p>
+        <div class="cta-btns">
+          <a href="https://freemcp.space" class="btn-primary">Get started free →</a>
+          <a href="https://freemcp.space/explore" class="btn-outline" style="display:inline-block">Browse catalog</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="container footer-inner">
+    <div class="footer-links">
+      <a href="https://github.com/Appnova-EU-OU/awesome-remote-mcp-servers">GitHub</a>
+      <a href="https://freemcp.space/explore">All Servers</a>
+      <a href="https://modelcontextprotocol.io">MCP Spec</a>
+      <a href="https://github.com/punkpeye/awesome-mcp-servers">awesome-mcp-servers</a>
+    </div>
+    <div class="footer-right">
+      Maintained by <a href="https://freemcp.space">freemcp.space</a> &nbsp;·&nbsp; CC0
+    </div>
+  </div>
+</footer>
+
+<div class="toast" id="toast">Copied!</div>
+
+<script>
+const API = 'https://freemcp.space';
+const CAT_COLORS = {
+  ai:'#bc8cff', data:'#58a6ff', 'dev-tools':'#3fb950',
+  communication:'#d29922', monitoring:'#f0883e', security:'#f85149',
+  infrastructure:'#39d353', automation:'#e06c75', media:'#c678dd',
+  finance:'#e5c07b', productivity:'#56b6c2', research:'#61afef', other:'#8b949e'
+};
+const CAT_LABELS = {
+  ai:'AI', data:'Data', 'dev-tools':'Dev Tools',
+  communication:'Communication', monitoring:'Monitoring', security:'Security',
+  infrastructure:'Infrastructure', automation:'Automation', media:'Media',
+  finance:'Finance', productivity:'Productivity', research:'Research', other:'Other'
+};
+
+let state = { cat:'', q:'', page:1, total:0, hasNext:false, loading:false, servers:[], failed:false };
+
+// Build category pills
+function buildPills() {
+  const pills = document.getElementById('pills');
+  const all = [['','All','var(--brand)'], ...Object.entries(CAT_COLORS).map(([k,c]) => [k, CAT_LABELS[k], c])];
+  pills.innerHTML = all.map(([cat, label, color]) => `
+    <button class="pill${cat === '' ? ' active' : ''}"
+      style="--pill-color:${color}"
+      data-cat="${esc(cat)}"
+      onclick="setCategory('${esc(cat)}')">${label}</button>
+  `).join('');
+}
+
+function setCategory(cat) {
+  state.cat = cat;
+  document.querySelectorAll('.pill').forEach(p =>
+    p.classList.toggle('active', p.dataset.cat === cat));
+  load(true);
+}
+
+async function load(reset = false) {
+  if (state.loading) return;
+  if (reset) { state.page = 1; state.servers = []; }
+  state.loading = true;
+
+  if (state.page === 1) renderSkeletons(6);
+
+  const params = new URLSearchParams({ page: state.page, page_size: 12 });
+  if (state.cat) params.set('category', state.cat);
+  if (state.q) params.set('q', state.q);
+
+  try {
+    const r = await fetch(`${API}/api/explore/servers?${params}`, {
+      signal: AbortSignal.timeout(8000)
+    });
+    if (!r.ok) throw new Error(r.status);
+    const d = await r.json();
+
+    state.servers = reset ? (d.servers || []) : [...state.servers, ...(d.servers || [])];
+    state.total = d.total || 0;
+    state.hasNext = d.has_next || false;
+
+    if (state.page === 1 && !state.cat && !state.q) {
+      el('stat-total').textContent = d.total ?? '—';
+      el('stat-live').textContent = d.total_live ?? '—';
+    }
+    renderGrid();
+  } catch {
+    state.failed = true;
+    el('notice').style.display = 'block';
+    renderEmpty('Could not load servers. <a href="https://freemcp.space/explore">Browse on freemcp.space →</a>');
+  }
+
+  state.loading = false;
+}
+
+function loadMore() { state.page++; load(false); }
+
+function renderSkeletons(n) {
+  el('grid').innerHTML = Array.from({length:n}, () => `
+    <div class="card-skeleton">
+      <div class="skeleton" style="height:18px;width:55%"></div>
+      <div class="skeleton" style="height:32px;width:100%"></div>
+      <div class="skeleton" style="height:14px;width:35%"></div>
+      <div class="skeleton" style="height:30px;width:100%"></div>
+    </div>`).join('');
+}
+
+function renderGrid() {
+  const count = state.total;
+  el('count-label').textContent = count > 0 ? `${count} servers` : '';
+
+  if (!state.servers.length) {
+    renderEmpty(state.q || state.cat ? 'No servers found. <button class="btn-outline" onclick="clearFilters()" style="margin-top:12px;display:block;margin-left:auto;margin-right:auto">Clear filters</button>' : '');
+    el('load-more-wrap').style.display = 'none';
+    return;
+  }
+
+  el('grid').innerHTML = state.servers.map(renderCard).join('');
+  el('load-more-wrap').style.display = state.hasNext ? 'block' : 'none';
+}
+
+function renderCard(s) {
+  const color = CAT_COLORS[s.category] || '#8b949e';
+  const catLabel = CAT_LABELS[s.category] || 'other';
+  const ep = s.endpoint_url || '';
+  const epShort = ep.replace('https://freemcp.space/', '');
+
+  const badges = [
+    s.is_featured ? '<span class="badge badge-featured">FEATURED</span>' : '',
+    s.is_verified ? '<span class="badge badge-verified">VERIFIED</span>' : '',
+    s.is_template ? '<span class="badge badge-template">TEMPLATE</span>' : ''
+  ].filter(Boolean).join('');
+
+  const tags = (s.tags || []).slice(0, 3).map(t => `<span class="tag">${esc(t)}</span>`).join('');
+
+  const endpointRow = ep ? `
+    <div class="endpoint-row" onclick="copyURL('${esc(ep)}',this)" title="Click to copy">
+      <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+      </svg>
+      <span class="endpoint-url">${esc(epShort)}</span>
+      <button class="copy-btn">Copy</button>
+    </div>` : '';
+
+  return `<div class="card">
+    <div class="card-top">
+      <span class="card-name">${esc(s.name)}</span>
+      ${badges ? `<div class="card-badges">${badges}</div>` : ''}
+    </div>
+    ${s.description ? `<p class="card-desc">${esc(s.description)}</p>` : ''}
+    <div class="card-footer">
+      <span class="cat-badge" style="--cat-color:${color}">
+        <span class="cat-dot"></span>${catLabel}
+      </span>
+      ${tags}
+    </div>
+    ${endpointRow}
+  </div>`;
+}
+
+function renderEmpty(html) {
+  el('grid').innerHTML = `<div class="empty">${html}</div>`;
+}
+
+function clearFilters() {
+  state.q = ''; state.cat = '';
+  el('search').value = '';
+  document.querySelectorAll('.pill').forEach(p => p.classList.toggle('active', p.dataset.cat === ''));
+  load(true);
+}
+
+function copyURL(url, row) {
+  navigator.clipboard.writeText(url).then(() => {
+    showToast('Copied!');
+    const btn = row.querySelector('.copy-btn');
+    if (btn) { btn.textContent = '✓'; setTimeout(() => btn.textContent = 'Copy', 2000); }
+  });
+}
+
+function showToast(msg) {
+  const t = el('toast'); t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+function el(id) { return document.getElementById(id); }
+function esc(s) {
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+function debounce(fn, ms) { let t; return (...a) => { clearTimeout(t); t = setTimeout(()=>fn(...a), ms); }; }
+
+// Init
+buildPills();
+load(true);
+el('search').addEventListener('input', debounce(e => { state.q = e.target.value; load(true); }, 380));
+</script>
+
+</body>
+</html>
