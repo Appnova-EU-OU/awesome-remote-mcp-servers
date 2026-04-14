@@ -1,0 +1,86 @@
+name: Sync from freemcp.space
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # daily at 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch public servers from freemcp.space
+        id: fetch
+        run: |
+          curl -sf "https://freemcp.space/api/explore/servers?page_size=100&connector=false" \
+            -o servers.json || exit 0
+          echo "fetched=$(jq '.servers | length' servers.json)" >> "$GITHUB_OUTPUT"
+
+      - name: Update README with new servers
+        run: |
+          python3 << 'PYEOF'
+          import json, re, sys
+
+          try:
+              with open("servers.json") as f:
+                  data = json.load(f)
+          except Exception:
+              sys.exit(0)
+
+          servers = data.get("servers", [])
+          if not servers:
+              sys.exit(0)
+
+          entries = []
+          for s in servers:
+              name = s.get("name", "")
+              slug = s.get("slug", "")
+              username = s.get("username", "")
+              desc = s.get("description", "")
+              url = f"https://freemcp.space/{username}/{slug}"
+              if name and slug:
+                  entries.append(f"- [{name}]({url}) — {desc}")
+
+          if not entries:
+              sys.exit(0)
+
+          block = "\n".join(entries)
+          marker_start = "<!-- freemcp:start -->"
+          marker_end = "<!-- freemcp:end -->"
+          new_section = f"{marker_start}\n{block}\n{marker_end}"
+
+          with open("README.md") as f:
+              readme = f.read()
+
+          if marker_start in readme:
+              readme = re.sub(
+                  rf"{re.escape(marker_start)}.*?{re.escape(marker_end)}",
+                  new_section,
+                  readme,
+                  flags=re.DOTALL,
+              )
+          else:
+              readme += f"\n\n## Hosted on freemcp.space\n\n{new_section}\n"
+
+          with open("README.md", "w") as f:
+              f.write(readme)
+
+          print(f"Updated README with {len(entries)} entries")
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: sync server list from freemcp.space"
+            git push
+          fi
