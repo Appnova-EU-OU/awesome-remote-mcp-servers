@@ -1,0 +1,117 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/Appnova-EU-OU/awesome-remote-mcp-servers/schemas/server.schema.json",
+  "title": "MCP Server Registry Entry",
+  "description": "Schema for a single MCP server entry in the awesome-remote-mcp-servers registry.",
+  "type": "object",
+  "required": [
+    "name",
+    "description",
+    "git_url",
+    "author_github",
+    "category",
+    "tags",
+    "license",
+    "status"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100,
+      "description": "Human-readable name of the MCP server."
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 500,
+      "description": "Short description of what the server does."
+    },
+    "git_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://github\\.com/[^/]+/[^/]+/?$",
+      "description": "Canonical GitHub repository URL."
+    },
+    "npm_package": {
+      "type": "string",
+      "description": "Optional npm package name if the server is published to npm.",
+      "nullable": true
+    },
+    "homepage": {
+      "type": "string",
+      "format": "uri",
+      "description": "Optional homepage or documentation URL.",
+      "nullable": true
+    },
+    "author_github": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 39,
+      "pattern": "^[a-zA-Z0-9](?:[a-zA-Z0-9]|-(?=[a-zA-Z0-9])){0,38}$",
+      "description": "GitHub username or organization that owns the repository."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "ai-agents",
+        "databases",
+        "developer-tools",
+        "productivity",
+        "search",
+        "communication",
+        "cloud-infra",
+        "data-processing",
+        "security",
+        "media"
+      ],
+      "description": "Registry category."
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 30
+      },
+      "minItems": 1,
+      "maxItems": 10,
+      "uniqueItems": true
+    },
+    "env_keys": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["key", "kind", "description"],
+        "properties": {
+          "key": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 100,
+            "pattern": "^[A-Z_][A-Z0-9_]*$"
+          },
+          "kind": {
+            "type": "string",
+            "enum": ["required", "optional", "client"]
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          }
+        }
+      }
+    },
+    "license": {
+      "type": "string",
+      "minLength": 1,
+      "description": "SPDX license identifier or custom license name."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "archived"],
+      "description": "Whether the project is actively maintained or archived."
+    }
+  },
+  "additionalProperties": false
+}

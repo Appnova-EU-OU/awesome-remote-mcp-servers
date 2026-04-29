@@ -1,0 +1,17 @@
+{
+  "name": "Resend MCP Server",
+  "description": "Send transactional emails with Resend API, including attachments and batch sending.",
+  "git_url": "https://github.com/resend/resend-mcp-server",
+  "author_github": "resend",
+  "category": "communication",
+  "tags": ["email", "resend", "transactional", "api"],
+  "env_keys": [
+    {
+      "key": "RESEND_API_KEY",
+      "kind": "required",
+      "description": "Resend API key from https://resend.com."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

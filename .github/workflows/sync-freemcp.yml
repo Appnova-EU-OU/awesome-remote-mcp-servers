@@ -1,0 +1,67 @@
+name: Sync to freemcp.space
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "servers/**/*.json"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Gather manifests
+        id: gather
+        run: |
+          manifests=$(find servers -name '*.json' | sort | jq -s -R '[split("\n") | .[] | select(length > 0)]')
+          echo "count=$(echo "$manifests" | jq 'length')" >> "$GITHUB_OUTPUT"
+          {
+            echo 'payload<<JSONEOF'
+            echo '{"manifests":['
+            first=true
+            for f in $(find servers -name '*.json' | sort); do
+              if [ "$first" = true ]; then
+                first=false
+              else
+                echo ','
+              fi
+              cat "$f"
+            done
+            echo ']}'
+            echo 'JSONEOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Sync to freemcp.space
+        if: steps.gather.outputs.count != '0'
+        env:
+          FREEMCP_SYNC_URL: ${{ secrets.FREEMCP_SYNC_URL }}
+          FREEMCP_SYNC_SECRET: ${{ secrets.FREEMCP_SYNC_SECRET }}
+        run: |
+          if [ -z "$FREEMCP_SYNC_URL" ] || [ -z "$FREEMCP_SYNC_SECRET" ]; then
+            echo "❌ FREEMCP_SYNC_URL or FREEMCP_SYNC_SECRET not set"
+            exit 1
+          fi
+
+          body="${{ steps.gather.outputs.payload }}"
+          signature=$(echo -n "$body" | openssl dgst -sha256 -hmac "$FREEMCP_SYNC_SECRET" | sed 's/^.* //')
+
+          echo "Sending sync payload (${{ steps.gather.outputs.count }} manifests) ..."
+          http_code=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X POST "$FREEMCP_SYNC_URL" \
+            -H "Content-Type: application/json" \
+            -H "X-Signature: sha256=$signature" \
+            -d "$body" \
+            --max-time 60)
+
+          if [ "$http_code" != "200" ]; then
+            echo "❌ Sync failed with HTTP $http_code"
+            exit 1
+          fi
+          echo "✅ Sync completed successfully"

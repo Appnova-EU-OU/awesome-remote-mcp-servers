@@ -1,0 +1,83 @@
+name: Validate PR
+
+on:
+  pull_request:
+    paths:
+      - "servers/**/*.json"
+      - "schemas/**/*.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed server files
+        id: changed
+        run: |
+          changed=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- 'servers/**/*.json' | tr '\n' ' ')
+          echo "files=${changed}" >> "$GITHUB_OUTPUT"
+          echo "Changed files: ${changed}"
+
+      - name: Install check-jsonschema
+        if: steps.changed.outputs.files != ''
+        run: pip install check-jsonschema
+
+      - name: Validate JSON Schema
+        if: steps.changed.outputs.files != ''
+        run: |
+          for f in ${{ steps.changed.outputs.files }}; do
+            echo "Validating $f ..."
+            check-jsonschema --schemafile schemas/server.schema.json "$f"
+          done
+
+      - name: Validate git_url reachable
+        if: steps.changed.outputs.files != ''
+        run: |
+          exit_code=0
+          for f in ${{ steps.changed.outputs.files }}; do
+            url=$(jq -r '.git_url' "$f")
+            echo "Checking $url ..."
+            status=$(curl -s -o /dev/null -w "%{http_code}" -I -L --max-time 15 "$url" || true)
+            if [ "$status" != "200" ]; then
+              echo "❌ $f: git_url returned HTTP $status ($url)"
+              exit_code=1
+            else
+              echo "✅ $f: git_url reachable"
+            fi
+          done
+          exit $exit_code
+
+      - name: Validate author_github present
+        if: steps.changed.outputs.files != ''
+        run: |
+          exit_code=0
+          for f in ${{ steps.changed.outputs.files }}; do
+            author=$(jq -r '.author_github // empty' "$f")
+            if [ -z "$author" ]; then
+              echo "❌ $f: author_github is missing or empty"
+              exit_code=1
+            else
+              echo "✅ $f: author_github = $author"
+            fi
+          done
+          exit $exit_code
+
+      - name: Validate no duplicate git_url
+        if: steps.changed.outputs.files != ''
+        run: |
+          all_urls=$(find servers -name '*.json' -exec jq -r '.git_url' {} \; | sort)
+          dups=$(echo "$all_urls" | uniq -d)
+          if [ -n "$dups" ]; then
+            echo "❌ Duplicate git_url entries found:"
+            echo "$dups"
+            exit 1
+          else
+            echo "✅ No duplicate git_url entries"
+          fi

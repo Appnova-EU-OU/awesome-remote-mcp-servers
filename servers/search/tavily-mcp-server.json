@@ -1,0 +1,17 @@
+{
+  "name": "Tavily MCP Server",
+  "description": "AI-powered web search with structured results, source citations, and answer synthesis.",
+  "git_url": "https://github.com/tavily-ai/tavily-mcp",
+  "author_github": "tavily-ai",
+  "category": "search",
+  "tags": ["search", "web", "ai", "research", "citations"],
+  "env_keys": [
+    {
+      "key": "TAVILY_API_KEY",
+      "kind": "required",
+      "description": "Tavily API key from https://tavily.com."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

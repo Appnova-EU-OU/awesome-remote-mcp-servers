@@ -1,0 +1,22 @@
+{
+  "name": "Slack MCP Server",
+  "description": "Send messages, search channels, and manage conversations in Slack workspaces.",
+  "git_url": "https://github.com/modelcontextprotocol/servers",
+  "author_github": "modelcontextprotocol",
+  "category": "productivity",
+  "tags": ["slack", "messaging", "workspace", "collaboration"],
+  "env_keys": [
+    {
+      "key": "SLACK_BOT_TOKEN",
+      "kind": "required",
+      "description": "Slack Bot User OAuth Token (xoxb-)."
+    },
+    {
+      "key": "SLACK_TEAM_ID",
+      "kind": "optional",
+      "description": "Optional Slack team ID to restrict scope."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

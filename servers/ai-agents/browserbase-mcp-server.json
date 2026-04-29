@@ -1,0 +1,22 @@
+{
+  "name": "Browserbase MCP Server",
+  "description": "Headless browser automation with screenshot capture, page interaction, and session management.",
+  "git_url": "https://github.com/browserbase/mcp-server-browserbase",
+  "author_github": "browserbase",
+  "category": "ai-agents",
+  "tags": ["browser", "automation", "screenshots", "playwright", "headless"],
+  "env_keys": [
+    {
+      "key": "BROWSERBASE_API_KEY",
+      "kind": "required",
+      "description": "Browserbase API key."
+    },
+    {
+      "key": "BROWSERBASE_PROJECT_ID",
+      "kind": "required",
+      "description": "Browserbase project ID."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

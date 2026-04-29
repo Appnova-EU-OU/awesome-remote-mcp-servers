@@ -1,0 +1,17 @@
+{
+  "name": "GitHub MCP Server",
+  "description": "Official GitHub MCP server for repository management, issue tracking, pull requests, and code search.",
+  "git_url": "https://github.com/modelcontextprotocol/servers",
+  "author_github": "modelcontextprotocol",
+  "category": "developer-tools",
+  "tags": ["github", "git", "repository", "issues", "pull-requests"],
+  "env_keys": [
+    {
+      "key": "GITHUB_PERSONAL_ACCESS_TOKEN",
+      "kind": "required",
+      "description": "GitHub personal access token with repo and read:user scopes."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

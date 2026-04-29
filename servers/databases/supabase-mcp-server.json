@@ -1,0 +1,22 @@
+{
+  "name": "Supabase MCP Server",
+  "description": "Manage Supabase databases, auth, storage, and edge functions via MCP.",
+  "git_url": "https://github.com/supabase-community/supabase-mcp-server",
+  "author_github": "supabase-community",
+  "category": "databases",
+  "tags": ["supabase", "postgresql", "database", "auth", "storage"],
+  "env_keys": [
+    {
+      "key": "SUPABASE_URL",
+      "kind": "required",
+      "description": "Supabase project URL."
+    },
+    {
+      "key": "SUPABASE_SERVICE_ROLE_KEY",
+      "kind": "required",
+      "description": "Supabase service_role key for admin-level access."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

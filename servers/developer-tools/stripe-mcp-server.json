@@ -1,0 +1,17 @@
+{
+  "name": "Stripe MCP Server",
+  "description": "Interact with Stripe APIs for payments, customers, subscriptions, and invoices.",
+  "git_url": "https://github.com/stripe/mcp-stripe",
+  "author_github": "stripe",
+  "category": "developer-tools",
+  "tags": ["stripe", "payments", "billing", "fintech", "api"],
+  "env_keys": [
+    {
+      "key": "STRIPE_SECRET_KEY",
+      "kind": "required",
+      "description": "Stripe secret API key (sk_live_ or sk_test_)."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

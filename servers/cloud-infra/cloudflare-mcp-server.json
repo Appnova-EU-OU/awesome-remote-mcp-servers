@@ -1,0 +1,22 @@
+{
+  "name": "Cloudflare MCP Server",
+  "description": "Manage Cloudflare DNS, Workers, Pages, and R2 from your AI assistant.",
+  "git_url": "https://github.com/cloudflare/mcp-server-cloudflare",
+  "author_github": "cloudflare",
+  "category": "cloud-infra",
+  "tags": ["cloudflare", "dns", "workers", "cdn", "r2"],
+  "env_keys": [
+    {
+      "key": "CLOUDFLARE_API_TOKEN",
+      "kind": "required",
+      "description": "Cloudflare API token with Zone:Read and DNS:Edit permissions."
+    },
+    {
+      "key": "CLOUDFLARE_ACCOUNT_ID",
+      "kind": "optional",
+      "description": "Cloudflare account ID for Workers and R2 operations."
+    }
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
