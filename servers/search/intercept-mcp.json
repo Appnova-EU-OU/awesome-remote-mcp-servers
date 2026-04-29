@@ -1,0 +1,13 @@
+{
+  "name": "intercept-mcp",
+  "description": "Multi-tier fallback chain for fetching web content as clean markdown. Handles tweets, YouTube, arXiv, PDFs, Wikipedia, and GitHub repos with no API keys required.",
+  "git_url": "https://github.com/bighippoman/intercept-mcp",
+  "npm_package": "intercept-mcp",
+  "homepage": "https://github.com/bighippoman/intercept-mcp",
+  "author_github": "bighippoman",
+  "category": "search",
+  "tags": ["web-scraping", "markdown", "content-fetch", "no-api-key", "youtube", "arxiv"],
+  "env_keys": [],
+  "license": "MIT",
+  "status": "active"
+}
