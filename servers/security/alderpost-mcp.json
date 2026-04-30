@@ -1,0 +1,13 @@
+{
+  "name": "alderpost-mcp",
+  "description": "8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.",
+  "git_url": "https://github.com/8randonpickart5/alderpost-mcp",
+  "npm_package": "alderpost-mcp",
+  "homepage": "https://www.alderpost.co",
+  "author_github": "8randonpickart5",
+  "category": "security",
+  "tags": ["security", "threat-intel", "domain-security", "compliance", "company-intel"],
+  "env_keys": [],
+  "license": "MIT",
+  "status": "active"
+}
