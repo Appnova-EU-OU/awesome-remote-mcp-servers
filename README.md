@@ -91,6 +91,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [Mcp Obsidian](https://freemcp.space/wardenduckteam/mcp-obsidian) — MCP server to interact with Obsidian via the Local REST API community plugin.
 - [AgentReacher](https://freemcp.space/featured/agentreacher) — Connect your AI to social media. Open-source platform for AI agents.
 - [Remote Demo MCP](https://freemcp.space/featured/remote-demo-mcp) — A local MCP server that automates the deployment of static directories to remote hosts using rsync. It features support for interactive SSH authentication including MFA/OTP flows and provides tools to verify reachable URLs after deployment.
@@ -191,7 +192,6 @@ Lawmadi OS (법마디) is an AI-powered legal operating system designed for Kore
 - [Iconify-Icon](https://freemcp.space/featured/iconify-icon) — Provide access to Iconify&#x27;s MCP server with over 200,000 open-source vector ICONS, supporting icon set browsing, searching, and obtaining multi-framework usage examples.
 - [Meme MCP Server](https://freemcp.space/featured/meme-mcp) — A Model Context Protocol server for managing, searching, and retrieving local meme images. It automatically hosts memes via a built-in HTTP server to ensure images can be displayed within chat applications.
 - [ClickUp MCP Server](https://freemcp.space/featured/mcp-server-clickup) — Securely connect AI assistants to ClickUp workspaces through OAuth 2.0, providing 72 tools across 12 categories for comprehensive task management, time tracking, project planning, and workspace operations without managing API keys.
-- [anki-mcp](https://freemcp.space/featured/anki-mcp-1) — An MCP server that enables Claude Code to create, manage, and search Anki flashcards directly from the terminal. It supports batch card creation, deck statistics retrieval, and synchronization with AnkiWeb for cross-platform review.
 <!-- freemcp:end -->
 
 ---
