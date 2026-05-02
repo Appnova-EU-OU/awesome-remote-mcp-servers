@@ -1,0 +1,22 @@
+{
+  "name": "Sentry MCP (Rust)",
+  "description": "MCP server for Sentry error tracking — list projects, query issues, retrieve events, and manage alerts via the Sentry REST API.",
+  "git_url": "https://github.com/utapyngo/sentry-mcp-rs",
+  "author_github": "utapyngo",
+  "category": "developer-tools",
+  "tags": ["rust", "sentry", "monitoring", "error-tracking", "observability"],
+  "env_keys": [
+    {
+      "key": "SENTRY_URL",
+      "kind": "required",
+      "description": "Sentry instance URL, e.g. https://sentry.io or self-hosted URL."
+    },
+    {
+      "key": "SENTRY_TOKEN",
+      "kind": "required",
+      "description": "Sentry auth token with read access to the desired organization."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

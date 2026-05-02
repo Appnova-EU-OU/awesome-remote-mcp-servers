@@ -1,0 +1,27 @@
+{
+  "name": "TestRail MCP Server",
+  "description": "MCP server for TestRail — manage test cases, runs, plans, and results via the TestRail REST API.",
+  "git_url": "https://github.com/maheshyaddanapudi/testrail-mcp-server",
+  "author_github": "maheshyaddanapudi",
+  "category": "developer-tools",
+  "tags": ["java", "testrail", "testing", "qa", "spring-ai"],
+  "env_keys": [
+    {
+      "key": "TESTRAIL_URL",
+      "kind": "required",
+      "description": "TestRail instance URL, e.g. https://yourorg.testrail.io"
+    },
+    {
+      "key": "TESTRAIL_USERNAME",
+      "kind": "required",
+      "description": "TestRail account email address."
+    },
+    {
+      "key": "TESTRAIL_API_KEY",
+      "kind": "required",
+      "description": "TestRail API key generated from your account settings."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

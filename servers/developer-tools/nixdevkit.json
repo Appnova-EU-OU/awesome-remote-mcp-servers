@@ -1,0 +1,10 @@
+{
+  "name": "NixDevKit MCP",
+  "description": "MCP server providing Nix development environment tools — search packages, query NixOS options, and manage flakes via natural language.",
+  "git_url": "https://github.com/dgdevel/nixdevkit",
+  "author_github": "dgdevel",
+  "category": "developer-tools",
+  "tags": ["go", "nix", "nixos", "devtools", "package-manager"],
+  "license": "MIT",
+  "status": "active"
+}

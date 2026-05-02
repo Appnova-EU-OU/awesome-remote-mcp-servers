@@ -1,0 +1,10 @@
+{
+  "name": "Spring Boot MCP Server",
+  "description": "Reference MCP server built with Spring AI and Spring Boot, demonstrating stdio transport integration patterns for Java applications.",
+  "git_url": "https://github.com/iyerajesh/mcp-server-spring-boot",
+  "author_github": "iyerajesh",
+  "category": "developer-tools",
+  "tags": ["java", "spring-boot", "spring-ai", "reference", "stdio"],
+  "license": "Apache-2.0",
+  "status": "active"
+}

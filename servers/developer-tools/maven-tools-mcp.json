@@ -1,0 +1,10 @@
+{
+  "name": "Maven Tools MCP",
+  "description": "MCP server exposing Maven build tools — run goals, manage dependencies, and inspect project structure via the Maven API.",
+  "git_url": "https://github.com/arvindand/maven-tools-mcp",
+  "author_github": "arvindand",
+  "category": "developer-tools",
+  "tags": ["java", "maven", "build-tools", "spring-ai", "jvm"],
+  "license": "MIT",
+  "status": "active"
+}

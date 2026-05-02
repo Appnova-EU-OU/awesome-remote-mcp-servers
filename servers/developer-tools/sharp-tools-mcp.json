@@ -1,0 +1,10 @@
+{
+  "name": "SharpTools MCP",
+  "description": "MCP server built with .NET — provides file system, shell execution, and developer utility tools for C# and .NET workflows.",
+  "git_url": "https://github.com/kooshi/SharpToolsMCP",
+  "author_github": "kooshi",
+  "category": "developer-tools",
+  "tags": ["csharp", "dotnet", "tools", "filesystem", "shell"],
+  "license": "MIT",
+  "status": "active"
+}

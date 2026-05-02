@@ -1,0 +1,10 @@
+{
+  "name": "Bundler MCP",
+  "description": "MCP server for Ruby Bundler — check gem dependencies, search RubyGems, resolve version conflicts, and manage Gemfile entries.",
+  "git_url": "https://github.com/subelsky/bundler_mcp",
+  "author_github": "subelsky",
+  "category": "developer-tools",
+  "tags": ["ruby", "bundler", "rubygems", "dependencies", "package-manager"],
+  "license": "MIT",
+  "status": "active"
+}

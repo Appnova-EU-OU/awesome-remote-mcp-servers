@@ -1,0 +1,10 @@
+{
+  "name": "Debug MCP",
+  "description": "MCP server for Ruby debugging — connect to a running debug session, set breakpoints, inspect variables, and step through code.",
+  "git_url": "https://github.com/rira100000000/debug-mcp",
+  "author_github": "rira100000000",
+  "category": "developer-tools",
+  "tags": ["ruby", "debug", "debugger", "breakpoints", "development"],
+  "license": "MIT",
+  "status": "active"
+}

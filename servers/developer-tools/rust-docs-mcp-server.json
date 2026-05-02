@@ -1,0 +1,17 @@
+{
+  "name": "Rust Docs MCP Server",
+  "description": "MCP server for searching Rust crate documentation using semantic vector search powered by OpenAI embeddings.",
+  "git_url": "https://github.com/Govcraft/rust-docs-mcp-server",
+  "author_github": "Govcraft",
+  "category": "developer-tools",
+  "tags": ["rust", "docs", "crates", "semantic-search", "openai"],
+  "env_keys": [
+    {
+      "key": "OPENAI_API_KEY",
+      "kind": "required",
+      "description": "OpenAI API key for generating documentation embeddings."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

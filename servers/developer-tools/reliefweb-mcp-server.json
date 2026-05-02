@@ -1,0 +1,10 @@
+{
+  "name": "ReliefWeb MCP Server",
+  "description": "MCP server for the ReliefWeb API — search humanitarian reports, jobs, disasters, and organizations from the UN OCHA data portal.",
+  "git_url": "https://github.com/elijah-tynes/reliefweb-mcp-server",
+  "author_github": "elijah-tynes",
+  "category": "developer-tools",
+  "tags": ["csharp", "dotnet", "reliefweb", "humanitarian", "search"],
+  "license": "MIT",
+  "status": "active"
+}

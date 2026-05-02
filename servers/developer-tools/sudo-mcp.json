@@ -1,0 +1,10 @@
+{
+  "name": "Sudo MCP",
+  "description": "MCP server that allows executing privileged commands via the OS native password dialog, without storing credentials.",
+  "git_url": "https://github.com/0xMH/sudo-mcp",
+  "author_github": "0xMH",
+  "category": "developer-tools",
+  "tags": ["go", "sudo", "privileged", "cli", "security"],
+  "license": "MIT",
+  "status": "active"
+}

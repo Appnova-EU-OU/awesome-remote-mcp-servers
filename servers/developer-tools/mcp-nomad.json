@@ -1,0 +1,22 @@
+{
+  "name": "Nomad MCP Server",
+  "description": "MCP server for HashiCorp Nomad — list, inspect, and manage jobs, allocations, and nodes via the Nomad API.",
+  "git_url": "https://github.com/kocierik/mcp-nomad",
+  "author_github": "kocierik",
+  "category": "cloud-infra",
+  "tags": ["go", "nomad", "hashicorp", "orchestration", "infrastructure"],
+  "env_keys": [
+    {
+      "key": "NOMAD_ADDR",
+      "kind": "required",
+      "description": "Nomad cluster address, e.g. http://localhost:4646"
+    },
+    {
+      "key": "NOMAD_TOKEN",
+      "kind": "optional",
+      "description": "Nomad ACL token for authenticated access."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

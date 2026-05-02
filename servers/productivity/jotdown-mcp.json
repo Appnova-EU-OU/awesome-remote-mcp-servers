@@ -1,0 +1,17 @@
+{
+  "name": "JotDown MCP",
+  "description": "MCP server for Notion integration — create, read, update, and search notes and databases in Notion via the Notion API.",
+  "git_url": "https://github.com/Harry-027/JotDown",
+  "author_github": "Harry-027",
+  "category": "productivity",
+  "tags": ["rust", "notion", "notes", "productivity", "database"],
+  "env_keys": [
+    {
+      "key": "NOTION_API_KEY",
+      "kind": "required",
+      "description": "Notion integration secret key from https://www.notion.so/my-integrations"
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}

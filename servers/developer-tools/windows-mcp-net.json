@@ -1,0 +1,10 @@
+{
+  "name": "Windows MCP .NET",
+  "description": "MCP server for Windows automation — control applications, manage windows, and interact with the Windows shell via .NET and the ModelContextProtocol SDK.",
+  "git_url": "https://github.com/shuyu-labs/Windows-MCP.Net",
+  "author_github": "shuyu-labs",
+  "category": "developer-tools",
+  "tags": ["csharp", "dotnet", "windows", "automation", "desktop"],
+  "license": "MIT",
+  "status": "active"
+}

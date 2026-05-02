@@ -1,0 +1,10 @@
+{
+  "name": "Gem Docs MCP Server",
+  "description": "MCP server for Ruby gem documentation — look up classes, methods, and documentation for any installed or remote RubyGems package.",
+  "git_url": "https://github.com/alaexeyshustov/gem-docs-mcp-server",
+  "author_github": "alaexeyshustov",
+  "category": "developer-tools",
+  "tags": ["ruby", "rubygems", "docs", "gem", "documentation"],
+  "license": "MIT",
+  "status": "active"
+}
