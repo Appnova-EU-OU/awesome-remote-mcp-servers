@@ -91,6 +91,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-2) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
+- [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp-server) — AI-powered web search with structured results, source citations, and answer synthesis.
+- [Spring Boot MCP Server](https://freemcp.space/featured/spring-boot-mcp-server) — Reference MCP server built with Spring AI and Spring Boot, demonstrating stdio transport integration patterns for Java applications.
+- [Browserbase MCP Server](https://freemcp.space/featured/browserbase-mcp-server) — Headless browser automation with screenshot capture, page interaction, and session management.
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [Mcp Obsidian](https://freemcp.space/wardenduckteam/mcp-obsidian) — MCP server to interact with Obsidian via the Local REST API community plugin.
 - [AgentReacher](https://freemcp.space/featured/agentreacher) — Connect your AI to social media. Open-source platform for AI agents.
@@ -188,10 +192,6 @@ Lawmadi OS (법마디) is an AI-powered legal operating system designed for Kore
 - [Tessie MCP Extension](https://freemcp.space/featured/tessie-mcp) — Enables Claude Desktop to access Tesla vehicle data through the Tessie API. Users can query their car&#x27;s location, battery level, mileage, driving history, and charging status using natural language.
 - [companylens-mcp](https://freemcp.space/featured/companylens-mcp) — CompanyLens MCP gives your AI assistant access to real corporate data from official government sources. No web scraping, no hallucinations — verified data from SEC EDGAR, UK Companies House, OpenSanctions, and USAspending.gov.
 - [Email MCP Server](https://freemcp.space/featured/mcp-email) — An HTTP/SSE wrapper for the IMAP MCP server that enables users to read, search, and send emails across multiple accounts and providers. It supports secure AES-256 encryption and provides remote access through Claude Web using SSE transport.
-- [BlazeSQL MCP Server](https://freemcp.space/featured/blaze-sql-mcp-server) — A Model Context Protocol server that enables AI clients to interact with BlazeSQL&#x27;s Natural Language Query API, allowing natural language queries against SQL databases.
-- [Iconify-Icon](https://freemcp.space/featured/iconify-icon) — Provide access to Iconify&#x27;s MCP server with over 200,000 open-source vector ICONS, supporting icon set browsing, searching, and obtaining multi-framework usage examples.
-- [Meme MCP Server](https://freemcp.space/featured/meme-mcp) — A Model Context Protocol server for managing, searching, and retrieving local meme images. It automatically hosts memes via a built-in HTTP server to ensure images can be displayed within chat applications.
-- [ClickUp MCP Server](https://freemcp.space/featured/mcp-server-clickup) — Securely connect AI assistants to ClickUp workspaces through OAuth 2.0, providing 72 tools across 12 categories for comprehensive task management, time tracking, project planning, and workspace operations without managing API keys.
 <!-- freemcp:end -->
 
 ---
