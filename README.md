@@ -91,12 +91,12 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Appnova App Store Connect Mcp](https://freemcp.space/wardenduckteam/appnova-app-store-co) — **App Store Connect MCP server for Claude** — manage your iOS app's entire lifecycle with natural language. No Docker, no Python, no pip. Just add 4 lines to your Claude config and start talking to your App Store.
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-2) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp-server) — AI-powered web search with structured results, source citations, and answer synthesis.
 - [Spring Boot MCP Server](https://freemcp.space/featured/spring-boot-mcp-server) — Reference MCP server built with Spring AI and Spring Boot, demonstrating stdio transport integration patterns for Java applications.
 - [Browserbase MCP Server](https://freemcp.space/featured/browserbase-mcp-server) — Headless browser automation with screenshot capture, page interaction, and session management.
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
-- [Mcp Obsidian](https://freemcp.space/wardenduckteam/mcp-obsidian) — MCP server to interact with Obsidian via the Local REST API community plugin.
 - [AgentReacher](https://freemcp.space/featured/agentreacher) — Connect your AI to social media. Open-source platform for AI agents.
 - [Remote Demo MCP](https://freemcp.space/featured/remote-demo-mcp) — A local MCP server that automates the deployment of static directories to remote hosts using rsync. It features support for interactive SSH authentication including MFA/OTP flows and provides tools to verify reachable URLs after deployment.
 - [Terros MCP Server](https://freemcp.space/featured/mcp-11) — Enables interaction with the Terros platform&#x27;s User API to manage and retrieve user profiles. Users can fetch authenticated account details, list users with filters, and lookup specific user information by ID.
