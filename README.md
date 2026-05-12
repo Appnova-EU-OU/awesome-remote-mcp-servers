@@ -91,6 +91,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Appnova App Store Connect Mcp](https://freemcp.space/bizzatibrahim/appnova-app-store-co) — **App Store Connect MCP server for Claude** — manage your iOS app's entire lifecycle with natural language. No Docker, no Python, no pip. Just add 4 lines to your Claude config and start talking to your App Store.
 - [Appnova App Store Connect Mcp](https://freemcp.space/wardenduckteam/appnova-app-store-co) — **App Store Connect MCP server for Claude** — manage your iOS app's entire lifecycle with natural language. No Docker, no Python, no pip. Just add 4 lines to your Claude config and start talking to your App Store.
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-2) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp-server) — AI-powered web search with structured results, source citations, and answer synthesis.
@@ -191,7 +192,6 @@ Lawmadi OS (법마디) is an AI-powered legal operating system designed for Kore
 - [FeedMob MCP Server](https://freemcp.space/featured/femini-tokyo-mcp) — Enables AI assistants to access the FeedMob Assistant Internal API for managing clients, partners, campaigns, and mobile apps. It provides comprehensive tools for retrieving performance metrics, playbooks, and organizational data through the Model Context Protocol.
 - [Tessie MCP Extension](https://freemcp.space/featured/tessie-mcp) — Enables Claude Desktop to access Tesla vehicle data through the Tessie API. Users can query their car&#x27;s location, battery level, mileage, driving history, and charging status using natural language.
 - [companylens-mcp](https://freemcp.space/featured/companylens-mcp) — CompanyLens MCP gives your AI assistant access to real corporate data from official government sources. No web scraping, no hallucinations — verified data from SEC EDGAR, UK Companies House, OpenSanctions, and USAspending.gov.
-- [Email MCP Server](https://freemcp.space/featured/mcp-email) — An HTTP/SSE wrapper for the IMAP MCP server that enables users to read, search, and send emails across multiple accounts and providers. It supports secure AES-256 encryption and provides remote access through Claude Web using SSE transport.
 <!-- freemcp:end -->
 
 ---
