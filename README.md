@@ -91,17 +91,23 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
-- [Appnova App Store Connect Mcp](https://freemcp.space/bizzatibrahim/appnova-app-store-co) — **App Store Connect MCP server for Claude** — manage your iOS app's entire lifecycle with natural language. No Docker, no Python, no pip. Just add 4 lines to your Claude config and start talking to your App Store.
+- [MCP BigQuery](https://freemcp.space/bizzatibrahim/mcp-bigquery) — Read-only BigQuery integration — query your Google BigQuery datasets from AI assistants
+- [MCP Postgres](https://freemcp.space/bizzatibrahim/mcp-postgres) — All-in-one PostgreSQL MCP server — query, performance tuning, health checks, and index optimization
+- [MCP MongoDB](https://freemcp.space/bizzatibrahim/mcp-mongodb) — MongoDB database integration with full CRUD, aggregation, and schema inspection via MCP
+- [MCP SQLite Explorer](https://freemcp.space/bizzatibrahim/mcp-sqlite-explorer) — Safe read-only access to SQLite databases with query validation and schema inspection
+- [MCP DuckDB](https://freemcp.space/bizzatibrahim/mcp-duckdb) — DuckDB database integration — run analytical SQL queries directly from your AI assistant
+- [OpenAPI MCP](https://freemcp.space/featured/openapi-mcp) — Interact with any REST API using its OpenAPI spec via MCP
+- [Pixeltable MCP](https://freemcp.space/featured/pixeltable-mcp) — Pixeltable AI data infrastructure via MCP
+- [MCP Tinybird](https://freemcp.space/featured/mcp-tinybird) — Tinybird analytics workspace via MCP
+- [Airtable MCP](https://freemcp.space/featured/airtable-mcp) — Airtable database integration via MCP
+- [TickTick MCP](https://freemcp.space/featured/ticktick-mcp) — TickTick task management via MCP
+- [MCP ClickHouse](https://freemcp.space/featured/mcp-clickhouse) — ClickHouse database integration via MCP
+- [MCP OpenAI](https://freemcp.space/featured/mcp-openai) — OpenAI API via MCP — chat completions, embeddings, images
+- [MCP Playwright](https://freemcp.space/featured/mcp-playwright) — Browser automation via Playwright MCP
+- [MCP YouTube](https://freemcp.space/featured/mcp-youtube) — YouTube video search and information via MCP
 - [Appnova App Store Connect Mcp](https://freemcp.space/wardenduckteam/appnova-app-store-co) — **App Store Connect MCP server for Claude** — manage your iOS app's entire lifecycle with natural language. No Docker, no Python, no pip. Just add 4 lines to your Claude config and start talking to your App Store.
-- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-2) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
-- [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp-server) — AI-powered web search with structured results, source citations, and answer synthesis.
-- [Spring Boot MCP Server](https://freemcp.space/featured/spring-boot-mcp-server) — Reference MCP server built with Spring AI and Spring Boot, demonstrating stdio transport integration patterns for Java applications.
-- [Browserbase MCP Server](https://freemcp.space/featured/browserbase-mcp-server) — Headless browser automation with screenshot capture, page interaction, and session management.
-- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
-- [AgentReacher](https://freemcp.space/featured/agentreacher) — Connect your AI to social media. Open-source platform for AI agents.
 - [Remote Demo MCP](https://freemcp.space/featured/remote-demo-mcp) — A local MCP server that automates the deployment of static directories to remote hosts using rsync. It features support for interactive SSH authentication including MFA/OTP flows and provides tools to verify reachable URLs after deployment.
 - [Terros MCP Server](https://freemcp.space/featured/mcp-11) — Enables interaction with the Terros platform&#x27;s User API to manage and retrieve user profiles. Users can fetch authenticated account details, list users with filters, and lookup specific user information by ID.
-- [OpenAPI to Model Context Protocol (MCP)](https://freemcp.space/featured/openapi-mcp) — A proxy server that bridges AI agents and external APIs by dynamically translating OpenAPI specifications into standardized MCP tools, enabling seamless interaction without custom integration code.
 - [MediaSage](https://freemcp.space/featured/mediasage) — Tracks movies, books, and TV shows with ratings and preferences, providing intelligent cross-media recommendations. Automatically fetches metadata from OMDB, Google Books, and TMDB to help manage watchlists and analyze viewing patterns.
 - [Remote MCP Server (Authless)](https://freemcp.space/featured/remote-mcp-server-5) — A template for deploying an unauthenticated remote MCP server on Cloudflare Workers. Enables easy deployment and connection from MCP clients like Claude Desktop or Cloudflare AI Playground without requiring authentication.
 - [monarch-mcp-server](https://freemcp.space/featured/monarch-mcp-server) — MCP Server for Monarch Money, utilizing an unofficial api.
@@ -186,12 +192,6 @@ Lawmadi OS (법마디) is an AI-powered legal operating system designed for Kore
 - [@rotifer/mcp-server](https://freemcp.space/featured/rotifer-mcp-server) — Self-evolving AI Agent framework — search, compare, and install Genes ranked by Arena fitness via MCP
 - [Laraguard MCP](https://freemcp.space/featured/laraguard-mcp) — A security audit server for Laravel projects that performs static code analysis, dependency CVE checks, and configuration audits. It enables developers to detect vulnerabilities like SQL injection and XSS while providing active attack simulations directly within MCP-compatible IDEs.
 - [Scrivener MCP Server](https://freemcp.space/featured/scrivener-mcp) — Enables AI assistants to read, write, organize, search, and compile Scrivener writing projects. Supports manuscript editing, document management, consistency checking, and PDF export for writers using Scrivener 3.
-- [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp) — This server enables AI systems to integrate with Tavily&#x27;s search and data extraction tools, providing real-time web information access and domain-specific searches.
-- [Kali Linux Security Tools MCP Server](https://freemcp.space/featured/kali-linux-mcp) — Provides access to 30+ Kali Linux penetration testing tools including Nmap, SQLmap, Metasploit, and others for authorized security testing, vulnerability scanning, and network reconnaissance through Claude Desktop.
-- [Twitter/X MCP Server](https://freemcp.space/featured/twitter-mcp) — Enables AI agents to interact with Twitter/X through Playwright browser automation without requiring an official API key. It provides tools for posting content, searching tweets, reading feeds, and managing social interactions like follows and likes.
-- [FeedMob MCP Server](https://freemcp.space/featured/femini-tokyo-mcp) — Enables AI assistants to access the FeedMob Assistant Internal API for managing clients, partners, campaigns, and mobile apps. It provides comprehensive tools for retrieving performance metrics, playbooks, and organizational data through the Model Context Protocol.
-- [Tessie MCP Extension](https://freemcp.space/featured/tessie-mcp) — Enables Claude Desktop to access Tesla vehicle data through the Tessie API. Users can query their car&#x27;s location, battery level, mileage, driving history, and charging status using natural language.
-- [companylens-mcp](https://freemcp.space/featured/companylens-mcp) — CompanyLens MCP gives your AI assistant access to real corporate data from official government sources. No web scraping, no hallucinations — verified data from SEC EDGAR, UK Companies House, OpenSanctions, and USAspending.gov.
 <!-- freemcp:end -->
 
 ---
