@@ -91,6 +91,17 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Gje Unofficial Forti](https://freemcp.space/templates/gje-unofficial-forti) — MCP server: unofficial-fortimonitor-mcp-server
+- [Hovsteder/powersun-tron-mcp](https://freemcp.space/templates/hov-powersun-tron-mc) — PowerSun Tron MCP server
+- [Kzino/vorim-mcp-server](https://freemcp.space/templates/kzi-vorim-mcp-server) — Vorim MCP server for security
+- [HubLensOfficial/mcp-server](https://freemcp.space/templates/hub-mcp-server) — HubLens MCP server
+- [ClaudeCodeNavi/claudecodenavi-mcp](https://freemcp.space/templates/claudecodenavi-mcp) — Claude Code knowledge platform & marketplace MCP server. Search and share snippets, prompts, Q&A solutions, error fixes, and MCP server configurations from the ClaudeCodeNavi community.
+- [shibley/apistatuscheck-mcp-server](https://freemcp.space/templates/apistatuscheck-mcp-s) — Check real-time operational status of 114+ cloud services and APIs (AWS, GitHub, Stripe, OpenAI, Vercel, etc.) directly from AI assistants. Published on npm.
+- [liveblocks-mcp](https://freemcp.space/templates/liveblocks-mcp) — Liveblocks rooms and storage management via MCP
+- [s2-stream-mcp](https://freemcp.space/templates/s2-stream-mcp) — Official MCP server for S2.dev serverless stream platform
+- [chatterboxio-mcp](https://freemcp.space/templates/chatterboxio-mcp) — MCP server for ChatterBox.io — AI agents in online meetings
+- [getsentry/sentry-mcp](https://freemcp.space/templates/sentry-mcp) — Sentry.io integration for error tracking and performance monitoring
+- [Xuanwo/mcp-server-opendal](https://freemcp.space/templates/mcp-server-opendal) — Access any storage with Apache OpenDAL™
 - [pab1it0/adx-mcp-server](https://freemcp.space/featured/adx-mcp-server) — Query and analyze Azure Data Explorer databases
 - [SureScaleAI/openai-gpt-image-mcp](https://freemcp.space/templates/openai-gpt-image-mcp) — OpenAI GPT image generation/editing MCP server.
 - [particlefuture/MCPDiscovery](https://freemcp.space/featured/1mcpserver) — MCP of MCPs. Automatic discovery and configure MCP servers on your local machine.
@@ -180,17 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [arvindand/maven-tools-mcp](https://freemcp.space/templates/maven-tools-mcp) — Universal Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill). Features bulk operations, version comparison, stability filtering, dependency age analysis, release patterns, and Context7 integration for upgrade guidance.
 - [GeiserX/atlassian-browser-mcp](https://freemcp.space/featured/atlassian-browser-mc) — Browser-backed MCP wrapper for mcp-atlassian with Playwright SSO auth. Enables AI tools to access Atlassian Server/Data Center instances behind corporate SSO (Okta, SAML, ADFS) where API tokens are not available.
 - [aparajithn/agent-utils-mcp](https://freemcp.space/featured/agent-utils-mcp) — Swiss-army-knife utility server for AI agents. 18 tools including JSON validation, base64, hashing, UUID generation, regex testing, markdown conversion, datetime conversion, cron parsing, CSV/JSON conversion, JWT decoding, and more. Streamable HTTP MCP + REST API with x402 micropayments.
-- [AaronVick/ECHO_RIFT_MCP](https://freemcp.space/templates/echo-rift-mcp) — MCP server for EchoRift infrastructure primitives (BlockWire, CronSynth, Switchboard, Arbiter). Makes EchoRift's agent infrastructure callable as MCP tools so any MCP client can treat EchoRift like a native capability layer.
-- [3KniGHtcZ/codebeamer-mcp](https://freemcp.space/featured/codebeamer-mcp) — Codebeamer ALM integration for managing work items, trackers, and projects. Provides 17 tools for reading and writing items, associations, references, comments, and risk management data via Codebeamer REST API v3.
-- [rashidazarang/airtable-mcp](https://freemcp.space/templates/airtable-mcp) — Connect AI tools directly to Airtable. Query, create, update, and delete records using natural language. Features include base management, table operations, schema manipulation, record filtering, and data migration through a standardized MCP interface.
-- [Zacccck/Claude-MCP-Read-Email-Attachments](https://freemcp.space/featured/claude-mcp-read-emai) — Remote HTTP MCP server that reads Outlook email attachments via Microsoft Graph. Parses PDF, Word (with embedded image extraction for multimodal analysis), Excel, and text files in-memory and returns structured content directly to Claude.
-- [qq418716640/botbell-mcp](https://freemcp.space/featured/botbell-mcp) — Send push notifications to iPhone, iPad, and Mac from AI assistants. Two-way messaging — users reply in the BotBell app, AI reads and continues. Supports action buttons, Markdown, and multi-bot management via PAT.
-- [Py2755/aiogram-mcp](https://freemcp.space/featured/aiogram-mcp) — MCP server middleware for aiogram Telegram bots — 30 tools, 7 resources, 3 prompts covering messaging, rich media, moderation, interactive keyboards, real-time event streaming, rate limiting, permissions, and audit logging.
-- [madbonez/caldav-mcp](https://freemcp.space/featured/caldav-mcp) — Universal MCP server for CalDAV protocol integration. Works with any CalDAV-compatible calendar server including Yandex Calendar, Google Calendar (via CalDAV), Nextcloud, ownCloud, Apple iCloud, and others. Supports creating events with recurrence, categories, priority, attendees, reminders, searching events, and retrieving events by UID.
-- [asif-nvc/e2b-sandbox-mcp](https://freemcp.space/featured/e2b-sandbox-mcp) — Connect Claude Code with E2B cloud sandboxes — 29 tools for creating isolated Linux VMs, cloning repos, running commands, managing files, and performing git operations without touching the local machine.
-- [alexpota/cloudscope-mcp](https://freemcp.space/featured/cloudscope-mcp) — Azure cloud cost management — spending analysis, forecasts, anomaly detection, budgets, optimization recommendations, idle resource detection, tag-based cost allocation, and cross-subscription queries through natural language.
-- [aparajithn/agent-deploy-dashboard-mcp](https://freemcp.space/featured/agent-deploy-dashboa) — Unified deployment dashboard MCP server across Vercel, Render, Railway, and Fly.io. 9 tools for deploy status, logs, environment variables, rollback, and health checks across all platforms. Free tier with x402 micropayments.
-- [bch1212/agentfetch-mcp](https://freemcp.space/featured/agentfetch-mcp) — Token-budgeted web fetch for AI agents. Auto-routes between Trafilatura, Jina Reader, FireCrawl, and pypdf based on URL pattern. `estimate_tokens` before `fetch_url`, 6h Redis cache, server-side `max_tokens` truncation. Open source MCP server (MIT) plus hosted REST API at [agentfetch.dev](https://www.agentfetch.dev) — 500 free fetches/mo, no card.
 <!-- freemcp:end -->
 
 ---
