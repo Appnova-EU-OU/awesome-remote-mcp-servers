@@ -91,6 +91,11 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-2) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
+- [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp-server) — AI-powered web search with structured results, source citations, and answer synthesis.
+- [intercept-mcp](https://freemcp.space/featured/intercept-mcp) — Multi-tier fallback chain for fetching web content as clean markdown. Handles tweets, YouTube, arXiv, PDFs, Wikipedia, and GitHub repos with no API keys required.
+- [SharpTools MCP](https://freemcp.space/featured/sharptools-mcp) — MCP server built with .NET — provides file system, shell execution, and developer utility tools for C# and .NET workflows.
+- [Spring Boot MCP Server](https://freemcp.space/featured/spring-boot-mcp-server) — Reference MCP server built with Spring AI and Spring Boot, demonstrating stdio transport integration patterns for Java applications.
 - [Gje Unofficial Forti](https://freemcp.space/templates/gje-unofficial-forti) — MCP server: unofficial-fortimonitor-mcp-server
 - [Hovsteder/powersun-tron-mcp](https://freemcp.space/templates/hov-powersun-tron-mc) — PowerSun Tron MCP server
 - [Kzino/vorim-mcp-server](https://freemcp.space/templates/kzi-vorim-mcp-server) — Vorim MCP server for security
@@ -186,11 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [agentlux/agentlux-mcp](https://freemcp.space/featured/agentlux-mcp) — Agent marketplace and services MCP server for AgentLux. Browse marketplace items, manage agent identity, creator workflows, service hires, social flows, and Base/x402 commerce through 33 tools. Install via `npx -y @agentlux/mcp-server`.
 - [VikrantSingh01/adaptive-cards-mcp](https://freemcp.space/featured/adaptive-cards-mcp) — AI-powered Adaptive Card generation for Teams, Outlook, Copilot, and ChatGPT. 9 MCP tools for generating, validating, optimizing, templating, and transforming cards with accessibility scoring and host compatibility checks.
 - [Quantum3-Labs/ARBuilder](https://freemcp.space/featured/arbuilder) — AI-powered code generator for the Arbitrum ecosystem. 19 MCP tools for Stylus smart contracts, SDK bridging, full-stack dApps, and Orbit chain deployment, backed by RAG-based retrieval over Arbitrum documentation.
-- [Chunkydotdev/bldbl-mcp](https://freemcp.space/featured/bldbl-mcp) — Official MCP server for Buildable AI-powered development platform [bldbl.dev](https://bldbl.dev). Enables AI assistants to manage tasks, track progress, get project context, and collaborate with humans on software projects.
-- [augmnt/augments-mcp-server](https://freemcp.space/featured/augments-mcp-server) — Transform Claude Code with intelligent, real-time access to 90+ framework documentation sources. Get accurate, up-to-date code generation that follows current best practices for React, Next.js, Laravel, FastAPI, Tailwind CSS, and more.
-- [arvindand/maven-tools-mcp](https://freemcp.space/templates/maven-tools-mcp) — Universal Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill). Features bulk operations, version comparison, stability filtering, dependency age analysis, release patterns, and Context7 integration for upgrade guidance.
-- [GeiserX/atlassian-browser-mcp](https://freemcp.space/featured/atlassian-browser-mc) — Browser-backed MCP wrapper for mcp-atlassian with Playwright SSO auth. Enables AI tools to access Atlassian Server/Data Center instances behind corporate SSO (Okta, SAML, ADFS) where API tokens are not available.
-- [aparajithn/agent-utils-mcp](https://freemcp.space/featured/agent-utils-mcp) — Swiss-army-knife utility server for AI agents. 18 tools including JSON validation, base64, hashing, UUID generation, regex testing, markdown conversion, datetime conversion, cron parsing, CSV/JSON conversion, JWT decoding, and more. Streamable HTTP MCP + REST API with x402 micropayments.
 <!-- freemcp:end -->
 
 ---
