@@ -31,13 +31,17 @@ jobs:
           payload=$(find servers -name '*.json' | sort | xargs jq -s '{"servers": .}')
           count=$(echo "$payload" | jq '.servers | length')
 
-          signature=$(printf '%s' "$payload" | openssl dgst -sha256 -hmac "$FREEMCP_SYNC_SECRET" | sed 's/^.* //')
+          # HMAC over timestamp.payload — matches backend replay-protection (5min window)
+          timestamp=$(date +%s)
+          msg="${timestamp}.${payload}"
+          signature=$(printf '%s' "$msg" | openssl dgst -sha256 -hmac "$FREEMCP_SYNC_SECRET" | sed 's/^.* //')
 
-          echo "Sending sync payload ($count manifests) ..."
+          echo "Sending sync payload ($count manifests, ts=$timestamp) ..."
           http_code=$(curl -s -o /tmp/sync_response.json -w "%{http_code}" \
             -X POST "$FREEMCP_SYNC_URL" \
             -H "Content-Type: application/json" \
             -H "x-registry-signature: sha256=$signature" \
+            -H "x-timestamp: $timestamp" \
             -d "$payload" \
             --max-time 60)
 
