@@ -1,14 +1,14 @@
 {
   "name": "mcp-server-ollama-bridge",
-  "git_url": "https://github.com/jaspertvdm/mcp-server-ollama-bridge",
   "description": "MCP Server - Bridge to local Ollama LLM. Part of HumoticaOS/SymbAIon ecosystem.",
+  "git_url": "https://github.com/jaspertvdm/mcp-server-ollama-bridge",
+  "author_github": "jaspertvdm",
   "category": "ai-agents",
   "tags": [
     "ollama",
     "bridge",
     "localllm"
   ],
-  "author_github": "jaspertvdm",
   "license": "MIT",
-  "freemcp_url": "https://freemcp.space/featured/mcp-server-ollama-br"
+  "status": "active"
 }
