@@ -91,6 +91,9 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-4) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
+- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-3) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
+- [appnova-app-store-connect-mcp](https://freemcp.space/featured/appnova-app-store-co) — App Store Connect MCP server — analytics, reviews, metadata, subscriptions, IAPs, TestFlight, bundle ID capabilities
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-2) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp-server) — AI-powered web search with structured results, source citations, and answer synthesis.
 - [intercept-mcp](https://freemcp.space/featured/intercept-mcp) — Multi-tier fallback chain for fetching web content as clean markdown. Handles tweets, YouTube, arXiv, PDFs, Wikipedia, and GitHub repos with no API keys required.
@@ -188,9 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [@arbitova/mcp-server](https://freemcp.space/featured/arbitova) — Non-custodial on-chain escrow + AI dispute arbitration for agent-to-agent USDC payments on Base. Seven tools covering the full `EscrowV1` contract surface: create escrow, mark delivered with on-chain content hash, confirm or dispute, arbiter resolves with signed verdict, cancel/escalate on timeout. `npx @arbitova/mcp-server`
 - [ONE8943/ai-furniture-hub](https://freemcp.space/featured/ai-furniture-hub) — Japan-focused furniture & home product hub for AI agents. 15 tools for mm-precision search across 300+ products and 31 categories, curated sets (bundles, room presets, influencer picks), dimension-compatible replacement finder with fit_score, AI visibility diagnosis, Rakuten live API, and OpenAPI 3.1 schema. Install via `npx ai-furniture-hub`.
 - [OFODevelopment/cerebrochain-mcp-server](https://freemcp.space/featured/cerebrochain-mcp-ser) — Supply chain & logistics intelligence — rate shopping across 85+ carriers, inventory management, order tracking, fleet logistics, and AI-powered demand forecasting. 20 tools and 3 resources for warehouse and supply chain operations.
-- [agentlux/agentlux-mcp](https://freemcp.space/featured/agentlux-mcp) — Agent marketplace and services MCP server for AgentLux. Browse marketplace items, manage agent identity, creator workflows, service hires, social flows, and Base/x402 commerce through 33 tools. Install via `npx -y @agentlux/mcp-server`.
-- [VikrantSingh01/adaptive-cards-mcp](https://freemcp.space/featured/adaptive-cards-mcp) — AI-powered Adaptive Card generation for Teams, Outlook, Copilot, and ChatGPT. 9 MCP tools for generating, validating, optimizing, templating, and transforming cards with accessibility scoring and host compatibility checks.
-- [Quantum3-Labs/ARBuilder](https://freemcp.space/featured/arbuilder) — AI-powered code generator for the Arbitrum ecosystem. 19 MCP tools for Stylus smart contracts, SDK bridging, full-stack dApps, and Orbit chain deployment, backed by RAG-based retrieval over Arbitrum documentation.
 <!-- freemcp:end -->
 
 ---
