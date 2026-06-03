@@ -1,0 +1,16 @@
+{
+  "name": "appnova-app-store-connect-mcp",
+  "description": "App Store Connect MCP server — analytics, reviews, metadata, subscriptions, IAPs, TestFlight, bundle ID capabilities",
+  "git_url": "https://github.com/alperduzgun/appnova-app-store-connect-mcp",
+  "author_github": "alperduzgun",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "ios",
+    "appstore",
+    "apple",
+    "analytics"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
