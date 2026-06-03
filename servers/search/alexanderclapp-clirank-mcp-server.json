@@ -1,0 +1,14 @@
+{
+  "name": "clirank-mcp-server",
+  "git_url": "https://github.com/alexanderclapp/clirank-mcp-server",
+  "description": "MCP server for CLIRank - search, compare, and get docs for 420+ APIs ranked by AI-agent friendliness",
+  "category": "search",
+  "tags": [
+    "clirank",
+    "search",
+    "compare"
+  ],
+  "author_github": "alexanderclapp",
+  "license": "MIT",
+  "freemcp_url": "https://freemcp.space/featured/clirank-mcp-server-2"
+}
