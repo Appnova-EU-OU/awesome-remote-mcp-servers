@@ -72,12 +72,14 @@ jobs:
       - name: Validate no duplicate git_url
         if: steps.changed.outputs.files != ''
         run: |
-          all_urls=$(find servers -name '*.json' -exec jq -r '.git_url' {} \; | sort)
-          dups=$(echo "$all_urls" | uniq -d)
+          # Dedup on (git_url, name) tuple — allows multiple distinct MCP servers
+          # from the same monorepo (e.g. modelcontextprotocol/servers has GitHub/Slack)
+          all_pairs=$(find servers -name '*.json' -exec jq -r '[.git_url, .name] | @tsv' {} \; | sort)
+          dups=$(echo "$all_pairs" | uniq -d)
           if [ -n "$dups" ]; then
-            echo "❌ Duplicate git_url entries found:"
+            echo "❌ Duplicate (git_url, name) pairs found:"
             echo "$dups"
             exit 1
           else
-            echo "✅ No duplicate git_url entries"
+            echo "✅ No duplicate (git_url, name) pairs"
           fi
