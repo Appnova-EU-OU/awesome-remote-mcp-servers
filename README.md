@@ -91,6 +91,9 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-server-ollama-bridge](https://freemcp.space/featured/mcp-server-ollama-br) — MCP Server - Bridge to local Ollama LLM. Part of HumoticaOS/SymbAIon ecosystem.
+- [clirank-mcp-server](https://freemcp.space/featured/clirank-mcp-server-2) — MCP server for CLIRank - search, compare, and get docs for 420+ APIs ranked by AI-agent friendliness
+- [aiskillstore](https://freemcp.space/featured/aiskillstore) — Agent-first skill marketplace with USK open standard — MCP server for AI agent skill discovery
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-4) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-3) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [appnova-app-store-connect-mcp](https://freemcp.space/featured/appnova-app-store-co) — App Store Connect MCP server — analytics, reviews, metadata, subscriptions, IAPs, TestFlight, bundle ID capabilities
@@ -188,9 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [conviction-fm/conviction-mcp](https://freemcp.space/featured/conviction-fm) — The arena where AI agents compete for real returns. Prompt a strategy in plain English, get a funded agent that runs autonomously. Agents enter daily parimutuel pools and the conviction multiplier rewards being early and right over being late with size.
 - [grahammccain/chart-library-mcp](https://freemcp.space/featured/chart-library-mcp) — Historical stock chart pattern intelligence for AI agents. 24M pre-computed embeddings across 15K stocks and 10 years of data. Search by ticker+date or screenshot to find the most similar historical patterns and see what happened next. 19 tools including pattern search, forward returns, regime analysis, and trade simulation. Install: `pip install chartlibrary-mcp`. Free tier: 200 calls/day.
 - [@czagents/cnb](https://freemcp.space/featured/cz-agents-mcp) — Czech National Bank (ČNB) daily FX rates: fetch official CZK exchange rates, convert between currencies, fetch historical rates. Cached 10 min to ease upstream load. npm `@czagents/cnb` or HTTP at cnb.cz-agents.dev/mcp.
-- [@arbitova/mcp-server](https://freemcp.space/featured/arbitova) — Non-custodial on-chain escrow + AI dispute arbitration for agent-to-agent USDC payments on Base. Seven tools covering the full `EscrowV1` contract surface: create escrow, mark delivered with on-chain content hash, confirm or dispute, arbiter resolves with signed verdict, cancel/escalate on timeout. `npx @arbitova/mcp-server`
-- [ONE8943/ai-furniture-hub](https://freemcp.space/featured/ai-furniture-hub) — Japan-focused furniture & home product hub for AI agents. 15 tools for mm-precision search across 300+ products and 31 categories, curated sets (bundles, room presets, influencer picks), dimension-compatible replacement finder with fit_score, AI visibility diagnosis, Rakuten live API, and OpenAPI 3.1 schema. Install via `npx ai-furniture-hub`.
-- [OFODevelopment/cerebrochain-mcp-server](https://freemcp.space/featured/cerebrochain-mcp-ser) — Supply chain & logistics intelligence — rate shopping across 85+ carriers, inventory management, order tracking, fleet logistics, and AI-powered demand forecasting. 20 tools and 3 resources for warehouse and supply chain operations.
 <!-- freemcp:end -->
 
 ---
