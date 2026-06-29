@@ -1,0 +1,13 @@
+{
+  "name": "Smoke Test MCP Server",
+  "description": "Live smoke test for the freemcp-bot GitHub App registry sync pipeline.",
+  "git_url": "https://github.com/Appnova-EU-OU/smoke-test-mcp",
+  "author_github": "icaglar",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "smoke-test"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
