@@ -1,0 +1,17 @@
+{
+  "name": "scotia1973-bot/api-hub",
+  "description": "🧠 Memory Vault — Persistent agent memory for MCP. 46 tools: agent_memory, memory_search, 45 utilities, 300+ REST. Free + .99/mo Pro.",
+  "git_url": "https://github.com/scotia1973-bot/api-hub",
+  "author_github": "scotia1973-bot",
+  "category": "search",
+  "tags": [
+    "agentmemory",
+    "aiagents",
+    "cloudflare",
+    "developertools",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://api.gadgethumans.com"
+}
