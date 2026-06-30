@@ -1,0 +1,16 @@
+{
+  "name": "ariekogan/ateam-mcp",
+  "description": "ADAS MCP Server — build, validate, and deploy multi-agent solutions from any AI environment",
+  "git_url": "https://github.com/ariekogan/ateam-mcp",
+  "author_github": "ariekogan",
+  "category": "ai-agents",
+  "tags": [
+    "adas",
+    "aiagents",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
