@@ -1,0 +1,16 @@
+{
+  "name": "RipperMercs/tensorfeed",
+  "description": "Real-time AI industry intelligence MCP server. 6 free tools (AI news, service status, model pricing, today summary, agent activity, MCP registry snapshot) and 13 paid premium tools (routing recommendations, news search, history series, cost projection, provider deep-dive, model comparison, agents directory, what's new brief, MCP registry series, webhook watches with daily/weekly digest tier). Pay-per-call in USDC on Base mainnet, no accounts. `npx -y @tensorfeed/mcp-server`",
+  "git_url": "https://github.com/RipperMercs/tensorfeed",
+  "author_github": "RipperMercs",
+  "category": "search",
+  "tags": [
+    "rippermercs",
+    "tensorfeed",
+    "real",
+    "time",
+    "industry"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
