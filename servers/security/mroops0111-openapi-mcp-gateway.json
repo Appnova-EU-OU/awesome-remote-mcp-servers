@@ -1,0 +1,16 @@
+{
+  "name": "mroops0111/openapi-mcp-gateway",
+  "description": "Turn any OpenAPI/Swagger API into an MCP server with real OAuth2 support. Multi-spec gateway for Claude, Cursor, Codex, and other MCP clients.",
+  "git_url": "https://github.com/mroops0111/openapi-mcp-gateway",
+  "author_github": "mroops0111",
+  "category": "security",
+  "tags": [
+    "agent",
+    "claude",
+    "fastapi",
+    "gateway",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
