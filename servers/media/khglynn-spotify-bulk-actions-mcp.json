@@ -1,0 +1,16 @@
+{
+  "name": "khglynn/spotify-bulk-actions-mcp",
+  "description": "MCP server for bulk Spotify operations - batch playlist creation with confidence scoring, library exports, CSV imports, and human-in-the-loop review for uncertain matches",
+  "git_url": "https://github.com/khglynn/spotify-bulk-actions-mcp",
+  "author_github": "khglynn",
+  "category": "media",
+  "tags": [
+    "claude",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "playlist"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
