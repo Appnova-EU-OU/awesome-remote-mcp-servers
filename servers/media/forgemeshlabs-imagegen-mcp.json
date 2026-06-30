@@ -1,0 +1,16 @@
+{
+  "name": "forgemeshlabs/imagegen-mcp",
+  "description": "MCP server for AI image generation, background removal, and upscaling with optional x402 USDC payments on Base mainnet.",
+  "git_url": "https://github.com/forgemeshlabs/imagegen-mcp",
+  "author_github": "forgemeshlabs",
+  "category": "media",
+  "tags": [
+    "forgemeshlabs",
+    "imagegen",
+    "image",
+    "generation",
+    "background"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
