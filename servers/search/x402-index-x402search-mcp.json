@@ -1,0 +1,16 @@
+{
+  "name": "x402-index/x402search-mcp",
+  "description": "Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz",
+  "git_url": "https://github.com/x402-index/x402search-mcp",
+  "author_github": "x402-index",
+  "category": "search",
+  "tags": [
+    "index",
+    "search",
+    "enabled",
+    "apis",
+    "from"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
