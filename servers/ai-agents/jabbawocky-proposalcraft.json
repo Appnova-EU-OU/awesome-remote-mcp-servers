@@ -1,0 +1,17 @@
+{
+  "name": "jabbawocky/proposalcraft",
+  "description": "MCP server for freelancers — draft winning proposals in your voice from a client brief",
+  "git_url": "https://github.com/jabbawocky/proposalcraft",
+  "author_github": "jabbawocky",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "aitools",
+    "anthropic",
+    "businessdevelopment",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://jabbawocky.github.io/proposalcraft/"
+}
