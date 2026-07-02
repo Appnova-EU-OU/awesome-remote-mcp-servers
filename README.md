@@ -122,7 +122,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp-server) — AI-powered web search with structured results, source citations, and answer synthesis.
 - [intercept-mcp](https://freemcp.space/featured/intercept-mcp) — Multi-tier fallback chain for fetching web content as clean markdown. Handles tweets, YouTube, arXiv, PDFs, Wikipedia, and GitHub repos with no API keys required.
 - [JotDown MCP](https://freemcp.space/featured/jotdown-mcp) — MCP server for Notion integration — create, read, update, and search notes and databases in Notion via the Notion API.
+- [Sudo MCP](https://freemcp.space/featured/sudo-mcp) — MCP server that allows executing privileged commands via the OS native password dialog, without storing credentials.
 - [SharpTools MCP](https://freemcp.space/featured/sharptools-mcp) — MCP server built with .NET — provides file system, shell execution, and developer utility tools for C# and .NET workflows.
+- [Sentry MCP (Rust)](https://freemcp.space/featured/sentry-mcp-rust) — MCP server for Sentry error tracking — list projects, query issues, retrieve events, and manage alerts via the Sentry REST API.
+- [Rust Docs MCP Server](https://freemcp.space/featured/rust-docs-mcp-server) — MCP server for searching Rust crate documentation using semantic vector search powered by OpenAI embeddings.
 - [Spring Boot MCP Server](https://freemcp.space/featured/spring-boot-mcp-server) — Reference MCP server built with Spring AI and Spring Boot, demonstrating stdio transport integration patterns for Java applications.
 - [Bundler MCP](https://freemcp.space/featured/bundler-mcp) — MCP server for Ruby Bundler — check gem dependencies, search RubyGems, resolve version conflicts, and manage Gemfile entries.
 - [Gje Unofficial Forti](https://freemcp.space/templates/gje-unofficial-forti) — MCP server: unofficial-fortimonitor-mcp-server
@@ -188,9 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [hardik-id/azure-resource-graph-mcp-server](https://freemcp.space/featured/azure-resource-graph) — A Model Context Protocol server for querying and analyzing Azure resources at scale using Azure Resource Graph, enabling AI assistants to explore and monitor Azure infrastructure.
 - [elevy99927/devops-mcp-webui](https://freemcp.space/templates/devops-mcp-webui) — MCP Server for Kubernetes integrated with Open-WebUI, bridging the gap between DevOps and non-technical teams. Supports `kubectl` and `helm` operations through natural-language commands.
 - [softvoyagers/pageshot-api](https://freemcp.space/templates/pageshot-api) — Free webpage screenshot capture API with format, viewport, and dark mode options. No API key required.
-- [khalidsaidi/ragmap](https://freemcp.space/templates/ragmap) — MapRag: RAG-focused subregistry + MCP server to discover and route to retrieval-capable MCP servers using structured constraints and explainable ranking.
-- [K-Dense-AI/claude-skills-mcp](https://freemcp.space/templates/claude-skills-mcp) — Intelligent search capabilities to let every model and client use [Claude Agent Skills](https://www.anthropic.com/news/skills) like native.
-- [glenngillen/mcpmcp-server](https://freemcp.space/templates/mcpmcp-server) — A list of MCP servers so you can ask your client which servers you can use to improve your daily workflow.
 <!-- freemcp:end -->
 
 ---
