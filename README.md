@@ -91,6 +91,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [cinderwright-ai/cinderwright-api](https://freemcp.space/featured/cinderwright-ai-cind) — MCP server + x402 Discovery Hub. Search engine for the agent economy. 1450+ services indexed.
+- [AgentHotspot](https://freemcp.space/featured/agenthotspot) — 🔍 MCP server to search 6,000+ AI agent MCP connectors from AgentHotspot.com Marketplace
+- [espadaw/Agent47](https://freemcp.space/featured/espadaw-agent47) — Unified job search for AI agents. MCP server integrating x402, RentAHuman, Virtuals, and more into a single interface for finding work and comparing prices across the agent economy.
+- [Aganium/agenium](https://freemcp.space/featured/aganium-agenium) — AGENIUM — DNS of the Agent Web. Identity, trust & discovery for AI agents. MCP-compatible. agent:// protocol with mTLS, trust scores & capability search.
 - [khglynn/spotify-bulk-actions-mcp](https://freemcp.space/featured/khglynn-spotify-bulk) — MCP server for bulk Spotify operations - batch playlist creation with confidence scoring, library exports, CSV imports, and human-in-the-loop review for uncertain matches
 - [delmas41/gradusnotation](https://freemcp.space/featured/delmas41-gradusnotat) — Open music notation MCP server for AI agents. Render JSON scores to SVG, MusicXML, and MIDI. Sponsored by Gradus School of Music Composition.
 - [BluesPrince/thiri-mcp](https://freemcp.space/featured/bluesprince-thiri-mc) — Deterministic music-theory MCP server & API — chord analysis, Roman-numeral analysis, voicing & reharmonization for Claude & Cursor. Computed, not hallucinated. Hosted at mcp.thiri.ai · npx @bluesprincemedia/thiri-mcp
@@ -187,10 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [VmLia/books-mcp-server](https://freemcp.space/featured/books-mcp-server) — This is an MCP server used for querying books, and it can be applied in common MCP clients, such as Cherry Studio.
 - [trilogy-group/aws-pricing-mcp](https://freemcp.space/featured/aws-pricing-mcp) — Get up-to-date EC2 pricing information with one call. Fast. Powered by a pre-parsed AWS pricing catalogue.
 - [newageflyfish-max/volthq](https://freemcp.space/templates/volthq) — Compute price oracle for AI agents. Compare inference pricing across 8 providers in real time with routing recommendations and spend tracking. One-command install: `npx volthq-mcp-server --setup`.
-- [jasonwilbur/cloud-cost-mcp](https://freemcp.space/featured/cloud-cost-mcp) — Multi-cloud pricing comparison across AWS, Azure, GCP, and OCI with 2,700+ instance types. Real-time pricing from public APIs, workload calculators, and migration savings estimator.
-- [hardik-id/azure-resource-graph-mcp-server](https://freemcp.space/featured/azure-resource-graph) — A Model Context Protocol server for querying and analyzing Azure resources at scale using Azure Resource Graph, enabling AI assistants to explore and monitor Azure infrastructure.
-- [elevy99927/devops-mcp-webui](https://freemcp.space/templates/devops-mcp-webui) — MCP Server for Kubernetes integrated with Open-WebUI, bridging the gap between DevOps and non-technical teams. Supports `kubectl` and `helm` operations through natural-language commands.
-- [softvoyagers/pageshot-api](https://freemcp.space/templates/pageshot-api) — Free webpage screenshot capture API with format, viewport, and dark mode options. No API key required.
 <!-- freemcp:end -->
 
 ---
