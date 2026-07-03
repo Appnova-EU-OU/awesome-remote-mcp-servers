@@ -1,0 +1,17 @@
+{
+  "name": "mgnirck/lecka-mcp",
+  "description": "Race nutrition planning for endurance athletes. Calculates carb, sodium and fluid targets for marathons, ultras, cycling and triathlons. Returns personalised Lecka product recommendations by race type, conditions and athlete weight.",
+  "git_url": "https://github.com/mgnirck/lecka-mcp",
+  "author_github": "mgnirck",
+  "category": "developer-tools",
+  "tags": [
+    "mgnirck",
+    "lecka",
+    "race",
+    "nutrition",
+    "planning"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://lecka-mcp.vercel.app"
+}
