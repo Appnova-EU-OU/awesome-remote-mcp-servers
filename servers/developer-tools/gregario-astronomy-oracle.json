@@ -1,0 +1,16 @@
+{
+  "name": "gregario/astronomy-oracle",
+  "description": "Celestial object catalog and observing session planner MCP server",
+  "git_url": "https://github.com/gregario/astronomy-oracle",
+  "author_github": "gregario",
+  "category": "developer-tools",
+  "tags": [
+    "gregario",
+    "astronomy",
+    "oracle",
+    "celestial",
+    "object"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
