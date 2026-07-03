@@ -1,0 +1,16 @@
+{
+  "name": "ejwhite7/brandkit-mcp",
+  "description": "Open-source MCP server that gives AI tools native access to your company's design system — drop in your brand files, connect to Claude or any LLM tool",
+  "git_url": "https://github.com/ejwhite7/brandkit-mcp",
+  "author_github": "ejwhite7",
+  "category": "security",
+  "tags": [
+    "brandkit",
+    "claude",
+    "designsystem",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
