@@ -1,0 +1,17 @@
+{
+  "name": "gavxm/ani-mcp",
+  "description": "MCP server for AniList with taste-aware recommendations, watch analytics, social tools, and full list management.",
+  "git_url": "https://github.com/gavxm/ani-mcp",
+  "author_github": "gavxm",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "anilist",
+    "anime",
+    "manga",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/ani-mcp"
+}
