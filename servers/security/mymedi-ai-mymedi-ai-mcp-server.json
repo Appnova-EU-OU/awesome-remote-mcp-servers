@@ -1,0 +1,17 @@
+{
+  "name": "MyMedi-AI/mymedi-ai-mcp-server",
+  "description": "Healthcare billing MCP server — 20 AI tools for ICD-10, CPT, HCPCS lookup (81,769 codes with RVU + OPPS pricing), prior auth prediction, claims validation, denial-risk scoring, and NPI/drug enrichment. 10 free credits, then x402 USDC or Stripe.",
+  "git_url": "https://github.com/MyMedi-AI/mymedi-ai-mcp-server",
+  "author_github": "MyMedi-AI",
+  "category": "security",
+  "tags": [
+    "mymedi",
+    "healthcare",
+    "billing",
+    "tools",
+    "icd"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mymedi-ai.com/bot-marketplace/"
+}
