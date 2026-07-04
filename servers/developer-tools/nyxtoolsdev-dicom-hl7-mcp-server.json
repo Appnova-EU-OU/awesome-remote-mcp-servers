@@ -1,0 +1,16 @@
+{
+  "name": "NyxToolsDev/dicom-hl7-mcp-server",
+  "description": "DICOM/HL7 healthcare interoperability MCP server for Claude",
+  "git_url": "https://github.com/NyxToolsDev/dicom-hl7-mcp-server",
+  "author_github": "NyxToolsDev",
+  "category": "developer-tools",
+  "tags": [
+    "claude",
+    "dicom",
+    "fhir",
+    "healthcare",
+    "hl7"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
