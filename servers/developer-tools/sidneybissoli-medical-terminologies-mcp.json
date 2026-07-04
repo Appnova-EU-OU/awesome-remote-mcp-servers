@@ -1,0 +1,16 @@
+{
+  "name": "SidneyBissoli/medical-terminologies-mcp",
+  "description": "MCP Server for global medical terminologies: ICD-11, SNOMED CT, LOINC, RxNorm, MeSH",
+  "git_url": "https://github.com/SidneyBissoli/medical-terminologies-mcp",
+  "author_github": "SidneyBissoli",
+  "category": "developer-tools",
+  "tags": [
+    "sidneybissoli",
+    "medical",
+    "terminologies",
+    "global",
+    "icd"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
