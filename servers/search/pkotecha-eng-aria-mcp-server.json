@@ -1,0 +1,16 @@
+{
+  "name": "pkotecha-eng/aria-mcp-server",
+  "description": "ARIA Clinical Research MCP Server — exposes PubMed, ClinicalTrials.gov & ISRCTN as MCP tools. Any Claude agent can search 35M+ biomedical papers and 400K+ clinical trials in real time.",
+  "git_url": "https://github.com/pkotecha-eng/aria-mcp-server",
+  "author_github": "pkotecha-eng",
+  "category": "search",
+  "tags": [
+    "pkotecha",
+    "eng",
+    "aria",
+    "clinical",
+    "research"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
