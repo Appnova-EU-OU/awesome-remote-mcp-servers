@@ -1,0 +1,16 @@
+{
+  "name": "thelongevityvault/decoder-3am-mcp",
+  "description": "Sleep disruption cause classifier MCP server from The Longevity Vault",
+  "git_url": "https://github.com/thelongevityvault/decoder-3am-mcp",
+  "author_github": "thelongevityvault",
+  "category": "security",
+  "tags": [
+    "thelongevityvault",
+    "decoder",
+    "sleep",
+    "disruption",
+    "cause"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
