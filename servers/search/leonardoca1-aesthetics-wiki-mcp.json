@@ -1,0 +1,16 @@
+{
+  "name": "leonardoca1/aesthetics-wiki-mcp",
+  "description": "MCP server for the Aesthetics Wiki (aesthetics.fandom.com) — search, read, and discover aesthetics from your LLM.",
+  "git_url": "https://github.com/leonardoca1/aesthetics-wiki-mcp",
+  "author_github": "leonardoca1",
+  "category": "search",
+  "tags": [
+    "aesthetics",
+    "claude",
+    "fandom",
+    "llmtools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
