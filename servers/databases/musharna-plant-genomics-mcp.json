@@ -1,0 +1,17 @@
+{
+  "name": "musharna/plant-genomics-mcp",
+  "description": "Plant genomics MCP server — 32 tools across 11 backends (Ensembl Plants, Phytozome, UniProt, Europe PMC, QuickGO, NCBI BLAST, Gramene, KEGG, STRING-DB, ATTED-II, BAR) + cross-source synthesis. stdio + Streamable-HTTP transports.",
+  "git_url": "https://github.com/musharna/plant-genomics-mcp",
+  "author_github": "musharna",
+  "category": "databases",
+  "tags": [
+    "bioinformatics",
+    "ensemblplants",
+    "genomics",
+    "kegg",
+    "llmtools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/plant-genomics-mcp/"
+}
