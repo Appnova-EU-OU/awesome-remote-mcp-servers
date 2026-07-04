@@ -1,0 +1,17 @@
+{
+  "name": "carlosahumada89/govrider-mcp-server",
+  "description": "GovRider MCP Server - Match your tech product or consulting service to thousands of live government tenders, RFPs, grants, and frameworks from 25+ official sources worldwide",
+  "git_url": "https://github.com/carlosahumada89/govrider-mcp-server",
+  "author_github": "carlosahumada89",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "government",
+    "govtech",
+    "grants",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.govrider.ai"
+}
