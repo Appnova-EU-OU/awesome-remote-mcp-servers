@@ -1,0 +1,16 @@
+{
+  "name": "BluesPrince/thiri-mcp",
+  "description": "Deterministic music-theory MCP server & API — chord analysis, Roman-numeral analysis, voicing & reharmonization for Claude & Cursor. Computed, not hallucinated. Hosted at mcp.thiri.ai · npx @bluesprincemedia/thiri-mcp",
+  "git_url": "https://github.com/BluesPrince/thiri-mcp",
+  "author_github": "BluesPrince",
+  "category": "media",
+  "tags": [
+    "aiagent",
+    "chordanalysis",
+    "chordprogression",
+    "chords",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
