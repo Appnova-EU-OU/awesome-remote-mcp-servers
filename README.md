@@ -91,6 +91,21 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [flowzap-xyz/flowzap-mcp](https://freemcp.space/featured/flowzap-xyz-flowzap) — MCP server for FlowZap - Create workflow diagrams via AI assistants
+- [leonardoca1/aesthetics-wiki-mcp](https://freemcp.space/featured/leonardoca1-aestheti) — MCP server for the Aesthetics Wiki (aesthetics.fandom.com) — search, read, and discover aesthetics from your LLM.
+- [drakonkat/wizzy-mcp-tmdb](https://freemcp.space/featured/drakonkat-wizzy-mcp) — The wizzy-mcp-tmdb project is an MCP (Model Context Protocol) server implemented in JavaScript that provides tools to search and retrieve information from The Movie Database (TMDB). It allows AI clients to access movie, TV show, and person data through a standardized protocol.
+- [albertnahas/icogenie-mcp](https://freemcp.space/featured/albertnahas-icogenie) — MCP server for IcoGenie - Enable AI agents to generate SVG icons programmatically
+- [khalidsaidi/ragmap](https://freemcp.space/featured/khalidsaidi-ragmap) — RAG MCP Registry Finder (RAGMap): subregistry API + MCP server + Firestore ingestion
+- [carlosahumada89/govrider-mcp-server](https://freemcp.space/featured/carlosahumada89-govr) — GovRider MCP Server - Match your tech product or consulting service to thousands of live government tenders, RFPs, grants, and frameworks from 25+ official sources worldwide
+- [SidneyBissoli/medical-terminologies-mcp](https://freemcp.space/featured/sidneybissoli-medica) — MCP Server for global medical terminologies: ICD-11, SNOMED CT, LOINC, RxNorm, MeSH
+- [NyxToolsDev/dicom-hl7-mcp-server](https://freemcp.space/featured/nyxtoolsdev-dicom-hl) — DICOM/HL7 healthcare interoperability MCP server for Claude
+- [aliafsahnoudeh/shahnameh-mcp-server](https://freemcp.space/featured/aliafsahnoudeh-shahn) — ام سی پی سرور برای شاهنامه
+- [PantelisGeorgiadis/dicomweb-mcp-server](https://freemcp.space/featured/pantelisgeorgiadis-d) — DICOMweb Model Context Protocol (MCP) server implementation
+- [pkotecha-eng/aria-mcp-server](https://freemcp.space/featured/pkotecha-eng-aria-mc) — ARIA Clinical Research MCP Server — exposes PubMed, ClinicalTrials.gov & ISRCTN as MCP tools. Any Claude agent can search 35M+ biomedical papers and 400K+ clinical trials in real time.
+- [thelongevityvault/decoder-3am-mcp](https://freemcp.space/featured/thelongevityvault-de) — Sleep disruption cause classifier MCP server from The Longevity Vault
+- [pubspro/pubmed-search](https://freemcp.space/featured/pubspro-pubmed-searc) — MCP server for PubMed search and literature summarization
+- [tatsuju/opdstar-nhi-mcp](https://freemcp.space/featured/tatsuju-opdstar-nhi) — Taiwan National Health Insurance (NHI) data for AI agents via Model Context Protocol. Powered by OPDSTAR (https://opdstar.com).
+- [musharna/plant-genomics-mcp](https://freemcp.space/featured/musharna-plant-genom) — Plant genomics MCP server — 32 tools across 11 backends (Ensembl Plants, Phytozome, UniProt, Europe PMC, QuickGO, NCBI BLAST, Gramene, KEGG, STRING-DB, ATTED-II, BAR) + cross-source synthesis. stdio + Streamable-HTTP transports.
 - [MastadoonPrime/sylex-search](https://freemcp.space/featured/mastadoonprime-sylex) — Universal search engine for AI agents. Discover products, services, and businesses across every category via MCP.
 - [jaspertvdm/mcp-server-gemini-bridge](https://freemcp.space/featured/jaspertvdm-mcp-serve-2) — MCP Server - Bridge to Google Gemini API. Part of HumoticaOS/SymbAIon ecosystem.
 - [rdanieli/tentra-mcp](https://freemcp.space/featured/rdanieli-tentra-mcp) — Tentra MCP — memory for AI coding agents. Persistent code graph + AI architecture diagrams. 32 MCP tools. Works in Cursor, Claude Code, Codex, Windsurf.
@@ -176,21 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [fr0gger/MCP_Security](https://freemcp.space/templates/mcp-security) — MCP server for querying the ORKL API. This server provides tools for fetching threat reports, analyzing threat actors, and retrieving intelligence sources.
 - [creatorrmode-lead/avp-sdk](https://freemcp.space/featured/avp-sdk) — Trust, identity (W3C DID), and EigenTrust reputation for AI agents. Attestations, disputes, sybil detection, IPFS audit anchoring.
 - [vinaybhosle/agentstamp](https://freemcp.space/featured/agentstamp) — Trust intelligence for AI agents — identity stamps, reputation scoring (0-100), registry, forensic audit trails, and A2A passports via x402 micropayments.
-- [agentgraph-co/agentgraph](https://freemcp.space/featured/agentgraph) — Trust verification and security scanning for AI agents. Checks security posture of third-party MCP servers and tools with signed attestations (Ed25519/JWS) before interaction.
-- [BrowseAI-HQ/BrowserAI-Dev](https://freemcp.space/featured/browserai-dev) — Evidence-backed web research for AI agents. Real-time search with cited claims, confidence scores, and compare mode (raw LLM vs evidence-backed). MCP server, REST API, and Python SDK.
-- [shibley/apistatuscheck-mcp-server](https://freemcp.space/featured/apistatuscheck-mcp-s) — Check real-time operational status of 114+ cloud services and APIs (AWS, GitHub, Stripe, OpenAI, Vercel, etc.) directly from AI assistants. Published on npm.
-- [gsmethells/preflight-mcp](https://freemcp.space/templates/preflight-mcp) — TrustPilot for APIs — independent reliability ratings for APIs and MCP servers, powered by synthetic probes and crowdsourced agent telemetry.
-- [ejcho623/agent-breadcrumbs](https://freemcp.space/featured/agent-breadcrumbs) — Unified agent work logging and observability across ChatGPT, Claude, Cursor, Codex, and OpenClaw with config-first schemas and pluggable sinks.
-- [alimuratkuslu/byok-observability-mcp](https://freemcp.space/featured/byok-observability-m) — Comprehensive MCP server for Grafana, Prometheus, Kafka UI, and Datadog with a secure "Bring Your Own Key" or BYOK model.
-- [var-gg/mcp](https://freemcp.space/templates/mcp-14) — Enforces team naming consistency for AI-generated code via Cursor MCP integration. [Guide ↗](https://var.gg)
-- [softvoyagers/qrmint-api](https://freemcp.space/templates/qrmint-api) — Free styled QR code generator API with custom colors, logos, frames, and batch generation. No API key required.
-- [softvoyagers/ogforge-api](https://freemcp.space/templates/ogforge-api) — Free Open Graph image generator API with themes, Lucide icons, and custom layouts. No API key required.
-- [sapientpants/sonarqube-mcp-server](https://freemcp.space/templates/sonarqube-mcp-server) — A Model Context Protocol (MCP) server that integrates with SonarQube to provide AI assistants with access to code quality metrics, issues, and quality gate statuses
-- [Pharaoh-so/pharaoh](https://freemcp.space/templates/pharaoh-mcp) — Hosted MCP server that parses TypeScript and Python codebases into Neo4j knowledge graphs for blast radius analysis, dead code detection, dependency tracing, and architectural context.
-- [optimaquantum/claude-critical-rules-mcp](https://freemcp.space/featured/claude-critical-rule) — Automatic enforcement of critical rules for Claude AI preventing 96 documented failure patterns. Provides compliance verification checklist and rules summary via MCP tools.
-- [Neo1228/spring-boot-starter-swagger-mcp](https://freemcp.space/templates/spring-boot-starter) — Turn your Spring Boot application into an MCP server instantly by reusing existing Swagger/OpenAPI documentation.
-- [MerabyLabs/promptarchitect-mcp](https://freemcp.space/templates/promptarchitect-mcp) — Workspace-aware prompt engineering. Refines, analyzes and generates prompts based on your project's tech stack, dependencies and context. Free to use.
-- [LumabyteCo/clarifyprompt-mcp](https://freemcp.space/featured/clarifyprompt-mcp) — MCP server for AI prompt optimization — transforms vague prompts into platform-optimized prompts for 58+ AI platforms across 7 categories (image, video, voice, music, code, chat, document).
 <!-- freemcp:end -->
 
 ---
