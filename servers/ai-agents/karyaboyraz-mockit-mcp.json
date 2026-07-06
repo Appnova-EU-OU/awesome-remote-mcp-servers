@@ -1,0 +1,17 @@
+{
+  "name": "karyaboyraz/mockit-mcp",
+  "description": "MCP server that turns text prompts into premium iOS mobile UI mockups (PNG + HTML). Powered by Claude (Opus 4.7) + Playwright. Two backends: local CLI or Anthropic API. MIT.",
+  "git_url": "https://github.com/karyaboyraz/mockit-mcp",
+  "author_github": "karyaboyraz",
+  "category": "ai-agents",
+  "tags": [
+    "aidesign",
+    "anthropic",
+    "claude",
+    "claudecode",
+    "ios"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/karyaboyraz/mockit-mcp#readme"
+}
