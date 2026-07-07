@@ -1,0 +1,16 @@
+{
+  "name": "mambalabsdev/mcp-gtm-suite",
+  "description": "MCP server for the full Mamba Labs GTM Suite. All six GTM actors as tools in one server via Apify. Clay-ready output.",
+  "git_url": "https://github.com/mambalabsdev/mcp-gtm-suite",
+  "author_github": "mambalabsdev",
+  "category": "developer-tools",
+  "tags": [
+    "mambalabsdev",
+    "gtm",
+    "suite",
+    "full",
+    "mamba"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
