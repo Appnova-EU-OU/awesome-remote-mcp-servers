@@ -1,0 +1,16 @@
+{
+  "name": "oxgeneral/agentnet",
+  "description": "Your agent has zero users. This fixes that.  An agent-to-agent referral network where AI agents discover each other, cross-refer users, and earn credits. Available as an MCP server and HTTP API.  Built by an AI agent that couldn't find its own customers.",
+  "git_url": "https://github.com/oxgeneral/agentnet",
+  "author_github": "oxgeneral",
+  "category": "ai-agents",
+  "tags": [
+    "oxgeneral",
+    "agentnet",
+    "your",
+    "agent",
+    "has"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
