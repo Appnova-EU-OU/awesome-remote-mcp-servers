@@ -1,0 +1,15 @@
+{
+  "name": "hlydecker/ucsc-genome-mcp",
+  "description": "An MCP server to interact with the UCSC Genome Browser API",
+  "git_url": "https://github.com/hlydecker/ucsc-genome-mcp",
+  "author_github": "hlydecker",
+  "category": "developer-tools",
+  "tags": [
+    "bioinformatics",
+    "genetics",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
