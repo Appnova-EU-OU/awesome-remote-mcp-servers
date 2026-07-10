@@ -1,0 +1,16 @@
+{
+  "name": "robhunter/agentdeals",
+  "description": "MCP server aggregating free tiers, startup credits & developer tool deals. 4 tools, 54 categories, 1,525+ offers.",
+  "git_url": "https://github.com/robhunter/agentdeals",
+  "author_github": "robhunter",
+  "category": "ai-agents",
+  "tags": [
+    "developertools",
+    "freetier",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
