@@ -1,0 +1,16 @@
+{
+  "name": "shunshi-ai/bazi-reader-mcp",
+  "description": "Give your AI agent the ability to read Chinese Bazi (八字) charts — an open-source MCP server 🔮",
+  "git_url": "https://github.com/shunshi-ai/bazi-reader-mcp",
+  "author_github": "shunshi-ai",
+  "category": "security",
+  "tags": [
+    "shunshi",
+    "bazi",
+    "reader",
+    "give",
+    "your"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
