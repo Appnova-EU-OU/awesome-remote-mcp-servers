@@ -91,6 +91,21 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Appnova App Store Connect Mcp](https://freemcp.space/icglr/appnova-app-store-co) — **App Store Connect MCP server for Claude** — manage your iOS app's entire lifecycle with natural language. No Docker, no Python, no pip. Just add 4 lines to your Claude config and start talking to your App Store.
+- [robhunter/agentdeals](https://freemcp.space/featured/robhunter-agentdeals) — MCP server aggregating free tiers, startup credits & developer tool deals. 4 tools, 54 categories, 1,525+ offers.
+- [Continuum-AI-Corp/orcarouter-mcp-server](https://freemcp.space/featured/continuum-ai-corp-or) — Official MCP server for OrcaRouter — the LLM gateway with auto-routing and fallback chains. Browse models and chat from Claude Desktop, Cursor, Windsurf, or any MCP client.
+- [Work90210/APIFold](https://freemcp.space/featured/work90210-apifold) — Turn any REST API into an MCP server. No code required.
+- [neptun2000/heor-agent-mcp](https://freemcp.space/featured/neptun2000-heor-agen) — HEOR (Health Economics and Outcomes Research) MCP server with 7 tools for literature search across 41 medical data sources (PubMed, NICE, CADTH, ICER, etc.), cost-effectiveness modeling (Markov/PartSA/PSA), and HTA dossier preparation for pharmaceutical and biotech teams.
+- [shunshi-ai/bazi-reader-mcp](https://freemcp.space/featured/shunshi-ai-bazi-read) — Give your AI agent the ability to read Chinese Bazi (八字) charts — an open-source MCP server 🔮
+- [gupta-kush/spotify-mcp](https://freemcp.space/featured/gupta-kush-spotify-m) — Control Spotify from Claude, Cursor, or any MCP client. 100+ tools for playback, playlists, discovery, and curation.
+- [AceDataCloud/MCPNanoBanana](https://freemcp.space/featured/acedatacloud-mcpnano) — MCP server for Nano Banana AI image generation and editing via Ace Data Cloud.
+- [hlydecker/ucsc-genome-mcp](https://freemcp.space/featured/hlydecker-ucsc-genom) — An MCP server to interact with the UCSC Genome Browser API
+- [erajasekar/ai-diagram-maker-mcp](https://freemcp.space/featured/erajasekar-ai-diagra) — MCP server for AI Diagram Maker — generate flowcharts, sequence diagrams, ERDs, system/network architecture, UML, mindmap, and workflow from natural language, code, ASCII, images, or Mermaid. Inline rendering using MCP Apps UI and editable diagram URLs. Requires API key.
+- [aparajithn/agent-scraper-mcp](https://freemcp.space/featured/aparajithn-agent-scr) — Web scraping MCP server for AI agents — screenshots, content extraction, structured scraping
+- [fulcradynamics/fulcra-context-mcp](https://freemcp.space/featured/fulcradynamics-fulcr) — MCP server for accessing personal health and biometric data including sleep stages, heart rate, HRV, glucose, workouts, calendar, and location via the Fulcra Life API with OAuth2 consent.
+- [Custodia-Admin/pagebolt-mcp](https://freemcp.space/featured/custodia-admin-pageb) — An MCP server to allow AI agents to interact with PageBolt to take screenshots, grab PDFs, and more.
+- [bch1212/agentfetch-mcp](https://freemcp.space/featured/bch1212-agentfetch-m) — MCP server for fetching web URLs with token estimation, caching, and intelligent routing. Built for AI agents.
+- [bgaze/snapstack-server](https://freemcp.space/featured/bgaze-snapstack-serv) — Local always-on server for SnapStack: receives browser captures and serves them to any MCP-capable LLM client over MCP (Streamable HTTP +   stdio). Listens on 127.0.0.1 only.
 - [flowzap-xyz/flowzap-mcp](https://freemcp.space/featured/flowzap-xyz-flowzap) — MCP server for FlowZap - Create workflow diagrams via AI assistants
 - [leonardoca1/aesthetics-wiki-mcp](https://freemcp.space/featured/leonardoca1-aestheti) — MCP server for the Aesthetics Wiki (aesthetics.fandom.com) — search, read, and discover aesthetics from your LLM.
 - [drakonkat/wizzy-mcp-tmdb](https://freemcp.space/featured/drakonkat-wizzy-mcp) — The wizzy-mcp-tmdb project is an MCP (Model Context Protocol) server implemented in JavaScript that provides tools to search and retrieve information from The Movie Database (TMDB). It allows AI clients to access movie, TV show, and person data through a standardized protocol.
@@ -176,21 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [getsentry/sentry-mcp](https://freemcp.space/templates/sentry-mcp) — Sentry.io integration for error tracking and performance monitoring
 - [Xuanwo/mcp-server-opendal](https://freemcp.space/templates/mcp-server-opendal) — Access any storage with Apache OpenDAL™
 - [pab1it0/adx-mcp-server](https://freemcp.space/featured/adx-mcp-server) — Query and analyze Azure Data Explorer databases
-- [SureScaleAI/openai-gpt-image-mcp](https://freemcp.space/templates/openai-gpt-image-mcp) — OpenAI GPT image generation/editing MCP server.
-- [particlefuture/MCPDiscovery](https://freemcp.space/featured/1mcpserver) — MCP of MCPs. Automatic discovery and configure MCP servers on your local machine.
-- [AgentHotspot](https://freemcp.space/featured/agenthotspot-mcp) — Search, integrate and monetize MCP connectors on the AgentHotspot MCP marketplace
-- [espadaw/Agent47](https://freemcp.space/featured/agent47) — Unified job aggregator for AI agents across 9+ platforms (x402, RentAHuman, Virtuals, etc).
-- [kaiyuanxiaobing/atomgit-mcp-server](https://freemcp.space/featured/atomgit-mcp-server) — Official AtomGit server for integration with repository management, PRs, issues, branches, labels, and more.
-- [JaviMaligno/mcp-server-bitbucket](https://freemcp.space/templates/mcp-server-bitbucket) — Bitbucket MCP server with 58 tools for repository management, PRs, pipelines, branches, commits, deployments, webhooks, tags, branch restrictions, and source browsing.
-- [loglux/authmcp-gateway](https://freemcp.space/featured/authmcp-gateway) — Auth proxy for MCP servers: OAuth2 + DCR, JWT, RBAC, rate limiting, multi-server aggregation, and monitoring dashboard.
-- [slouchd/cyberchef-api-mcp-server](https://freemcp.space/featured/cyberchef-api-mcp-se) — MCP server for interacting with the CyberChef server API which will allow an MCP client to utilise the CyberChef operations.
-- [samvas-codes/dawshund_mcp](https://freemcp.space/templates/dawshund-mcp) — An MCP server based on dAWShund to enumerate AWS IAM data, analyze effective permissions, and visualize access relationships across users, roles, and resources. Built for cloud security engineers who want fast, easy and effective insights into AWS identity risk.
-- [mariocandela/beelzebub](https://freemcp.space/templates/beelzebub) — Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it would never use in its normal work.
-- [ndl-systems/kevros-mcp](https://freemcp.space/templates/kevros-mcp) — Governance primitives for autonomous agents — verify actions against policy, record signed provenance, and bind intents cryptographically. Free tier: 100 calls/month.
-- [jaspertvdm/mcp-server-inject-bender](https://freemcp.space/templates/mcp-server-inject-be) — Security through absurdity: transforms SQL injection and XSS attempts into harmless comedy responses using AI-powered humor defense.
-- [fr0gger/MCP_Security](https://freemcp.space/templates/mcp-security) — MCP server for querying the ORKL API. This server provides tools for fetching threat reports, analyzing threat actors, and retrieving intelligence sources.
-- [creatorrmode-lead/avp-sdk](https://freemcp.space/featured/avp-sdk) — Trust, identity (W3C DID), and EigenTrust reputation for AI agents. Attestations, disputes, sybil detection, IPFS audit anchoring.
-- [vinaybhosle/agentstamp](https://freemcp.space/featured/agentstamp) — Trust intelligence for AI agents — identity stamps, reputation scoring (0-100), registry, forensic audit trails, and A2A passports via x402 micropayments.
 <!-- freemcp:end -->
 
 ---
