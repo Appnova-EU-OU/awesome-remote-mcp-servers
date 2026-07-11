@@ -1,0 +1,16 @@
+{
+  "name": "molanojustin/smithsonian-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides AI assistants with access to the Smithsonian Institution's Open Access collections.",
+  "git_url": "https://github.com/molanojustin/smithsonian-mcp",
+  "author_github": "molanojustin",
+  "category": "security",
+  "tags": [
+    "molanojustin",
+    "smithsonian",
+    "provides",
+    "assistants",
+    "access"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
