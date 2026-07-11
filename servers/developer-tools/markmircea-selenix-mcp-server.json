@@ -1,0 +1,17 @@
+{
+  "name": "markmircea/Selenix-MCP-Server",
+  "description": "MCP server that bridges Claude Desktop (or any other local app supporting MCP)  with Selenix for browser automation and testing. Enables creating, running, debugging, and managing browser automation tests through natural language.",
+  "git_url": "https://github.com/markmircea/Selenix-MCP-Server",
+  "author_github": "markmircea",
+  "category": "developer-tools",
+  "tags": [
+    "automation",
+    "browser",
+    "mcp",
+    "mcpserver",
+    "selenium"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://selenix.io"
+}
