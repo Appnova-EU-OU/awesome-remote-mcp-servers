@@ -91,7 +91,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
-- [Appnova App Store Connect Mcp](https://freemcp.space/icglr/appnova-app-store-co) — **App Store Connect MCP server for Claude** — manage your iOS app's entire lifecycle with natural language. No Docker, no Python, no pip. Just add 4 lines to your Claude config and start talking to your App Store.
+- [molanojustin/smithsonian-mcp](https://freemcp.space/featured/molanojustin-smithso) — A Model Context Protocol (MCP) server that provides AI assistants with access to the Smithsonian Institution's Open Access collections.
+- [longevity-genie/synergy-age-mcp](https://freemcp.space/featured/longevity-genie-syne) — MCP server for the SynergyAge database of synergistic and antagonistic genetic interactions in longevity.
+- [LarryWalkerDEV/mcp-immostage](https://freemcp.space/featured/larrywalkerdev-mcp-i) — MCP Server for AI Virtual Staging — stage rooms, beautify floor plans, classify images, optimize property listings. Built by immostage.ai
+- [markmircea/Selenix-MCP-Server](https://freemcp.space/featured/markmircea-selenix-m) — MCP server that bridges Claude Desktop (or any other local app supporting MCP)  with Selenix for browser automation and testing. Enables creating, running, debugging, and managing browser automation tests through natural language.
 - [robhunter/agentdeals](https://freemcp.space/featured/robhunter-agentdeals) — MCP server aggregating free tiers, startup credits & developer tool deals. 4 tools, 54 categories, 1,525+ offers.
 - [Continuum-AI-Corp/orcarouter-mcp-server](https://freemcp.space/featured/continuum-ai-corp-or) — Official MCP server for OrcaRouter — the LLM gateway with auto-routing and fallback chains. Browse models and chat from Claude Desktop, Cursor, Windsurf, or any MCP client.
 - [Work90210/APIFold](https://freemcp.space/featured/work90210-apifold) — Turn any REST API into an MCP server. No code required.
@@ -188,9 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [liveblocks-mcp](https://freemcp.space/templates/liveblocks-mcp) — Liveblocks rooms and storage management via MCP
 - [s2-stream-mcp](https://freemcp.space/templates/s2-stream-mcp) — Official MCP server for S2.dev serverless stream platform
 - [chatterboxio-mcp](https://freemcp.space/templates/chatterboxio-mcp) — MCP server for ChatterBox.io — AI agents in online meetings
-- [getsentry/sentry-mcp](https://freemcp.space/templates/sentry-mcp) — Sentry.io integration for error tracking and performance monitoring
-- [Xuanwo/mcp-server-opendal](https://freemcp.space/templates/mcp-server-opendal) — Access any storage with Apache OpenDAL™
-- [pab1it0/adx-mcp-server](https://freemcp.space/featured/adx-mcp-server) — Query and analyze Azure Data Explorer databases
 <!-- freemcp:end -->
 
 ---
