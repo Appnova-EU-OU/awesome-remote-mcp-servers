@@ -1,0 +1,17 @@
+{
+  "name": "LeonTing1010/tap",
+  "description": "Capture a logged-in browser task once — replay it forever at zero LLM tokens. Local-first browser-automation MCP for Claude Code, Cursor & any MCP host; credentials never leave your machine.",
+  "git_url": "https://github.com/LeonTing1010/tap",
+  "author_github": "LeonTing1010",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "automation",
+    "browserautomation",
+    "browseruse",
+    "chromeextension"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://taprun.dev/"
+}
