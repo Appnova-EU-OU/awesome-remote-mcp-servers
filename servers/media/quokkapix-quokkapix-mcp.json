@@ -1,0 +1,17 @@
+{
+  "name": "quokkapix/quokkapix-mcp",
+  "description": "Private browser image workflows for AI agents via MCP",
+  "git_url": "https://github.com/quokkapix/quokkapix-mcp",
+  "author_github": "quokkapix",
+  "category": "media",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "imageprocessing",
+    "localfirst",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://quokkapix.com/mcp-runner.html"
+}
