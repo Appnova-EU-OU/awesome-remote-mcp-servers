@@ -91,6 +91,8 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [austenstone/myinstants-mcp](https://freemcp.space/featured/austenstone-myinstan) — MCP server that lets your ai agent press sound buttons. it's not that deep.
+- [LeonTing1010/tap](https://freemcp.space/featured/leonting1010-tap) — Capture a logged-in browser task once — replay it forever at zero LLM tokens. Local-first browser-automation MCP for Claude Code, Cursor & any MCP host; credentials never leave your machine.
 - [molanojustin/smithsonian-mcp](https://freemcp.space/featured/molanojustin-smithso) — A Model Context Protocol (MCP) server that provides AI assistants with access to the Smithsonian Institution's Open Access collections.
 - [longevity-genie/synergy-age-mcp](https://freemcp.space/featured/longevity-genie-syne) — MCP server for the SynergyAge database of synergistic and antagonistic genetic interactions in longevity.
 - [LarryWalkerDEV/mcp-immostage](https://freemcp.space/featured/larrywalkerdev-mcp-i) — MCP Server for AI Virtual Staging — stage rooms, beautify floor plans, classify images, optimize property listings. Built by immostage.ai
@@ -189,8 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ClaudeCodeNavi/claudecodenavi-mcp](https://freemcp.space/templates/claudecodenavi-mcp) — Claude Code knowledge platform & marketplace MCP server. Search and share snippets, prompts, Q&A solutions, error fixes, and MCP server configurations from the ClaudeCodeNavi community.
 - [shibley/apistatuscheck-mcp-server](https://freemcp.space/templates/apistatuscheck-mcp-s) — Check real-time operational status of 114+ cloud services and APIs (AWS, GitHub, Stripe, OpenAI, Vercel, etc.) directly from AI assistants. Published on npm.
 - [liveblocks-mcp](https://freemcp.space/templates/liveblocks-mcp) — Liveblocks rooms and storage management via MCP
-- [s2-stream-mcp](https://freemcp.space/templates/s2-stream-mcp) — Official MCP server for S2.dev serverless stream platform
-- [chatterboxio-mcp](https://freemcp.space/templates/chatterboxio-mcp) — MCP server for ChatterBox.io — AI agents in online meetings
 <!-- freemcp:end -->
 
 ---
