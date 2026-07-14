@@ -1,0 +1,16 @@
+{
+  "name": "Work90210/APIFold",
+  "description": "Turn any REST API into an MCP server. No code required.",
+  "git_url": "https://github.com/Work90210/APIFold",
+  "author_github": "Work90210",
+  "category": "developer-tools",
+  "tags": [
+    "work",
+    "apifold",
+    "turn",
+    "any",
+    "rest"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active"
+}
