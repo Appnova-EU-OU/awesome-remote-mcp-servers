@@ -1,0 +1,17 @@
+{
+  "name": "agentbodegastore/agentbodega",
+  "description": "AgentBodega MCP discovery package and public registry metadata",
+  "git_url": "https://github.com/agentbodegastore/agentbodega",
+  "author_github": "agentbodegastore",
+  "category": "ai-agents",
+  "tags": [
+    "agentbodegastore",
+    "agentbodega",
+    "discovery",
+    "package",
+    "public"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agentbodega.store"
+}
