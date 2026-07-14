@@ -91,6 +91,18 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Rendeverance/toolfunnel](https://freemcp.space/featured/rendeverance-toolfun) — Zero-dependency MCP gateway - attach, filter, gate, and observe MCP servers through one funnel.
+- [aidevelopers2/remoteopenclaw-mcp](https://freemcp.space/featured/aidevelopers2-remote) — Search 13,870+ MCP servers, 4,384+ agent skills, and plugins from your terminal or AI agent. CLI + MCP server for remoteopenclaw.com
+- [davidmosiah/wellness-cgm-mcp](https://freemcp.space/featured/davidmosiah-wellness) — Local-first continuous glucose monitor MCP — Dexcom Developer API, FreeStyle Libre via LibreLink Up. Levels-killer, agent-first.
+- [RNVizion/rnv-color-mcp](https://freemcp.space/featured/rnvizion-rnv-color-m) — A complete color workflow over MCP: mix (incl. Kubelka-Munk paint physics), convert formats, generate harmonies, and remember named palettes. Resolves hex, CSS, and custom brand color names, and refuses unknown colors rather than guessing. Hosted, no install: `https://rnvizion-rnv-color-mcp.hf.space/mcp`.
+- [kansei-link/kansei-mcp-server](https://freemcp.space/featured/kansei-link-kansei-m) — Local-first MCP navigator for AI agents. 11,000+ SaaS services, 200 workflow recipes, 89-97% token savings. Works with Claude Code, Cursor, Cline, Zed, Windsurf.
+- [XavierFabregat/spotify-mcp](https://freemcp.space/featured/xavierfabregat-spoti) — Control Spotify by talking to your AI — MCP server for Claude, Cursor, and any MCP client
+- [joshseane/-nmlp-mcp](https://freemcp.space/featured/joshseane-nmlp-mcp) — First-edition identification — points of issue, number-line decoding, and publisher rules over a CC-BY, DOI-cited dataset of 6,717 titles — plus New Mexico book-donation logistics. Hosted remote server, no auth. Endpoint: https://newmexicoliteracyproject.org/api/mcp · Registry: `org.newmexicoliteracyproject/nmlp-mcp`
+- [quokkapix/quokkapix-mcp](https://freemcp.space/featured/quokkapix-quokkapix) — Private browser image workflows for AI agents via MCP
+- [hedging8563/tokenlab-mcp-server](https://freemcp.space/featured/hedging8563-tokenlab) — OpenAPI-generated MCP server for TokenLab text, image, video, music, 3D, audio, files, embeddings, rerank, translation, and async tasks.
+- [adw0rd/awesome-mcp-tools-mcp](https://freemcp.space/featured/adw0rd-awesome-mcp-t) — CLI + MCP stdio bridge for the awesome-mcp.tools catalog of 2,000+ MCP servers. Search from terminal or wire into Claude/Cursor/Codex/Cline/Windsurf.
+- [reefapi/reefapi-mcp](https://freemcp.space/featured/reefapi-reefapi-mcp) — One MCP for 160+ live web-data APIs — search engines, social (Reddit, TikTok, Threads, Bluesky), e-commerce (Amazon, eBay, AliExpress, Etsy), real estate (Zillow, Redfin), jobs, travel, news, finance and company/people intel. Clean JSON from sites that block scrapers; one key, one shared credit pool, free tier. Remote streamable-http at api.reefapi.com/mcp.
+- [forgemeshlabs/anomaly-mcp](https://freemcp.space/featured/forgemeshlabs-anomal) — Blockchain event sequence anomaly detection MCP server. Scores event streams using NASA-derived SequenceMiner via x402 micropayments.
 - [austenstone/myinstants-mcp](https://freemcp.space/featured/austenstone-myinstan) — MCP server that lets your ai agent press sound buttons. it's not that deep.
 - [LeonTing1010/tap](https://freemcp.space/featured/leonting1010-tap) — Capture a logged-in browser task once — replay it forever at zero LLM tokens. Local-first browser-automation MCP for Claude Code, Cursor & any MCP host; credentials never leave your machine.
 - [molanojustin/smithsonian-mcp](https://freemcp.space/featured/molanojustin-smithso) — A Model Context Protocol (MCP) server that provides AI assistants with access to the Smithsonian Institution's Open Access collections.
@@ -179,18 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [intercept-mcp](https://freemcp.space/featured/intercept-mcp) — Multi-tier fallback chain for fetching web content as clean markdown. Handles tweets, YouTube, arXiv, PDFs, Wikipedia, and GitHub repos with no API keys required.
 - [JotDown MCP](https://freemcp.space/featured/jotdown-mcp) — MCP server for Notion integration — create, read, update, and search notes and databases in Notion via the Notion API.
 - [Sudo MCP](https://freemcp.space/featured/sudo-mcp) — MCP server that allows executing privileged commands via the OS native password dialog, without storing credentials.
-- [SharpTools MCP](https://freemcp.space/featured/sharptools-mcp) — MCP server built with .NET — provides file system, shell execution, and developer utility tools for C# and .NET workflows.
-- [Sentry MCP (Rust)](https://freemcp.space/featured/sentry-mcp-rust) — MCP server for Sentry error tracking — list projects, query issues, retrieve events, and manage alerts via the Sentry REST API.
-- [Rust Docs MCP Server](https://freemcp.space/featured/rust-docs-mcp-server) — MCP server for searching Rust crate documentation using semantic vector search powered by OpenAI embeddings.
-- [Spring Boot MCP Server](https://freemcp.space/featured/spring-boot-mcp-server) — Reference MCP server built with Spring AI and Spring Boot, demonstrating stdio transport integration patterns for Java applications.
-- [Bundler MCP](https://freemcp.space/featured/bundler-mcp) — MCP server for Ruby Bundler — check gem dependencies, search RubyGems, resolve version conflicts, and manage Gemfile entries.
-- [Gje Unofficial Forti](https://freemcp.space/templates/gje-unofficial-forti) — MCP server: unofficial-fortimonitor-mcp-server
-- [Hovsteder/powersun-tron-mcp](https://freemcp.space/templates/hov-powersun-tron-mc) — PowerSun Tron MCP server
-- [Kzino/vorim-mcp-server](https://freemcp.space/templates/kzi-vorim-mcp-server) — Vorim MCP server for security
-- [HubLensOfficial/mcp-server](https://freemcp.space/templates/hub-mcp-server) — HubLens MCP server
-- [ClaudeCodeNavi/claudecodenavi-mcp](https://freemcp.space/templates/claudecodenavi-mcp) — Claude Code knowledge platform & marketplace MCP server. Search and share snippets, prompts, Q&A solutions, error fixes, and MCP server configurations from the ClaudeCodeNavi community.
-- [shibley/apistatuscheck-mcp-server](https://freemcp.space/templates/apistatuscheck-mcp-s) — Check real-time operational status of 114+ cloud services and APIs (AWS, GitHub, Stripe, OpenAI, Vercel, etc.) directly from AI assistants. Published on npm.
-- [liveblocks-mcp](https://freemcp.space/templates/liveblocks-mcp) — Liveblocks rooms and storage management via MCP
 <!-- freemcp:end -->
 
 ---
