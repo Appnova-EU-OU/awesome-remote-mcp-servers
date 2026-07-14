@@ -1,0 +1,17 @@
+{
+  "name": "bch1212/agentfetch-mcp",
+  "description": "MCP server for fetching web URLs with token estimation, caching, and intelligent routing. Built for AI agents.",
+  "git_url": "https://github.com/bch1212/agentfetch-mcp",
+  "author_github": "bch1212",
+  "category": "ai-agents",
+  "tags": [
+    "agent",
+    "aiagents",
+    "anthropic",
+    "claude",
+    "claudemcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.agentfetch.dev"
+}
