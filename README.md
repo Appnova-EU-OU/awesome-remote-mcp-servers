@@ -91,6 +91,8 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [memebo-at/memeboat-mcp](https://freemcp.space/featured/memebo-at-memeboat-m) — MCP server for Memeboat — search 25,000+ meme templates and create memes from any AI assistant. Free, no API key. https://memebo.at
+- [agentbodegastore/agentbodega](https://freemcp.space/featured/agentbodegastore-age) — AgentBodega MCP discovery package and public registry metadata
 - [Rendeverance/toolfunnel](https://freemcp.space/featured/rendeverance-toolfun) — Zero-dependency MCP gateway - attach, filter, gate, and observe MCP servers through one funnel.
 - [aidevelopers2/remoteopenclaw-mcp](https://freemcp.space/featured/aidevelopers2-remote) — Search 13,870+ MCP servers, 4,384+ agent skills, and plugins from your terminal or AI agent. CLI + MCP server for remoteopenclaw.com
 - [davidmosiah/wellness-cgm-mcp](https://freemcp.space/featured/davidmosiah-wellness) — Local-first continuous glucose monitor MCP — Dexcom Developer API, FreeStyle Libre via LibreLink Up. Levels-killer, agent-first.
@@ -189,8 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-2) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp-server) — AI-powered web search with structured results, source citations, and answer synthesis.
 - [intercept-mcp](https://freemcp.space/featured/intercept-mcp) — Multi-tier fallback chain for fetching web content as clean markdown. Handles tweets, YouTube, arXiv, PDFs, Wikipedia, and GitHub repos with no API keys required.
-- [JotDown MCP](https://freemcp.space/featured/jotdown-mcp) — MCP server for Notion integration — create, read, update, and search notes and databases in Notion via the Notion API.
-- [Sudo MCP](https://freemcp.space/featured/sudo-mcp) — MCP server that allows executing privileged commands via the OS native password dialog, without storing credentials.
 <!-- freemcp:end -->
 
 ---
