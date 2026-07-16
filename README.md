@@ -91,6 +91,8 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [lespaceman/agent-web-interface](https://freemcp.space/featured/lespaceman-agent-web) — Token-efficient browser automation MCP for AI agents, with semantic page snapshots and stable element IDs.
+- [hashgraph-online/hashnet-mcp-js](https://freemcp.space/featured/hashgraph-online-has) — Universal MCP Server for finding + connecting to agents anywhere on the planet. https://hol.org/mcp
 - [memebo-at/memeboat-mcp](https://freemcp.space/featured/memebo-at-memeboat-m) — MCP server for Memeboat — search 25,000+ meme templates and create memes from any AI assistant. Free, no API key. https://memebo.at
 - [agentbodegastore/agentbodega](https://freemcp.space/featured/agentbodegastore-age) — AgentBodega MCP discovery package and public registry metadata
 - [Rendeverance/toolfunnel](https://freemcp.space/featured/rendeverance-toolfun) — Zero-dependency MCP gateway - attach, filter, gate, and observe MCP servers through one funnel.
@@ -189,8 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-3) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [appnova-app-store-connect-mcp](https://freemcp.space/featured/appnova-app-store-co) — App Store Connect MCP server — analytics, reviews, metadata, subscriptions, IAPs, TestFlight, bundle ID capabilities
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-2) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
-- [Tavily MCP Server](https://freemcp.space/featured/tavily-mcp-server) — AI-powered web search with structured results, source citations, and answer synthesis.
-- [intercept-mcp](https://freemcp.space/featured/intercept-mcp) — Multi-tier fallback chain for fetching web content as clean markdown. Handles tweets, YouTube, arXiv, PDFs, Wikipedia, and GitHub repos with no API keys required.
 <!-- freemcp:end -->
 
 ---
