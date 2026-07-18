@@ -91,6 +91,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-gateway](https://freemcp.space/featured/mcp-gateway-2) — MCP Gateway - A meta-server for minimal Claude Code tool bloat with progressive disclosure
 - [zen-mcp](https://freemcp.space/featured/sh6drack-zen-mcp) — The first MCP server for Zen Browser. 20 tools. No Selenium, no Playwright, just WebSocket.
 - [forage](https://freemcp.space/featured/isaac-levine-forage) — Self-improving tool discovery for AI agents. Agents find, install, and learn to use new MCP tools automatically.
 - [agent-web-interface](https://freemcp.space/featured/lespaceman-agent-web) — Token-efficient browser automation MCP for AI agents, with semantic page snapshots and stable element IDs.
@@ -190,7 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [clirank-mcp-server](https://freemcp.space/featured/clirank-mcp-server-2) — MCP server for CLIRank - search, compare, and get docs for 420+ APIs ranked by AI-agent friendliness
 - [aiskillstore](https://freemcp.space/featured/aiskillstore) — Agent-first skill marketplace with USK open standard — MCP server for AI agent skill discovery
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-4) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
-- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-3) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 <!-- freemcp:end -->
 
 ---
