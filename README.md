@@ -91,6 +91,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [oorlogsbronnen-mcp](https://freemcp.space/featured/oorlogsbronnen-mcp) — MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [mcp-gateway](https://freemcp.space/featured/mcp-gateway-2) — MCP Gateway - A meta-server for minimal Claude Code tool bloat with progressive disclosure
 - [zen-mcp](https://freemcp.space/featured/sh6drack-zen-mcp) — The first MCP server for Zen Browser. 20 tools. No Selenium, no Playwright, just WebSocket.
 - [forage](https://freemcp.space/featured/isaac-levine-forage) — Self-improving tool discovery for AI agents. Agents find, install, and learn to use new MCP tools automatically.
@@ -190,7 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-server-ollama-bridge](https://freemcp.space/featured/mcp-server-ollama-br) — MCP Server - Bridge to local Ollama LLM. Part of HumoticaOS/SymbAIon ecosystem.
 - [clirank-mcp-server](https://freemcp.space/featured/clirank-mcp-server-2) — MCP server for CLIRank - search, compare, and get docs for 420+ APIs ranked by AI-agent friendliness
 - [aiskillstore](https://freemcp.space/featured/aiskillstore) — Agent-first skill marketplace with USK open standard — MCP server for AI agent skill discovery
-- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-4) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 <!-- freemcp:end -->
 
 ---
