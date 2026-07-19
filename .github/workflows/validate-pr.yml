@@ -21,7 +21,7 @@ jobs:
       - name: Get changed server files
         id: changed
         run: |
-          changed=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- 'servers/**/*.json' | tr '\n' ' ')
+          changed=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'servers/**/*.json' | tr '\n' ' ')
           echo "files=${changed}" >> "$GITHUB_OUTPUT"
           echo "Changed files: ${changed}"
 
@@ -72,7 +72,7 @@ jobs:
       - name: Validate no duplicate git_url
         if: steps.changed.outputs.files != ''
         run: |
-          # Dedup on (git_url, name) tuple — allows multiple distinct MCP servers
+          # Dedup on (git_url, name) tuple - allows multiple distinct MCP servers
           # from the same monorepo (e.g. modelcontextprotocol/servers has GitHub/Slack)
           all_pairs=$(find servers -name '*.json' -exec jq -r '[.git_url, .name] | @tsv' {} \; | sort)
           dups=$(echo "$all_pairs" | uniq -d)
