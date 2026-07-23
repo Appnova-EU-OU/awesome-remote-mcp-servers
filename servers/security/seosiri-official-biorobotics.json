@@ -1,0 +1,17 @@
+{
+  "name": "biorobotics",
+  "description": "An open-source, stateless Model Context Protocol (MCP) framework bridging biological datasets (NCBI/UniProt) with deterministic physical coordinates for robotic automation.",
+  "git_url": "https://github.com/SEOSiri-Official/biorobotics",
+  "author_github": "SEOSiri-Official",
+  "category": "security",
+  "tags": [
+    "bioinformatics",
+    "biorobotics",
+    "biorobots",
+    "genomics",
+    "labautomation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.seosiri.com/2026/07/seosiri-bio-robotics-core-engine.html"
+}
