@@ -1,0 +1,16 @@
+{
+  "name": "orbit-sentinel-mcp",
+  "description": "MCP server for Orbit Sentinel — space regulatory filings from FCC, ITU, UNOOSA, FAA-AST",
+  "git_url": "https://github.com/viventine-space/orbit-sentinel-mcp",
+  "author_github": "viventine-space",
+  "category": "databases",
+  "tags": [
+    "fcc",
+    "golang",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
