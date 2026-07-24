@@ -1,0 +1,16 @@
+{
+  "name": "visionaire-engine",
+  "description": "Eyes for AI coding agents: deterministic MCP server that tells the LLM which CSS rule wins, in which file, on which line — and why. Cascade verdicts, blast radius, interaction timelines, pixel-perfect audits.",
+  "git_url": "https://github.com/mi60dev/visionaire-engine",
+  "author_github": "mi60dev",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "chromedevtoolsprotocol",
+    "claude",
+    "copilot",
+    "css"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
