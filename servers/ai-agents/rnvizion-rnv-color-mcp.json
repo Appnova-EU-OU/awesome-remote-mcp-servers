@@ -1,0 +1,16 @@
+{
+  "name": "RNVizion/rnv-color-mcp",
+  "description": "A complete color workflow over MCP: mix (incl. Kubelka-Munk paint physics), convert formats, generate harmonies, and remember named palettes. Resolves hex, CSS, and custom brand color names, and refuses unknown colors rather than guessing. Hosted, no install: `https://rnvizion-rnv-color-mcp.hf.space/mcp`.",
+  "git_url": "https://github.com/RNVizion/rnv-color-mcp",
+  "author_github": "RNVizion",
+  "category": "ai-agents",
+  "tags": [
+    "rnvizion",
+    "rnv",
+    "color",
+    "complete",
+    "workflow"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
