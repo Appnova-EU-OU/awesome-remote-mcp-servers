@@ -91,6 +91,20 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [uniprot-mcp](https://freemcp.space/featured/uniprot-mcp) — Auditable UniProt MCP server with per-response SHA-256 provenance, release pinning, verification, and offline replay.
+- [oura-mcp](https://freemcp.space/featured/oura-mcp) — Ask your Oura Ring anything, in ChatGPT or Claude, in any language. Remote MCP server for Oura data.
+- [aidc-ai-mcp](https://freemcp.space/featured/aidc-ai-mcp) — AI data center automation tool — MCP connector (design · validate · layout). Remote MCP: aidc-ai.io/api/mcp · registry io.aidc-ai/design-engine. Engine private.
+- [orbit-sentinel-mcp](https://freemcp.space/featured/orbit-sentinel-mcp) — MCP server for Orbit Sentinel — space regulatory filings from FCC, ITU, UNOOSA, FAA-AST
+- [mcp-server](https://freemcp.space/featured/mcp-server-5) — Correctover MCP Server — LLM Reliability Engineering for AI tools. Real-time 6-dimension output validation, self-healing failover, drift detection. Zero-dep, BYOK.
+- [biorobotics](https://freemcp.space/featured/biorobotics) — An open-source, stateless Model Context Protocol (MCP) framework bridging biological datasets (NCBI/UniProt) with deterministic physical coordinates for robotic automation.
+- [uxloom](https://freemcp.space/featured/uxloom) — Agent-native UI/UX design validation via MCP — journey completeness, state coverage, WCAG checks before code exists
+- [kavel-mcp](https://freemcp.space/featured/kavel-mcp) — Discover Kavel’s AI photo/video generators (hairstyle, figurine, pet portrait, wedding, 90s yearbook, dance video, HD restore), get model-tuned prompts, and open the right tool to generate on www.kavel.ai. `npx kavel-mcp`
+- [humanforai-mcp](https://freemcp.space/featured/humanforai-mcp) — MCP server for Human For AI — let your AI agent hire a real human for real-world verification, testing, review, and errands. Free pilot, no auth.
+- [skillselion-mcp](https://freemcp.space/featured/skillselion-mcp) — MCP server to search Skillselion's curated directory of Claude Code skills, MCP servers & plugin marketplaces, ranked by installs and GitHub stars.
+- [releases](https://freemcp.space/featured/releases) — Download mirror for the Proofpane MCP daemon. Source stays in the private codebase; this exists so browsers (Chrome Safe Browsing, Edge SmartScreen) trust the download.
+- [avots-mcp](https://freemcp.space/featured/avots-mcp) — MCP server for avots.ai: image, video, audio, face-swap, talking avatars and chat across 300+ AI models. Works with Claude Desktop, claude.ai, Cursor, Cline, openclaw, LibreChat, Continue.
+- [llm-prices-cn](https://freemcp.space/featured/llm-prices-cn) — Daily-verified LLM API pricing dataset (44+ models, CN & global) with a hosted MCP server for live price queries and token cost estimation.
+- [ddg-agent-payable-services](https://freemcp.space/featured/ddg-agent-payable-se) — Pay-per-call x402 gateway for AI agents — MCP server + OpenAI-compatible API for agent tools, market data, RPC, and MCP security audits. Pay in USDC on Base, no account.
 - [oorlogsbronnen-mcp](https://freemcp.space/featured/oorlogsbronnen-mcp) — MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [mcp-gateway](https://freemcp.space/featured/mcp-gateway-2) — MCP Gateway - A meta-server for minimal Claude Code tool bloat with progressive disclosure
 - [zen-mcp](https://freemcp.space/featured/sh6drack-zen-mcp) — The first MCP server for Zen Browser. 20 tools. No Selenium, no Playwright, just WebSocket.
@@ -177,20 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [x402search-mcp](https://freemcp.space/featured/x402-index-x402searc) — Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz
 - [tensorfeed](https://freemcp.space/featured/rippermercs-tensorfe) — Real-time AI industry intelligence MCP server. 6 free tools (AI news, service status, model pricing, today summary, agent activity, MCP registry snapshot) and 13 paid premium tools (routing recommendations, news search, history series, cost projection, provider deep-dive, model comparison, agents directory, what's new brief, MCP registry series, webhook watches with daily/weekly digest tier). Pay-per-call in USDC on Base mainnet, no accounts. `npx -y @tensorfeed/mcp-server`
 - [openapi-mcp-gateway](https://freemcp.space/featured/mroops0111-openapi-m) — Turn any OpenAPI/Swagger API into an MCP server with real OAuth2 support. Multi-spec gateway for Claude, Cursor, Codex, and other MCP clients.
-- [mcp-server-openai-bridge](https://freemcp.space/featured/jaspertvdm-mcp-serve) — MCP Server - Bridge to OpenAI API. Part of HumoticaOS/SymbAIon ecosystem.
-- [crompton-network](https://freemcp.space/featured/clanker-records-crom) — Machine-native listening platform for C.W.A.'s Straight Outta Crompton. Your agent can listen. For real.
-- [imagegen-mcp](https://freemcp.space/featured/forgemeshlabs-imageg) — MCP server for AI image generation, background removal, and upscaling with optional x402 USDC payments on Base mainnet.
-- [api-hub](https://freemcp.space/featured/scotia1973-bot-api-h) — 🧠 Memory Vault — Persistent agent memory for MCP. 46 tools: agent_memory, memory_search, 45 utilities, 300+ REST. Free + .99/mo Pro.
-- [agentnet](https://freemcp.space/featured/oxgeneral-agentnet) — Your agent has zero users. This fixes that.  An agent-to-agent referral network where AI agents discover each other, cross-refer users, and earn credits. Available as an MCP server and HTTP API.  Built by an AI agent that couldn't find its own customers.
-- [mcp-gtm-suite](https://freemcp.space/featured/mambalabsdev-mcp-gtm) — MCP server for the full Mamba Labs GTM Suite. All six GTM actors as tools in one server via Apify. Clay-ready output.
-- [proposalcraft](https://freemcp.space/featured/jabbawocky-proposalc) — MCP server for freelancers — draft winning proposals in your voice from a client brief
-- [mcp-server](https://freemcp.space/featured/gpu-bridge-mcp-serve) — GPU-Bridge MCP Server — 30 AI services as Model Context Protocol tools. LLMs, image gen, video, audio, embeddings, reranking, PDF parsing & more. x402 native for autonomous agents.
-- [ateam-mcp](https://freemcp.space/featured/ariekogan-ateam-mcp) — ADAS MCP Server — build, validate, and deploy multi-agent solutions from any AI environment
-- [pulsenetwork-mcp](https://freemcp.space/featured/gtcc777-pulsenetwork) — MCP server for PulseNetwork — discover & pay (x402, USDC on Base + Solana) for 66 real-time intelligence APIs. 68 tools, pay-per-query.
-- [coinopai-mcp](https://freemcp.space/featured/forgemeshlabs-coinop) — CoinOpAI MCP server for x402-powered crypto market intelligence, trade decision support, automation prompts, and paid agent workflows on Base.
-- [mcp-server-ollama-bridge](https://freemcp.space/featured/mcp-server-ollama-br) — MCP Server - Bridge to local Ollama LLM. Part of HumoticaOS/SymbAIon ecosystem.
-- [clirank-mcp-server](https://freemcp.space/featured/clirank-mcp-server-2) — MCP server for CLIRank - search, compare, and get docs for 420+ APIs ranked by AI-agent friendliness
-- [aiskillstore](https://freemcp.space/featured/aiskillstore) — Agent-first skill marketplace with USK open standard — MCP server for AI agent skill discovery
 <!-- freemcp:end -->
 
 ---
