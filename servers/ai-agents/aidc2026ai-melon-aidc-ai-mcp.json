@@ -1,0 +1,17 @@
+{
+  "name": "aidc-ai-mcp",
+  "description": "AI data center automation tool — MCP connector (design · validate · layout). Remote MCP: aidc-ai.io/api/mcp · registry io.aidc-ai/design-engine. Engine private.",
+  "git_url": "https://github.com/aidc2026ai-melon/aidc-ai-mcp",
+  "author_github": "aidc2026ai-melon",
+  "category": "ai-agents",
+  "tags": [
+    "aidatacenter",
+    "cdu",
+    "datacenterdesign",
+    "datacenter",
+    "korea"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://aidc-ai.io"
+}
