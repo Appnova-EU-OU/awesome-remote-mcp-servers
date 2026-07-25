@@ -1,0 +1,16 @@
+{
+  "name": "gph-mcp-server",
+  "description": "GPH Intelligence MCP Server — Healthcare Service Provider Finder. Access 100,000+ verified providers via MCP.",
+  "git_url": "https://github.com/Crindo2/gph-mcp-server",
+  "author_github": "Crindo2",
+  "category": "developer-tools",
+  "tags": [
+    "gph",
+    "intelligence",
+    "healthcare",
+    "service",
+    "provider"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
