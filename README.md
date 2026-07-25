@@ -91,6 +91,9 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [visionaire-engine](https://freemcp.space/featured/visionaire-engine) — Eyes for AI coding agents: deterministic MCP server that tells the LLM which CSS rule wins, in which file, on which line — and why. Cascade verdicts, blast radius, interaction timelines, pixel-perfect audits.
+- [supasidebar-mcp](https://freemcp.space/featured/supasidebar-mcp) — Give your AI assistant local access to your open tabs, saved bookmarks, and recently opened links across every browser on your Mac. Open source, zero telemetry.
+- [saglitzdesign-mcp](https://freemcp.space/featured/saglitzdesign-mcp) — Expert design & marketing knowledge for AI agents — an MCP server for web, iOS, Android & macOS design: UI, UX, SEO, GEO, copywriting, roadmaps & real-world patterns.
 - [uniprot-mcp](https://freemcp.space/featured/uniprot-mcp) — Auditable UniProt MCP server with per-response SHA-256 provenance, release pinning, verification, and offline replay.
 - [oura-mcp](https://freemcp.space/featured/oura-mcp) — Ask your Oura Ring anything, in ChatGPT or Claude, in any language. Remote MCP server for Oura data.
 - [aidc-ai-mcp](https://freemcp.space/featured/aidc-ai-mcp) — AI data center automation tool — MCP connector (design · validate · layout). Remote MCP: aidc-ai.io/api/mcp · registry io.aidc-ai/design-engine. Engine private.
@@ -188,9 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [FluxMCP](https://freemcp.space/featured/acedatacloud-mcpflux) — MCP server for Flux AI image generation and editing via Ace Data Cloud.
 - [liquid](https://freemcp.space/featured/ertad-family-liquid) — AI discovers APIs. Code syncs data. No adapters to write.
 - [wisepanel-mcp](https://freemcp.space/featured/ikoskela-wisepanel-m) — MCP server for Wisepanel multi-agent deliberation platform
-- [x402search-mcp](https://freemcp.space/featured/x402-index-x402searc) — Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz
-- [tensorfeed](https://freemcp.space/featured/rippermercs-tensorfe) — Real-time AI industry intelligence MCP server. 6 free tools (AI news, service status, model pricing, today summary, agent activity, MCP registry snapshot) and 13 paid premium tools (routing recommendations, news search, history series, cost projection, provider deep-dive, model comparison, agents directory, what's new brief, MCP registry series, webhook watches with daily/weekly digest tier). Pay-per-call in USDC on Base mainnet, no accounts. `npx -y @tensorfeed/mcp-server`
-- [openapi-mcp-gateway](https://freemcp.space/featured/mroops0111-openapi-m) — Turn any OpenAPI/Swagger API into an MCP server with real OAuth2 support. Multi-spec gateway for Claude, Cursor, Codex, and other MCP clients.
 <!-- freemcp:end -->
 
 ---
