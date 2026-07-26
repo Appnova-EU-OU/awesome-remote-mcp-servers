@@ -91,6 +91,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [gph-mcp-server](https://freemcp.space/featured/gph-mcp-server) — GPH Intelligence MCP Server — Healthcare Service Provider Finder. Access 100,000+ verified providers via MCP.
 - [visionaire-engine](https://freemcp.space/featured/visionaire-engine) — Eyes for AI coding agents: deterministic MCP server that tells the LLM which CSS rule wins, in which file, on which line — and why. Cascade verdicts, blast radius, interaction timelines, pixel-perfect audits.
 - [supasidebar-mcp](https://freemcp.space/featured/supasidebar-mcp) — Give your AI assistant local access to your open tabs, saved bookmarks, and recently opened links across every browser on your Mac. Open source, zero telemetry.
 - [saglitzdesign-mcp](https://freemcp.space/featured/saglitzdesign-mcp) — Expert design & marketing knowledge for AI agents — an MCP server for web, iOS, Android & macOS design: UI, UX, SEO, GEO, copywriting, roadmaps & real-world patterns.
@@ -190,7 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [SeedreamMCP](https://freemcp.space/featured/acedatacloud-mcpseed) — MCP server for ByteDance Seedream image generation and editing via Ace Data Cloud.
 - [FluxMCP](https://freemcp.space/featured/acedatacloud-mcpflux) — MCP server for Flux AI image generation and editing via Ace Data Cloud.
 - [liquid](https://freemcp.space/featured/ertad-family-liquid) — AI discovers APIs. Code syncs data. No adapters to write.
-- [wisepanel-mcp](https://freemcp.space/featured/ikoskela-wisepanel-m) — MCP server for Wisepanel multi-agent deliberation platform
 <!-- freemcp:end -->
 
 ---
