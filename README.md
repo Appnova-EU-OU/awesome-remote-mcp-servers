@@ -91,6 +91,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [crimson-crab-mcp-template](https://freemcp.space/featured/crimson-crab-mcp-tem) — A ready-to-clone Rust MCP server that calls Claude via crimson-crab
 - [gph-mcp-server](https://freemcp.space/featured/gph-mcp-server) — GPH Intelligence MCP Server — Healthcare Service Provider Finder. Access 100,000+ verified providers via MCP.
 - [visionaire-engine](https://freemcp.space/featured/visionaire-engine) — Eyes for AI coding agents: deterministic MCP server that tells the LLM which CSS rule wins, in which file, on which line — and why. Cascade verdicts, blast radius, interaction timelines, pixel-perfect audits.
 - [supasidebar-mcp](https://freemcp.space/featured/supasidebar-mcp) — Give your AI assistant local access to your open tabs, saved bookmarks, and recently opened links across every browser on your Mac. Open source, zero telemetry.
@@ -190,7 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [thiri-mcp](https://freemcp.space/featured/bluesprince-thiri-mc) — Deterministic music-theory MCP server & API — chord analysis, Roman-numeral analysis, voicing & reharmonization for Claude & Cursor. Computed, not hallucinated. Hosted at mcp.thiri.ai · npx @bluesprincemedia/thiri-mcp
 - [SeedreamMCP](https://freemcp.space/featured/acedatacloud-mcpseed) — MCP server for ByteDance Seedream image generation and editing via Ace Data Cloud.
 - [FluxMCP](https://freemcp.space/featured/acedatacloud-mcpflux) — MCP server for Flux AI image generation and editing via Ace Data Cloud.
-- [liquid](https://freemcp.space/featured/ertad-family-liquid) — AI discovers APIs. Code syncs data. No adapters to write.
 <!-- freemcp:end -->
 
 ---
