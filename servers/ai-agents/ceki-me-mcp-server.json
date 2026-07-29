@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "Ceki MCP Server — rent real residential Chrome browsers from peers (real fingerprints, residential IPs, per-minute crypto billing). Also hire specialists, post jobs.",
+  "git_url": "https://github.com/Ceki-me/mcp-server",
+  "author_github": "Ceki-me",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "cryptopayments",
+    "freelance",
+    "hiring"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ceki.me/mcp"
+}
