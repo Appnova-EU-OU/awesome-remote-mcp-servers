@@ -1,0 +1,17 @@
+{
+  "name": "alphafold-sovereign-mcp",
+  "description": "BioMed MCP over AlphaFold DB + 8 public sources, with SQLite knowledge graph, offline mode, and explicit clinical-use limits.",
+  "git_url": "https://github.com/smaniches/alphafold-sovereign-mcp",
+  "author_github": "smaniches",
+  "category": "databases",
+  "tags": [
+    "alphafold",
+    "bioinformatics",
+    "claude",
+    "clinvar",
+    "drugdiscovery"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/alphafold-sovereign-mcp/"
+}
