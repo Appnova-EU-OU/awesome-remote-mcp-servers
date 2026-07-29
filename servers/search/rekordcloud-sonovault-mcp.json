@@ -1,0 +1,17 @@
+{
+  "name": "sonovault-mcp",
+  "description": "MCP server for the SonoVault music metadata API. Search 90M+ tracks, artists, and releases from AI assistants.",
+  "git_url": "https://github.com/rekordcloud/sonovault-mcp",
+  "author_github": "rekordcloud",
+  "category": "search",
+  "tags": [
+    "ai",
+    "claude",
+    "isrc",
+    "iswc",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sonovault.now"
+}
