@@ -1,0 +1,16 @@
+{
+  "name": "clarity-mcp",
+  "description": "Condition-aware ingredient & product safety MCP server — 9 tools, every answer with a verdict, evidence tier, and citations. com.healthai/clarity on the official MCP registry. Hosted at mcp.healthai.com.",
+  "git_url": "https://github.com/thehealthai/clarity-mcp",
+  "author_github": "thehealthai",
+  "category": "ai-agents",
+  "tags": [
+    "cosmetics",
+    "healthcare",
+    "ingredients",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
