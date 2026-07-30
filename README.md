@@ -91,6 +91,16 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [alphafold-sovereign-mcp](https://freemcp.space/featured/alphafold-sovereign) — BioMed MCP over AlphaFold DB + 8 public sources, with SQLite knowledge graph, offline mode, and explicit clinical-use limits.
+- [mcp-server](https://freemcp.space/featured/mcp-server-6) — Ceki MCP Server — rent real residential Chrome browsers from peers (real fingerprints, residential IPs, per-minute crypto billing). Also hire specialists, post jobs.
+- [ao3-mcp](https://freemcp.space/featured/ao3-mcp) — MCP server for Archive of Our Own: search fanfiction and have an AI read and rank fics for you
+- [forcedream-mcp](https://freemcp.space/featured/forcedream-mcp) — MCP server for ForceDream — discover, invoke, and trustlessly verify AI agents with cryptographic proofs.
+- [fda-risk-radar-mcp](https://freemcp.space/featured/fda-risk-radar-mcp) — Constat — FDA & NHTSA regulatory-risk MCP server for AI agents. 14 tools: recalls, adverse events, warning letters, 483s, 510(k) predicate chains, reimbursement, vehicle safety. com.healthai/radar on the official MCP registry. Hosted at constat.dev/api/mcp.
+- [clarity-mcp](https://freemcp.space/featured/clarity-mcp) — Condition-aware ingredient & product safety MCP server — 9 tools, every answer with a verdict, evidence tier, and citations. com.healthai/clarity on the official MCP registry. Hosted at mcp.healthai.com.
+- [motionlint](https://freemcp.space/featured/motionlint) — Catch bad animations before they ship. Deterministic motion audit + vision-LLM design review for your terminal and Claude Code.
+- [sonovault-mcp](https://freemcp.space/featured/sonovault-mcp) — MCP server for the SonoVault music metadata API. Search 90M+ tracks, artists, and releases from AI assistants.
+- [mesh-connector](https://freemcp.space/featured/mesh-connector) — Connect any MCP client to the MeshTool platform + MeshMarket exchange in 30 seconds — agents that remember, reason, and rent each other's tools.
+- [mcpqueen](https://freemcp.space/featured/mcpqueen) — 👑 The evidence layer for MCP — every registry server probed live, graded with verbatim evidence, plus Trust Receipts. Itself an MCP server at mcpqueen.com/mcp (7 tools, no auth).
 - [crimson-crab-mcp-template](https://freemcp.space/featured/crimson-crab-mcp-tem) — A ready-to-clone Rust MCP server that calls Claude via crimson-crab
 - [gph-mcp-server](https://freemcp.space/featured/gph-mcp-server) — GPH Intelligence MCP Server — Healthcare Service Provider Finder. Access 100,000+ verified providers via MCP.
 - [visionaire-engine](https://freemcp.space/featured/visionaire-engine) — Eyes for AI coding agents: deterministic MCP server that tells the LLM which CSS rule wins, in which file, on which line — and why. Cascade verdicts, blast radius, interaction timelines, pixel-perfect audits.
@@ -181,16 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mymedi-ai-mcp-server](https://freemcp.space/featured/mymedi-ai-mymedi-ai) — Healthcare billing MCP server — 20 AI tools for ICD-10, CPT, HCPCS lookup (81,769 codes with RVU + OPPS pricing), prior auth prediction, claims validation, denial-risk scoring, and NPI/drug enrichment. 10 free credits, then x402 USDC or Stripe.
 - [flstudio-mcp](https://freemcp.space/featured/rosasynthesiz-flstud) — AI-powered FL Studio control via the Model Context Protocol. Beyond piano-roll notes — full in-DAW mixing (Mix Doctor, gain staging, EQ/comp/reverb, reference matching), routing, and composition through Claude and other MCP clients. 67 tools. Windows.
 - [lecka-mcp](https://freemcp.space/featured/mgnirck-lecka-mcp) — Race nutrition planning for endurance athletes. Calculates carb, sodium and fluid targets for marathons, ultras, cycling and triathlons. Returns personalised Lecka product recommendations by race type, conditions and athlete weight.
-- [onekgpd-mcp](https://freemcp.space/featured/dnaerys-onekgpd-mcp) — 1000 Genomes Project Dataset MCP Server
-- [cinderwright-api](https://freemcp.space/featured/cinderwright-ai-cind) — MCP server + x402 Discovery Hub. Search engine for the agent economy. 1450+ services indexed.
-- [AgentHotspot](https://freemcp.space/featured/agenthotspot) — 🔍 MCP server to search 6,000+ AI agent MCP connectors from AgentHotspot.com Marketplace
-- [Agent47](https://freemcp.space/featured/espadaw-agent47) — Unified job search for AI agents. MCP server integrating x402, RentAHuman, Virtuals, and more into a single interface for finding work and comparing prices across the agent economy.
-- [agenium](https://freemcp.space/featured/aganium-agenium) — AGENIUM — DNS of the Agent Web. Identity, trust & discovery for AI agents. MCP-compatible. agent:// protocol with mTLS, trust scores & capability search.
-- [spotify-bulk-actions-mcp](https://freemcp.space/featured/khglynn-spotify-bulk) — MCP server for bulk Spotify operations - batch playlist creation with confidence scoring, library exports, CSV imports, and human-in-the-loop review for uncertain matches
-- [gradusnotation](https://freemcp.space/featured/delmas41-gradusnotat) — Open music notation MCP server for AI agents. Render JSON scores to SVG, MusicXML, and MIDI. Sponsored by Gradus School of Music Composition.
-- [thiri-mcp](https://freemcp.space/featured/bluesprince-thiri-mc) — Deterministic music-theory MCP server & API — chord analysis, Roman-numeral analysis, voicing & reharmonization for Claude & Cursor. Computed, not hallucinated. Hosted at mcp.thiri.ai · npx @bluesprincemedia/thiri-mcp
-- [SeedreamMCP](https://freemcp.space/featured/acedatacloud-mcpseed) — MCP server for ByteDance Seedream image generation and editing via Ace Data Cloud.
-- [FluxMCP](https://freemcp.space/featured/acedatacloud-mcpflux) — MCP server for Flux AI image generation and editing via Ace Data Cloud.
 <!-- freemcp:end -->
 
 ---
