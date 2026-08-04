@@ -1,0 +1,16 @@
+{
+  "name": "selenium-mcp",
+  "description": "A Python MCP server that brings Selenium WebDriver automation to Claude and other AI assistants — with built-in code generation for Python (pytest), Java TestNG, and JUnit 5 test scripts.",
+  "git_url": "https://github.com/seleniumboot/selenium-mcp",
+  "author_github": "seleniumboot",
+  "category": "ai-agents",
+  "tags": [
+    "aitesting",
+    "claude",
+    "codegen",
+    "copilot",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
