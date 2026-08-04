@@ -1,0 +1,17 @@
+{
+  "name": "purroxy2",
+  "description": "Record what you do on any website and securely automate it forever. Replays browser actions in headless Playwright with encrypted credentials and AI-powered selector healing.",
+  "git_url": "https://github.com/KuvopLLC/purroxy2",
+  "author_github": "KuvopLLC",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "anthropic",
+    "automation",
+    "browserautomation",
+    "claude"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://purroxy.com/"
+}
