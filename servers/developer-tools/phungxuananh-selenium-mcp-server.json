@@ -1,0 +1,16 @@
+{
+  "name": "selenium-mcp-server",
+  "description": "A Model Context Protocol server providing web automation capabilities through Selenium WebDriver",
+  "git_url": "https://github.com/PhungXuanAnh/selenium-mcp-server",
+  "author_github": "PhungXuanAnh",
+  "category": "developer-tools",
+  "tags": [
+    "selenium",
+    "providing",
+    "web",
+    "automation",
+    "capabilities"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
