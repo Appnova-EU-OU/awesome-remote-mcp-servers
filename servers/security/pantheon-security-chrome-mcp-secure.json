@@ -1,0 +1,16 @@
+{
+  "name": "chrome-mcp-secure",
+  "description": "Secure ChromeMCP Server - Query and Debugging sites using Google Chrome with additional security hardening layers",
+  "git_url": "https://github.com/Pantheon-Security/chrome-mcp-secure",
+  "author_github": "Pantheon-Security",
+  "category": "security",
+  "tags": [
+    "ai",
+    "automation",
+    "browserautomation",
+    "chrome",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
