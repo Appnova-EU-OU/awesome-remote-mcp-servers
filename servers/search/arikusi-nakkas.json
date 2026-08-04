@@ -1,0 +1,17 @@
+{
+  "name": "nakkas",
+  "description": "MCP server that turns AI into an SVG artist",
+  "git_url": "https://github.com/arikusi/nakkas",
+  "author_github": "arikusi",
+  "category": "search",
+  "tags": [
+    "ai",
+    "animation",
+    "cssanimation",
+    "generativeart",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/nakkas"
+}
