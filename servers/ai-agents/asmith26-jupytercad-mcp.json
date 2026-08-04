@@ -1,0 +1,17 @@
+{
+  "name": "jupytercad-mcp",
+  "description": "An MCP server for JupyterCAD that allows you to control it using LLMs/natural language.",
+  "git_url": "https://github.com/asmith26/jupytercad-mcp",
+  "author_github": "asmith26",
+  "category": "ai-agents",
+  "tags": [
+    "cad",
+    "computeraideddesign",
+    "jupytercad",
+    "jupyterlab",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/jupytercad-mcp"
+}
