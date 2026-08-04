@@ -1,0 +1,17 @@
+{
+  "name": "rendex-mcp",
+  "description": "MCP server for Rendex — capture screenshots, generate PDFs, and render HTML to images of any webpage via AI agents. Claude, Cursor, Windsurf compatible.",
+  "git_url": "https://github.com/copperline-labs/rendex-mcp",
+  "author_github": "copperline-labs",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagent",
+    "api",
+    "claude",
+    "cloudflareworkers",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://rendex.dev"
+}
