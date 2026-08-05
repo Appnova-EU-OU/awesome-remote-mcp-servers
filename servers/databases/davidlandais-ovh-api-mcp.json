@@ -1,0 +1,17 @@
+{
+  "name": "ovh-api-mcp",
+  "description": "MCP server for the OVH API — explore and execute any OVH endpoint from Claude, Cursor, or any MCP-compatible LLM client. Built in Rust.",
+  "git_url": "https://github.com/davidlandais/ovh-api-mcp",
+  "author_github": "davidlandais",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "aitools",
+    "automation",
+    "claude",
+    "cloudapi"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://modelcontextprotocol.io"
+}
