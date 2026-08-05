@@ -1,0 +1,17 @@
+{
+  "name": "cloudscope-mcp",
+  "description": "Multi-cloud cost management MCP server (Azure + GCP). Read-only access to spending, anomalies, forecasts, budgets, and guided FinOps workflows. Ask your AI about your cloud bill.",
+  "git_url": "https://github.com/alexpota/cloudscope-mcp",
+  "author_github": "alexpota",
+  "category": "cloud-infra",
+  "tags": [
+    "anomalydetection",
+    "azure",
+    "azureadvisor",
+    "bigquery",
+    "budgetmonitoring"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcpscope.dev"
+}
