@@ -1,0 +1,16 @@
+{
+  "name": "mcp-proxmox",
+  "description": "MCP server for managing Proxmox VE clusters through AI assistants",
+  "git_url": "https://github.com/antonio-mello-ai/mcp-proxmox",
+  "author_github": "antonio-mello-ai",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "felhen",
+    "homelab",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
