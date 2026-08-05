@@ -1,0 +1,17 @@
+{
+  "name": "mcp-cyclops",
+  "description": "Model Context Protocol server for Cyclops",
+  "git_url": "https://github.com/cyclops-ui/mcp-cyclops",
+  "author_github": "cyclops-ui",
+  "category": "cloud-infra",
+  "tags": [
+    "cyclops",
+    "devops",
+    "kubernetes",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://cyclops-ui.com/docs/mcp/about"
+}
