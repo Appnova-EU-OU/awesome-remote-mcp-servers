@@ -1,0 +1,16 @@
+{
+  "name": "devops-mcp-webui",
+  "description": "Bridge connecting OpenWebUI to Kubernetes clusters via MCP protocol",
+  "git_url": "https://github.com/elevy99927/devops-mcp-webui",
+  "author_github": "elevy99927",
+  "category": "cloud-infra",
+  "tags": [
+    "devops",
+    "webui",
+    "bridge",
+    "connecting",
+    "openwebui"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
