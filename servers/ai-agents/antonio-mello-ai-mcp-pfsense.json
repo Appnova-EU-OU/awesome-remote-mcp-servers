@@ -1,0 +1,16 @@
+{
+  "name": "mcp-pfsense",
+  "description": "MCP server for managing pfSense firewalls through AI assistants",
+  "git_url": "https://github.com/antonio-mello-ai/mcp-pfsense",
+  "author_github": "antonio-mello-ai",
+  "category": "ai-agents",
+  "tags": [
+    "felhen",
+    "mcpserver",
+    "pfsense",
+    "managing",
+    "firewalls"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
