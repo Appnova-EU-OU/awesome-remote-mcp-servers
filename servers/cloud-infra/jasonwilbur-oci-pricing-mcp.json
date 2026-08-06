@@ -1,0 +1,17 @@
+{
+  "name": "oci-pricing-mcp",
+  "description": "OCI Pricing MCP Server - Model Context Protocol server for Oracle Cloud Infrastructure pricing information",
+  "git_url": "https://github.com/jasonwilbur/oci-pricing-mcp",
+  "author_github": "jasonwilbur",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "claude",
+    "cloud",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/oci-pricing-mcp"
+}
