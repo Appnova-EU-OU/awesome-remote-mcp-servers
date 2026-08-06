@@ -1,0 +1,16 @@
+{
+  "name": "mcp-aoai-web-browsing",
+  "description": "A minimal Model Context Protocol 🖥️ server/client🧑‍💻with OpenAI and 🌐 web browser control via Playwright.",
+  "git_url": "https://github.com/kimtth/mcp-aoai-web-browsing",
+  "author_github": "kimtth",
+  "category": "cloud-infra",
+  "tags": [
+    "azureopenai",
+    "mcp",
+    "mcpclient",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
