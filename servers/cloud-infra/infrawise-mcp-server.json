@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server",
+  "description": "Infrawise MCP server for Claude Code — Azure FinOps cost optimization",
+  "git_url": "https://github.com/Infrawise/mcp-server",
+  "author_github": "Infrawise",
+  "category": "cloud-infra",
+  "tags": [
+    "infrawise",
+    "claude",
+    "code",
+    "azure",
+    "finops"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
