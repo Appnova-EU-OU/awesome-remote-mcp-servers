@@ -1,0 +1,16 @@
+{
+  "name": "docker-mcp",
+  "description": "Docker-MCP-Server - An MCP server covering the full management surface of Docker.  Manage, maintain and audit multiple docker environments with ease.",
+  "git_url": "https://github.com/L337-org/docker-mcp",
+  "author_github": "L337-org",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "docker",
+    "dockerapi",
+    "dockercompose",
+    "dockerswarm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
