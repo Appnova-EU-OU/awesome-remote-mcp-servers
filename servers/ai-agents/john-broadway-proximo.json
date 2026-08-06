@@ -1,0 +1,16 @@
+{
+  "name": "proximo",
+  "description": "The Proxmox MCP you can hand the keys: VE/PBS/PMG/PDM. Plan, prove, undo, diagnose. MCP/A2A/API.",
+  "git_url": "https://github.com/john-broadway/proximo",
+  "author_github": "john-broadway",
+  "category": "ai-agents",
+  "tags": [
+    "a2a",
+    "agents",
+    "aiagents",
+    "api",
+    "devops"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
