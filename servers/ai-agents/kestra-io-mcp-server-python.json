@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-python",
+  "description": "Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents",
+  "git_url": "https://github.com/kestra-io/mcp-server-python",
+  "author_github": "kestra-io",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "mcpserver",
+    "orchestration",
+    "python"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://kestra.io/blogs/introducing-ai-agents"
+}
