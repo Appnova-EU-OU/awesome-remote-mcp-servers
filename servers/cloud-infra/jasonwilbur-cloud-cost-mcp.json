@@ -1,0 +1,17 @@
+{
+  "name": "cloud-cost-mcp",
+  "description": "Model Context Protocol server for Cloud Infrastructure pricing information",
+  "git_url": "https://github.com/jasonwilbur/cloud-cost-mcp",
+  "author_github": "jasonwilbur",
+  "category": "cloud-infra",
+  "tags": [
+    "aws",
+    "azure",
+    "claudecode",
+    "cloud",
+    "finops"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/cloud-cost-mcp"
+}
