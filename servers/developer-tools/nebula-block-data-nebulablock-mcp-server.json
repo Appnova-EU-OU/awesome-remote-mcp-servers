@@ -1,0 +1,16 @@
+{
+  "name": "nebulablock-mcp-server",
+  "description": "integrates with the fastmcp library to expose the full range of NebulaBlock API functionalities as accessible tools",
+  "git_url": "https://github.com/Nebula-Block-Data/nebulablock-mcp-server",
+  "author_github": "Nebula-Block-Data",
+  "category": "developer-tools",
+  "tags": [
+    "nebulablock",
+    "integrates",
+    "fastmcp",
+    "library",
+    "expose"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
