@@ -1,0 +1,17 @@
+{
+  "name": "reaper-mcp",
+  "description": "MCP server to control REAPER DAW with AI. 176 tools for mixing, mastering, MIDI composition, and full music production.",
+  "git_url": "https://github.com/TwelveTake-Studios/reaper-mcp",
+  "author_github": "TwelveTake-Studios",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claude",
+    "daw",
+    "mastering",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://twelvetake.com"
+}
