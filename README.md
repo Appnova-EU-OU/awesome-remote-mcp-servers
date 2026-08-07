@@ -91,6 +91,26 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-aoai-web-browsing](https://freemcp.space/featured/mcp-aoai-web-browsin) — A minimal Model Context Protocol 🖥️ server/client🧑‍💻with OpenAI and 🌐 web browser control via Playwright.
+- [mcpmcp-server](https://freemcp.space/featured/mcpmcp-server) — Discover, setup, and integrate MCP servers with your favorite clients. Unlock the full potential of AI in your daily workflow.
+- [mcp-server-python](https://freemcp.space/featured/mcp-server-python) — Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
+- [localstack-mcp-server](https://freemcp.space/featured/localstack-mcp-serve) — MCP Server for LocalStack
+- [proximo](https://freemcp.space/featured/proximo) — The Proxmox MCP you can hand the keys: VE/PBS/PMG/PDM. Plan, prove, undo, diagnose. MCP/A2A/API.
+- [azure-resource-graph-mcp-server](https://freemcp.space/featured/azure-resource-graph-2) — Model Context Protocol (MCP) server that provides access to Azure Resource Graph queries. It allows you to retrieve information about Azure resources across your subscriptions using Resource Graph queries.
+- [liveblocks-mcp-server](https://freemcp.space/featured/liveblocks-mcp-serve) — MCP server for Liveblocks.
+- [netskope-mcp](https://freemcp.space/featured/netskope-mcp) — An MCP to give access to all Netskope Private Access components within a Netskope Private Access environments including detailed setup information and LLM examples on usage.
+- [ionoscloud-mcp](https://freemcp.space/featured/ionoscloud-mcp) — This project implements an MCP server to interact with ionos cloud resources.
+- [docker-mcp](https://freemcp.space/featured/docker-mcp) — Docker-MCP-Server - An MCP server covering the full management surface of Docker.  Manage, maintain and audit multiple docker environments with ease.
+- [oci-pricing-mcp](https://freemcp.space/featured/oci-pricing-mcp) — OCI Pricing MCP Server - Model Context Protocol server for Oracle Cloud Infrastructure pricing information
+- [cloud-cost-mcp](https://freemcp.space/featured/cloud-cost-mcp-2) — Model Context Protocol server for Cloud Infrastructure pricing information
+- [spinnaker-mcp](https://freemcp.space/featured/spinnaker-mcp) — MCP Server for Spinnaker — manage applications, pipelines, and deployments via the Model Context Protocol
+- [NetLicensing-MCP](https://freemcp.space/featured/netlicensing-mcp) — The official NetLicensing MCP Server is a natural language interface that enables agentic applications to manage the full software licensing lifecycle in Labs64 NetLicensing 👉🏼 without writing a single API call.
+- [easypanel-mcp-server](https://freemcp.space/featured/easypanel-mcp-server) — MCP Server for Easypanel — control deployments, services, logs and databases from Claude Code, Cursor and Claude Desktop
+- [cloudflare-mcp-pro](https://freemcp.space/featured/cloudflare-mcp-pro) — Cloudflare MCP: 69 tools over the REST API v4 — DNS, Workers, KV, R2, D1, Pages, WAF, SSL, Email, AI — with a human-approval gate
+- [kops](https://freemcp.space/featured/kops) — Read-only kubectl as an MCP server for Claude Code — structured JSON, hardcoded safe verbs, one-shot triage & inventory.
+- [mcp-server](https://freemcp.space/featured/mcp-server-7) — Infrawise MCP server for Claude Code — Azure FinOps cost optimization
+- [tempmd-mcp](https://freemcp.space/featured/tempmd-mcp) — MCP server for temp.md — one stable public link for agent-made artifacts, updated in place
+- [hostodo-mcp](https://freemcp.space/featured/hostodo-mcp) — Registry metadata for the hosted Hostodo MCP server
 - [biothings-mcp](https://freemcp.space/featured/biothings-mcp) — MCP (Model Context Protocol) server for biothings
 - [metmuseum-mcp](https://freemcp.space/featured/metmuseum-mcp) — Met Museum MCP integration to discover the art collection at The Metropolitan Museum of Art in New York
 - [mcp-cyclops](https://freemcp.space/featured/mcp-cyclops) — Model Context Protocol server for Cyclops
@@ -161,7 +181,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [saglitzdesign-mcp](https://freemcp.space/featured/saglitzdesign-mcp) — Expert design & marketing knowledge for AI agents — an MCP server for web, iOS, Android & macOS design: UI, UX, SEO, GEO, copywriting, roadmaps & real-world patterns.
 - [uniprot-mcp](https://freemcp.space/featured/uniprot-mcp) — Auditable UniProt MCP server with per-response SHA-256 provenance, release pinning, verification, and offline replay.
 - [oura-mcp](https://freemcp.space/featured/oura-mcp) — Ask your Oura Ring anything, in ChatGPT or Claude, in any language. Remote MCP server for Oura data.
-- [aidc-ai-mcp](https://freemcp.space/featured/aidc-ai-mcp) — AI data center automation tool — MCP connector (design · validate · layout). Remote MCP: aidc-ai.io/api/mcp · registry io.aidc-ai/design-engine. Engine private.
 - [orbit-sentinel-mcp](https://freemcp.space/featured/orbit-sentinel-mcp) — MCP server for Orbit Sentinel — space regulatory filings from FCC, ITU, UNOOSA, FAA-AST
 - [mcp-server](https://freemcp.space/featured/mcp-server-5) — Correctover MCP Server — LLM Reliability Engineering for AI tools. Real-time 6-dimension output validation, self-healing failover, drift detection. Zero-dep, BYOK.
 - [biorobotics](https://freemcp.space/featured/biorobotics) — An open-source, stateless Model Context Protocol (MCP) framework bridging biological datasets (NCBI/UniProt) with deterministic physical coordinates for robotic automation.
@@ -172,25 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [releases](https://freemcp.space/featured/releases) — Download mirror for the Proofpane MCP daemon. Source stays in the private codebase; this exists so browsers (Chrome Safe Browsing, Edge SmartScreen) trust the download.
 - [avots-mcp](https://freemcp.space/featured/avots-mcp) — MCP server for avots.ai: image, video, audio, face-swap, talking avatars and chat across 300+ AI models. Works with Claude Desktop, claude.ai, Cursor, Cline, openclaw, LibreChat, Continue.
 - [llm-prices-cn](https://freemcp.space/featured/llm-prices-cn) — Daily-verified LLM API pricing dataset (44+ models, CN & global) with a hosted MCP server for live price queries and token cost estimation.
-- [ddg-agent-payable-services](https://freemcp.space/featured/ddg-agent-payable-se) — Pay-per-call x402 gateway for AI agents — MCP server + OpenAI-compatible API for agent tools, market data, RPC, and MCP security audits. Pay in USDC on Base, no account.
-- [oorlogsbronnen-mcp](https://freemcp.space/featured/oorlogsbronnen-mcp) — MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
-- [mcp-gateway](https://freemcp.space/featured/mcp-gateway-2) — MCP Gateway - A meta-server for minimal Claude Code tool bloat with progressive disclosure
-- [zen-mcp](https://freemcp.space/featured/sh6drack-zen-mcp) — The first MCP server for Zen Browser. 20 tools. No Selenium, no Playwright, just WebSocket.
-- [forage](https://freemcp.space/featured/isaac-levine-forage) — Self-improving tool discovery for AI agents. Agents find, install, and learn to use new MCP tools automatically.
-- [agent-web-interface](https://freemcp.space/featured/lespaceman-agent-web) — Token-efficient browser automation MCP for AI agents, with semantic page snapshots and stable element IDs.
-- [hashnet-mcp-js](https://freemcp.space/featured/hashgraph-online-has) — Universal MCP Server for finding + connecting to agents anywhere on the planet. https://hol.org/mcp
-- [memeboat-mcp](https://freemcp.space/featured/memebo-at-memeboat-m) — MCP server for Memeboat — search 25,000+ meme templates and create memes from any AI assistant. Free, no API key. https://memebo.at
-- [agentbodega](https://freemcp.space/featured/agentbodegastore-age) — AgentBodega MCP discovery package and public registry metadata
-- [toolfunnel](https://freemcp.space/featured/rendeverance-toolfun) — Zero-dependency MCP gateway - attach, filter, gate, and observe MCP servers through one funnel.
-- [remoteopenclaw-mcp](https://freemcp.space/featured/aidevelopers2-remote) — Search 13,870+ MCP servers, 4,384+ agent skills, and plugins from your terminal or AI agent. CLI + MCP server for remoteopenclaw.com
-- [wellness-cgm-mcp](https://freemcp.space/featured/davidmosiah-wellness) — Local-first continuous glucose monitor MCP — Dexcom Developer API, FreeStyle Libre via LibreLink Up. Levels-killer, agent-first.
-- [rnv-color-mcp](https://freemcp.space/featured/rnvizion-rnv-color-m) — A complete color workflow over MCP: mix (incl. Kubelka-Munk paint physics), convert formats, generate harmonies, and remember named palettes. Resolves hex, CSS, and custom brand color names, and refuses unknown colors rather than guessing. Hosted, no install: `https://rnvizion-rnv-color-mcp.hf.space/mcp`.
-- [kansei-mcp-server](https://freemcp.space/featured/kansei-link-kansei-m) — Local-first MCP navigator for AI agents. 11,000+ SaaS services, 200 workflow recipes, 89-97% token savings. Works with Claude Code, Cursor, Cline, Zed, Windsurf.
-- [spotify-mcp](https://freemcp.space/featured/xavierfabregat-spoti) — Control Spotify by talking to your AI — MCP server for Claude, Cursor, and any MCP client
-- [joshseane/-nmlp-mcp](https://freemcp.space/featured/joshseane-nmlp-mcp) — First-edition identification — points of issue, number-line decoding, and publisher rules over a CC-BY, DOI-cited dataset of 6,717 titles — plus New Mexico book-donation logistics. Hosted remote server, no auth. Endpoint: https://newmexicoliteracyproject.org/api/mcp · Registry: `org.newmexicoliteracyproject/nmlp-mcp`
-- [quokkapix-mcp](https://freemcp.space/featured/quokkapix-quokkapix) — Private browser image workflows for AI agents via MCP
-- [tokenlab-mcp-server](https://freemcp.space/featured/hedging8563-tokenlab) — OpenAPI-generated MCP server for TokenLab text, image, video, music, 3D, audio, files, embeddings, rerank, translation, and async tasks.
-- [awesome-mcp-tools-mcp](https://freemcp.space/featured/adw0rd-awesome-mcp-t) — CLI + MCP stdio bridge for the awesome-mcp.tools catalog of 2,000+ MCP servers. Search from terminal or wire into Claude/Cursor/Codex/Cline/Windsurf.
 <!-- freemcp:end -->
 
 ---
