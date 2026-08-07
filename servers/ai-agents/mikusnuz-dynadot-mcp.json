@@ -1,0 +1,16 @@
+{
+  "name": "dynadot-mcp",
+  "description": "MCP server for Dynadot domain registrar API3 — 60 tools for domains, DNS, contacts, transfers & more",
+  "git_url": "https://github.com/mikusnuz/dynadot-mcp",
+  "author_github": "mikusnuz",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "dns",
+    "domain",
+    "domainregistrar",
+    "dynadot"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
