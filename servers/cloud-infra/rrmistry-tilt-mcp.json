@@ -1,0 +1,16 @@
+{
+  "name": "tilt-mcp",
+  "description": "MCP server for Tilt - enables LLMs to interact with your Tilt dev environment for building, deploying, and debugging Kubernetes workloads",
+  "git_url": "https://github.com/rrmistry/tilt-mcp",
+  "author_github": "rrmistry",
+  "category": "cloud-infra",
+  "tags": [
+    "claude",
+    "developertools",
+    "kubernetes",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
