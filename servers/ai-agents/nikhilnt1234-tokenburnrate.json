@@ -1,0 +1,16 @@
+{
+  "name": "TokenBurnRate",
+  "description": "Track LLM token costs across Claude, GPT and Gemini. MCP server + CLI with optimization hints and $ savings estimates. 📇🏠",
+  "git_url": "https://github.com/nikhilnt1234/TokenBurnRate",
+  "author_github": "nikhilnt1234",
+  "category": "ai-agents",
+  "tags": [
+    "tokenburnrate",
+    "track",
+    "llm",
+    "token",
+    "costs"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
