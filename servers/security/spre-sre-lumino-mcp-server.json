@@ -1,0 +1,16 @@
+{
+  "name": "lumino-mcp-server",
+  "description": "AI/ML-powered diagnostic engine for SRE Observability on Konflux and OpenShift. It uses the Model Context Protocol (MCP) and 40+ tools to analyze logs, metrics, and traces, enabling automated RCA and predictive analysis.",
+  "git_url": "https://github.com/spre-sre/lumino-mcp-server",
+  "author_github": "spre-sre",
+  "category": "security",
+  "tags": [
+    "lumino",
+    "powered",
+    "diagnostic",
+    "engine",
+    "sre"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
