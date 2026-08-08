@@ -1,0 +1,16 @@
+{
+  "name": "mcp-k8s-eye",
+  "description": "MCP Server for kubernetes management and diagnose your cluster and applications",
+  "git_url": "https://github.com/wenhuwang/mcp-k8s-eye",
+  "author_github": "wenhuwang",
+  "category": "cloud-infra",
+  "tags": [
+    "eye",
+    "kubernetes",
+    "management",
+    "diagnose",
+    "your"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
