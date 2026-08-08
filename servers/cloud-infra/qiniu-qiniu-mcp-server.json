@@ -1,0 +1,16 @@
+{
+  "name": "qiniu-mcp-server",
+  "description": "A MCP built on Qiniu Cloud products, supporting access to Qiniu Cloud Storage, media processing services, etc.",
+  "git_url": "https://github.com/qiniu/qiniu-mcp-server",
+  "author_github": "qiniu",
+  "category": "cloud-infra",
+  "tags": [
+    "qiniu",
+    "built",
+    "cloud",
+    "products",
+    "supporting"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
