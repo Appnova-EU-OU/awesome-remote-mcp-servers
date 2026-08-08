@@ -1,0 +1,16 @@
+{
+  "name": "ocireg-mcp",
+  "description": "An MCP (Model Context Protocol) server that provides tools for querying OCI registries and image references.",
+  "git_url": "https://github.com/StacklokLabs/ocireg-mcp",
+  "author_github": "StacklokLabs",
+  "category": "media",
+  "tags": [
+    "ocireg",
+    "provides",
+    "tools",
+    "querying",
+    "oci"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
