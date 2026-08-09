@@ -1,0 +1,16 @@
+{
+  "name": "PRIMS",
+  "description": "PRIMS is a lightweight, open-source Model Context Protocol (MCP) server that lets LLM agents safely execute arbitrary Python code in a secure, throw-away sandbox.",
+  "git_url": "https://github.com/hileamlakB/PRIMS",
+  "author_github": "hileamlakB",
+  "category": "databases",
+  "tags": [
+    "agents",
+    "docker",
+    "fastmcp",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
