@@ -1,0 +1,16 @@
+{
+  "name": "e2b-sandbox-mcp",
+  "description": "MCP server connecting Claude Code with E2B cloud sandboxes for working on any GitHub repo",
+  "git_url": "https://github.com/asif-nvc/e2b-sandbox-mcp",
+  "author_github": "asif-nvc",
+  "category": "databases",
+  "tags": [
+    "sandbox",
+    "connecting",
+    "claude",
+    "code",
+    "cloud"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
