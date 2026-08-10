@@ -1,0 +1,16 @@
+{
+  "name": "pubspro/pubmed-search",
+  "description": "MCP server for PubMed search and literature summarization",
+  "git_url": "https://github.com/pubspro/pubmed-search",
+  "author_github": "pubspro",
+  "category": "search",
+  "tags": [
+    "aiagent",
+    "biomedical",
+    "claude",
+    "healthcare",
+    "literaturesearch"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
