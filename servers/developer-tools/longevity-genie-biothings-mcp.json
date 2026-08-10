@@ -1,0 +1,16 @@
+{
+  "name": "biothings-mcp",
+  "description": "MCP (Model Context Protocol) server for biothings",
+  "git_url": "https://github.com/longevity-genie/biothings-mcp",
+  "author_github": "longevity-genie",
+  "category": "developer-tools",
+  "tags": [
+    "bioinformatics",
+    "biothings",
+    "geneticvariants",
+    "genetics",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
