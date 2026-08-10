@@ -1,0 +1,17 @@
+{
+  "name": "hashgraph-online/hashnet-mcp-js",
+  "description": "Universal MCP Server for finding + connecting to agents anywhere on the planet. https://hol.org/mcp",
+  "git_url": "https://github.com/hashgraph-online/hashnet-mcp-js",
+  "author_github": "hashgraph-online",
+  "category": "security",
+  "tags": [
+    "a2a",
+    "agent",
+    "agentdiscovery",
+    "agentverse",
+    "aiagents"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://hol.org/mcp"
+}
