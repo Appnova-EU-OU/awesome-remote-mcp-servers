@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server-templates",
+  "description": "A flexible platform that provides Docker & Kubernetes backends, a lightweight CLI (mcpt), and client utilities for seamless MCP integration. Spin up servers from templates, route requests through a single endpoint with load balancing, and support both deployed (HTTP) and local (stdio) transports — all with sensible defaults and YAML-based configs.",
+  "git_url": "https://github.com/Data-Everything/mcp-server-templates",
+  "author_github": "Data-Everything",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "claude",
+    "crewai",
+    "cursor",
+    "langchain"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://data-everything.github.io/mcp-server-templates/"
+}
