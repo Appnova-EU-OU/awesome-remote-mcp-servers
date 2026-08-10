@@ -1,0 +1,17 @@
+{
+  "name": "jobd",
+  "description": "Self-hostable GPU-aware job broker for your own machines, with native MCP/agent integration",
+  "git_url": "https://github.com/musharna/jobd",
+  "author_github": "musharna",
+  "category": "ai-agents",
+  "tags": [
+    "distributedsystems",
+    "fastapi",
+    "gpu",
+    "homelab",
+    "jobqueue"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/jobd/"
+}
