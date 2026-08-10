@@ -1,0 +1,14 @@
+{
+  "name": "ionoscloud-mcp",
+  "description": "This project implements an MCP server to interact with ionos cloud resources.",
+  "git_url": "https://github.com/ionos-cloud/ionoscloud-mcp",
+  "author_github": "ionos-cloud",
+  "category": "cloud-infra",
+  "tags": [
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
