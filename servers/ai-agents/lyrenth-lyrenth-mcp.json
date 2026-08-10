@@ -1,0 +1,16 @@
+{
+  "name": "lyrenth-mcp",
+  "description": "Read any URL as a clean AIDocument (Markdown + structure) through Lyrenth's cached index.",
+  "git_url": "https://github.com/lyrenth/lyrenth-mcp",
+  "author_github": "lyrenth",
+  "category": "ai-agents",
+  "tags": [
+    "lyrenth",
+    "read",
+    "any",
+    "url",
+    "clean"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
