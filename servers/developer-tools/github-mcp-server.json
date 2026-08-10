@@ -1,8 +1,8 @@
 {
   "name": "GitHub MCP Server",
   "description": "Official GitHub MCP server for repository management, issue tracking, pull requests, and code search.",
-  "git_url": "https://github.com/modelcontextprotocol/servers",
-  "author_github": "modelcontextprotocol",
+  "git_url": "https://github.com/github/github-mcp-server",
+  "author_github": "github",
   "category": "developer-tools",
   "tags": ["github", "git", "repository", "issues", "pull-requests"],
   "env_keys": [
