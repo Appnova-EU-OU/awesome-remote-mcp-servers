@@ -1,0 +1,17 @@
+{
+  "name": "finopsmcp",
+  "description": "The headless FinOps intelligence layer: API-first, agent-first cost control for cloud + AI. Connect your cloud stack in Claude, Cursor, or the terminal, and gate what agents do to your infra before they act. Propose-only. Open source, local-first.",
+  "git_url": "https://github.com/chaandannn/finopsmcp",
+  "author_github": "chaandannn",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "anomalydetection",
+    "aws",
+    "azure",
+    "claude"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://getnable.com"
+}
