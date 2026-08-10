@@ -1,0 +1,17 @@
+{
+  "name": "Continuum-AI-Corp/orcarouter-mcp-server",
+  "description": "Official MCP server for OrcaRouter — the LLM gateway with auto-routing and fallback chains. Browse models and chat from Claude Desktop, Cursor, Windsurf, or any MCP client.",
+  "git_url": "https://github.com/Continuum-AI-Corp/orcarouter-mcp-server",
+  "author_github": "Continuum-AI-Corp",
+  "category": "communication",
+  "tags": [
+    "aigateway",
+    "anthropic",
+    "claudecode",
+    "claudedesktop",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.orcarouter.ai"
+}
