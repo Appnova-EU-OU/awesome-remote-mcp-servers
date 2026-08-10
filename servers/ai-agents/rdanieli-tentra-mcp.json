@@ -1,0 +1,17 @@
+{
+  "name": "rdanieli/tentra-mcp",
+  "description": "Tentra MCP — memory for AI coding agents. Persistent code graph + AI architecture diagrams. 32 MCP tools. Works in Cursor, Claude Code, Codex, Windsurf.",
+  "git_url": "https://github.com/rdanieli/tentra-mcp",
+  "author_github": "rdanieli",
+  "category": "ai-agents",
+  "tags": [
+    "agentmemory",
+    "ai",
+    "claudecode",
+    "codegraph",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://trytentra.com"
+}
