@@ -1,0 +1,16 @@
+{
+  "name": "omop_mcp",
+  "description": "Model Context Protocol (MCP) server for mapping clinical terminology to Observational Medical Outcomes Partnership (OMOP) concepts using Large Language Models",
+  "git_url": "https://github.com/OHNLP/omop_mcp",
+  "author_github": "OHNLP",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "healthcare",
+    "mcpserver",
+    "ohdsi",
+    "omopcdm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
