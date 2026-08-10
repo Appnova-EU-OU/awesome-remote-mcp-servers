@@ -1,0 +1,16 @@
+{
+  "name": "memebo-at/memeboat-mcp",
+  "description": "MCP server for Memeboat — search 25,000+ meme templates and create memes from any AI assistant. Free, no API key. https://memebo.at",
+  "git_url": "https://github.com/memebo-at/memeboat-mcp",
+  "author_github": "memebo-at",
+  "category": "search",
+  "tags": [
+    "memebo",
+    "memeboat",
+    "search",
+    "meme",
+    "templates"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
