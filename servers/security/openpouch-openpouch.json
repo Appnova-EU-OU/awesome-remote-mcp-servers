@@ -1,0 +1,17 @@
+{
+  "name": "openpouch",
+  "description": "Agent-native hosting: coding agents deploy apps to a live URL in one command - no account, no CAPTCHA. CLI + MCP server, Apache-2.0.",
+  "git_url": "https://github.com/openpouch/openpouch",
+  "author_github": "openpouch",
+  "category": "security",
+  "tags": [
+    "agents",
+    "aiagents",
+    "claudecode",
+    "deploy",
+    "deployment"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://openpouch.dev"
+}
