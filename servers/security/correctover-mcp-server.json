@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "Correctover MCP Server — LLM Reliability Engineering for AI tools. Real-time 6-dimension output validation, self-healing failover, drift detection. Zero-dep, BYOK.",
+  "git_url": "https://github.com/Correctover/mcp-server",
+  "author_github": "Correctover",
+  "category": "security",
+  "tags": [
+    "agentsecurity",
+    "aisecurity",
+    "ccs",
+    "correctover",
+    "llmreliability"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://correctover.com"
+}
