@@ -1,0 +1,17 @@
+{
+  "name": "isaac-levine/forage",
+  "description": "Self-improving tool discovery for AI agents. Agents find, install, and learn to use new MCP tools automatically.",
+  "git_url": "https://github.com/isaac-levine/forage",
+  "author_github": "isaac-levine",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "claude",
+    "llmtools",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/forage-mcp"
+}
