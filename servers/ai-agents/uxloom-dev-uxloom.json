@@ -1,0 +1,17 @@
+{
+  "name": "uxloom",
+  "description": "Agent-native UI/UX design validation via MCP — journey completeness, state coverage, WCAG checks before code exists",
+  "git_url": "https://github.com/uxloom-dev/uxloom",
+  "author_github": "uxloom-dev",
+  "category": "ai-agents",
+  "tags": [
+    "accessibility",
+    "aiagents",
+    "design",
+    "designtocode",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://uxloom.dev"
+}
