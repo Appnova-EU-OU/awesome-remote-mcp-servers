@@ -1,0 +1,17 @@
+{
+  "name": "AceDataCloud/MCPNanoBanana",
+  "description": "MCP server for Nano Banana AI image generation and editing via Ace Data Cloud.",
+  "git_url": "https://github.com/AceDataCloud/MCPNanoBanana",
+  "author_github": "AceDataCloud",
+  "category": "cloud-infra",
+  "tags": [
+    "aiimage",
+    "developertools",
+    "imageediting",
+    "imagegeneration",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://platform.acedata.cloud"
+}
