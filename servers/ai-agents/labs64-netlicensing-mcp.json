@@ -1,0 +1,17 @@
+{
+  "name": "NetLicensing-MCP",
+  "description": "The official NetLicensing MCP Server is a natural language interface that enables agentic applications to manage the full software licensing lifecycle in Labs64 NetLicensing 👉🏼 without writing a single API call.",
+  "git_url": "https://github.com/Labs64/NetLicensing-MCP",
+  "author_github": "Labs64",
+  "category": "ai-agents",
+  "tags": [
+    "laas",
+    "labs64",
+    "licensingasaservice",
+    "llm",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://netlicensing.io"
+}
