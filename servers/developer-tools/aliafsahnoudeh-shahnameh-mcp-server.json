@@ -1,0 +1,13 @@
+{
+  "name": "aliafsahnoudeh/shahnameh-mcp-server",
+  "description": "ام سی پی سرور برای شاهنامه",
+  "git_url": "https://github.com/aliafsahnoudeh/shahnameh-mcp-server",
+  "author_github": "aliafsahnoudeh",
+  "category": "developer-tools",
+  "tags": [
+    "aliafsahnoudeh",
+    "shahnameh"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
