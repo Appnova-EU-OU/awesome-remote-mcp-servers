@@ -1,0 +1,16 @@
+{
+  "name": "mcp-redis-cloud",
+  "description": "Manage your Redis Cloud resources effortlessly using natural language. Create databases, monitor subscriptions, and configure cloud deployments with simple commands.",
+  "git_url": "https://github.com/redis/mcp-redis-cloud",
+  "author_github": "redis",
+  "category": "databases",
+  "tags": [
+    "redis",
+    "cloud",
+    "manage",
+    "your",
+    "resources"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
