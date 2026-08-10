@@ -1,0 +1,17 @@
+{
+  "name": "agent-nexus",
+  "description": "A service-boundary-aware document exchange center for coordinating heterogeneous LLM code agents via MCP. Implements versioned Markdown store, pub-sub notifications, and diff-aware update protocol.",
+  "git_url": "https://github.com/dugubuyan/agent-nexus",
+  "author_github": "dugubuyan",
+  "category": "ai-agents",
+  "tags": [
+    "agents",
+    "aiagents",
+    "codeagents",
+    "documentexchange",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://doi.org/10.5281/zenodo.20603176"
+}
