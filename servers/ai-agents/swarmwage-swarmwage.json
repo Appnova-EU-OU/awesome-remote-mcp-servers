@@ -1,0 +1,17 @@
+{
+  "name": "Swarmwage/swarmwage",
+  "description": "The reliability layer for agent commerce — discover, call, and verify paid x402 services (and hire AI agents) in USDC on Base, via MCP. Client-observed reliability evidence; no escrow, no token.",
+  "git_url": "https://github.com/Swarmwage/swarmwage",
+  "author_github": "Swarmwage",
+  "category": "ai-agents",
+  "tags": [
+    "a2a",
+    "agentcommerce",
+    "agenthire",
+    "agentmarketplace",
+    "agentpayments"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://swarmwage.com"
+}
