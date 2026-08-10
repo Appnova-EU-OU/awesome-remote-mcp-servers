@@ -1,0 +1,17 @@
+{
+  "name": "rplryan/x402-discovery-mcp",
+  "description": "MCP server for x402 Service Discovery — continuously growing catalog of services, real-time quality signals, facilitator-compat checks. For Claude, Cursor, Windsurf.",
+  "git_url": "https://github.com/rplryan/x402-discovery-mcp",
+  "author_github": "rplryan",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "basechain",
+    "basenetwork",
+    "claude",
+    "coinbase"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://x402scout.com/"
+}
