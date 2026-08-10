@@ -1,0 +1,16 @@
+{
+  "name": "erajasekar/ai-diagram-maker-mcp",
+  "description": "MCP server for AI Diagram Maker — generate flowcharts, sequence diagrams, ERDs, system/network architecture, UML, mindmap, and workflow from natural language, code, ASCII, images, or Mermaid. Inline rendering using MCP Apps UI and editable diagram URLs. Requires API key.",
+  "git_url": "https://github.com/erajasekar/ai-diagram-maker-mcp",
+  "author_github": "erajasekar",
+  "category": "media",
+  "tags": [
+    "erajasekar",
+    "diagram",
+    "maker",
+    "generate",
+    "flowcharts"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
