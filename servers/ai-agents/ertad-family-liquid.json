@@ -1,0 +1,16 @@
+{
+  "name": "ertad-family/liquid",
+  "description": "AI discovers APIs. Code syncs data. No adapters to write.",
+  "git_url": "https://github.com/ertad-family/liquid",
+  "author_github": "ertad-family",
+  "category": "ai-agents",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "apiintegration",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
