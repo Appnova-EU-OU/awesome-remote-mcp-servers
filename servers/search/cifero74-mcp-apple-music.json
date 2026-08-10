@@ -1,0 +1,17 @@
+{
+  "name": "mcp-apple-music",
+  "description": "Full Apple Music integration for Claude via MCP — search catalog, manage library & playlists",
+  "git_url": "https://github.com/Cifero74/mcp-apple-music",
+  "author_github": "Cifero74",
+  "category": "search",
+  "tags": [
+    "anthropic",
+    "applemusic",
+    "claude",
+    "fastmcp",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/Cifero74/mcp-apple-music"
+}
