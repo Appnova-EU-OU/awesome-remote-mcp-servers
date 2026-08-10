@@ -1,0 +1,16 @@
+{
+  "name": "mctl-mcp",
+  "description": "AI-native platform for Kubernetes management and automated GitOps (30+ tools).",
+  "git_url": "https://github.com/mctlhq/mctl-mcp",
+  "author_github": "mctlhq",
+  "category": "cloud-infra",
+  "tags": [
+    "mctl",
+    "native",
+    "platform",
+    "kubernetes",
+    "management"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
