@@ -1,0 +1,16 @@
+{
+  "name": "a2asearch-mcp",
+  "description": "MCP server for searching AI agents, MCP servers, CLI tools and agent skills via A2ASearch",
+  "git_url": "https://github.com/tadas-github/a2asearch-mcp",
+  "author_github": "tadas-github",
+  "category": "search",
+  "tags": [
+    "a2asearch",
+    "aiagents",
+    "claude",
+    "cursor",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
