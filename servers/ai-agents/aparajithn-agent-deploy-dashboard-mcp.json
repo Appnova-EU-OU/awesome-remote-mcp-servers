@@ -1,0 +1,16 @@
+{
+  "name": "agent-deploy-dashboard-mcp",
+  "description": "Unified deployment management MCP server for Vercel, Render, Railway, and Fly.io",
+  "git_url": "https://github.com/aparajithn/agent-deploy-dashboard-mcp",
+  "author_github": "aparajithn",
+  "category": "ai-agents",
+  "tags": [
+    "agent",
+    "deploy",
+    "dashboard",
+    "unified",
+    "deployment"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
