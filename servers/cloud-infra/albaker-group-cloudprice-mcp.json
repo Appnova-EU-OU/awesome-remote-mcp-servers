@@ -1,0 +1,17 @@
+{
+  "name": "cloudprice-mcp",
+  "description": "MCP server that compares on-demand VM pricing across AWS, Azure, and GCP in real time",
+  "git_url": "https://github.com/Albaker-Group/cloudprice-mcp",
+  "author_github": "Albaker-Group",
+  "category": "cloud-infra",
+  "tags": [
+    "anthropic",
+    "aws",
+    "azure",
+    "claude",
+    "cloudcost"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/cloudprice-mcp/"
+}
