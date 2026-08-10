@@ -1,0 +1,16 @@
+{
+  "name": "forgemeshlabs/anomaly-mcp",
+  "description": "Blockchain event sequence anomaly detection MCP server. Scores event streams using NASA-derived SequenceMiner via x402 micropayments.",
+  "git_url": "https://github.com/forgemeshlabs/anomaly-mcp",
+  "author_github": "forgemeshlabs",
+  "category": "ai-agents",
+  "tags": [
+    "forgemeshlabs",
+    "anomaly",
+    "blockchain",
+    "event",
+    "sequence"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
