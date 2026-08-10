@@ -91,6 +91,25 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-5) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
+- [OpenNews MCP](https://freemcp.space/featured/opennews-mcp) — 85+ real-time news and market-data sources (Bloomberg, Reuters, CoinDesk, exchange listings, on-chain whale trades) behind one MCP API. Every article carries an AI-generated impact score and a long/short trading signal.
+- [real-browser-mcp](https://freemcp.space/featured/real-browser-mcp) — MCP server + Chrome extension that gives AI agents control of your real browser with existing sessions and logins
+- [mcp-gateway](https://freemcp.space/featured/mcp-gateway-3) — One endpoint in front of unlimited MCP servers and REST APIs. The agent sees a fixed ~15-tool surface however many you connect, so tool-list token cost stays flat (about 89% less on a 100-tool stack) and the savings climb as you add more. Single Rust binary.
+- [odoo-claude-mcp](https://freemcp.space/featured/odoo-claude-mcp) — Self-hosted MCP server connecting Claude to Odoo 15→19 — 197+ tools, multi-tenant, Bulgaria l10n
+- [MikroMCP](https://freemcp.space/featured/mikromcp) — Production-grade MCP server for MikroTik RouterOS with secure AI-native network automation.
+- [outsource-mcp](https://freemcp.space/featured/outsource-mcp) — Give your AI assistant its own AI assistants.
+- [PRIMS](https://freemcp.space/featured/prims) — PRIMS is a lightweight, open-source Model Context Protocol (MCP) server that lets LLM agents safely execute arbitrary Python code in a secure, throw-away sandbox.
+- [srunx](https://freemcp.space/featured/srunx) — A modern Python library for SLURM workload manager integration with workflow orchestration capabilities.
+- [VMware-Monitor](https://freemcp.space/featured/vmware-monitor-2) — Read-only VMware vCenter/ESXi monitoring — code-level enforced safety, zero destructive operations
+- [piston-mcp](https://freemcp.space/featured/piston-mcp-2) — MCP server that allows LLMs to connect to and execute code using Piston
+- [VMware-VKS](https://freemcp.space/featured/vmware-vks) — MCP Skill + CLI for vSphere with Tanzu (VKS) — Supervisor, Namespace, and TanzuKubernetesCluster lifecycle management. Requires vSphere 8.x+.
+- [VMware-NSX](https://freemcp.space/featured/vmware-nsx) — VMware NSX networking management: segments, gateways, NAT, routing, IPAM — 32 MCP tools
+- [VMware-NSX-Security](https://freemcp.space/featured/vmware-nsx-security) — VMware NSX DFW microsegmentation and security: distributed firewall, security groups, tags, traceflow, IDPS — MCP tools for AI agents
+- [cloudcostsmcp](https://freemcp.space/featured/cloudcostsmcp) — Anchor AI FinOps to real, live cloud pricing — open source MCP server for AWS, GCP, and Azure
+- [e2b-sandbox-mcp](https://freemcp.space/featured/e2b-sandbox-mcp-2) — MCP server connecting Claude Code with E2B cloud sandboxes for working on any GitHub repo
+- [VMware-Storage](https://freemcp.space/featured/vmware-storage) — VMware vSphere storage management: datastores, iSCSI, vSAN. Domain-focused MCP skill with 11 tools.
+- [VMware-AVI](https://freemcp.space/featured/vmware-avi) — AVI (NSX Advanced Load Balancer) management and AKO Kubernetes operations tool
+- [hatchable-mcp](https://freemcp.space/featured/hatchable-mcp) — Hosted full-stack app platform. Creates a Postgres database, deploys API functions, and serves static sites from any MCP client. OAuth 2.1 + PKCE with DCR; bearer fallback. Free tier.
 - [mcp-server](https://freemcp.space/featured/mcp-server-8) — A generic, modular server for implementing the Model Context Protocol (MCP). 
 - [ChatSpatial](https://freemcp.space/featured/chatspatial) — MCP server for spatial transcriptomics analysis through natural language interfaces.
 - [browser-use-rs](https://freemcp.space/featured/browser-use-rs) — A Rust library for browser automation via Chrome DevTools Protocol with built-in AI integration through Model Context Protocol (MCP)
@@ -172,25 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ovh-api-mcp](https://freemcp.space/featured/ovh-api-mcp) — MCP server for the OVH API — explore and execute any OVH endpoint from Claude, Cursor, or any MCP-compatible LLM client. Built in Rust.
 - [cloudprice-mcp](https://freemcp.space/featured/cloudprice-mcp) — MCP server that compares on-demand VM pricing across AWS, Azure, and GCP in real time
 - [cloudscope-mcp](https://freemcp.space/featured/cloudscope-mcp-2) — Multi-cloud cost management MCP server (Azure + GCP). Read-only access to spending, anomalies, forecasts, budgets, and guided FinOps workflows. Ask your AI about your cloud bill.
-- [mcp-server-spotinst](https://freemcp.space/featured/mcp-server-spotinst) — MCP server for Spot.io (Spotinst) API - Ocean clusters, VNGs, Elastigroups, costs, right-sizing across AWS and Azure
-- [eds-mcp-server](https://freemcp.space/featured/eds-mcp-server) — MCP server for Adobe Edge Delivery Services — 20 tools for AI agents to preview, publish, read content, query metrics, and manage EDS sites
-- [Nutanix-AIops](https://freemcp.space/featured/nutanix-aiops) — Governed Nutanix Prism Central v4 ops: clusters/VMs/storage/DR/LCM, ETag-safe, 47 MCP tools (preview)
-- [OpenAaaS](https://freemcp.space/featured/openaaas) — OpenAaaS: science agent network — bring AI to your data, not your data to AI. AaaS, Agent as a Service, MCP protocol, local execution, Docker sandbox, zero-config Rust nodes.
-- [olostep-mcp-server](https://freemcp.space/featured/olostep-mcp-server) — MCP server for Olostep — the web scraping, crawling, and search infrastructure used by top AI companies. Gives any MCP-compatible AI agent the ability to scrape, crawl, batch-extract, and search the web in real time.
-- [opengenes-mcp](https://freemcp.space/featured/opengenes-mcp) — MCP for the open-genes
-- [jupytercad-mcp](https://freemcp.space/featured/jupytercad-mcp) — An MCP server for JupyterCAD that allows you to control it using LLMs/natural language.
-- [nakkas](https://freemcp.space/featured/nakkas) — MCP server that turns AI into an SVG artist
-- [transcriptor-mcp](https://freemcp.space/featured/transcriptor-mcp-2) — An MCP server (stdio + HTTP/SSE) that fetches video transcripts/subtitles via yt-dlp, with pagination for large responses. Supports YouTube, Twitter/X, Instagram, TikTok, Twitch, Vimeo, Facebook, Bilibili, VK, Dailymotion. Whisper fallback — transcribes audio when subtitles are unavailable (local or OpenAI API). Works with Cursor and other MCP host
-- [mermaid-mcp-server](https://freemcp.space/featured/mermaid-mcp-server) — MCP server for generating Mermaid diagrams from projects (local/GitHub) and rendering via Kroki.
-- [unbrowser](https://freemcp.space/featured/unbrowser) — Agent-native browser and MCP server for lightweight, Chrome-free web discovery, with explicit escalation to Unchained for browser-only flows.
-- [freshcontext-mcp](https://freemcp.space/featured/freshcontext-mcp) — Timestamped web intelligence for AI agents. MCP server with guaranteed freshness envelopes.
-- [AgenticCrawler](https://freemcp.space/featured/agenticcrawler) — acrawl — LLM-powered web crawler. Describe what you want in plain English, get structured data back. Single Rust binary, 25 providers, MCP server built-in.
-- [selenium-mcp-server](https://freemcp.space/featured/selenium-mcp-server) — A Model Context Protocol server providing web automation capabilities through Selenium WebDriver
-- [iwdp-mcp](https://freemcp.space/featured/iwdp-mcp) — MCP server + CLI for iOS Safari debugging via ios-webkit-debug-proxy — full WebKit Inspector Protocol support
-- [chrome-mcp-secure](https://freemcp.space/featured/chrome-mcp-secure) — Secure ChromeMCP Server - Query and Debugging sites using Google Chrome with additional security hardening layers
-- [rendex-mcp](https://freemcp.space/featured/rendex-mcp) — MCP server for Rendex — capture screenshots, generate PDFs, and render HTML to images of any webpage via AI agents. Claude, Cursor, Windsurf compatible.
-- [mcp-doctor](https://freemcp.space/featured/mcp-doctor) — Diagnose, secure, and benchmark your MCP servers. Zero-config CLI for Claude Code, Cursor, VS Code, and Windsurf.
-- [4everland-hosting-mcp](https://freemcp.space/featured/4everland-hosting-mc) — An MCP server implementation for 4EVERLAND Hosting enabling instant deployment of AI-generated code to decentralized storage networks like Greenfield, IPFS, and Arweave.
 <!-- freemcp:end -->
 
 ---
