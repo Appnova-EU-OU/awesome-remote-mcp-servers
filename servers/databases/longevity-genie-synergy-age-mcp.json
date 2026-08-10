@@ -1,0 +1,16 @@
+{
+  "name": "longevity-genie/synergy-age-mcp",
+  "description": "MCP server for the SynergyAge database of synergistic and antagonistic genetic interactions in longevity.",
+  "git_url": "https://github.com/longevity-genie/synergy-age-mcp",
+  "author_github": "longevity-genie",
+  "category": "databases",
+  "tags": [
+    "longevity",
+    "genie",
+    "synergy",
+    "age",
+    "synergyage"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
