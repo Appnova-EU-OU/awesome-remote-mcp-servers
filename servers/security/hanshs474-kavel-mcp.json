@@ -1,0 +1,16 @@
+{
+  "name": "kavel-mcp",
+  "description": "Discover Kavel’s AI photo/video generators (hairstyle, figurine, pet portrait, wedding, 90s yearbook, dance video, HD restore), get model-tuned prompts, and open the right tool to generate on www.kavel.ai. `npx kavel-mcp`",
+  "git_url": "https://github.com/hanshs474/kavel-mcp",
+  "author_github": "hanshs474",
+  "category": "security",
+  "tags": [
+    "kavel",
+    "discover",
+    "photo",
+    "video",
+    "generators"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
