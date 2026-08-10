@@ -1,0 +1,16 @@
+{
+  "name": "VMware-NSX",
+  "description": "VMware NSX networking management: segments, gateways, NAT, routing, IPAM — 32 MCP tools",
+  "git_url": "https://github.com/zw008/VMware-NSX",
+  "author_github": "zw008",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiskill",
+    "claudecode",
+    "codex",
+    "geminicli"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
