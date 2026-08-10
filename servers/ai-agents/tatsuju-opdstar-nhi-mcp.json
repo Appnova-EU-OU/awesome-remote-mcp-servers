@@ -1,0 +1,17 @@
+{
+  "name": "tatsuju/opdstar-nhi-mcp",
+  "description": "Taiwan National Health Insurance (NHI) data for AI agents via Model Context Protocol. Powered by OPDSTAR (https://opdstar.com).",
+  "git_url": "https://github.com/tatsuju/opdstar-nhi-mcp",
+  "author_github": "tatsuju",
+  "category": "ai-agents",
+  "tags": [
+    "anthropic",
+    "claude",
+    "healthcare",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://opdstar.com"
+}
