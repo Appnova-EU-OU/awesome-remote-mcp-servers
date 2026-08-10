@@ -1,0 +1,17 @@
+{
+  "name": "odoo-claude-mcp",
+  "description": "Self-hosted MCP server connecting Claude to Odoo 15→19 — 197+ tools, multi-tenant, Bulgaria l10n",
+  "git_url": "https://github.com/rosenvladimirov/odoo-claude-mcp",
+  "author_github": "rosenvladimirov",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "bulgaria",
+    "claude",
+    "claudecode"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://rosenvladimirov.github.io/odoo-claude-mcp/"
+}
