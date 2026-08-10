@@ -1,0 +1,16 @@
+{
+  "name": "real-browser-mcp",
+  "description": "MCP server + Chrome extension that gives AI agents control of your real browser with existing sessions and logins",
+  "git_url": "https://github.com/ofershap/real-browser-mcp",
+  "author_github": "ofershap",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "browserautomation",
+    "chromeextension",
+    "claude",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
