@@ -1,0 +1,16 @@
+{
+  "name": "oura-mcp",
+  "description": "Ask your Oura Ring anything, in ChatGPT or Claude, in any language. Remote MCP server for Oura data.",
+  "git_url": "https://github.com/Rajskij/oura-mcp",
+  "author_github": "Rajskij",
+  "category": "communication",
+  "tags": [
+    "chatgpt",
+    "claude",
+    "health",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
