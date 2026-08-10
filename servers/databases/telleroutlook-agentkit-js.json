@@ -1,8 +1,8 @@
 {
   "name": "telleroutlook/agentkit-js/mcp-server",
-  "description": "Embedded agent runtime compliance layer — WASM sandbox, MCP firewall, capability manifests, verifiable rollouts, and trace-to-training export",
-  "git_url": "https://github.com/telleroutlook/agentkit-js",
-  "author_github": "telleroutlook",
+  "description": "Embedded agent runtime compliance layer \u2014 WASM sandbox, MCP firewall, capability manifests, verifiable rollouts, and trace-to-training export",
+  "git_url": "https://github.com/WasmAgent/wasmagent-js",
+  "author_github": "WasmAgent",
   "category": "databases",
   "tags": [
     "agent",
