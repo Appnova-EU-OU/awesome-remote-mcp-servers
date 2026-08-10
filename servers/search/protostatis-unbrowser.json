@@ -1,0 +1,17 @@
+{
+  "name": "unbrowser",
+  "description": "Agent-native browser and MCP server for lightweight, Chrome-free web discovery, with explicit escalation to Unchained for browser-only flows.",
+  "git_url": "https://github.com/protostatis/unbrowser",
+  "author_github": "protostatis",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "headlessbrowser",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://unchainedsky.com/unbrowser?utm_source=github&utm_medium=repository&utm_campaign=unbrowser"
+}
