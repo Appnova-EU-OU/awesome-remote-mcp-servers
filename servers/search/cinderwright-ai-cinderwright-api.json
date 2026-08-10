@@ -1,0 +1,17 @@
+{
+  "name": "cinderwright-ai/cinderwright-api",
+  "description": "MCP server + x402 Discovery Hub. Search engine for the agent economy. 1450+ services indexed.",
+  "git_url": "https://github.com/cinderwright-ai/cinderwright-api",
+  "author_github": "cinderwright-ai",
+  "category": "search",
+  "tags": [
+    "agent",
+    "aiagent",
+    "api",
+    "autonomousagent",
+    "base"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://api.ideafactorylab.org"
+}
