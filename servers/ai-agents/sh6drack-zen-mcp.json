@@ -1,0 +1,16 @@
+{
+  "name": "sh6drack/zen-mcp",
+  "description": "The first MCP server for Zen Browser. 20 tools. No Selenium, no Playwright, just WebSocket.",
+  "git_url": "https://github.com/sh6drack/zen-mcp",
+  "author_github": "sh6drack",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "browserautomation",
+    "claude",
+    "firefox",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
