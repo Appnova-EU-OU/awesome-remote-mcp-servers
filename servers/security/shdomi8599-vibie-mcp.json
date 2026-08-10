@@ -1,0 +1,16 @@
+{
+  "name": "vibie-mcp",
+  "description": "Deploy static HTML folders to permanent vibie.page URLs in seconds. One-line auto-install (`npx vibie-mcp setup`) wires up Claude Desktop and Cursor, OAuth device-flow auth, automatic folder marker for repeat deploys without re-typing slugs.",
+  "git_url": "https://github.com/shdomi8599/vibie-mcp",
+  "author_github": "shdomi8599",
+  "category": "security",
+  "tags": [
+    "vibie",
+    "deploy",
+    "static",
+    "html",
+    "folders"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
