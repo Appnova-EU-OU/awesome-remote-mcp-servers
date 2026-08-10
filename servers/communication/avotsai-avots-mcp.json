@@ -1,0 +1,17 @@
+{
+  "name": "avots-mcp",
+  "description": "MCP server for avots.ai: image, video, audio, face-swap, talking avatars and chat across 300+ AI models. Works with Claude Desktop, claude.ai, Cursor, Cline, openclaw, LibreChat, Continue.",
+  "git_url": "https://github.com/avotsai/avots-mcp",
+  "author_github": "avotsai",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "gpt"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://avots.ai/mcp"
+}
