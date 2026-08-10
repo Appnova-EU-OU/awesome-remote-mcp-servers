@@ -1,0 +1,16 @@
+{
+  "name": "build123d-mcp",
+  "description": "MCP server for build123d to improve AI cognition when creating 3D CAD models",
+  "git_url": "https://github.com/pzfreo/build123d-mcp",
+  "author_github": "pzfreo",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "build123d",
+    "cad",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
