@@ -1,0 +1,16 @@
+{
+  "name": "iwdp-mcp",
+  "description": "MCP server + CLI for iOS Safari debugging via ios-webkit-debug-proxy — full WebKit Inspector Protocol support",
+  "git_url": "https://github.com/nnemirovsky/iwdp-mcp",
+  "author_github": "nnemirovsky",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "apple",
+    "automation",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
