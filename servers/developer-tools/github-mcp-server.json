@@ -1,15 +1,16 @@
 {
-  "name": "GitHub MCP Server",
-  "description": "Official GitHub MCP server for repository management, issue tracking, pull requests, and code search.",
-  "git_url": "https://github.com/modelcontextprotocol/servers",
-  "author_github": "modelcontextprotocol",
+  "name": "GitHub MCP",
+  "description": "GitHub's official MCP server — access repositories, issues, pull requests, actions, code search, and more directly from an MCP client.",
+  "git_url": "https://github.com/github/github-mcp-server",
+  "homepage": "https://github.com/github/github-mcp-server",
+  "author_github": "github",
   "category": "developer-tools",
-  "tags": ["github", "git", "repository", "issues", "pull-requests"],
+  "tags": ["github", "git", "issues", "pull-requests", "official"],
   "env_keys": [
     {
       "key": "GITHUB_PERSONAL_ACCESS_TOKEN",
       "kind": "required",
-      "description": "GitHub personal access token with repo and read:user scopes."
+      "description": "GitHub Personal Access Token used to authenticate API calls — create one at https://github.com/settings/personal-access-tokens/new"
     }
   ],
   "license": "MIT",
