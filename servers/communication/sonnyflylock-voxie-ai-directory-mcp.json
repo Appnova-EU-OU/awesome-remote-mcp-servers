@@ -1,0 +1,16 @@
+{
+  "name": "sonnyflylock/voxie-ai-directory-mcp",
+  "description": "MCP server for the Voxie AI Phone Number Directory. Query AI services you can chat with via webchat.",
+  "git_url": "https://github.com/sonnyflylock/voxie-ai-directory-mcp",
+  "author_github": "sonnyflylock",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "aiassistant",
+    "anthropic",
+    "chatbot",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
