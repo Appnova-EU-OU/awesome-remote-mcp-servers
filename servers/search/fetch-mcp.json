@@ -1,0 +1,12 @@
+{
+  "name": "Fetch MCP",
+  "description": "Fetches content from any URL and returns it as markdown, plain text, HTML or JSON. Supports custom request headers. No API key required.",
+  "git_url": "https://github.com/zcaceres/fetch-mcp",
+  "npm_package": "mcp-fetch-server",
+  "author_github": "zcaceres",
+  "category": "search",
+  "tags": ["web-scraping", "markdown", "content-fetch", "no-api-key", "html"],
+  "env_keys": [],
+  "license": "MIT",
+  "status": "active"
+}
