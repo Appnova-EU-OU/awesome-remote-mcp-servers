@@ -1,0 +1,17 @@
+{
+  "name": "infrawise",
+  "description": "MCP server for AWS infrastructure analysis — DynamoDB, Lambda, SQS, SNS, S3, API Gateway, PostgreSQL, MySQL, MongoDB, Kafka & IaC drift. Works with Claude Code, Cursor, and GitHub Copilot.",
+  "git_url": "https://github.com/Sidd27/infrawise",
+  "author_github": "Sidd27",
+  "category": "databases",
+  "tags": [
+    "aitools",
+    "aws",
+    "claudecode",
+    "cursor",
+    "devtools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sidd27.github.io/infrawise/"
+}
