@@ -1,0 +1,17 @@
+{
+  "name": "gpu-bridge/mcp-server",
+  "description": "GPU-Bridge MCP Server — 30 AI services as Model Context Protocol tools. LLMs, image gen, video, audio, embeddings, reranking, PDF parsing & more. x402 native for autonomous agents.",
+  "git_url": "https://github.com/gpu-bridge/mcp-server",
+  "author_github": "gpu-bridge",
+  "category": "media",
+  "tags": [
+    "gpu",
+    "bridge",
+    "services",
+    "tools",
+    "llms"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://gpubridge.io"
+}
