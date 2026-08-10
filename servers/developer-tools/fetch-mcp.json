@@ -1,0 +1,11 @@
+{
+  "name": "Fetch MCP",
+  "description": "Fetches a URL and returns its content as clean Markdown, plain text, HTML, JSON, or readable article text — ideal for feeding web content to an LLM.",
+  "git_url": "https://github.com/zcaceres/fetch-mcp",
+  "homepage": "https://github.com/zcaceres/fetch-mcp",
+  "author_github": "zcaceres",
+  "category": "developer-tools",
+  "tags": ["fetch", "markdown", "web", "scraping", "url"],
+  "license": "MIT",
+  "status": "active"
+}
