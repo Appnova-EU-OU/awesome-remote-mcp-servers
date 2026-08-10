@@ -1,0 +1,17 @@
+{
+  "name": "fal-mcp-server",
+  "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+  "git_url": "https://github.com/raveenb/fal-mcp-server",
+  "author_github": "raveenb",
+  "category": "media",
+  "tags": [
+    "aitools",
+    "claude",
+    "falai",
+    "imagegeneration",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://luminarylane.github.io/fal-mcp-server/"
+}
