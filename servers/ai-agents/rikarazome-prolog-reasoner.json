@@ -1,0 +1,17 @@
+{
+  "name": "prolog-reasoner",
+  "description": "SWI-Prolog as a logic calculator for LLMs — MCP server and Python library",
+  "git_url": "https://github.com/rikarazome/prolog-reasoner",
+  "author_github": "rikarazome",
+  "category": "ai-agents",
+  "tags": [
+    "anthropic",
+    "claude",
+    "llm",
+    "logicprogramming",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/prolog-reasoner/"
+}
