@@ -1,0 +1,16 @@
+{
+  "name": "ssh-mcp",
+  "description": "SSH MCP server that runs locally making it easy to manage hosts and perform commands across a group of hosts",
+  "git_url": "https://github.com/blakerouse/ssh-mcp",
+  "author_github": "blakerouse",
+  "category": "developer-tools",
+  "tags": [
+    "ssh",
+    "runs",
+    "locally",
+    "making",
+    "easy"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
