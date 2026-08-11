@@ -1,0 +1,16 @@
+{
+  "name": "PersonalizationMCP",
+  "description": "🎯 A unified personal data hub built on MCP that allows AI assistants to access your digital life from Steam, YouTube, Bilibili and more platforms for truly personalized interactions.",
+  "git_url": "https://github.com/YangLiangwei/PersonalizationMCP",
+  "author_github": "YangLiangwei",
+  "category": "media",
+  "tags": [
+    "personalizationmcp",
+    "unified",
+    "personal",
+    "data",
+    "hub"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
