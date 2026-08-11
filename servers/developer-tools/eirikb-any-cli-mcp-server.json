@@ -1,0 +1,16 @@
+{
+  "name": "any-cli-mcp-server",
+  "description": "Convert any (whatever) CLI to proper MCP server with tools mapped based on CLI help",
+  "git_url": "https://github.com/eirikb/any-cli-mcp-server",
+  "author_github": "eirikb",
+  "category": "developer-tools",
+  "tags": [
+    "any",
+    "cli",
+    "convert",
+    "whatever",
+    "proper"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
