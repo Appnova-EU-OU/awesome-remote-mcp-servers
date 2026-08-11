@@ -91,6 +91,27 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [brandkit-mcp](https://freemcp.space/featured/brandkit-mcp) — Open-source MCP server that gives AI tools native access to your companys design system — drop in your brand files, connect to Claude or any LLM tool
+- [telleroutlook/agentkit-js/mcp-server](https://freemcp.space/featured/telleroutlook-agentk-2) — Embedded agent runtime compliance layer — WASM sandbox, MCP firewall, capability manifests, verifiable rollouts, and trace-to-training export
+- [Brave Search MCP](https://freemcp.space/featured/brave-search-mcp) — Brave's official MCP server — web, image, video, and news search via the Brave Search API, directly from an MCP client.
+- [GitHub MCP](https://freemcp.space/featured/github-mcp) — GitHub's official MCP server — access repositories, issues, pull requests, actions, code search, and more directly from an MCP client.
+- [Fetch MCP](https://freemcp.space/featured/fetch-mcp) — Fetches a URL and returns its content as clean Markdown, plain text, HTML, JSON, or readable article text — ideal for feeding web content to an LLM.
+- [fal-mcp-server](https://freemcp.space/featured/fal-mcp-server) — MCP server for Fal.ai - Generate images, videos, music and audio with Claude
+- [mcp-js](https://freemcp.space/featured/mcp-js) — MCP server that exposes a V8 JavaScript runtime as a tool for AI agents like Claude and Cursor. Supports persistent heap snapshots via S3 or local filesystem, and is ready for integration with modern AI development environments.
+- [mermaid-mcp](https://freemcp.space/featured/mermaid-mcp) — AI-powered Mermaid diagram generation with 22+ diagram types including flowcharts, sequence diagrams, class diagrams, ER diagrams, architecture diagrams, state machines, and more. Features 50+ pre-built templates, advanced layout engines, SVG/PNG/PDF exports, and seamless integration with GitHub Copilot, Claude, and any MCP-compatible client. Install via NPM: `npm install -g @narasimhaponnada/mermaid-mcp-server`
+- [Grok-MCP](https://freemcp.space/featured/grok-mcp) —     MCP server for xAI’s Grok API with Web/X search, vision, image/video generation and file support
+- [mcp-server-js](https://freemcp.space/featured/mcp-server-js) — MCP server that exposes YepCode processes as callable tools for AI platforms. Securely connect AI assistants to your YepCode workflows, APIs, and automations.
+- [agy-bridge](https://freemcp.space/featured/agy-bridge) — MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI (agy) — purpose-built tools, model routing with fallback, session continuity, and output truncation to save Claude's context and tokens.
+- [openapi-to-mcp](https://freemcp.space/featured/openapi-to-mcp) — An MCP server for your API
+- [colab-mcp](https://freemcp.space/featured/colab-mcp) — Fixed & enhanced fork of Google's Colab MCP — tools visible at startup, GPU control, Windows support, no more 'Disconnected'
+- [netops-mcp](https://freemcp.space/featured/netops-mcp) — A comprehensive  MCP server that provides access to essential DevOps and networking tools through a standardized interface.
+- [prolog-reasoner](https://freemcp.space/featured/prolog-reasoner) — SWI-Prolog as a logic calculator for LLMs — MCP server and Python library
+- [Edict](https://freemcp.space/featured/edict) — A programming language designed for AI agents. No parser, no syntax — agents produce AST directly as JSON. Statically typed, effect-tracked, contract-verified, compiled to WASM via MCP.
+- [agent-nexus](https://freemcp.space/featured/agent-nexus) — A service-boundary-aware document exchange center for coordinating heterogeneous LLM code agents via MCP. Implements versioned Markdown store, pub-sub notifications, and diff-aware update protocol.
+- [matlab-mcp-server-python](https://freemcp.space/featured/matlab-mcp-server-py) — MCP server that connects any AI agent to MATLAB — execute code, async jobs, interactive Plotly plots, custom tools, and monitoring dashboard
+- [mcp-server](https://freemcp.space/featured/mcp-server-9) — MCP server for Agent Blueprint — connect AI agents to your blueprints, business cases, and implementation plans
+- [jobd](https://freemcp.space/featured/jobd) — Self-hostable GPU-aware job broker for your own machines, with native MCP/agent integration
+- [5dive-mcp](https://freemcp.space/featured/5dive-mcp) — MCP (Model Context Protocol) server for 5dive. Exposes the agent-fleet CLI (tasks, agents, digest) as stdio MCP tools. MIT.
 - [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-5) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
 - [OpenNews MCP](https://freemcp.space/featured/opennews-mcp) — 85+ real-time news and market-data sources (Bloomberg, Reuters, CoinDesk, exchange listings, on-chain whale trades) behind one MCP API. Every article carries an AI-generated impact score and a long/short trading signal.
 - [real-browser-mcp](https://freemcp.space/featured/real-browser-mcp) — MCP server + Chrome extension that gives AI agents control of your real browser with existing sessions and logins
@@ -170,27 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-server](https://freemcp.space/featured/mcp-server-7) — Infrawise MCP server for Claude Code — Azure FinOps cost optimization
 - [tempmd-mcp](https://freemcp.space/featured/tempmd-mcp) — MCP server for temp.md — one stable public link for agent-made artifacts, updated in place
 - [hostodo-mcp](https://freemcp.space/featured/hostodo-mcp) — Registry metadata for the hosted Hostodo MCP server
-- [biothings-mcp](https://freemcp.space/featured/biothings-mcp) — MCP (Model Context Protocol) server for biothings
-- [metmuseum-mcp](https://freemcp.space/featured/metmuseum-mcp) — Met Museum MCP integration to discover the art collection at The Metropolitan Museum of Art in New York
-- [mcp-cyclops](https://freemcp.space/featured/mcp-cyclops) — Model Context Protocol server for Cyclops
-- [gget-mcp](https://freemcp.space/featured/gget-mcp) — Bioinformatic MCP server that wraps the most useful functions of the gget library
-- [encode-toolkit](https://freemcp.space/featured/encode-toolkit) — MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and analyze functional genomics experiments
-- [tdmcp](https://freemcp.space/featured/tdmcp) — TouchDesigner MCP server, describe a visual to Claude, Cursor or Codex and it builds a real, playable node network (audio-reactive, generative, particle, 3D, feedback) with live knobs + MIDI/OSC/DMX, then checks for errors and previews its own work.
-- [agoragentic-integrations](https://freemcp.space/featured/agoragentic-integrat-2) — Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, wallets, SDKs, and examples for execute-first routing, governed handoffs, and receipt-aware agent commerce.
-- [photopea-mcp-server](https://freemcp.space/featured/photopea-mcp-server) — MCP server for AI-driven image editing with Photopea
-- [mcp-ipfs](https://freemcp.space/featured/mcp-ipfs) — 🪐 MCP IPFS Server 
-- [esp-rainmaker-mcp](https://freemcp.space/featured/esp-rainmaker-mcp) — ESP RainMaker MCP server
-- [finopsmcp](https://freemcp.space/featured/finopsmcp) — The headless FinOps intelligence layer: API-first, agent-first cost control for cloud + AI. Connect your cloud stack in Claude, Cursor, or the terminal, and gate what agents do to your infra before they act. Propose-only. Open source, local-first.
-- [mcp-server-aws-sso](https://freemcp.space/featured/mcp-server-aws-sso) — Node.js/TypeScript MCP server for AWS Single Sign-On (SSO). Enables AI systems (LLMs) with tools to initiate SSO login (device auth flow), list accounts/roles, and securely execute AWS CLI commands using temporary credentials. Streamlines AI interaction with AWS resources.
-- [mcp-proxmox](https://freemcp.space/featured/mcp-proxmox) — MCP server for managing Proxmox VE clusters through AI assistants
-- [adls-mcp-server](https://freemcp.space/featured/adls-mcp-server) — Microsoft Azure Data Lake Storage MCP Server
-- [docker-mcp-server](https://freemcp.space/featured/docker-mcp-server) — Docker MCP server designed for agents that need their containers to stay running. Health checks, auto-restart, Compose lifecycle, log streaming.
-- [mcp-pfsense](https://freemcp.space/featured/mcp-pfsense) — MCP server for managing pfSense firewalls through AI assistants
-- [devops-mcp-webui](https://freemcp.space/featured/devops-mcp-webui) — Bridge connecting OpenWebUI to Kubernetes clusters via MCP protocol
-- [agent-deploy-dashboard-mcp](https://freemcp.space/featured/agent-deploy-dashboa-2) — Unified deployment management MCP server for Vercel, Render, Railway, and Fly.io
-- [ovh-api-mcp](https://freemcp.space/featured/ovh-api-mcp) — MCP server for the OVH API — explore and execute any OVH endpoint from Claude, Cursor, or any MCP-compatible LLM client. Built in Rust.
-- [cloudprice-mcp](https://freemcp.space/featured/cloudprice-mcp) — MCP server that compares on-demand VM pricing across AWS, Azure, and GCP in real time
-- [cloudscope-mcp](https://freemcp.space/featured/cloudscope-mcp-2) — Multi-cloud cost management MCP server (Azure + GCP). Read-only access to spending, anomalies, forecasts, budgets, and guided FinOps workflows. Ask your AI about your cloud bill.
 <!-- freemcp:end -->
 
 ---
