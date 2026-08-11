@@ -1,0 +1,16 @@
+{
+  "name": "llm-bus",
+  "description": "Open-source coordination engine for AI agents, over MCP. Atomic claims, shared ledger, leases, presence, handoffs, tasks. Self-host it or use the hosted service at llm-bus.com.",
+  "git_url": "https://github.com/danieldoderlein/llm-bus",
+  "author_github": "danieldoderlein",
+  "category": "security",
+  "tags": [
+    "agentcoordination",
+    "aiagents",
+    "aicoding",
+    "claude",
+    "claudecode"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active"
+}
