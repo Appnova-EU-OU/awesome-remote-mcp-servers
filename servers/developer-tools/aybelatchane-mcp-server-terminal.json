@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-terminal",
+  "description": "Terminal MCP Server - Model Context Protocol server for TUI/CLI automation with structured Terminal State Tree (TST)",
+  "git_url": "https://github.com/aybelatchane/mcp-server-terminal",
+  "author_github": "aybelatchane",
+  "category": "developer-tools",
+  "tags": [
+    "terminal",
+    "tui",
+    "cli",
+    "automation",
+    "structured"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
