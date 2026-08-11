@@ -1,0 +1,16 @@
+{
+  "name": "Citio",
+  "description": "Self-hosted AI coding agents that live in Slack — run Claude Code or Codex in your own infra, ship PRs, and keep every credential behind a controlled MCP tool layer.",
+  "git_url": "https://github.com/lawrencehui/Citio",
+  "author_github": "lawrencehui",
+  "category": "communication",
+  "tags": [
+    "aiagent",
+    "awsecs",
+    "claudecode",
+    "codex",
+    "codingagent"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
