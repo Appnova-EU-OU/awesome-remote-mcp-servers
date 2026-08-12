@@ -1,0 +1,15 @@
+{
+  "name": "kill-process-mcp",
+  "description": "AI-powered cross-platform MCP server exposing LLM-accessible tools to list and terminate OS processes via natural language queries",
+  "git_url": "https://github.com/misiektoja/kill-process-mcp",
+  "author_github": "misiektoja",
+  "category": "ai-agents",
+  "tags": [
+    "killprocess",
+    "llm",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
