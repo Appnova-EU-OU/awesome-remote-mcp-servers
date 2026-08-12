@@ -1,0 +1,16 @@
+{
+  "name": "esxi-mcp-server",
+  "description": "A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.",
+  "git_url": "https://github.com/bright8192/esxi-mcp-server",
+  "author_github": "bright8192",
+  "category": "developer-tools",
+  "tags": [
+    "esxi",
+    "vmware",
+    "vcenter",
+    "management",
+    "based"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
