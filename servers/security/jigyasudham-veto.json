@@ -1,0 +1,17 @@
+{
+  "name": "veto",
+  "description": "Veto MCP — gives every major AI CLI (Claude Code, Codex, Gemini, Cursor, Windsurf) a council of 49 specialist agents + 93 tools. Deterministic-first, self-learning, no API keys.",
+  "git_url": "https://github.com/jigyasudham/veto",
+  "author_github": "jigyasudham",
+  "category": "security",
+  "tags": [
+    "agenticai",
+    "aiagents",
+    "claudecode",
+    "codereview",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@jigyasudham/veto"
+}
