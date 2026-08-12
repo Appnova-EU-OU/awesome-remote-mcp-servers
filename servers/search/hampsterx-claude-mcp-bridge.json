@@ -1,0 +1,16 @@
+{
+  "name": "claude-mcp-bridge",
+  "description": "MCP server bridging Claude CLI to Codex, Cursor - queries, and search with hardened subprocess management",
+  "git_url": "https://github.com/hampsterx/claude-mcp-bridge",
+  "author_github": "hampsterx",
+  "category": "search",
+  "tags": [
+    "claude",
+    "bridge",
+    "bridging",
+    "cli",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
