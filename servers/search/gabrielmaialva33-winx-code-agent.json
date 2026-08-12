@@ -1,0 +1,17 @@
+{
+  "name": "winx-code-agent",
+  "description": "🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic capabilities. ",
+  "git_url": "https://github.com/gabrielmaialva33/winx-code-agent",
+  "author_github": "gabrielmaialva33",
+  "category": "search",
+  "tags": [
+    "autonomous",
+    "codeagent",
+    "computer",
+    "control",
+    "execution"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://crates.io/crates/winx-code-agent"
+}
