@@ -1,0 +1,17 @@
+{
+  "name": "mcp-injector",
+  "description": "Local MCP daemon that compresses your codebase before sending it to Claude  41-89% token reduction",
+  "git_url": "https://github.com/foldwork-dev/mcp-injector",
+  "author_github": "foldwork-dev",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "antigravity",
+    "claude",
+    "codebasecompression",
+    "contextengineering"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.foldwork.dev/"
+}
