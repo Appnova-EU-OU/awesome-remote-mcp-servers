@@ -1,0 +1,17 @@
+{
+  "name": "agoragentic-integrations",
+  "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, wallets, SDKs, and examples for execute-first routing, governed handoffs, and receipt-aware agent commerce.",
+  "git_url": "https://github.com/rhein1/agoragentic-integrations",
+  "author_github": "rhein1",
+  "category": "security",
+  "tags": [
+    "a2a",
+    "agentcommerce",
+    "agentframework",
+    "agentmarketplace",
+    "agentos"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agoragentic.com/integrations/"
+}
