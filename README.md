@@ -91,6 +91,23 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [depwire](https://freemcp.space/featured/depwire) — The missing context layer for AI-assisted refactoring
+- [PersonalizationMCP](https://freemcp.space/featured/personalizationmcp) — 🎯 A unified personal data hub built on MCP that allows AI assistants to access your digital life from Steam, YouTube, Bilibili and more platforms for truly personalized interactions.
+- [mcp-browser-kit](https://freemcp.space/featured/mcp-browser-kit) — An MCP Server that enables AI assistants to interact with your local browsers.
+- [1mcpserver](https://freemcp.space/featured/1mcpserver-2) — MCP of MCPs. Automatic discovery and configure MCP servers on your local machine.
+- [mcp-server-leetcode](https://freemcp.space/featured/mcp-server-leetcode) — A Model Context Protocol (MCP) server for LeetCode that provides access to problems, user data, and contest information through GraphQL
+- [any-cli-mcp-server](https://freemcp.space/featured/any-cli-mcp-server) — Convert any (whatever) CLI to proper MCP server with tools mapped based on CLI help
+- [ssh-mcp](https://freemcp.space/featured/ssh-mcp) — SSH MCP server that runs locally making it easy to manage hosts and perform commands across a group of hosts
+- [mcp-server-terminal](https://freemcp.space/featured/mcp-server-terminal) — Terminal MCP Server - Model Context Protocol server for TUI/CLI automation with structured Terminal State Tree (TST)
+- [ejentum-mcp](https://freemcp.space/featured/ejentum-mcp) — MCP server for the Ejentum API. 8 cognitive operations across 4 harnesses (reasoning, code, anti-deception, memory) in dynamic and adaptive modes.
+- [claude-concilium](https://freemcp.space/featured/claude-concilium) — Multi-agent AI consultation framework for Claude Code via MCP — get second opinions from OpenAI, Gemini, Qwen, DeepSeek
+- [mcp-proxmox](https://freemcp.space/featured/mcp-proxmox) — MCP server for managing Proxmox VE clusters through AI assistants
+- [llm-council](https://freemcp.space/featured/llm-council) — LLM Council fork with persistence, decision traces, stability fixes, repeatable checks, and MCP integration.
+- [llm-bus](https://freemcp.space/featured/llm-bus) — Open-source coordination engine for AI agents, over MCP. Atomic claims, shared ledger, leases, presence, handoffs, tasks. Self-host it or use the hosted service at llm-bus.com.
+- [telleroutlook/agentkit-js/mcp-server](https://freemcp.space/featured/telleroutlook-agentk) — Embedded agent runtime compliance layer — WASM sandbox, MCP firewall, capability manifests, verifiable rollouts, and trace-to-training export
+- [mcp-pfsense](https://freemcp.space/featured/mcp-pfsense) — MCP server for managing pfSense firewalls through AI assistants
+- [Citio](https://freemcp.space/featured/citio) — Self-hosted AI coding agents that live in Slack — run Claude Code or Codex in your own infra, ship PRs, and keep every credential behind a controlled MCP tool layer.
+- [tailtest-cline](https://freemcp.space/featured/tailtest-cline) — tailtest for Cline: MCP server + .clinerules pack + Memory Bank integration. Reaches 8+ editors via Cline. Adversarial test mode shipped from day one.
 - [brandkit-mcp](https://freemcp.space/featured/brandkit-mcp) — Open-source MCP server that gives AI tools native access to your companys design system — drop in your brand files, connect to Claude or any LLM tool
 - [telleroutlook/agentkit-js/mcp-server](https://freemcp.space/featured/telleroutlook-agentk-2) — Embedded agent runtime compliance layer — WASM sandbox, MCP firewall, capability manifests, verifiable rollouts, and trace-to-training export
 - [Brave Search MCP](https://freemcp.space/featured/brave-search-mcp) — Brave's official MCP server — web, image, video, and news search via the Brave Search API, directly from an MCP client.
@@ -174,23 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-aoai-web-browsing](https://freemcp.space/featured/mcp-aoai-web-browsin) — A minimal Model Context Protocol 🖥️ server/client🧑‍💻with OpenAI and 🌐 web browser control via Playwright.
 - [mcpmcp-server](https://freemcp.space/featured/mcpmcp-server) — Discover, setup, and integrate MCP servers with your favorite clients. Unlock the full potential of AI in your daily workflow.
 - [mcp-server-python](https://freemcp.space/featured/mcp-server-python) — Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
-- [localstack-mcp-server](https://freemcp.space/featured/localstack-mcp-serve) — MCP Server for LocalStack
-- [proximo](https://freemcp.space/featured/proximo) — The Proxmox MCP you can hand the keys: VE/PBS/PMG/PDM. Plan, prove, undo, diagnose. MCP/A2A/API.
-- [azure-resource-graph-mcp-server](https://freemcp.space/featured/azure-resource-graph-2) — Model Context Protocol (MCP) server that provides access to Azure Resource Graph queries. It allows you to retrieve information about Azure resources across your subscriptions using Resource Graph queries.
-- [liveblocks-mcp-server](https://freemcp.space/featured/liveblocks-mcp-serve) — MCP server for Liveblocks.
-- [netskope-mcp](https://freemcp.space/featured/netskope-mcp) — An MCP to give access to all Netskope Private Access components within a Netskope Private Access environments including detailed setup information and LLM examples on usage.
-- [ionoscloud-mcp](https://freemcp.space/featured/ionoscloud-mcp) — This project implements an MCP server to interact with ionos cloud resources.
-- [docker-mcp](https://freemcp.space/featured/docker-mcp) — Docker-MCP-Server - An MCP server covering the full management surface of Docker.  Manage, maintain and audit multiple docker environments with ease.
-- [oci-pricing-mcp](https://freemcp.space/featured/oci-pricing-mcp) — OCI Pricing MCP Server - Model Context Protocol server for Oracle Cloud Infrastructure pricing information
-- [cloud-cost-mcp](https://freemcp.space/featured/cloud-cost-mcp-2) — Model Context Protocol server for Cloud Infrastructure pricing information
-- [spinnaker-mcp](https://freemcp.space/featured/spinnaker-mcp) — MCP Server for Spinnaker — manage applications, pipelines, and deployments via the Model Context Protocol
-- [NetLicensing-MCP](https://freemcp.space/featured/netlicensing-mcp) — The official NetLicensing MCP Server is a natural language interface that enables agentic applications to manage the full software licensing lifecycle in Labs64 NetLicensing 👉🏼 without writing a single API call.
-- [easypanel-mcp-server](https://freemcp.space/featured/easypanel-mcp-server) — MCP Server for Easypanel — control deployments, services, logs and databases from Claude Code, Cursor and Claude Desktop
-- [cloudflare-mcp-pro](https://freemcp.space/featured/cloudflare-mcp-pro) — Cloudflare MCP: 69 tools over the REST API v4 — DNS, Workers, KV, R2, D1, Pages, WAF, SSL, Email, AI — with a human-approval gate
-- [kops](https://freemcp.space/featured/kops) — Read-only kubectl as an MCP server for Claude Code — structured JSON, hardcoded safe verbs, one-shot triage & inventory.
-- [mcp-server](https://freemcp.space/featured/mcp-server-7) — Infrawise MCP server for Claude Code — Azure FinOps cost optimization
-- [tempmd-mcp](https://freemcp.space/featured/tempmd-mcp) — MCP server for temp.md — one stable public link for agent-made artifacts, updated in place
-- [hostodo-mcp](https://freemcp.space/featured/hostodo-mcp) — Registry metadata for the hosted Hostodo MCP server
 <!-- freemcp:end -->
 
 ---
