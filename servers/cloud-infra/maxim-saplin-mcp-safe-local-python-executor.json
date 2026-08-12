@@ -1,0 +1,16 @@
+{
+  "name": "mcp_safe_local_python_executor",
+  "description": "Stdio MCP Server wrapping custom Python runtime (LocalPythonExecutor) from Hugging Faces' `smolagents` framework. The runtime combines the ease of setup (compared to docker, VM, cloud runtimes) while providing safeguards and limiting operations/imports that are allowed inside the runtime.",
+  "git_url": "https://github.com/maxim-saplin/mcp_safe_local_python_executor",
+  "author_github": "maxim-saplin",
+  "category": "cloud-infra",
+  "tags": [
+    "safe",
+    "local",
+    "python",
+    "executor",
+    "stdio"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
