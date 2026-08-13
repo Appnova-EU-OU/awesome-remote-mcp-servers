@@ -91,6 +91,19 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [VMware-AIops](https://freemcp.space/featured/vmware-aiops) — VMware vCenter/ESXi AI-powered monitoring and operations. Two skills: vmware-monitor (read-only, safe) and vmware-aiops (full operations) | Claude Code Skill
+- [imagen3-mcp](https://freemcp.space/featured/imagen3-mcp) — A powerful image generation tool using Google's Imagen 3.0 API through MCP. Generate high-quality images from text prompts with advanced photography, artistic, and photorealistic controls.
+- [esxi-mcp-server](https://freemcp.space/featured/esxi-mcp-server) — A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.
+- [mkp](https://freemcp.space/featured/mkp) — MKP is a Model Context Protocol (MCP) server for Kubernetes
+- [mcp_safe_local_python_executor](https://freemcp.space/featured/mcp-safe-local-pytho) — Stdio MCP Server wrapping custom Python runtime (LocalPythonExecutor) from Hugging Faces' `smolagents` framework. The runtime combines the ease of setup (compared to docker, VM, cloud runtimes) while providing safeguards and limiting operations/imports that are allowed inside the runtime.
+- [forge](https://freemcp.space/featured/forge) — Turn Claude Code into a plan-execute-validate loop with parallel work, intelligent retry, and memory
+- [winx-code-agent](https://freemcp.space/featured/winx-code-agent) — 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic capabilities. 
+- [kill-process-mcp](https://freemcp.space/featured/kill-process-mcp) — AI-powered cross-platform MCP server exposing LLM-accessible tools to list and terminate OS processes via natural language queries
+- [persistproc](https://freemcp.space/featured/persistproc) — MCP server to allow LLMs to manage and inspect long-running processes
+- [kagan](https://freemcp.space/featured/kagan) — OpenCode Plugin for supervised agentic software development on a Kanban board
+- [claude-mcp-bridge](https://freemcp.space/featured/claude-mcp-bridge) — MCP server bridging Claude CLI to Codex, Cursor - queries, and search with hardened subprocess management
+- [veto](https://freemcp.space/featured/veto) — Veto MCP — gives every major AI CLI (Claude Code, Codex, Gemini, Cursor, Windsurf) a council of 49 specialist agents + 93 tools. Deterministic-first, self-learning, no API keys.
+- [mcp-injector](https://freemcp.space/featured/mcp-injector) — Local MCP daemon that compresses your codebase before sending it to Claude  41-89% token reduction
 - [depwire](https://freemcp.space/featured/depwire) — The missing context layer for AI-assisted refactoring
 - [PersonalizationMCP](https://freemcp.space/featured/personalizationmcp) — 🎯 A unified personal data hub built on MCP that allows AI assistants to access your digital life from Steam, YouTube, Bilibili and more platforms for truly personalized interactions.
 - [mcp-browser-kit](https://freemcp.space/featured/mcp-browser-kit) — An MCP Server that enables AI assistants to interact with your local browsers.
@@ -178,19 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [infomaniak-mcp-agent](https://freemcp.space/featured/infomaniak-mcp-agent) — Full unofficial agentic Infomaniak MCP server — guided automation of web hosting, mail, kDrive, domains and DNS.
 - [tilt-mcp](https://freemcp.space/featured/tilt-mcp) — MCP server for Tilt - enables LLMs to interact with your Tilt dev environment for building, deploying, and debugging Kubernetes workloads
 - [portkey-admin-mcp](https://freemcp.space/featured/portkey-admin-mcp) — Full Portkey Admin API MCP server
-- [mcp-server-s3](https://freemcp.space/featured/mcp-server-s3) — MCP server for AWS S3 — list buckets, browse objects, upload/download, presigned URLs
-- [mcp-server-cloudflare](https://freemcp.space/featured/mcp-server-cloudflar) — MCP server to manage Cloudflare Workers, KV, R2, DNS, and cache from your IDE
-- [aidc-ai-mcp](https://freemcp.space/featured/aidc-ai-mcp) — AI data center automation tool — MCP connector (design · validate · layout). Remote MCP: aidc-ai.io/api/mcp · registry io.aidc-ai/design-engine. Engine private.
-- [TokenBurnRate](https://freemcp.space/featured/tokenburnrate) — Track LLM token costs across Claude, GPT and Gemini. MCP server + CLI with optimization hints and $ savings estimates. 📇🏠
-- [nebulablock-mcp-server](https://freemcp.space/featured/nebulablock-mcp-serv) — integrates with the fastmcp library to expose the full range of NebulaBlock API functionalities as accessible tools
-- [mctl-mcp](https://freemcp.space/featured/mctl-mcp) — AI-native platform for Kubernetes management and automated GitOps (30+ tools).
-- [dynadot-mcp](https://freemcp.space/featured/dynadot-mcp) — MCP server for Dynadot domain registrar API3 — 60 tools for domains, DNS, contacts, transfers & more
-- [rnv-color-mcp](https://freemcp.space/featured/rnv-color-mcp) — Color-computation server on the Model Context Protocol. Nine deterministic tools for conversion, harmony, mixing, WCAG contrast, and CIEDE2000. Published to the official MCP registry and listed in awesome-mcp-servers. Also an OAuth 2.1 resource server with RFC 9728 metadata and enforced per-tool scopes.
-- [mcp-server-terraform](https://freemcp.space/featured/mcp-server-terraform) — Safety-first MCP server for Terraform — plan risk & cost analysis, drift detection, confirmation flows, and provider auth pre-flight for Claude and other AI assistants
-- [openpouch](https://freemcp.space/featured/openpouch) — Agent-native hosting: coding agents deploy apps to a live URL in one command - no account, no CAPTCHA. CLI + MCP server, Apache-2.0.
-- [mcp-aoai-web-browsing](https://freemcp.space/featured/mcp-aoai-web-browsin) — A minimal Model Context Protocol 🖥️ server/client🧑‍💻with OpenAI and 🌐 web browser control via Playwright.
-- [mcpmcp-server](https://freemcp.space/featured/mcpmcp-server) — Discover, setup, and integrate MCP servers with your favorite clients. Unlock the full potential of AI in your daily workflow.
-- [mcp-server-python](https://freemcp.space/featured/mcp-server-python) — Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
 <!-- freemcp:end -->
 
 ---
