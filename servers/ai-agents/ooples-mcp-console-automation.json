@@ -1,0 +1,16 @@
+{
+  "name": "mcp-console-automation",
+  "description": "MCP server for AI-driven console application automation and monitoring",
+  "git_url": "https://github.com/ooples/mcp-console-automation",
+  "author_github": "ooples",
+  "category": "ai-agents",
+  "tags": [
+    "console",
+    "automation",
+    "driven",
+    "application",
+    "monitoring"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
