@@ -1,0 +1,17 @@
+{
+  "name": "plori",
+  "description": "plori (plori.ai): a cloud AI agent with its own computer - persistent disk, real CLI tools, and memory that carry over between sessions. Connect any MCP client.",
+  "git_url": "https://github.com/plori-ai/plori",
+  "author_github": "plori-ai",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "claude",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://plori.ai"
+}
