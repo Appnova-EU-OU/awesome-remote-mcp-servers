@@ -1,0 +1,16 @@
+{
+  "name": "quran-mcp-server",
+  "description": "Quran.com API integration for verse search, translation and tafsir",
+  "git_url": "https://github.com/djalal/quran-mcp-server",
+  "author_github": "djalal",
+  "category": "search",
+  "tags": [
+    "quran",
+    "com",
+    "api",
+    "integration",
+    "verse"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
