@@ -1,0 +1,17 @@
+{
+  "name": "context-firewall",
+  "description": "MCP proxy that collapses 50+ tools into 4 meta-tools and compresses tool outputs by 60-95% (HTML, base64, huge JSON) - cut context-token costs for any MCP client, any model",
+  "git_url": "https://github.com/Alepha188838884/context-firewall",
+  "author_github": "Alepha188838884",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "contextwindow",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/context-firewall"
+}
