@@ -1,0 +1,17 @@
+{
+  "name": "vibekit-mcp",
+  "description": "MCP server for VibeKit — build, deploy, and manage hosted apps and chat with their AI agents from Claude Desktop, Cursor, and other MCP clients.",
+  "git_url": "https://github.com/VibeKit-Bot/vibekit-mcp",
+  "author_github": "VibeKit-Bot",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "aiappbuilder",
+    "claude",
+    "codingagent",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://vibekit.bot"
+}
