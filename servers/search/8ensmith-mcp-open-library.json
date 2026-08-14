@@ -1,0 +1,16 @@
+{
+  "name": "mcp-open-library",
+  "description": "A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.",
+  "git_url": "https://github.com/8enSmith/mcp-open-library",
+  "author_github": "8enSmith",
+  "category": "search",
+  "tags": [
+    "ai",
+    "assistants",
+    "authors",
+    "books",
+    "internetarchive"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
