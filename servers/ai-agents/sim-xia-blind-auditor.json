@@ -1,0 +1,16 @@
+{
+  "name": "Blind-Auditor",
+  "description": "MCP tool for improving model coding quality by mandatory self-audition",
+  "git_url": "https://github.com/Sim-xia/Blind-Auditor",
+  "author_github": "Sim-xia",
+  "category": "ai-agents",
+  "tags": [
+    "agent",
+    "aisafety",
+    "mcp",
+    "python",
+    "qualityimprovement"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
