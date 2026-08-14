@@ -1,0 +1,16 @@
+{
+  "name": "touchpoint",
+  "description": "Give your AI agent eyes and hands on any desktop — cross-platform accessibility API with MCP server",
+  "git_url": "https://github.com/Touchpoint-Labs/touchpoint",
+  "author_github": "Touchpoint-Labs",
+  "category": "security",
+  "tags": [
+    "accessibility",
+    "ai",
+    "aiagent",
+    "aiagents",
+    "automation"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
