@@ -91,6 +91,19 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [pyATS_MCP](https://freemcp.space/featured/pyats-mcp) — An MCP Server for pyATS (experimental)
+- [quran-mcp-server](https://freemcp.space/featured/quran-mcp-server) — Quran.com API integration for verse search, translation and tafsir
+- [rijksmuseum-mcp](https://freemcp.space/featured/rijksmuseum-mcp) — Rijksmuseum MCP integration for artwork exploration and analysis
+- [Network-AI](https://freemcp.space/featured/network-ai) — Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for 32 AI frameworks
+- [arch-mcp](https://freemcp.space/featured/arch-mcp) — Arch Linux MCP (Model Context Protocol) Server
+- [mcp-console-automation](https://freemcp.space/featured/mcp-console-automati) — MCP server for AI-driven console application automation and monitoring
+- [multi_mcp](https://freemcp.space/featured/multi-mcp-2) — Multi-Model chat, code review and analysis MCP Server for Claude Code
+- [deepseek-as-subagent](https://freemcp.space/featured/deepseek-as-subagent) — Run DeepSeek as a real sub-agent inside Claude Code / Codex CLI — DeepSeek gets its own 7-tool agent loop in a sandboxed workspace, not just a single LLM call.
+- [term_mcp_deepseek](https://freemcp.space/featured/term-mcp-deepseek) — A MCP‑like server using the DeepSeek API for Terminal
+- [preflight](https://freemcp.space/featured/preflight) — ✈️ 24-tool MCP server for Claude Code: preflight checks for your prompts, cross-service context, session history search with LanceDB vectors, correction pattern learning, cost estimation
+- [OzBridge](https://freemcp.space/featured/ozbridge) — Bring Warp™ Oz™ to any IDE or agent via MCP — plus native @oz in VS Code Copilot Chat. OzBridge is an independent project and is not affiliated with, endorsed by, or sponsored by Warp.
+- [glm-mcp](https://freemcp.space/featured/glm-mcp) — GLM (Zhipu/Z.ai) as a cheap, full-capability subagent for the Claude Code app — works on a subscription Claude (no API key for the main agent), auto-routes between Opus and GLM, file-editing agent with diff/dry-run/git-revert, one-command npx install.
+- [plori](https://freemcp.space/featured/plori) — plori (plori.ai): a cloud AI agent with its own computer - persistent disk, real CLI tools, and memory that carry over between sessions. Connect any MCP client.
 - [VMware-AIops](https://freemcp.space/featured/vmware-aiops) — VMware vCenter/ESXi AI-powered monitoring and operations. Two skills: vmware-monitor (read-only, safe) and vmware-aiops (full operations) | Claude Code Skill
 - [imagen3-mcp](https://freemcp.space/featured/imagen3-mcp) — A powerful image generation tool using Google's Imagen 3.0 API through MCP. Generate high-quality images from text prompts with advanced photography, artistic, and photorealistic controls.
 - [esxi-mcp-server](https://freemcp.space/featured/esxi-mcp-server) — A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.
@@ -178,19 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [books-mcp-server](https://freemcp.space/featured/books-mcp-server-2) — This is an MCP server used for querying books, and it can be applied in common MCP clients, such as Cherry Studio.
 - [sitelauncher-mcp-server](https://freemcp.space/featured/sitelauncher-mcp-ser) — MCP server for deploying live HTTPS websites via SiteLauncher. Instant subdomains or custom .xyz domains, paid with USDC on Base chain.
 - [vibie-mcp](https://freemcp.space/featured/vibie-mcp) — Deploy static HTML folders to permanent vibie.page URLs in seconds. One-line auto-install (`npx vibie-mcp setup`) wires up Claude Desktop and Cursor, OAuth device-flow auth, automatic folder marker for repeat deploys without re-typing slugs.
-- [shiply-mcp](https://freemcp.space/featured/shiply-mcp) — The production backend for anything an agent builds — not just static hosting. Publish any app in one call, then give it a SQL database, server functions, email, and a custom domain. Flat price, no account. Remote MCP at https://shiply.now/mcp
-- [reaper-mcp](https://freemcp.space/featured/reaper-mcp) — MCP server to control REAPER DAW with AI. 176 tools for mixing, mastering, MIDI composition, and full music production.
-- [build123d-mcp](https://freemcp.space/featured/build123d-mcp) — MCP server for build123d to improve AI cognition when creating 3D CAD models
-- [mcp-apple-music](https://freemcp.space/featured/mcp-apple-music) — Full Apple Music integration for Claude via MCP — search catalog, manage library & playlists
-- [auth-fetch-mcp](https://freemcp.space/featured/auth-fetch-mcp) — MCP server that lets AI assistants fetch content from authenticated web pages.
-- [cloakbrowser-mcp](https://freemcp.space/featured/cloakbrowser-mcp) — ⚡ CloakBrowser MCP server for AI agents: Playwright-powered browsing, clean tool forwarding, Docker support, and multi-session HTTP transport.
-- [cert-manager-mcp-server](https://freemcp.space/featured/cert-manager-mcp-ser) — MCP Server for cert-manager
-- [python-openstackmcp-server](https://freemcp.space/featured/python-openstackmcp) — openstack mcp server
-- [pythonanywhere-mcp-server](https://freemcp.space/featured/pythonanywhere-mcp-s) — MCP server implementation for PythonAnywhere cloud platform.
-- [rancher-mcp-server](https://freemcp.space/featured/rancher-mcp-server) — Model Context Protocol (MCP) server for the Rancher ecosystem: multi-cluster Kubernetes, Harvester HCI (VMs, storage, networks), and Fleet GitOps.
-- [infomaniak-mcp-agent](https://freemcp.space/featured/infomaniak-mcp-agent) — Full unofficial agentic Infomaniak MCP server — guided automation of web hosting, mail, kDrive, domains and DNS.
-- [tilt-mcp](https://freemcp.space/featured/tilt-mcp) — MCP server for Tilt - enables LLMs to interact with your Tilt dev environment for building, deploying, and debugging Kubernetes workloads
-- [portkey-admin-mcp](https://freemcp.space/featured/portkey-admin-mcp) — Full Portkey Admin API MCP server
 <!-- freemcp:end -->
 
 ---
