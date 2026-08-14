@@ -1,0 +1,15 @@
+{
+  "name": "MayaMCP",
+  "description": "Model Context Protocol (MCP) server implementation for Autodesk Maya",
+  "git_url": "https://github.com/PatrickPalmer/MayaMCP",
+  "author_github": "PatrickPalmer",
+  "category": "developer-tools",
+  "tags": [
+    "mayamcp",
+    "implementation",
+    "autodesk",
+    "maya"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
