@@ -1,0 +1,17 @@
+{
+  "name": "opentakeoff",
+  "description": "Open-source (Apache-2.0) PDF takeoff for construction & flooring — the first engine an AI agent drives natively over MCP, not bolted on. One-click room detection, materials + quantities, built for preconstruction. Runs entirely in your browser.",
+  "git_url": "https://github.com/Kentucky-ai/opentakeoff",
+  "author_github": "Kentucky-ai",
+  "category": "security",
+  "tags": [
+    "aec",
+    "aiagent",
+    "blueprint",
+    "construction",
+    "constructionestimating"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://opentakeoff.netlify.app"
+}
