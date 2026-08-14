@@ -1,0 +1,16 @@
+{
+  "name": "code-to-tree",
+  "description": "A runtime-free MCP server that converts source code into AST🌲, regardless of language.",
+  "git_url": "https://github.com/micl2e2/code-to-tree",
+  "author_github": "micl2e2",
+  "category": "security",
+  "tags": [
+    "abstractsyntaxtree",
+    "agentic",
+    "ast",
+    "claude",
+    "dependencyfree"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
