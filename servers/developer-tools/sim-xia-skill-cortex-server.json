@@ -1,0 +1,16 @@
+{
+  "name": "skill-cortex-server",
+  "description": "A third-party MCP server that enable all IDEs to access Claude Code Skills capabilities",
+  "git_url": "https://github.com/Sim-xia/skill-cortex-server",
+  "author_github": "Sim-xia",
+  "category": "developer-tools",
+  "tags": [
+    "skill",
+    "cortex",
+    "third",
+    "party",
+    "enable"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
