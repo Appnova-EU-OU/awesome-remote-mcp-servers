@@ -91,6 +91,19 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-shell](https://freemcp.space/featured/mcp-shell) — Give hands to AI. MCP server to run shell commands securely, auditably, and on demand.
+- [MayaMCP](https://freemcp.space/featured/mayamcp) — Model Context Protocol (MCP) server implementation for Autodesk Maya
+- [code-to-tree](https://freemcp.space/featured/code-to-tree) — A runtime-free MCP server that converts source code into AST🌲, regardless of language.
+- [mcp-open-library](https://freemcp.space/featured/mcp-open-library) — A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- [svgmaker-mcp](https://freemcp.space/featured/svgmaker-mcp) — Model Context Protocol server for SVGMaker - AI-powered SVG generation and editing. Seamlessly integrate SVG creation into AI workflows.
+- [anilist-mcp](https://freemcp.space/featured/anilist-mcp) — AniList MCP server for accessing anime and manga data
+- [opentakeoff](https://freemcp.space/featured/opentakeoff) — Open-source (Apache-2.0) PDF takeoff for construction & flooring — the first engine an AI agent drives natively over MCP, not bolted on. One-click room detection, materials + quantities, built for preconstruction. Runs entirely in your browser.
+- [touchpoint](https://freemcp.space/featured/touchpoint) — Give your AI agent eyes and hands on any desktop — cross-platform accessibility API with MCP server
+- [cicada](https://freemcp.space/featured/cicada) — AI Coders search blindly. Be their guide.
+- [skill-cortex-server](https://freemcp.space/featured/skill-cortex-server) — A third-party MCP server that enable all IDEs to access Claude Code Skills capabilities
+- [Blind-Auditor](https://freemcp.space/featured/blind-auditor) — MCP tool for improving model coding quality by mandatory self-audition
+- [mcp_creator_growth](https://freemcp.space/featured/mcp-creator-growth) — Intelligent learning sidecar for AI coding assistants. Helps developers learn from AI-generated code changes through interactive blocking quizzes and provides agents with persistent project-specific debugging memory using silent RAG tools. Features 56% token optimization and multi-language support.
+- [vibekit-mcp](https://freemcp.space/featured/vibekit-mcp) — MCP server for VibeKit — build, deploy, and manage hosted apps and chat with their AI agents from Claude Desktop, Cursor, and other MCP clients.
 - [pyATS_MCP](https://freemcp.space/featured/pyats-mcp) — An MCP Server for pyATS (experimental)
 - [quran-mcp-server](https://freemcp.space/featured/quran-mcp-server) — Quran.com API integration for verse search, translation and tafsir
 - [rijksmuseum-mcp](https://freemcp.space/featured/rijksmuseum-mcp) — Rijksmuseum MCP integration for artwork exploration and analysis
@@ -178,19 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ChatSpatial](https://freemcp.space/featured/chatspatial) — MCP server for spatial transcriptomics analysis through natural language interfaces.
 - [browser-use-rs](https://freemcp.space/featured/browser-use-rs) — A Rust library for browser automation via Chrome DevTools Protocol with built-in AI integration through Model Context Protocol (MCP)
 - [mcp-browser-agent](https://freemcp.space/featured/mcp-browser-agent) — A Model Context Protocol (MCP) integration that provides Claude Desktop with autonomous browser automation capabilities. This agent enables Claude to interact with web content, manipulate DOM elements, execute JavaScript, and perform API requests.
-- [mcp-redis-cloud](https://freemcp.space/featured/mcp-redis-cloud) — Manage your Redis Cloud resources effortlessly using natural language. Create databases, monitor subscriptions, and configure cloud deployments with simple commands.
-- [omop_mcp](https://freemcp.space/featured/omop-mcp) — Model Context Protocol (MCP) server for mapping clinical terminology to Observational Medical Outcomes Partnership (OMOP) concepts using Large Language Models
-- [qiniu-mcp-server](https://freemcp.space/featured/qiniu-mcp-server) — A MCP built on Qiniu Cloud products, supporting access to Qiniu Cloud Storage, media processing services, etc.
-- [mcp-k8s-eye](https://freemcp.space/featured/mcp-k8s-eye) — MCP Server for kubernetes management and diagnose your cluster and applications
-- [aws-pricing-mcp](https://freemcp.space/featured/aws-pricing-mcp-2) — An MCP server that exposes AWS EC2 pricing data with an option to search by CPU, RAM, networking
-- [infrawise](https://freemcp.space/featured/infrawise) — MCP server for AWS infrastructure analysis — DynamoDB, Lambda, SQS, SNS, S3, API Gateway, PostgreSQL, MySQL, MongoDB, Kafka & IaC drift. Works with Claude Code, Cursor, and GitHub Copilot.
-- [mcp-nutanix](https://freemcp.space/featured/mcp-nutanix) — MCP Server for Nutanix
-- [ocireg-mcp](https://freemcp.space/featured/ocireg-mcp) — An MCP (Model Context Protocol) server that provides tools for querying OCI registries and image references.
-- [Spaceship MCP](https://freemcp.space/featured/spaceship-mcp) — MCP server for the Spaceship API — manage domains, DNS, contacts & marketplace listings via AI
-- [lumino-mcp-server](https://freemcp.space/featured/lumino-mcp-server) — AI/ML-powered diagnostic engine for SRE Observability on Konflux and OpenShift. It uses the Model Context Protocol (MCP) and 40+ tools to analyze logs, metrics, and traces, enabling automated RCA and predictive analysis.
-- [books-mcp-server](https://freemcp.space/featured/books-mcp-server-2) — This is an MCP server used for querying books, and it can be applied in common MCP clients, such as Cherry Studio.
-- [sitelauncher-mcp-server](https://freemcp.space/featured/sitelauncher-mcp-ser) — MCP server for deploying live HTTPS websites via SiteLauncher. Instant subdomains or custom .xyz domains, paid with USDC on Base chain.
-- [vibie-mcp](https://freemcp.space/featured/vibie-mcp) — Deploy static HTML folders to permanent vibie.page URLs in seconds. One-line auto-install (`npx vibie-mcp setup`) wires up Claude Desktop and Cursor, OAuth device-flow auth, automatic folder marker for repeat deploys without re-typing slugs.
 <!-- freemcp:end -->
 
 ---
