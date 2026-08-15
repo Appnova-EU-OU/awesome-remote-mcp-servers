@@ -1,0 +1,16 @@
+{
+  "name": "mcp-linux-tools",
+  "description": "A MCP server to manage linux, websites and database",
+  "git_url": "https://github.com/gerard-kanters/mcp-linux-tools",
+  "author_github": "gerard-kanters",
+  "category": "databases",
+  "tags": [
+    "agenticai",
+    "ai",
+    "linuxapp",
+    "mcp"
+  ],
+  "license": "GPL-2.0",
+  "status": "active",
+  "homepage": "https://netcare.nl/en/programming-with-an-ai-agent/"
+}
