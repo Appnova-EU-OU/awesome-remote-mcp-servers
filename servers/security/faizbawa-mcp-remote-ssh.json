@@ -1,0 +1,16 @@
+{
+  "name": "mcp-remote-ssh",
+  "description": "MCP server for remote SSH operations -- persistent sessions, structured command output, SFTP file transfer, port forwarding, and secret-safe environment variable injection with automatic output redaction.",
+  "git_url": "https://github.com/faizbawa/mcp-remote-ssh",
+  "author_github": "faizbawa",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "automation",
+    "claude",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
