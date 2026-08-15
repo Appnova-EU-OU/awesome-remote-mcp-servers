@@ -1,0 +1,16 @@
+{
+  "name": "imagen3-mcp",
+  "description": "A powerful image generation tool using Google's Imagen 3.0 API through MCP. Generate high-quality images from text prompts with advanced photography, artistic, and photorealistic controls.",
+  "git_url": "https://github.com/hamflx/imagen3-mcp",
+  "author_github": "hamflx",
+  "category": "media",
+  "tags": [
+    "imagen",
+    "powerful",
+    "image",
+    "generation",
+    "tool"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
