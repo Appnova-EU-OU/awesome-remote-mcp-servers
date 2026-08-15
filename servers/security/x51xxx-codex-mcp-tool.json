@@ -1,0 +1,16 @@
+{
+  "name": "codex-mcp-tool",
+  "description": "MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)",
+  "git_url": "https://github.com/x51xxx/codex-mcp-tool",
+  "author_github": "x51xxx",
+  "category": "security",
+  "tags": [
+    "aitools",
+    "claude",
+    "codereview",
+    "codex",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
