@@ -91,6 +91,19 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [ncp](https://freemcp.space/featured/ncp) — Natural Context Provider (NCP). Your MCPs, supercharged. Find any tool instantly, load on demand, run on schedule, ready for any   client. Smart loading saves tokens and energy.
+- [hop](https://freemcp.space/featured/hop) — Fast, elegant SSH connection manager with a TUI dashboard and MCP server
+- [codex-mcp-tool](https://freemcp.space/featured/codex-mcp-tool) — MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
+- [pty-mcp](https://freemcp.space/featured/pty-mcp) — MCP server for interactive terminal sessions — local shells, SSH, serial ports, and   persistent remote sessions
+- [tui-mcp](https://freemcp.space/featured/tui-mcp) — What Chrome DevTools MCP is for the browser, tui-mcp is for the terminal. Launch, screenshot, and interact with any TUI app.
+- [infrabroker](https://freemcp.space/featured/infrabroker) — Infrastructure access broker for AI agents — SSH & Kubernetes. Per-operation ephemeral credentials minted by a separate signer; the model never touches one. MCP stdio / HTTP+OIDC.
+- [mcp-remote-ssh](https://freemcp.space/featured/mcp-remote-ssh) — MCP server for remote SSH operations -- persistent sessions, structured command output, SFTP file transfer, port forwarding, and secret-safe environment variable injection with automatic output redaction.
+- [sysknife](https://freemcp.space/featured/sysknife) — Your sysadmin co-pilot — an AI that administers Linux through typed, approval-gated, Ed25519-audited actions instead of shell strings. Reference implementation of the LACS standard.
+- [cygnus-ssh-mcp](https://freemcp.space/featured/cygnus-ssh-mcp) — MCP server for SSH remote server management
+- [trinity-lite](https://freemcp.space/featured/trinity-lite) — Local AgentOps for cross-vendor CLI coding agents: route work, recover state, and accept only with evidence.
+- [copilot-mcp-server](https://freemcp.space/featured/copilot-mcp-server) — MCP server for GitHub Copilot CLI integration
+- [mcp-linux-tools](https://freemcp.space/featured/mcp-linux-tools) — A MCP server to manage linux, websites and database
+- [taskbounty-mcp-server](https://freemcp.space/featured/taskbounty-mcp-serve) — MCP server for TaskBounty. Post AI-fixable bug bounties or pick them up. Funded in USD via Stripe, paid in USDC, ETH, or BTC.
 - [mcp-shell](https://freemcp.space/featured/mcp-shell) — Give hands to AI. MCP server to run shell commands securely, auditably, and on demand.
 - [MayaMCP](https://freemcp.space/featured/mayamcp) — Model Context Protocol (MCP) server implementation for Autodesk Maya
 - [code-to-tree](https://freemcp.space/featured/code-to-tree) — A runtime-free MCP server that converts source code into AST🌲, regardless of language.
@@ -178,19 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [PRIMS](https://freemcp.space/featured/prims) — PRIMS is a lightweight, open-source Model Context Protocol (MCP) server that lets LLM agents safely execute arbitrary Python code in a secure, throw-away sandbox.
 - [srunx](https://freemcp.space/featured/srunx) — A modern Python library for SLURM workload manager integration with workflow orchestration capabilities.
 - [VMware-Monitor](https://freemcp.space/featured/vmware-monitor-2) — Read-only VMware vCenter/ESXi monitoring — code-level enforced safety, zero destructive operations
-- [piston-mcp](https://freemcp.space/featured/piston-mcp-2) — MCP server that allows LLMs to connect to and execute code using Piston
-- [VMware-VKS](https://freemcp.space/featured/vmware-vks) — MCP Skill + CLI for vSphere with Tanzu (VKS) — Supervisor, Namespace, and TanzuKubernetesCluster lifecycle management. Requires vSphere 8.x+.
-- [VMware-NSX](https://freemcp.space/featured/vmware-nsx) — VMware NSX networking management: segments, gateways, NAT, routing, IPAM — 32 MCP tools
-- [VMware-NSX-Security](https://freemcp.space/featured/vmware-nsx-security) — VMware NSX DFW microsegmentation and security: distributed firewall, security groups, tags, traceflow, IDPS — MCP tools for AI agents
-- [cloudcostsmcp](https://freemcp.space/featured/cloudcostsmcp) — Anchor AI FinOps to real, live cloud pricing — open source MCP server for AWS, GCP, and Azure
-- [e2b-sandbox-mcp](https://freemcp.space/featured/e2b-sandbox-mcp-2) — MCP server connecting Claude Code with E2B cloud sandboxes for working on any GitHub repo
-- [VMware-Storage](https://freemcp.space/featured/vmware-storage) — VMware vSphere storage management: datastores, iSCSI, vSAN. Domain-focused MCP skill with 11 tools.
-- [VMware-AVI](https://freemcp.space/featured/vmware-avi) — AVI (NSX Advanced Load Balancer) management and AKO Kubernetes operations tool
-- [hatchable-mcp](https://freemcp.space/featured/hatchable-mcp) — Hosted full-stack app platform. Creates a Postgres database, deploys API functions, and serves static sites from any MCP client. OAuth 2.1 + PKCE with DCR; bearer fallback. Free tier.
-- [mcp-server](https://freemcp.space/featured/mcp-server-8) — A generic, modular server for implementing the Model Context Protocol (MCP). 
-- [ChatSpatial](https://freemcp.space/featured/chatspatial) — MCP server for spatial transcriptomics analysis through natural language interfaces.
-- [browser-use-rs](https://freemcp.space/featured/browser-use-rs) — A Rust library for browser automation via Chrome DevTools Protocol with built-in AI integration through Model Context Protocol (MCP)
-- [mcp-browser-agent](https://freemcp.space/featured/mcp-browser-agent) — A Model Context Protocol (MCP) integration that provides Claude Desktop with autonomous browser automation capabilities. This agent enables Claude to interact with web content, manipulate DOM elements, execute JavaScript, and perform API requests.
 <!-- freemcp:end -->
 
 ---
