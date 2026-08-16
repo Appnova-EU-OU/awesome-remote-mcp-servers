@@ -1,0 +1,14 @@
+{
+  "name": "nostr-mcp",
+  "description": "A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.",
+  "git_url": "https://github.com/AbdelStark/nostr-mcp",
+  "author_github": "AbdelStark",
+  "category": "ai-agents",
+  "tags": [
+    "llm",
+    "mcpserver",
+    "nostr"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
