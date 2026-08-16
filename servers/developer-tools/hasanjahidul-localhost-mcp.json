@@ -1,0 +1,16 @@
+{
+  "name": "localhost-mcp",
+  "description": "MCP server: inspect, manage, kill local dev servers. Stop guessing what's on :3000.",
+  "git_url": "https://github.com/HasanJahidul/localhost-mcp",
+  "author_github": "HasanJahidul",
+  "category": "developer-tools",
+  "tags": [
+    "claude",
+    "devserver",
+    "localhost",
+    "lsof",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
