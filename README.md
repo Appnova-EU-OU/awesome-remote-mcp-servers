@@ -91,6 +91,19 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcgravity](https://freemcp.space/featured/mcgravity) — Fast TUI that orchestrates AI coding tools (Claude Code, Codex, Gemini) in a plan→execute→review loop. Breaks work into atomic tasks for easier verification and course-correction.
+- [fhir-mcp-server](https://freemcp.space/featured/fhir-mcp-server) — FHIR MCP Server for handling medical data standard.
+- [agentmail-toolkit](https://freemcp.space/featured/agentmail-toolkit) — An MCP server to create inboxes on the fly to send, receive, and take actions on email. We aren't AI agents for email, but email for AI Agents.
+- [nostr-mcp](https://freemcp.space/featured/nostr-mcp) — A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
+- [servonaut](https://freemcp.space/featured/servonaut) — Manage AWS, Hetzner, OVH, and custom servers from one TUI — with a built-in AI assistant and MCP server
+- [forge](https://freemcp.space/featured/forge-2) — Terminal MCP server for AI coding agents — spawn, manage, and monitor PTY sessions via the Model Context Protocol
+- [backscroll](https://freemcp.space/featured/backscroll) — Never lose a command's output again — searchable, per-command terminal scrollback recorder
+- [terminal-history-mcp](https://freemcp.space/featured/terminal-history-mcp) — Search your shell history (zsh/bash/fish) from Claude/MCP. Local SQLite FTS5. Secret-redacted.
+- [localhost-mcp](https://freemcp.space/featured/localhost-mcp) — MCP server: inspect, manage, kill local dev servers. Stop guessing what's on :3000.
+- [when](https://freemcp.space/featured/when) — Six tools. One install. The WhenLabs developer toolkit.
+- [claude-terminal-mcp](https://freemcp.space/featured/claude-terminal-mcp) — Terminal, filesystem, and background-job tools for Claude Desktop on Linux. Zero-dependency MCP extension, MIT-licensed.
+- [rootpilot-mcp](https://freemcp.space/featured/rootpilot-mcp) — MCP server for safe, read-only SSH diagnostics — bring your own LLM
+- [mcp-tmux](https://freemcp.space/featured/mcp-tmux) — A comprehensive, universal MCP server for driving tmux (local and over SSH).
 - [ncp](https://freemcp.space/featured/ncp) — Natural Context Provider (NCP). Your MCPs, supercharged. Find any tool instantly, load on demand, run on schedule, ready for any   client. Smart loading saves tokens and energy.
 - [hop](https://freemcp.space/featured/hop) — Fast, elegant SSH connection manager with a TUI dashboard and MCP server
 - [codex-mcp-tool](https://freemcp.space/featured/codex-mcp-tool) — MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
@@ -178,19 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [Edict](https://freemcp.space/featured/edict) — A programming language designed for AI agents. No parser, no syntax — agents produce AST directly as JSON. Statically typed, effect-tracked, contract-verified, compiled to WASM via MCP.
 - [agent-nexus](https://freemcp.space/featured/agent-nexus) — A service-boundary-aware document exchange center for coordinating heterogeneous LLM code agents via MCP. Implements versioned Markdown store, pub-sub notifications, and diff-aware update protocol.
 - [matlab-mcp-server-python](https://freemcp.space/featured/matlab-mcp-server-py) — MCP server that connects any AI agent to MATLAB — execute code, async jobs, interactive Plotly plots, custom tools, and monitoring dashboard
-- [mcp-server](https://freemcp.space/featured/mcp-server-9) — MCP server for Agent Blueprint — connect AI agents to your blueprints, business cases, and implementation plans
-- [jobd](https://freemcp.space/featured/jobd) — Self-hostable GPU-aware job broker for your own machines, with native MCP/agent integration
-- [5dive-mcp](https://freemcp.space/featured/5dive-mcp) — MCP (Model Context Protocol) server for 5dive. Exposes the agent-fleet CLI (tasks, agents, digest) as stdio MCP tools. MIT.
-- [alderpost-mcp](https://freemcp.space/featured/alderpost-mcp-5) — 8 intelligence endpoints: domain security (VirusTotal, SPF/DKIM/DMARC), threat analysis (AbuseIPDB), company intel (People Data Labs, Hunter.io), compliance, sales, sports, property, and health data. Pay-per-call via x402 USDC on Base.
-- [OpenNews MCP](https://freemcp.space/featured/opennews-mcp) — 85+ real-time news and market-data sources (Bloomberg, Reuters, CoinDesk, exchange listings, on-chain whale trades) behind one MCP API. Every article carries an AI-generated impact score and a long/short trading signal.
-- [real-browser-mcp](https://freemcp.space/featured/real-browser-mcp) — MCP server + Chrome extension that gives AI agents control of your real browser with existing sessions and logins
-- [mcp-gateway](https://freemcp.space/featured/mcp-gateway-3) — One endpoint in front of unlimited MCP servers and REST APIs. The agent sees a fixed ~15-tool surface however many you connect, so tool-list token cost stays flat (about 89% less on a 100-tool stack) and the savings climb as you add more. Single Rust binary.
-- [odoo-claude-mcp](https://freemcp.space/featured/odoo-claude-mcp) — Self-hosted MCP server connecting Claude to Odoo 15→19 — 197+ tools, multi-tenant, Bulgaria l10n
-- [MikroMCP](https://freemcp.space/featured/mikromcp) — Production-grade MCP server for MikroTik RouterOS with secure AI-native network automation.
-- [outsource-mcp](https://freemcp.space/featured/outsource-mcp) — Give your AI assistant its own AI assistants.
-- [PRIMS](https://freemcp.space/featured/prims) — PRIMS is a lightweight, open-source Model Context Protocol (MCP) server that lets LLM agents safely execute arbitrary Python code in a secure, throw-away sandbox.
-- [srunx](https://freemcp.space/featured/srunx) — A modern Python library for SLURM workload manager integration with workflow orchestration capabilities.
-- [VMware-Monitor](https://freemcp.space/featured/vmware-monitor-2) — Read-only VMware vCenter/ESXi monitoring — code-level enforced safety, zero destructive operations
 <!-- freemcp:end -->
 
 ---
