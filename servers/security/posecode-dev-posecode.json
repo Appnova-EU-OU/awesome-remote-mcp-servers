@@ -1,0 +1,17 @@
+{
+  "name": "posecode",
+  "description": "An open-source text language, parser, validator and Three.js renderer for inspectable 3D human movement.",
+  "git_url": "https://github.com/posecode-dev/posecode",
+  "author_github": "posecode-dev",
+  "category": "security",
+  "tags": [
+    "animation",
+    "dsl",
+    "dslsyntax",
+    "llm",
+    "llms"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.posecode.org/"
+}
