@@ -1,0 +1,16 @@
+{
+  "name": "tsgram-mcp",
+  "description": "TSGram - Telegram MCP Server for local Claude Code integration - debug and vibe code on the go!",
+  "git_url": "https://github.com/areweai/tsgram-mcp",
+  "author_github": "areweai",
+  "category": "communication",
+  "tags": [
+    "tsgram",
+    "telegram",
+    "local",
+    "claude",
+    "code"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
