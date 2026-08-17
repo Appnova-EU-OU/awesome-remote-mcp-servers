@@ -1,0 +1,17 @@
+{
+  "name": "medical-mcp",
+  "description": "An MCP server that provides comprehensive medical information by querying multiple authoritative medical APIs including FDA, WHO, PubMed, Google Scholar, and RxNorm",
+  "git_url": "https://github.com/JamesANZ/medical-mcp",
+  "author_github": "JamesANZ",
+  "category": "security",
+  "tags": [
+    "fda",
+    "googlescholar",
+    "llms",
+    "mcpserver",
+    "pubmed"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://glama.ai/mcp/servers/@JamesANZ/medical-mcp"
+}
