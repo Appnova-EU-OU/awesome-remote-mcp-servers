@@ -1,0 +1,17 @@
+{
+  "name": "cloudflare-mcp-pro",
+  "description": "Cloudflare MCP: 69 tools over the REST API v4 — DNS, Workers, KV, R2, D1, Pages, WAF, SSL, Email, AI — with a human-approval gate",
+  "git_url": "https://github.com/helbertparanhos/cloudflare-mcp-pro",
+  "author_github": "helbertparanhos",
+  "category": "communication",
+  "tags": [
+    "automation",
+    "claude",
+    "claudecode",
+    "cloudflare",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/cloudflare-mcp-pro"
+}
