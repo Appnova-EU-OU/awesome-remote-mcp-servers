@@ -1,0 +1,17 @@
+{
+  "name": "dead-letter",
+  "description": "Convert .eml email exports to Markdown with YAML front matter",
+  "git_url": "https://github.com/BigCactusLabs/dead-letter",
+  "author_github": "BigCactusLabs",
+  "category": "communication",
+  "tags": [
+    "claude",
+    "claudecode",
+    "cli",
+    "converter",
+    "digitalpreservation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/dead-letter/"
+}
