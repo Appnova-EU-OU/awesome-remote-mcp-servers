@@ -1,0 +1,16 @@
+{
+  "name": "openai-gpt-image-mcp",
+  "description": "A Model Context Protocol (MCP) tool server for OpenAI's GPT-4o/gpt-image-1 image generation and editing APIs.",
+  "git_url": "https://github.com/SureScaleAI/openai-gpt-image-mcp",
+  "author_github": "SureScaleAI",
+  "category": "security",
+  "tags": [
+    "openai",
+    "gpt",
+    "image",
+    "tool",
+    "generation"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
