@@ -1,0 +1,16 @@
+{
+  "name": "callcenter.js-mcp",
+  "description": "Callcenter.JS AI Voice Agent VOIP Connector, MCP + CLI",
+  "git_url": "https://github.com/gerkensm/callcenter.js-mcp",
+  "author_github": "gerkensm",
+  "category": "ai-agents",
+  "tags": [
+    "callcenter",
+    "voice",
+    "agent",
+    "voip",
+    "connector"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
