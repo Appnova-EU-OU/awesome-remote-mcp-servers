@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server",
+  "description": "Official Model Context Protocol (MCP) server for FastAlert. This server allows AI agents (like Claude, ChatGPT, and Cursor) to list of your channels and send notifications directly through the FastAlert API.",
+  "git_url": "https://github.com/FastAlertNow/mcp-server",
+  "author_github": "FastAlertNow",
+  "category": "communication",
+  "tags": [
+    "official",
+    "fastalert",
+    "allows",
+    "agents",
+    "like"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
