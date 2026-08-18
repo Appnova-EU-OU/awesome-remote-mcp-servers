@@ -1,0 +1,17 @@
+{
+  "name": "xtapdown-mcp",
+  "description": "XTapDown MCP Server — 14 X (Twitter) creator tools for Claude, ChatGPT, Gemini and any MCP client",
+  "git_url": "https://github.com/farukkolip/xtapdown-mcp",
+  "author_github": "farukkolip",
+  "category": "communication",
+  "tags": [
+    "anthropic",
+    "claude",
+    "creatortools",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://xtapdown.com/"
+}
