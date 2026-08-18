@@ -1,0 +1,16 @@
+{
+  "name": "mcp-shell",
+  "description": "Give hands to AI. MCP server to run shell commands securely, auditably, and on demand.",
+  "git_url": "https://github.com/sonirico/mcp-shell",
+  "author_github": "sonirico",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "bash",
+    "go",
+    "llm",
+    "mcp"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
