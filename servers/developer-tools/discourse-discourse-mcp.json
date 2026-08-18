@@ -1,0 +1,14 @@
+{
+  "name": "discourse-mcp",
+  "description": "MCP client for Discourse sites",
+  "git_url": "https://github.com/discourse/discourse-mcp",
+  "author_github": "discourse",
+  "category": "developer-tools",
+  "tags": [
+    "discourse",
+    "client",
+    "sites"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
