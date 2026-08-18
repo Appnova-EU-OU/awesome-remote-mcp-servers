@@ -1,0 +1,17 @@
+{
+  "name": "solmail-mcp",
+  "description": "MCP server for sending physical mail with Solana cryptocurrency. Colosseum Agent Hackathon submission.",
+  "git_url": "https://github.com/ExpertVagabond/solmail-mcp",
+  "author_github": "ExpertVagabond",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "blockchain",
+    "cryptocurrency",
+    "hackathon",
+    "mail"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "- Creating gist solmail-mcp-quickstart.md\n✓ Created public gist solmail-mcp-quickstart.md\nhttps://gist.github.com/ExpertVagabond/258ef2e9e921ba5dded9485ab455387b"
+}
