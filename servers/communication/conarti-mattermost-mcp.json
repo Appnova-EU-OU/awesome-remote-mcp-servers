@@ -1,0 +1,16 @@
+{
+  "name": "mattermost-mcp",
+  "description": "Mattermost MCP server to enable Claude to interact with Mattermost Workspaces",
+  "git_url": "https://github.com/conarti/mattermost-mcp",
+  "author_github": "conarti",
+  "category": "communication",
+  "tags": [
+    "chat",
+    "claude",
+    "mattermost",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
