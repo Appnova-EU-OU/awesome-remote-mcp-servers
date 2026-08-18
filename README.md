@@ -91,6 +91,19 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [openai-gpt-image-mcp](https://freemcp.space/featured/openai-gpt-image-mcp) — A Model Context Protocol (MCP) tool server for OpenAI's GPT-4o/gpt-image-1 image generation and editing APIs.
+- [medical-mcp](https://freemcp.space/featured/medical-mcp) — An MCP server that provides comprehensive medical information by querying multiple authoritative medical APIs including FDA, WHO, PubMed, Google Scholar, and RxNorm
+- [posecode](https://freemcp.space/featured/posecode) — An open-source text language, parser, validator and Three.js renderer for inspectable 3D human movement.
+- [email-mcp](https://freemcp.space/featured/email-mcp) — Email MCP server with full IMAP + SMTP support — read, search, send, manage, and organize email from any AI assistant via the Model Context Protocol
+- [tsgram-mcp](https://freemcp.space/featured/tsgram-mcp) — TSGram - Telegram MCP Server for local Claude Code integration - debug and vibe code on the go!
+- [mcp_server_notify](https://freemcp.space/featured/mcp-server-notify) — Send system notification when Agent task is done.
+- [mcp-googletasks](https://freemcp.space/featured/mcp-googletasks) — This Model Context Protocol (MCP) server provides a bridge between LLMs and Google Tasks, allowing you to manage your task lists and tasks directly through Claude.
+- [wecom-docs-mcp-server](https://freemcp.space/featured/wecom-docs-mcp-serve) — MCP server for WeCom (Enterprise WeChat) document operations — create, read, edit Docs and Smartsheets. Fills the doc-CRUD gap in the WeCom MCP ecosystem.
+- [dead-letter](https://freemcp.space/featured/dead-letter) — Convert .eml email exports to Markdown with YAML front matter
+- [content-distribution-mcp](https://freemcp.space/featured/content-distribution) — Multi-channel content distribution MCP server with idempotent state. Auto-publish to DEV.to, Hashnode, GitHub Discussions, Reddit, Bluesky; browser-fallback for Medium, LinkedIn, X/Twitter.
+- [clawaimail](https://freemcp.space/featured/clawaimail) — Email infrastructure for AI agents. Create inboxes on the fly, send and receive real emails, search messages, and manage threads via API. Install with `npx clawaimail-mcp`.
+- [agent-mq](https://freemcp.space/featured/agent-mq-2) — Message queue for AI coding assistants. Let your AI agents talk to each other.
+- [mailbox-mcp](https://freemcp.space/featured/mailbox-mcp) — Official MCP server for mailbox.bot — physical postal mail API for AI agents.
 - [mcgravity](https://freemcp.space/featured/mcgravity) — Fast TUI that orchestrates AI coding tools (Claude Code, Codex, Gemini) in a plan→execute→review loop. Breaks work into atomic tasks for easier verification and course-correction.
 - [fhir-mcp-server](https://freemcp.space/featured/fhir-mcp-server) — FHIR MCP Server for handling medical data standard.
 - [agentmail-toolkit](https://freemcp.space/featured/agentmail-toolkit) — An MCP server to create inboxes on the fly to send, receive, and take actions on email. We aren't AI agents for email, but email for AI Agents.
@@ -178,19 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [Brave Search MCP](https://freemcp.space/featured/brave-search-mcp) — Brave's official MCP server — web, image, video, and news search via the Brave Search API, directly from an MCP client.
 - [GitHub MCP](https://freemcp.space/featured/github-mcp) — GitHub's official MCP server — access repositories, issues, pull requests, actions, code search, and more directly from an MCP client.
 - [Fetch MCP](https://freemcp.space/featured/fetch-mcp) — Fetches a URL and returns its content as clean Markdown, plain text, HTML, JSON, or readable article text — ideal for feeding web content to an LLM.
-- [fal-mcp-server](https://freemcp.space/featured/fal-mcp-server) — MCP server for Fal.ai - Generate images, videos, music and audio with Claude
-- [mcp-js](https://freemcp.space/featured/mcp-js) — MCP server that exposes a V8 JavaScript runtime as a tool for AI agents like Claude and Cursor. Supports persistent heap snapshots via S3 or local filesystem, and is ready for integration with modern AI development environments.
-- [mermaid-mcp](https://freemcp.space/featured/mermaid-mcp) — AI-powered Mermaid diagram generation with 22+ diagram types including flowcharts, sequence diagrams, class diagrams, ER diagrams, architecture diagrams, state machines, and more. Features 50+ pre-built templates, advanced layout engines, SVG/PNG/PDF exports, and seamless integration with GitHub Copilot, Claude, and any MCP-compatible client. Install via NPM: `npm install -g @narasimhaponnada/mermaid-mcp-server`
-- [Grok-MCP](https://freemcp.space/featured/grok-mcp) —     MCP server for xAI’s Grok API with Web/X search, vision, image/video generation and file support
-- [mcp-server-js](https://freemcp.space/featured/mcp-server-js) — MCP server that exposes YepCode processes as callable tools for AI platforms. Securely connect AI assistants to your YepCode workflows, APIs, and automations.
-- [agy-bridge](https://freemcp.space/featured/agy-bridge) — MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI (agy) — purpose-built tools, model routing with fallback, session continuity, and output truncation to save Claude's context and tokens.
-- [openapi-to-mcp](https://freemcp.space/featured/openapi-to-mcp) — An MCP server for your API
-- [colab-mcp](https://freemcp.space/featured/colab-mcp) — Fixed & enhanced fork of Google's Colab MCP — tools visible at startup, GPU control, Windows support, no more 'Disconnected'
-- [netops-mcp](https://freemcp.space/featured/netops-mcp) — A comprehensive  MCP server that provides access to essential DevOps and networking tools through a standardized interface.
-- [prolog-reasoner](https://freemcp.space/featured/prolog-reasoner) — SWI-Prolog as a logic calculator for LLMs — MCP server and Python library
-- [Edict](https://freemcp.space/featured/edict) — A programming language designed for AI agents. No parser, no syntax — agents produce AST directly as JSON. Statically typed, effect-tracked, contract-verified, compiled to WASM via MCP.
-- [agent-nexus](https://freemcp.space/featured/agent-nexus) — A service-boundary-aware document exchange center for coordinating heterogeneous LLM code agents via MCP. Implements versioned Markdown store, pub-sub notifications, and diff-aware update protocol.
-- [matlab-mcp-server-python](https://freemcp.space/featured/matlab-mcp-server-py) — MCP server that connects any AI agent to MATLAB — execute code, async jobs, interactive Plotly plots, custom tools, and monitoring dashboard
 <!-- freemcp:end -->
 
 ---
