@@ -1,0 +1,17 @@
+{
+  "name": "docs-mcp",
+  "description": "CometChat docs search + implementation bundles: add chat, voice, video & moderation to your app through your AI coding agent.",
+  "git_url": "https://github.com/cometchat/docs-mcp",
+  "author_github": "cometchat",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "aicodingassistant",
+    "android",
+    "chat",
+    "claude"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.cometchat.com/docs/mcp-server"
+}
