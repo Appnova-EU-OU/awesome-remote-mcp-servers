@@ -1,0 +1,16 @@
+{
+  "name": "doubletick-cli",
+  "description": "CLI and MCP server for DoubleTick email read tracking",
+  "git_url": "https://github.com/cseguinlz/doubletick-cli",
+  "author_github": "cseguinlz",
+  "category": "communication",
+  "tags": [
+    "doubletick",
+    "cli",
+    "email",
+    "read",
+    "tracking"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
