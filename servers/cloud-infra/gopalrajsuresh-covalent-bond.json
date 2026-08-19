@@ -1,0 +1,17 @@
+{
+  "name": "covalent-bond",
+  "description": "Peer-to-peer, end-to-end-encrypted collaboration channel for AI coding agents over MCP. The relay never sees your data.",
+  "git_url": "https://github.com/gopalrajsuresh/covalent-bond",
+  "author_github": "gopalrajsuresh",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cloudflareworkers",
+    "e2ee",
+    "encryption"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/covalent-bond"
+}
