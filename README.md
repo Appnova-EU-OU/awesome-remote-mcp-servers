@@ -91,6 +91,19 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [discourse-mcp](https://freemcp.space/featured/discourse-mcp) — MCP client for Discourse sites
+- [docs-mcp](https://freemcp.space/featured/docs-mcp) — CometChat docs search + implementation bundles: add chat, voice, video & moderation to your app through your AI coding agent.
+- [callcenter.js-mcp](https://freemcp.space/featured/callcenter-js-mcp) — Callcenter.JS AI Voice Agent VOIP Connector, MCP + CLI
+- [calcom-mcp](https://freemcp.space/featured/calcom-mcp) — A FastMCP server for interacting with the Cal.com API. This enables LLMs to manage event types, create bookings, and access Cal.com scheduling data programmatically.
+- [feishu-user-plugin](https://freemcp.space/featured/feishu-user-plugin) — 飞书 MCP 服务器 + CLI 工具：让 Claude Code/Codex/脚本 直接接管你的飞书工作流 — 84 个工具、3 层鉴权 cookie / 官方 API / OAuth，以你本人身份发消息、读取群和私聊、操作文档 / 多维表格 / 知识库 / 云空间 / 日历 / 任务 / OKR
+- [telegram-bot-mcp](https://freemcp.space/featured/telegram-bot-mcp) — Full-featured Telegram Bot API MCP server with 174 tools for Claude Code and AI agents
+- [xtapdown-mcp](https://freemcp.space/featured/xtapdown-mcp) — XTapDown MCP Server — 14 X (Twitter) creator tools for Claude, ChatGPT, Gemini and any MCP client
+- [mcp-server](https://freemcp.space/featured/mcp-server-10) — Official Model Context Protocol (MCP) server for FastAlert. This server allows AI agents (like Claude, ChatGPT, and Cursor) to list of your channels and send notifications directly through the FastAlert API.
+- [mattermost-mcp](https://freemcp.space/featured/mattermost-mcp) — Mattermost MCP server to enable Claude to interact with Mattermost Workspaces
+- [doubletick-cli](https://freemcp.space/featured/doubletick-cli) — CLI and MCP server for DoubleTick email read tracking
+- [instapdown-mcp](https://freemcp.space/featured/instapdown-mcp) — 16 Instagram creator tools as an MCP server — Reels/Story/carousel downloaders, engagement audit, hashtag search, Reels hook generator, best-time-to-post and content calendar.
+- [solmail-mcp](https://freemcp.space/featured/solmail-mcp) — MCP server for sending physical mail with Solana cryptocurrency. Colosseum Agent Hackathon submission.
+- [mailwarden](https://freemcp.space/csitte/mailwarden) — A reliable, native Gmail MCP server with full mailbox control — including snooze.
 - [openai-gpt-image-mcp](https://freemcp.space/featured/openai-gpt-image-mcp) — A Model Context Protocol (MCP) tool server for OpenAI's GPT-4o/gpt-image-1 image generation and editing APIs.
 - [medical-mcp](https://freemcp.space/featured/medical-mcp) — An MCP server that provides comprehensive medical information by querying multiple authoritative medical APIs including FDA, WHO, PubMed, Google Scholar, and RxNorm
 - [posecode](https://freemcp.space/featured/posecode) — An open-source text language, parser, validator and Three.js renderer for inspectable 3D human movement.
@@ -178,19 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ssh-mcp](https://freemcp.space/featured/ssh-mcp) — SSH MCP server that runs locally making it easy to manage hosts and perform commands across a group of hosts
 - [mcp-server-terminal](https://freemcp.space/featured/mcp-server-terminal) — Terminal MCP Server - Model Context Protocol server for TUI/CLI automation with structured Terminal State Tree (TST)
 - [ejentum-mcp](https://freemcp.space/featured/ejentum-mcp) — MCP server for the Ejentum API. 8 cognitive operations across 4 harnesses (reasoning, code, anti-deception, memory) in dynamic and adaptive modes.
-- [claude-concilium](https://freemcp.space/featured/claude-concilium) — Multi-agent AI consultation framework for Claude Code via MCP — get second opinions from OpenAI, Gemini, Qwen, DeepSeek
-- [mcp-proxmox](https://freemcp.space/featured/mcp-proxmox) — MCP server for managing Proxmox VE clusters through AI assistants
-- [llm-council](https://freemcp.space/featured/llm-council) — LLM Council fork with persistence, decision traces, stability fixes, repeatable checks, and MCP integration.
-- [llm-bus](https://freemcp.space/featured/llm-bus) — Open-source coordination engine for AI agents, over MCP. Atomic claims, shared ledger, leases, presence, handoffs, tasks. Self-host it or use the hosted service at llm-bus.com.
-- [telleroutlook/agentkit-js/mcp-server](https://freemcp.space/featured/telleroutlook-agentk) — Embedded agent runtime compliance layer — WASM sandbox, MCP firewall, capability manifests, verifiable rollouts, and trace-to-training export
-- [mcp-pfsense](https://freemcp.space/featured/mcp-pfsense) — MCP server for managing pfSense firewalls through AI assistants
-- [Citio](https://freemcp.space/featured/citio) — Self-hosted AI coding agents that live in Slack — run Claude Code or Codex in your own infra, ship PRs, and keep every credential behind a controlled MCP tool layer.
-- [tailtest-cline](https://freemcp.space/featured/tailtest-cline) — tailtest for Cline: MCP server + .clinerules pack + Memory Bank integration. Reaches 8+ editors via Cline. Adversarial test mode shipped from day one.
-- [brandkit-mcp](https://freemcp.space/featured/brandkit-mcp) — Open-source MCP server that gives AI tools native access to your companys design system — drop in your brand files, connect to Claude or any LLM tool
-- [telleroutlook/agentkit-js/mcp-server](https://freemcp.space/featured/telleroutlook-agentk-2) — Embedded agent runtime compliance layer — WASM sandbox, MCP firewall, capability manifests, verifiable rollouts, and trace-to-training export
-- [Brave Search MCP](https://freemcp.space/featured/brave-search-mcp) — Brave's official MCP server — web, image, video, and news search via the Brave Search API, directly from an MCP client.
-- [GitHub MCP](https://freemcp.space/featured/github-mcp) — GitHub's official MCP server — access repositories, issues, pull requests, actions, code search, and more directly from an MCP client.
-- [Fetch MCP](https://freemcp.space/featured/fetch-mcp) — Fetches a URL and returns its content as clean Markdown, plain text, HTML, JSON, or readable article text — ideal for feeding web content to an LLM.
 <!-- freemcp:end -->
 
 ---
