@@ -1,0 +1,16 @@
+{
+  "name": "neptun2000/heor-agent-mcp",
+  "description": "HEOR (Health Economics and Outcomes Research) MCP server with 7 tools for literature search across 41 medical data sources (PubMed, NICE, CADTH, ICER, etc.), cost-effectiveness modeling (Markov/PartSA/PSA), and HTA dossier preparation for pharmaceutical and biotech teams.",
+  "git_url": "https://github.com/neptun2000/heor-agent-mcp",
+  "author_github": "neptun2000",
+  "category": "search",
+  "tags": [
+    "neptun",
+    "heor",
+    "agent",
+    "health",
+    "economics"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
