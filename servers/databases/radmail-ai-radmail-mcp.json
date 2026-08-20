@@ -1,0 +1,16 @@
+{
+  "name": "radmail-mcp",
+  "description": "Email OS for agents over MCP: two-axis triage, a Right Now lane, commitment follow-through, reviewable drafts, and a machine-verifiable BEC hard-stop (money/banking-change/first-contact = human-only). Zero-auth sandbox.",
+  "git_url": "https://github.com/radmail-ai/radmail-mcp",
+  "author_github": "radmail-ai",
+  "category": "databases",
+  "tags": [
+    "radmail",
+    "email",
+    "agents",
+    "over",
+    "two"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
