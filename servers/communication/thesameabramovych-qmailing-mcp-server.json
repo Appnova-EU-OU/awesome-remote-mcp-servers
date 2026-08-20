@@ -1,0 +1,17 @@
+{
+  "name": "qmailing-mcp-server",
+  "description": "MCP server for QMailing - AI agents read & send email, manage mailboxes, custom domains and webhooks via the QMailing API.",
+  "git_url": "https://github.com/TheSameAbramovych/qmailing-mcp-server",
+  "author_github": "TheSameAbramovych",
+  "category": "communication",
+  "tags": [
+    "qmailing",
+    "agents",
+    "read",
+    "send",
+    "email"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://qmailing.com/docs/mcp"
+}
