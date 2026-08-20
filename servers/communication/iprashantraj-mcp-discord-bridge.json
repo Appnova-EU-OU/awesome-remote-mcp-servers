@@ -1,0 +1,16 @@
+{
+  "name": "mcp-discord-bridge",
+  "description": "AI assistant control a Discord server - reading messages, creating/deleting channels, sending messages ,All via the MCP protocol",
+  "git_url": "https://github.com/iprashantraj/mcp-discord-bridge",
+  "author_github": "iprashantraj",
+  "category": "communication",
+  "tags": [
+    "discord",
+    "bridge",
+    "assistant",
+    "control",
+    "reading"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
