@@ -91,6 +91,18 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [discogs-mcp-server](https://freemcp.space/featured/discogs-mcp-server) — MCP Server for Discogs
+- [imessage-query-fastmcp-mcp-server](https://freemcp.space/featured/imessage-query-fastm) — An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP). This server is built with the FastMCP framework and the imessagedb library, enabling LLMs to query and analyze iMessage conversations with proper phone number validation and attachment handling.
+- [ntfy-me-mcp](https://freemcp.space/featured/ntfy-me-mcp) — An ntfy MCP server for sending/fetching ntfy notifications to self-hosted or ANY ntfy.sh server from AI Agents 📤 (supports secure token auth & more - use with npx or docker!)
+- [apple-mail-mcp](https://freemcp.space/featured/apple-mail-mcp) — Apple Mail MCP server with full-coverage FTS5 body search. Reliable on large mailboxes where AppleScript-based servers timeout.
+- [wechat-fastbridge](https://freemcp.space/featured/wechat-fastbridge) — 让 Codex 秒级、低 token、安全地读写 macOS 微信 | Fast, token-efficient WeChat bridge for Codex
+- [telegram-archive-mcp](https://freemcp.space/featured/telegram-archive-mcp) — MCP Server for Telegram-Archive — search messages, browse chats, and access archived Telegram history via MCP
+- [iletimerkezi-mcp-server](https://freemcp.space/featured/iletimerkezi-mcp-ser) — iletiMerkezi MCP Server
+- [signal-mcp](https://freemcp.space/featured/signal-mcp) — Ask Claude about your Signal conversations. Persistent history, full-text search, and complete signal-cli coverage — 100% local.
+- [resend-email-mcp](https://freemcp.space/featured/resend-email-mcp) — The most complete MCP server for the Resend email API — full API coverage plus a unique debug/diagnostics layer.
+- [pingwa-client](https://freemcp.space/featured/pingwa-client) — Text your phone from any agent, script or CI - and tap to reply. Python/CLI/MCP client for   pingwa.
+- [mcp-server-notmuch](https://freemcp.space/featured/mcp-server-notmuch) — Read-first MCP server for a local notmuch mail database: search, threads, attachments, drafts. Sending email via Drafts/ 
+- [covalent-bond](https://freemcp.space/featured/covalent-bond) — Peer-to-peer, end-to-end-encrypted collaboration channel for AI coding agents over MCP. The relay never sees your data.
 - [discourse-mcp](https://freemcp.space/featured/discourse-mcp) — MCP client for Discourse sites
 - [docs-mcp](https://freemcp.space/featured/docs-mcp) — CometChat docs search + implementation bundles: add chat, voice, video & moderation to your app through your AI coding agent.
 - [callcenter.js-mcp](https://freemcp.space/featured/callcenter-js-mcp) — Callcenter.JS AI Voice Agent VOIP Connector, MCP + CLI
@@ -179,18 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [kill-process-mcp](https://freemcp.space/featured/kill-process-mcp) — AI-powered cross-platform MCP server exposing LLM-accessible tools to list and terminate OS processes via natural language queries
 - [persistproc](https://freemcp.space/featured/persistproc) — MCP server to allow LLMs to manage and inspect long-running processes
 - [kagan](https://freemcp.space/featured/kagan) — OpenCode Plugin for supervised agentic software development on a Kanban board
-- [claude-mcp-bridge](https://freemcp.space/featured/claude-mcp-bridge) — MCP server bridging Claude CLI to Codex, Cursor - queries, and search with hardened subprocess management
-- [veto](https://freemcp.space/featured/veto) — Veto MCP — gives every major AI CLI (Claude Code, Codex, Gemini, Cursor, Windsurf) a council of 49 specialist agents + 93 tools. Deterministic-first, self-learning, no API keys.
-- [mcp-injector](https://freemcp.space/featured/mcp-injector) — Local MCP daemon that compresses your codebase before sending it to Claude  41-89% token reduction
-- [depwire](https://freemcp.space/featured/depwire) — The missing context layer for AI-assisted refactoring
-- [PersonalizationMCP](https://freemcp.space/featured/personalizationmcp) — 🎯 A unified personal data hub built on MCP that allows AI assistants to access your digital life from Steam, YouTube, Bilibili and more platforms for truly personalized interactions.
-- [mcp-browser-kit](https://freemcp.space/featured/mcp-browser-kit) — An MCP Server that enables AI assistants to interact with your local browsers.
-- [1mcpserver](https://freemcp.space/featured/1mcpserver-2) — MCP of MCPs. Automatic discovery and configure MCP servers on your local machine.
-- [mcp-server-leetcode](https://freemcp.space/featured/mcp-server-leetcode) — A Model Context Protocol (MCP) server for LeetCode that provides access to problems, user data, and contest information through GraphQL
-- [any-cli-mcp-server](https://freemcp.space/featured/any-cli-mcp-server) — Convert any (whatever) CLI to proper MCP server with tools mapped based on CLI help
-- [ssh-mcp](https://freemcp.space/featured/ssh-mcp) — SSH MCP server that runs locally making it easy to manage hosts and perform commands across a group of hosts
-- [mcp-server-terminal](https://freemcp.space/featured/mcp-server-terminal) — Terminal MCP Server - Model Context Protocol server for TUI/CLI automation with structured Terminal State Tree (TST)
-- [ejentum-mcp](https://freemcp.space/featured/ejentum-mcp) — MCP server for the Ejentum API. 8 cognitive operations across 4 harnesses (reasoning, code, anti-deception, memory) in dynamic and adaptive modes.
 <!-- freemcp:end -->
 
 ---
