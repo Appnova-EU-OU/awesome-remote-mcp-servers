@@ -1,0 +1,16 @@
+{
+  "name": "joltsms-mcp-server",
+  "description": "MCP server for JoltSMS — provision real-SIM US phone numbers and receive SMS/OTP codes",
+  "git_url": "https://github.com/rchanllc/joltsms-mcp-server",
+  "author_github": "rchanllc",
+  "category": "developer-tools",
+  "tags": [
+    "joltsms",
+    "provision",
+    "real",
+    "sim",
+    "phone"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
