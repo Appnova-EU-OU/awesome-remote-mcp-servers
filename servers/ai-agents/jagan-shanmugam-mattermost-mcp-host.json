@@ -1,0 +1,16 @@
+{
+  "name": "mattermost-mcp-host",
+  "description": "A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.",
+  "git_url": "https://github.com/jagan-shanmugam/mattermost-mcp-host",
+  "author_github": "jagan-shanmugam",
+  "category": "ai-agents",
+  "tags": [
+    "langgraph",
+    "llm",
+    "mattermost",
+    "mcp",
+    "mcpclients"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
