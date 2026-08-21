@@ -1,0 +1,17 @@
+{
+  "name": "agent-comm-hub",
+  "description": "Let multiple AI agents talk, schedule tasks, share memory and self-evolve — zero external services, 5-minute Docker deploy.",
+  "git_url": "https://github.com/liuboacean/agent-comm-hub",
+  "author_github": "liuboacean",
+  "category": "cloud-infra",
+  "tags": [
+    "agent",
+    "communication",
+    "evolutionengine",
+    "infrastructure",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://liuboacean.github.io/agent-comm-hub/"
+}
