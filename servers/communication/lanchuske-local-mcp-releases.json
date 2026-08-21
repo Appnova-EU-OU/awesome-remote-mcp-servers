@@ -1,0 +1,17 @@
+{
+  "name": "local-mcp-releases",
+  "description": "215+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.",
+  "git_url": "https://github.com/lanchuske/local-mcp-releases",
+  "author_github": "lanchuske",
+  "category": "communication",
+  "tags": [
+    "aitools",
+    "anthropic",
+    "applesilicon",
+    "calendar",
+    "chatgpt"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://local-mcp.com?ref=github"
+}
