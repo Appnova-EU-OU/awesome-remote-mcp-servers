@@ -1,0 +1,12 @@
+{
+  "name": "bluesky-context-server",
+  "description": "Bluesky MCP server",
+  "git_url": "https://github.com/keturiosakys/bluesky-context-server",
+  "author_github": "keturiosakys",
+  "category": "developer-tools",
+  "tags": [
+    "bluesky"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
