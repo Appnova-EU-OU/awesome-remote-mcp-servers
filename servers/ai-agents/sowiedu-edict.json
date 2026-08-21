@@ -1,0 +1,16 @@
+{
+  "name": "Edict",
+  "description": "A programming language designed for AI agents. No parser, no syntax — agents produce AST directly as JSON. Statically typed, effect-tracked, contract-verified, compiled to WASM via MCP.",
+  "git_url": "https://github.com/Sowiedu/Edict",
+  "author_github": "Sowiedu",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aiagents",
+    "compiler",
+    "effectsystem",
+    "formalverification"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
