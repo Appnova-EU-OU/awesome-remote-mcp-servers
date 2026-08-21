@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-mcp",
+  "description": "WhatsApp MCP Server — Manage templates & send messages via Claude, Cursor, or any MCP client. Meta Cloud API.",
+  "git_url": "https://github.com/nakulben/whatsapp-mcp",
+  "author_github": "nakulben",
+  "category": "cloud-infra",
+  "tags": [
+    "claude",
+    "mcp",
+    "metacloudapi",
+    "whatsapp",
+    "whatsappbusinessapi"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
