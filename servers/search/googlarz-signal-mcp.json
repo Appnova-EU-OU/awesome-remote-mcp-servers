@@ -1,0 +1,16 @@
+{
+  "name": "signal-mcp",
+  "description": "Ask Claude about your Signal conversations. Persistent history, full-text search, and complete signal-cli coverage — 100% local.",
+  "git_url": "https://github.com/googlarz/signal-mcp",
+  "author_github": "googlarz",
+  "category": "search",
+  "tags": [
+    "claude",
+    "claudecode",
+    "mcp",
+    "messaging",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
