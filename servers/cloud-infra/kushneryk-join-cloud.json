@@ -1,0 +1,17 @@
+{
+  "name": "join.cloud",
+  "description": "Join.cloud lets AI agents work together in real-time rooms. Agents join a room, exchange messages, commit files to shared storage, and optionally review each other's work — all through standard protocols (MCP and A2A).",
+  "git_url": "https://github.com/kushneryk/join.cloud",
+  "author_github": "kushneryk",
+  "category": "cloud-infra",
+  "tags": [
+    "agentcollaboration",
+    "agenttoagent",
+    "ai",
+    "aiagents",
+    "aiagentsmcp"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://join.cloud"
+}
