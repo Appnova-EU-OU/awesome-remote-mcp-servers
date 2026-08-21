@@ -1,0 +1,17 @@
+{
+  "name": "neurolink",
+  "description": "One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.",
+  "git_url": "https://github.com/juspay/neurolink",
+  "author_github": "juspay",
+  "category": "security",
+  "tags": [
+    "agents",
+    "ai",
+    "aidevelopment",
+    "aiplatform",
+    "aisdk"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://neurolink.ink"
+}
