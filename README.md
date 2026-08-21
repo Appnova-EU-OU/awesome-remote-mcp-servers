@@ -91,6 +91,17 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [producthunt-mcp-server](https://freemcp.space/featured/producthunt-mcp-serv) — MCP server for Product Hunt. Interact with trending posts, comments, collections, users, and more.
+- [mattermost-mcp-host](https://freemcp.space/featured/mattermost-mcp-host) — A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
+- [mcp-server](https://freemcp.space/featured/mcp-server-11) — MCP server for account verification: SMS verification, number rentals and matching-country proxies on carrier-issued mobile numbers. 40 tools, 2500+ services, 145+ countries. Works with Claude, Cursor, Codex, Windsurf, Cline, Zed, OpenClaw, Hermes and Continue.
+- [inxmail-mcp](https://freemcp.space/featured/inxmail-mcp) — MCP server for the Inxmail Commerce transactional API — events, sendings, bounces, blocklist, blacklist, reactions, and delivery tracking from Claude.
+- [proton-mail-mcp](https://freemcp.space/featured/proton-mail-mcp) — Unofficial MCP server for Proton Mail (not affiliated with Proton AG) — send, read, search & organize email over SMTP/IMAP
+- [mcp-discord-bridge](https://freemcp.space/featured/mcp-discord-bridge) — AI assistant control a Discord server - reading messages, creating/deleting channels, sending messages ,All via the MCP protocol
+- [joltsms-mcp-server](https://freemcp.space/featured/joltsms-mcp-server) — MCP server for JoltSMS — provision real-SIM US phone numbers and receive SMS/OTP codes
+- [qmailing-mcp-server](https://freemcp.space/featured/qmailing-mcp-server) — MCP server for QMailing - AI agents read & send email, manage mailboxes, custom domains and webhooks via the QMailing API.
+- [shipmail-mcp](https://freemcp.space/featured/shipmail-mcp) — Official Shipmail MCP server for AI-agent custom-domain business email, REST API, and webhooks
+- [ox-mcp](https://freemcp.space/featured/ox-mcp) — MCP server for Open-Xchange & standards-based mail: email (IMAP/SMTP), Sieve filters, CalDAV calendar, CardDAV contacts, free/busy.
+- [radmail-mcp](https://freemcp.space/featured/radmail-mcp) — Email OS for agents over MCP: two-axis triage, a Right Now lane, commitment follow-through, reviewable drafts, and a machine-verifiable BEC hard-stop (money/banking-change/first-contact = human-only). Zero-auth sandbox.
 - [discogs-mcp-server](https://freemcp.space/featured/discogs-mcp-server) — MCP Server for Discogs
 - [imessage-query-fastmcp-mcp-server](https://freemcp.space/featured/imessage-query-fastm) — An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP). This server is built with the FastMCP framework and the imessagedb library, enabling LLMs to query and analyze iMessage conversations with proper phone number validation and attachment handling.
 - [ntfy-me-mcp](https://freemcp.space/featured/ntfy-me-mcp) — An ntfy MCP server for sending/fetching ntfy notifications to self-hosted or ANY ntfy.sh server from AI Agents 📤 (supports secure token auth & more - use with npx or docker!)
@@ -146,7 +157,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [hop](https://freemcp.space/featured/hop) — Fast, elegant SSH connection manager with a TUI dashboard and MCP server
 - [codex-mcp-tool](https://freemcp.space/featured/codex-mcp-tool) — MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
 - [pty-mcp](https://freemcp.space/featured/pty-mcp) — MCP server for interactive terminal sessions — local shells, SSH, serial ports, and   persistent remote sessions
-- [tui-mcp](https://freemcp.space/featured/tui-mcp) — What Chrome DevTools MCP is for the browser, tui-mcp is for the terminal. Launch, screenshot, and interact with any TUI app.
+- [tui-mcp](https://freemcp.space/nvms/tui-mcp) — What Chrome DevTools MCP is for the browser, tui-mcp is for the terminal. Launch, screenshot, and interact with any TUI app.
 - [infrabroker](https://freemcp.space/featured/infrabroker) — Infrastructure access broker for AI agents — SSH & Kubernetes. Per-operation ephemeral credentials minted by a separate signer; the model never touches one. MCP stdio / HTTP+OIDC.
 - [mcp-remote-ssh](https://freemcp.space/featured/mcp-remote-ssh) — MCP server for remote SSH operations -- persistent sessions, structured command output, SFTP file transfer, port forwarding, and secret-safe environment variable injection with automatic output redaction.
 - [sysknife](https://freemcp.space/featured/sysknife) — Your sysadmin co-pilot — an AI that administers Linux through typed, approval-gated, Ed25519-audited actions instead of shell strings. Reference implementation of the LACS standard.
@@ -180,17 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [preflight](https://freemcp.space/featured/preflight) — ✈️ 24-tool MCP server for Claude Code: preflight checks for your prompts, cross-service context, session history search with LanceDB vectors, correction pattern learning, cost estimation
 - [OzBridge](https://freemcp.space/featured/ozbridge) — Bring Warp™ Oz™ to any IDE or agent via MCP — plus native @oz in VS Code Copilot Chat. OzBridge is an independent project and is not affiliated with, endorsed by, or sponsored by Warp.
 - [glm-mcp](https://freemcp.space/featured/glm-mcp) — GLM (Zhipu/Z.ai) as a cheap, full-capability subagent for the Claude Code app — works on a subscription Claude (no API key for the main agent), auto-routes between Opus and GLM, file-editing agent with diff/dry-run/git-revert, one-command npx install.
-- [plori](https://freemcp.space/featured/plori) — plori (plori.ai): a cloud AI agent with its own computer - persistent disk, real CLI tools, and memory that carry over between sessions. Connect any MCP client.
-- [VMware-AIops](https://freemcp.space/featured/vmware-aiops) — VMware vCenter/ESXi AI-powered monitoring and operations. Two skills: vmware-monitor (read-only, safe) and vmware-aiops (full operations) | Claude Code Skill
-- [imagen3-mcp](https://freemcp.space/featured/imagen3-mcp) — A powerful image generation tool using Google's Imagen 3.0 API through MCP. Generate high-quality images from text prompts with advanced photography, artistic, and photorealistic controls.
-- [esxi-mcp-server](https://freemcp.space/featured/esxi-mcp-server) — A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.
-- [mkp](https://freemcp.space/featured/mkp) — MKP is a Model Context Protocol (MCP) server for Kubernetes
-- [mcp_safe_local_python_executor](https://freemcp.space/featured/mcp-safe-local-pytho) — Stdio MCP Server wrapping custom Python runtime (LocalPythonExecutor) from Hugging Faces' `smolagents` framework. The runtime combines the ease of setup (compared to docker, VM, cloud runtimes) while providing safeguards and limiting operations/imports that are allowed inside the runtime.
-- [forge](https://freemcp.space/featured/forge) — Turn Claude Code into a plan-execute-validate loop with parallel work, intelligent retry, and memory
-- [winx-code-agent](https://freemcp.space/featured/winx-code-agent) — 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic capabilities. 
-- [kill-process-mcp](https://freemcp.space/featured/kill-process-mcp) — AI-powered cross-platform MCP server exposing LLM-accessible tools to list and terminate OS processes via natural language queries
-- [persistproc](https://freemcp.space/featured/persistproc) — MCP server to allow LLMs to manage and inspect long-running processes
-- [kagan](https://freemcp.space/featured/kagan) — OpenCode Plugin for supervised agentic software development on a Kanban board
 <!-- freemcp:end -->
 
 ---
