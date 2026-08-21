@@ -1,0 +1,16 @@
+{
+  "name": "telephony-mcp-server",
+  "description": "A very simple no-fuss minimalist MCP Server with telephony tools like voice call and sms. This MCP Server can be integrated with LLM applications. Vonage API is used for calls, SMS, Speech-to-Text and Speech Recognition.",
+  "git_url": "https://github.com/khan2a/telephony-mcp-server",
+  "author_github": "khan2a",
+  "category": "ai-agents",
+  "tags": [
+    "mcp",
+    "mcpserver",
+    "python",
+    "telephony",
+    "vonage"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
