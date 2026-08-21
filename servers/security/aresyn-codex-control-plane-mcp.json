@@ -1,0 +1,17 @@
+{
+  "name": "codex-control-plane-mcp",
+  "description": "Durable MCP control plane for long-running Codex Desktop tasks",
+  "git_url": "https://github.com/aresyn/codex-control-plane-mcp",
+  "author_github": "aresyn",
+  "category": "security",
+  "tags": [
+    "agenttools",
+    "agenticworkflows",
+    "aiagents",
+    "automation",
+    "codex"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/codex-control-plane-mcp/"
+}
