@@ -1,0 +1,16 @@
+{
+  "name": "email-mcp",
+  "description": "Unified MCP server for email access across Gmail, Outlook, iCloud, and IMAP",
+  "git_url": "https://github.com/marlinjai/email-mcp",
+  "author_github": "marlinjai",
+  "category": "communication",
+  "tags": [
+    "email",
+    "unified",
+    "access",
+    "across",
+    "gmail"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
