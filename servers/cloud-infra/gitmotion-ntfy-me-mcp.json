@@ -1,0 +1,17 @@
+{
+  "name": "ntfy-me-mcp",
+  "description": "An ntfy MCP server for sending/fetching ntfy notifications to self-hosted or ANY ntfy.sh server from AI Agents 📤 (supports secure token auth & more - use with npx or docker!)",
+  "git_url": "https://github.com/gitmotion/ntfy-me-mcp",
+  "author_github": "gitmotion",
+  "category": "cloud-infra",
+  "tags": [
+    "agent",
+    "ai",
+    "aitools",
+    "claude",
+    "docker"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://npmjs.com/package/ntfy-me-mcp"
+}
