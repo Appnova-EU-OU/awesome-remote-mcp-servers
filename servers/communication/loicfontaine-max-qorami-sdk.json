@@ -1,0 +1,17 @@
+{
+  "name": "qorami-sdk",
+  "description": "Official Qorami SDK — JS/Python clients, tool schemas and an MCP server so AI agents check email before sending. https://qorami.fr",
+  "git_url": "https://github.com/loicfontaine-max/qorami-sdk",
+  "author_github": "loicfontaine-max",
+  "category": "communication",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "aisafety",
+    "anthropic",
+    "email"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://qorami.fr"
+}
