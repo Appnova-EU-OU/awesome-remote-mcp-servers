@@ -1,0 +1,16 @@
+{
+  "name": "ringback",
+  "description": "Let your AI agent call your phone and talk to you — MCP servers for live, interruptible voice calls + tiered alerts, using free self-hosted pieces (pjsua2 + whisper.cpp + Linphone). No paid telephony, no extra API key.",
+  "git_url": "https://github.com/mohitbadwal/ringback",
+  "author_github": "mohitbadwal",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "claude",
+    "llm",
+    "macos"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
