@@ -1,0 +1,17 @@
+{
+  "name": "outlook-assistant",
+  "description": "MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.",
+  "git_url": "https://github.com/littlebearapps/outlook-assistant",
+  "author_github": "littlebearapps",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "aiagents",
+    "automation",
+    "calendar",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://littlebearapps.com/builds/outlook-assistant"
+}
