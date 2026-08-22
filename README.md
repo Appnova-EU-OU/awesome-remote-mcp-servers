@@ -91,6 +91,17 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [alibaba-cloud-ops-mcp-server](https://freemcp.space/featured/alibaba-cloud-ops-mc-2) — AlibabaCloud CloudOps MCP Server
+- [roundtable](https://freemcp.space/featured/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface
+- [codex-control-plane-mcp](https://freemcp.space/featured/codex-control-plane) — Durable MCP control plane for long-running Codex Desktop tasks
+- [neurolink](https://freemcp.space/featured/neurolink) — One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
+- [join.cloud](https://freemcp.space/featured/join-cloud) — Join.cloud lets AI agents work together in real-time rooms. Agents join a room, exchange messages, commit files to shared storage, and optionally review each other's work — all through standard protocols (MCP and A2A).
+- [local-mcp-releases](https://freemcp.space/lmcp/local-mcp-releases) — 215+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
+- [bluesky-context-server](https://freemcp.space/featured/bluesky-context-serv) — Bluesky MCP server
+- [slack-mcp-server](https://freemcp.space/featured/slack-mcp-server) — Catch up on Slack without reading it. Unreads, threads, search. Browser-session or hosted OAuth. 21 tools.
+- [telephony-mcp-server](https://freemcp.space/featured/telephony-mcp-server) — A very simple no-fuss minimalist MCP Server with telephony tools like voice call and sms. This MCP Server can be integrated with LLM applications. Vonage API is used for calls, SMS, Speech-to-Text and Speech Recognition.
+- [agent-comm-hub](https://freemcp.space/featured/agent-comm-hub) — Let multiple AI agents talk, schedule tasks, share memory and self-evolve — zero external services, 5-minute Docker deploy.
+- [whatsapp-mcp](https://freemcp.space/featured/whatsapp-mcp) — WhatsApp MCP Server — Manage templates & send messages via Claude, Cursor, or any MCP client. Meta Cloud API.
 - [producthunt-mcp-server](https://freemcp.space/featured/producthunt-mcp-serv) — MCP server for Product Hunt. Interact with trending posts, comments, collections, users, and more.
 - [mattermost-mcp-host](https://freemcp.space/featured/mattermost-mcp-host) — A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
 - [mcp-server](https://freemcp.space/featured/mcp-server-11) — MCP server for account verification: SMS verification, number rentals and matching-country proxies on carrier-issued mobile numbers. 40 tools, 2500+ services, 145+ countries. Works with Claude, Cursor, Codex, Windsurf, Cline, Zed, OpenClaw, Hermes and Continue.
@@ -180,17 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp_creator_growth](https://freemcp.space/featured/mcp-creator-growth) — Intelligent learning sidecar for AI coding assistants. Helps developers learn from AI-generated code changes through interactive blocking quizzes and provides agents with persistent project-specific debugging memory using silent RAG tools. Features 56% token optimization and multi-language support.
 - [vibekit-mcp](https://freemcp.space/featured/vibekit-mcp) — MCP server for VibeKit — build, deploy, and manage hosted apps and chat with their AI agents from Claude Desktop, Cursor, and other MCP clients.
 - [pyATS_MCP](https://freemcp.space/featured/pyats-mcp) — An MCP Server for pyATS (experimental)
-- [quran-mcp-server](https://freemcp.space/featured/quran-mcp-server) — Quran.com API integration for verse search, translation and tafsir
-- [rijksmuseum-mcp](https://freemcp.space/featured/rijksmuseum-mcp) — Rijksmuseum MCP integration for artwork exploration and analysis
-- [Network-AI](https://freemcp.space/featured/network-ai) — Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for 32 AI frameworks
-- [arch-mcp](https://freemcp.space/featured/arch-mcp) — Arch Linux MCP (Model Context Protocol) Server
-- [mcp-console-automation](https://freemcp.space/featured/mcp-console-automati) — MCP server for AI-driven console application automation and monitoring
-- [multi_mcp](https://freemcp.space/featured/multi-mcp-2) — Multi-Model chat, code review and analysis MCP Server for Claude Code
-- [deepseek-as-subagent](https://freemcp.space/featured/deepseek-as-subagent) — Run DeepSeek as a real sub-agent inside Claude Code / Codex CLI — DeepSeek gets its own 7-tool agent loop in a sandboxed workspace, not just a single LLM call.
-- [term_mcp_deepseek](https://freemcp.space/featured/term-mcp-deepseek) — A MCP‑like server using the DeepSeek API for Terminal
-- [preflight](https://freemcp.space/featured/preflight) — ✈️ 24-tool MCP server for Claude Code: preflight checks for your prompts, cross-service context, session history search with LanceDB vectors, correction pattern learning, cost estimation
-- [OzBridge](https://freemcp.space/featured/ozbridge) — Bring Warp™ Oz™ to any IDE or agent via MCP — plus native @oz in VS Code Copilot Chat. OzBridge is an independent project and is not affiliated with, endorsed by, or sponsored by Warp.
-- [glm-mcp](https://freemcp.space/featured/glm-mcp) — GLM (Zhipu/Z.ai) as a cheap, full-capability subagent for the Claude Code app — works on a subscription Claude (no API key for the main agent), auto-routes between Opus and GLM, file-editing agent with diff/dry-run/git-revert, one-command npx install.
 <!-- freemcp:end -->
 
 ---
