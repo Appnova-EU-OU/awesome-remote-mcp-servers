@@ -1,0 +1,16 @@
+{
+  "name": "caldav-mcp",
+  "description": "Universal MCP server for CalDAV protocol integration. Works with any CalDAV-compatible calendar server including Yandex Calendar, Google Calendar (via CalDAV), Nextcloud, ownCloud, Apple iCloud, and others. Supports creating events with recurrence, categories, priority, attendees, reminders, searching events, and retrieving events by UID.",
+  "git_url": "https://github.com/madbonez/caldav-mcp",
+  "author_github": "madbonez",
+  "category": "search",
+  "tags": [
+    "caldav",
+    "universal",
+    "integration",
+    "works",
+    "any"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
