@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server",
+  "description": "MCP server for MultiMail — Verifiable identity email for AI agents",
+  "git_url": "https://github.com/multimail-dev/mcp-server",
+  "author_github": "multimail-dev",
+  "category": "communication",
+  "tags": [
+    "agentemail",
+    "aiagent",
+    "aiagents",
+    "verifiablecredentials"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://multimail.dev"
+}
