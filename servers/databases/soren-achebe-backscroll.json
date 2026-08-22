@@ -1,0 +1,17 @@
+{
+  "name": "backscroll",
+  "description": "Never lose a command's output again — searchable, per-command terminal scrollback recorder",
+  "git_url": "https://github.com/soren-achebe/backscroll",
+  "author_github": "soren-achebe",
+  "category": "databases",
+  "tags": [
+    "bash",
+    "cli",
+    "commandline",
+    "developertools",
+    "fish"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://soren-achebe.github.io/backscroll/"
+}
