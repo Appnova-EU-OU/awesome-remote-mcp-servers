@@ -91,6 +91,16 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [outlook-assistant](https://freemcp.space/featured/outlook-assistant) — MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
+- [better-email-mcp](https://freemcp.space/featured/better-email-mcp) — IMAP/SMTP email for AI agents -- read, send, organize folders, and manage attachments across multiple accounts, with auto-discovery.
+- [ringback](https://freemcp.space/featured/ringback) — Let your AI agent call your phone and talk to you — MCP servers for live, interruptible voice calls + tiered alerts, using free self-hosted pieces (pjsua2 + whisper.cpp + Linphone). No paid telephony, no extra API key.
+- [email-mcp](https://freemcp.space/featured/email-mcp-2) — Unified MCP server for email access across Gmail, Outlook, iCloud, and IMAP
+- [caldav-mcp](https://freemcp.space/featured/caldav-mcp-2) — Universal MCP server for CalDAV protocol integration. Works with any CalDAV-compatible calendar server including Yandex Calendar, Google Calendar (via CalDAV), Nextcloud, ownCloud, Apple iCloud, and others. Supports creating events with recurrence, categories, priority, attendees, reminders, searching events, and retrieving events by UID.
+- [mingle-mcp](https://freemcp.space/featured/mingle-mcp) — Your AI meets other people's AIs. You meet the people. Agent-native networking via MCP.
+- [Xadeus-QQ-MCP](https://freemcp.space/xadeus/xadeus-qq-mcp) — QQ MCP Server - connect AI agents to QQ via NapCatQQ. Auto-wake, messaging, group management, file sharing, cross-platform.
+- [mcp-server](https://freemcp.space/featured/mcp-server-12) — MCP server for MultiMail — Verifiable identity email for AI agents
+- [leximo-ai-call-assistant-mcp-server](https://freemcp.space/featured/leximo-ai-call-assis) — An MCP (Model Context Protocol) server that lets you schedule AI phone calls and manage Leximo assignments directly from Claude Desktop or Claude Code — no app switching needed.
+- [qorami-sdk](https://freemcp.space/featured/qorami-sdk) — Official Qorami SDK — JS/Python clients, tool schemas and an MCP server so AI agents check email before sending. https://qorami.fr
 - [alibaba-cloud-ops-mcp-server](https://freemcp.space/featured/alibaba-cloud-ops-mc-2) — AlibabaCloud CloudOps MCP Server
 - [roundtable](https://freemcp.space/featured/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface
 - [codex-control-plane-mcp](https://freemcp.space/featured/codex-control-plane) — Durable MCP control plane for long-running Codex Desktop tasks
@@ -181,16 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [MayaMCP](https://freemcp.space/featured/mayamcp) — Model Context Protocol (MCP) server implementation for Autodesk Maya
 - [code-to-tree](https://freemcp.space/featured/code-to-tree) — A runtime-free MCP server that converts source code into AST🌲, regardless of language.
 - [mcp-open-library](https://freemcp.space/featured/mcp-open-library) — A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
-- [svgmaker-mcp](https://freemcp.space/featured/svgmaker-mcp) — Model Context Protocol server for SVGMaker - AI-powered SVG generation and editing. Seamlessly integrate SVG creation into AI workflows.
-- [anilist-mcp](https://freemcp.space/featured/anilist-mcp) — AniList MCP server for accessing anime and manga data
-- [opentakeoff](https://freemcp.space/featured/opentakeoff) — Open-source (Apache-2.0) PDF takeoff for construction & flooring — the first engine an AI agent drives natively over MCP, not bolted on. One-click room detection, materials + quantities, built for preconstruction. Runs entirely in your browser.
-- [touchpoint](https://freemcp.space/featured/touchpoint) — Give your AI agent eyes and hands on any desktop — cross-platform accessibility API with MCP server
-- [cicada](https://freemcp.space/featured/cicada) — AI Coders search blindly. Be their guide.
-- [skill-cortex-server](https://freemcp.space/featured/skill-cortex-server) — A third-party MCP server that enable all IDEs to access Claude Code Skills capabilities
-- [Blind-Auditor](https://freemcp.space/featured/blind-auditor) — MCP tool for improving model coding quality by mandatory self-audition
-- [mcp_creator_growth](https://freemcp.space/featured/mcp-creator-growth) — Intelligent learning sidecar for AI coding assistants. Helps developers learn from AI-generated code changes through interactive blocking quizzes and provides agents with persistent project-specific debugging memory using silent RAG tools. Features 56% token optimization and multi-language support.
-- [vibekit-mcp](https://freemcp.space/featured/vibekit-mcp) — MCP server for VibeKit — build, deploy, and manage hosted apps and chat with their AI agents from Claude Desktop, Cursor, and other MCP clients.
-- [pyATS_MCP](https://freemcp.space/featured/pyats-mcp) — An MCP Server for pyATS (experimental)
 <!-- freemcp:end -->
 
 ---
