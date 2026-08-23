@@ -1,0 +1,13 @@
+{
+  "name": "cv-mcp-server",
+  "description": "Carbon Voice MCP Server",
+  "git_url": "https://github.com/PhononX/cv-mcp-server",
+  "author_github": "PhononX",
+  "category": "developer-tools",
+  "tags": [
+    "carbon",
+    "voice"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
