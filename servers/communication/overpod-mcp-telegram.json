@@ -1,0 +1,17 @@
+{
+  "name": "mcp-telegram",
+  "description": "Telegram MCP Server — connect Telegram to Claude AI & ChatGPT. 181 tools: messages, media, reactions, polls, stories & more. MTProto userbot. Self-host (npx) or hosted at mcp-telegram.com.",
+  "git_url": "https://github.com/overpod/mcp-telegram",
+  "author_github": "overpod",
+  "category": "communication",
+  "tags": [
+    "aitools",
+    "chatgpt",
+    "claude",
+    "gramjs",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcp-telegram.github.io/mcp-telegram/"
+}
