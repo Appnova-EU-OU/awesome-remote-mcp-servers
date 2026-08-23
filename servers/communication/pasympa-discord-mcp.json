@@ -1,0 +1,16 @@
+{
+  "name": "discord-mcp",
+  "description": "MCP server to control Discord — messages, channels, roles, permissions, members, and moderation",
+  "git_url": "https://github.com/PaSympa/discord-mcp",
+  "author_github": "PaSympa",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "automation",
+    "claude",
+    "discord",
+    "discordbot"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
