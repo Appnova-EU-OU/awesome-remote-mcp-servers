@@ -1,0 +1,17 @@
+{
+  "name": "austenstone/myinstants-mcp",
+  "description": "MCP server that lets your ai agent press sound buttons. it's not that deep.",
+  "git_url": "https://github.com/austenstone/myinstants-mcp",
+  "author_github": "austenstone",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "aiagents",
+    "mcp",
+    "mcpserver",
+    "memes"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://myinstants.com"
+}
