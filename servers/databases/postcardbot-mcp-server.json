@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "MCP server for Postcard.bot — let AI agents send real printed postcards. Works with Claude, Cursor, Windsurf, and any MCP client.",
+  "git_url": "https://github.com/PostcardBot/mcp-server",
+  "author_github": "PostcardBot",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claude",
+    "directmail",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://postcard.bot/developers"
+}
