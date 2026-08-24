@@ -91,6 +91,13 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-telegram](https://freemcp.space/featured/mcp-telegram) — Telegram MCP Server — connect Telegram to Claude AI & ChatGPT. 181 tools: messages, media, reactions, polls, stories & more. MTProto userbot. Self-host (npx) or hosted at mcp-telegram.com.
+- [discord-mcp](https://freemcp.space/featured/discord-mcp) — MCP server to control Discord — messages, channels, roles, permissions, members, and moderation
+- [cv-mcp-server](https://freemcp.space/featured/cv-mcp-server) — Carbon Voice MCP Server
+- [chatterboxio-mcp-server](https://freemcp.space/featured/chatterboxio-mcp-ser-2) — A Model Context Protocol server implementation for ChatterBox, enabling AI agents to interact with online meetings and generate meeting summaries
+- [Omnicord](https://freemcp.space/featured/omnicord) — Discord server management MCP for AI agents. Chat, moderation, administration, and full server building from one brief. 150+ tools, with destructive actions gated behind a preview.
+- [mcp-server](https://freemcp.space/featured/mcp-server-13) — MCP server for Postcard.bot — let AI agents send real printed postcards. Works with Claude, Cursor, Windsurf, and any MCP client.
+- [aiogram-mcp](https://freemcp.space/featured/aiogram-mcp-2) — MCP server middleware for aiogram Telegram bots — expose your bot to AI agents via the Model Context Protocol
 - [outlook-assistant](https://freemcp.space/featured/outlook-assistant) — MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
 - [better-email-mcp](https://freemcp.space/featured/better-email-mcp) — IMAP/SMTP email for AI agents -- read, send, organize folders, and manage attachments across multiple accounts, with auto-discovery.
 - [ringback](https://freemcp.space/featured/ringback) — Let your AI agent call your phone and talk to you — MCP servers for live, interruptible voice calls + tiered alerts, using free self-hosted pieces (pjsua2 + whisper.cpp + Linphone). No paid telephony, no extra API key.
@@ -184,13 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [sysknife](https://freemcp.space/featured/sysknife) — Your sysadmin co-pilot — an AI that administers Linux through typed, approval-gated, Ed25519-audited actions instead of shell strings. Reference implementation of the LACS standard.
 - [cygnus-ssh-mcp](https://freemcp.space/featured/cygnus-ssh-mcp) — MCP server for SSH remote server management
 - [trinity-lite](https://freemcp.space/featured/trinity-lite) — Local AgentOps for cross-vendor CLI coding agents: route work, recover state, and accept only with evidence.
-- [copilot-mcp-server](https://freemcp.space/featured/copilot-mcp-server) — MCP server for GitHub Copilot CLI integration
-- [mcp-linux-tools](https://freemcp.space/featured/mcp-linux-tools) — A MCP server to manage linux, websites and database
-- [taskbounty-mcp-server](https://freemcp.space/featured/taskbounty-mcp-serve) — MCP server for TaskBounty. Post AI-fixable bug bounties or pick them up. Funded in USD via Stripe, paid in USDC, ETH, or BTC.
-- [mcp-shell](https://freemcp.space/featured/mcp-shell) — Give hands to AI. MCP server to run shell commands securely, auditably, and on demand.
-- [MayaMCP](https://freemcp.space/featured/mayamcp) — Model Context Protocol (MCP) server implementation for Autodesk Maya
-- [code-to-tree](https://freemcp.space/featured/code-to-tree) — A runtime-free MCP server that converts source code into AST🌲, regardless of language.
-- [mcp-open-library](https://freemcp.space/featured/mcp-open-library) — A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 <!-- freemcp:end -->
 
 ---
