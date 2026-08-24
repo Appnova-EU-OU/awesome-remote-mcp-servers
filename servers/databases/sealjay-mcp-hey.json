@@ -1,0 +1,16 @@
+{
+  "name": "mcp-hey",
+  "description": "MCP server for Hey.com: read, send, search, and organise email from Claude or any MCP client. Runs locally, stores no credentials, respects rate limits.",
+  "git_url": "https://github.com/Sealjay/mcp-hey",
+  "author_github": "Sealjay",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "bun",
+    "claude",
+    "claudedesktop",
+    "email"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
