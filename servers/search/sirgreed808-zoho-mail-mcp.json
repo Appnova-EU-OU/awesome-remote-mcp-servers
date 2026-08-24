@@ -1,0 +1,16 @@
+{
+  "name": "zoho-mail-mcp",
+  "description": "MCP server for Zoho Mail — read, search, and send email via Claude",
+  "git_url": "https://github.com/SirGreed808/zoho-mail-mcp",
+  "author_github": "SirGreed808",
+  "category": "search",
+  "tags": [
+    "claude",
+    "email",
+    "mcp",
+    "modelcontextprotocol",
+    "zoho"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
