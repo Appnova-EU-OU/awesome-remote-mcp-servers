@@ -1,0 +1,16 @@
+{
+  "name": "pluggedin-mcp-proxy",
+  "description": "Plugged.in MCP Server manages all your other MCPs in one MCP.",
+  "git_url": "https://github.com/VeriTeknik/pluggedin-mcp-proxy",
+  "author_github": "VeriTeknik",
+  "category": "developer-tools",
+  "tags": [
+    "pluggedin",
+    "proxy",
+    "plugged",
+    "manages",
+    "all"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
