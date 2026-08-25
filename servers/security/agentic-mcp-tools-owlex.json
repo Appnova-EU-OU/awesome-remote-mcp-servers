@@ -1,0 +1,16 @@
+{
+  "name": "owlex",
+  "description": "AI council server: query CLI agents (Claude Code, Codex, Gemini, and OpenCode) in parallel with deliberation rounds",
+  "git_url": "https://github.com/agentic-mcp-tools/owlex",
+  "author_github": "agentic-mcp-tools",
+  "category": "security",
+  "tags": [
+    "owlex",
+    "council",
+    "query",
+    "cli",
+    "agents"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
