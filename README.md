@@ -91,6 +91,13 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [fhir-mcp-server](https://freemcp.space/featured/fhir-mcp-server-2) — FHIR MCP Server – helping you expose any FHIR Server or API as a MCP Server.
+- [sendmux-sdk](https://freemcp.space/featured/sendmux-sdk) — Official monorepo of SDKs, CLI, and MCP servers for Sendmux email APIs across TypeScript, Python, Go, PHP, Rust, and Ruby.
+- [vrchat-mcp](https://freemcp.space/featured/vrchat-mcp) — This project is a Model Context Protocol (MCP) server for interacting with the VRChat API.
+- [fast-mcp-telegram](https://freemcp.space/featured/fast-mcp-telegram) — Telegram MCP gateway for AI agents: 8 tools, multi-tenant HTTP/stdio, MTProto
+- [mcp-hey](https://freemcp.space/featured/mcp-hey) — MCP server for Hey.com: read, send, search, and organise email from Claude or any MCP client. Runs locally, stores no credentials, respects rate limits.
+- [zoho-mail-mcp](https://freemcp.space/featured/zoho-mail-mcp) — MCP server for Zoho Mail — read, search, and send email via Claude
+- [botbell-mcp](https://freemcp.space/featured/botbell-mcp-2) — BotBell MCP Server — Give Your AI a Voice
 - [mcp-telegram](https://freemcp.space/featured/mcp-telegram) — Telegram MCP Server — connect Telegram to Claude AI & ChatGPT. 181 tools: messages, media, reactions, polls, stories & more. MTProto userbot. Self-host (npx) or hosted at mcp-telegram.com.
 - [discord-mcp](https://freemcp.space/featured/discord-mcp) — MCP server to control Discord — messages, channels, roles, permissions, members, and moderation
 - [cv-mcp-server](https://freemcp.space/featured/cv-mcp-server) — Carbon Voice MCP Server
@@ -184,13 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ncp](https://freemcp.space/featured/ncp) — Natural Context Provider (NCP). Your MCPs, supercharged. Find any tool instantly, load on demand, run on schedule, ready for any   client. Smart loading saves tokens and energy.
 - [hop](https://freemcp.space/featured/hop) — Fast, elegant SSH connection manager with a TUI dashboard and MCP server
 - [codex-mcp-tool](https://freemcp.space/featured/codex-mcp-tool) — MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
-- [pty-mcp](https://freemcp.space/featured/pty-mcp) — MCP server for interactive terminal sessions — local shells, SSH, serial ports, and   persistent remote sessions
-- [tui-mcp](https://freemcp.space/nvms/tui-mcp) — What Chrome DevTools MCP is for the browser, tui-mcp is for the terminal. Launch, screenshot, and interact with any TUI app.
-- [infrabroker](https://freemcp.space/featured/infrabroker) — Infrastructure access broker for AI agents — SSH & Kubernetes. Per-operation ephemeral credentials minted by a separate signer; the model never touches one. MCP stdio / HTTP+OIDC.
-- [mcp-remote-ssh](https://freemcp.space/featured/mcp-remote-ssh) — MCP server for remote SSH operations -- persistent sessions, structured command output, SFTP file transfer, port forwarding, and secret-safe environment variable injection with automatic output redaction.
-- [sysknife](https://freemcp.space/featured/sysknife) — Your sysadmin co-pilot — an AI that administers Linux through typed, approval-gated, Ed25519-audited actions instead of shell strings. Reference implementation of the LACS standard.
-- [cygnus-ssh-mcp](https://freemcp.space/featured/cygnus-ssh-mcp) — MCP server for SSH remote server management
-- [trinity-lite](https://freemcp.space/featured/trinity-lite) — Local AgentOps for cross-vendor CLI coding agents: route work, recover state, and accept only with evidence.
 <!-- freemcp:end -->
 
 ---
