@@ -1,0 +1,16 @@
+{
+  "name": "spix-mcp",
+  "description": "Spix MCP Server — give AI agents phone calls, SMS, and email as tool calls",
+  "git_url": "https://github.com/Spix-HQ/spix-mcp",
+  "author_github": "Spix-HQ",
+  "category": "communication",
+  "tags": [
+    "spix",
+    "give",
+    "agents",
+    "phone",
+    "calls"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
