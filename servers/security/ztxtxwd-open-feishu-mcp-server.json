@@ -1,0 +1,15 @@
+{
+  "name": "open-feishu-mcp-server",
+  "description": "A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.",
+  "git_url": "https://github.com/ztxtxwd/open-feishu-mcp-server",
+  "author_github": "ztxtxwd",
+  "category": "security",
+  "tags": [
+    "feishu",
+    "lark",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://fms-tapeless.lovable.app"
+}
