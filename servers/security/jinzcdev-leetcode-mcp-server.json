@@ -1,0 +1,17 @@
+{
+  "name": "leetcode-mcp-server",
+  "description": "An MCP server enabling automated access to LeetCode's problems, solutions, and public data with optional authentication for user-specific features, supporting leetcode.com & leetcode.cn sites.",
+  "git_url": "https://github.com/jinzcdev/leetcode-mcp-server",
+  "author_github": "jinzcdev",
+  "category": "security",
+  "tags": [
+    "ai",
+    "algorithm",
+    "lc",
+    "leetcode",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@jinzcdev/leetcode-mcp-server"
+}
