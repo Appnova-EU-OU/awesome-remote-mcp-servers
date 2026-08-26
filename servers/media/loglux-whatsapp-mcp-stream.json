@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-mcp-stream",
+  "description": "A WhatsApp MCP server built around Streamable HTTP transport, using Baileys for WhatsApp connectivity, with a web admin UI and bidirectional media flow (upload + download).",
+  "git_url": "https://github.com/loglux/whatsapp-mcp-stream",
+  "author_github": "loglux",
+  "category": "media",
+  "tags": [
+    "beileys",
+    "mcp",
+    "mcpserver",
+    "whatsapp",
+    "whatsappautomation"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
