@@ -91,6 +91,13 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [owlex](https://freemcp.space/featured/owlex) — AI council server: query CLI agents (Claude Code, Codex, Gemini, and OpenCode) in parallel with deliberation rounds
+- [pluggedin-mcp-proxy](https://freemcp.space/featured/pluggedin-mcp-proxy) — Plugged.in MCP Server manages all your other MCPs in one MCP.
+- [ntfy-mcp](https://freemcp.space/featured/ntfy-mcp) — The MCP server that keeps you informed by sending the notification on phone using ntfy
+- [imessage-mcp](https://freemcp.space/featured/imessage-mcp-2) — A Model Context Protocol server for reading iMessage data from macOS.
+- [neurodock](https://freemcp.space/featured/neurodock) — A local-first cognitive substrate for neurodivergent professionals. Gives Claude memory, a sense of time, a translator for corporate ambiguity, and a guardrail that refuses to amplify rumination, hyperfocus, or sycophancy. MCP-native. No telemetry. AGPL-3.0-or-later. Self-ID sufficient — no diagnosis gating.
+- [didlogic_mcp](https://freemcp.space/featured/didlogic-mcp) — An MCP server for [DIDLogic](https://didlogic.com). Adds functionality to manage SIP endpoints, numbers and destinations.
+- [spix-mcp](https://freemcp.space/featured/spix-mcp) — Spix MCP Server — give AI agents phone calls, SMS, and email as tool calls
 - [fhir-mcp-server](https://freemcp.space/featured/fhir-mcp-server-2) — FHIR MCP Server – helping you expose any FHIR Server or API as a MCP Server.
 - [sendmux-sdk](https://freemcp.space/featured/sendmux-sdk) — Official monorepo of SDKs, CLI, and MCP servers for Sendmux email APIs across TypeScript, Python, Go, PHP, Rust, and Ruby.
 - [vrchat-mcp](https://freemcp.space/featured/vrchat-mcp) — This project is a Model Context Protocol (MCP) server for interacting with the VRChat API.
@@ -184,13 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [backscroll](https://freemcp.space/featured/backscroll) — Never lose a command's output again — searchable, per-command terminal scrollback recorder
 - [terminal-history-mcp](https://freemcp.space/featured/terminal-history-mcp) — Search your shell history (zsh/bash/fish) from Claude/MCP. Local SQLite FTS5. Secret-redacted.
 - [localhost-mcp](https://freemcp.space/featured/localhost-mcp) — MCP server: inspect, manage, kill local dev servers. Stop guessing what's on :3000.
-- [when](https://freemcp.space/featured/when) — Six tools. One install. The WhenLabs developer toolkit.
-- [claude-terminal-mcp](https://freemcp.space/featured/claude-terminal-mcp) — Terminal, filesystem, and background-job tools for Claude Desktop on Linux. Zero-dependency MCP extension, MIT-licensed.
-- [rootpilot-mcp](https://freemcp.space/featured/rootpilot-mcp) — MCP server for safe, read-only SSH diagnostics — bring your own LLM
-- [mcp-tmux](https://freemcp.space/featured/mcp-tmux) — A comprehensive, universal MCP server for driving tmux (local and over SSH).
-- [ncp](https://freemcp.space/featured/ncp) — Natural Context Provider (NCP). Your MCPs, supercharged. Find any tool instantly, load on demand, run on schedule, ready for any   client. Smart loading saves tokens and energy.
-- [hop](https://freemcp.space/featured/hop) — Fast, elegant SSH connection manager with a TUI dashboard and MCP server
-- [codex-mcp-tool](https://freemcp.space/featured/codex-mcp-tool) — MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
 <!-- freemcp:end -->
 
 ---
