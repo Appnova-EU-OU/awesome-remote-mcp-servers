@@ -91,10 +91,17 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [leetcode-mcp-server](https://freemcp.space/featured/leetcode-mcp-server) — An MCP server enabling automated access to LeetCode's problems, solutions, and public data with optional authentication for user-specific features, supporting leetcode.com & leetcode.cn sites.
+- [open-feishu-mcp-server](https://freemcp.space/featured/open-feishu-mcp-serv) — A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.
+- [nworks](https://freemcp.space/featured/nworks) — Full-featured MCP server and CLI for LINE WORKS (NAVER WORKS) — 26 tools covering messages, calendar, drive, mail, tasks, and boards. Automate with AI agents or scripts.
+- [whatsapp-mcp-stream](https://freemcp.space/featured/whatsapp-mcp-stream) — A WhatsApp MCP server built around Streamable HTTP transport, using Baileys for WhatsApp connectivity, with a web admin UI and bidirectional media flow (upload + download).
+- [mcp-server](https://freemcp.space/featured/mcp-server-14) — WAzion MCP Server - Connect AI agents to WhatsApp via WAzion API. Smart copilot, 24/7 automation, mass marketing.
+- [websitetoolbox-mcp](https://freemcp.space/featured/websitetoolbox-mcp) — MCP server for Website Toolbox forum — exposes Categories, Topics, Posts, Users, and more via the Forum REST API
+- [zulipmcp](https://freemcp.space/featured/zulipmcp) — Run AI agents in Zulip as @mentionable bots — or wire into any MCP client.
 - [owlex](https://freemcp.space/featured/owlex) — AI council server: query CLI agents (Claude Code, Codex, Gemini, and OpenCode) in parallel with deliberation rounds
 - [pluggedin-mcp-proxy](https://freemcp.space/featured/pluggedin-mcp-proxy) — Plugged.in MCP Server manages all your other MCPs in one MCP.
 - [ntfy-mcp](https://freemcp.space/featured/ntfy-mcp) — The MCP server that keeps you informed by sending the notification on phone using ntfy
-- [imessage-mcp](https://freemcp.space/featured/imessage-mcp-2) — A Model Context Protocol server for reading iMessage data from macOS.
+- [imessage-mcp](https://freemcp.space/wyattjoh/imessage-mcp-2) — A Model Context Protocol server for reading iMessage data from macOS.
 - [neurodock](https://freemcp.space/featured/neurodock) — A local-first cognitive substrate for neurodivergent professionals. Gives Claude memory, a sense of time, a translator for corporate ambiguity, and a guardrail that refuses to amplify rumination, hyperfocus, or sycophancy. MCP-native. No telemetry. AGPL-3.0-or-later. Self-ID sufficient — no diagnosis gating.
 - [didlogic_mcp](https://freemcp.space/featured/didlogic-mcp) — An MCP server for [DIDLogic](https://didlogic.com). Adds functionality to manage SIP endpoints, numbers and destinations.
 - [spix-mcp](https://freemcp.space/featured/spix-mcp) — Spix MCP Server — give AI agents phone calls, SMS, and email as tool calls
@@ -184,13 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mailbox-mcp](https://freemcp.space/featured/mailbox-mcp) — Official MCP server for mailbox.bot — physical postal mail API for AI agents.
 - [mcgravity](https://freemcp.space/featured/mcgravity) — Fast TUI that orchestrates AI coding tools (Claude Code, Codex, Gemini) in a plan→execute→review loop. Breaks work into atomic tasks for easier verification and course-correction.
 - [fhir-mcp-server](https://freemcp.space/featured/fhir-mcp-server) — FHIR MCP Server for handling medical data standard.
-- [agentmail-toolkit](https://freemcp.space/featured/agentmail-toolkit) — An MCP server to create inboxes on the fly to send, receive, and take actions on email. We aren't AI agents for email, but email for AI Agents.
-- [nostr-mcp](https://freemcp.space/featured/nostr-mcp) — A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
-- [servonaut](https://freemcp.space/featured/servonaut) — Manage AWS, Hetzner, OVH, and custom servers from one TUI — with a built-in AI assistant and MCP server
-- [forge](https://freemcp.space/featured/forge-2) — Terminal MCP server for AI coding agents — spawn, manage, and monitor PTY sessions via the Model Context Protocol
-- [backscroll](https://freemcp.space/featured/backscroll) — Never lose a command's output again — searchable, per-command terminal scrollback recorder
-- [terminal-history-mcp](https://freemcp.space/featured/terminal-history-mcp) — Search your shell history (zsh/bash/fish) from Claude/MCP. Local SQLite FTS5. Secret-redacted.
-- [localhost-mcp](https://freemcp.space/featured/localhost-mcp) — MCP server: inspect, manage, kill local dev servers. Stop guessing what's on :3000.
 <!-- freemcp:end -->
 
 ---
