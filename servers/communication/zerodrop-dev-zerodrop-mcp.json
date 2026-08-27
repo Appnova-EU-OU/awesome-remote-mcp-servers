@@ -1,0 +1,17 @@
+{
+  "name": "zerodrop-mcp",
+  "description": "MCP server for ZeroDrop — gives AI agents disposable inboxes with auto-extracted OTPs and magic links. Claude, Cursor, Claude Code.",
+  "git_url": "https://github.com/zerodrop-dev/zerodrop-mcp",
+  "author_github": "zerodrop-dev",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "aiagents",
+    "claude",
+    "cursor",
+    "emailtesting"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://zerodrop.dev"
+}
