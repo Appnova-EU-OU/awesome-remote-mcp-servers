@@ -1,0 +1,17 @@
+{
+  "name": "lobbyvoices-mcp",
+  "description": "Official MCP server for Lobby (lobbyvoices.com) — 8 free, no-auth receptionist tools for AI agents: phone scripts & IVR menus (EN+ES), ElevenLabs agent prompts, missed-call math, call simulation, and more.",
+  "git_url": "https://github.com/bodyegypt/lobbyvoices-mcp",
+  "author_github": "bodyegypt",
+  "category": "security",
+  "tags": [
+    "lobbyvoices",
+    "official",
+    "lobby",
+    "com",
+    "free"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://lobbyvoices.com/developers"
+}
