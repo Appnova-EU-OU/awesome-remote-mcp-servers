@@ -1,0 +1,17 @@
+{
+  "name": "magg",
+  "description": "Magg: The MCP Aggregator",
+  "git_url": "https://github.com/sitbon/magg",
+  "author_github": "sitbon",
+  "category": "cloud-infra",
+  "tags": [
+    "aggregator",
+    "ai",
+    "docker",
+    "dockercompose",
+    "fastmcp"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/magg/"
+}
