@@ -91,6 +91,12 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Claude-MCP-Read-Email-Attachments](https://freemcp.space/featured/claude-mcp-read-emai-2) — Local MCP server for Claude Desktop to read Outlook emails/bodies/attachments and send local files as attachments.
+- [browserless-mcp](https://freemcp.space/featured/browserless-mcp) — Official MCP server for the Browserless.io 
+- [cognigy-ai-mcp-management-server](https://freemcp.space/featured/cognigy-ai-mcp-manag) — MCP server for Cognigy.AI - 132 tools that let Claude, Cursor & other AI assistants build, configure, test & operate conversational AI agents via the Model Context Protocol.
+- [waxseal-sdk](https://freemcp.space/featured/waxseal-sdk) — Ed25519 cryptographic identity for apps and AI agents — MCP server for Claude/Cursor/Windsurf + JS/TS verify SDK
+- [lobbyvoices-mcp](https://freemcp.space/featured/lobbyvoices-mcp) — Official MCP server for Lobby (lobbyvoices.com) — 8 free, no-auth receptionist tools for AI agents: phone scripts & IVR menus (EN+ES), ElevenLabs agent prompts, missed-call math, call simulation, and more.
+- [zerodrop-mcp](https://freemcp.space/featured/zerodrop-mcp) — MCP server for ZeroDrop — gives AI agents disposable inboxes with auto-extracted OTPs and magic links. Claude, Cursor, Claude Code.
 - [leetcode-mcp-server](https://freemcp.space/featured/leetcode-mcp-server) — An MCP server enabling automated access to LeetCode's problems, solutions, and public data with optional authentication for user-specific features, supporting leetcode.com & leetcode.cn sites.
 - [open-feishu-mcp-server](https://freemcp.space/featured/open-feishu-mcp-serv) — A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.
 - [nworks](https://freemcp.space/featured/nworks) — Full-featured MCP server and CLI for LINE WORKS (NAVER WORKS) — 26 tools covering messages, calendar, drive, mail, tasks, and boards. Automate with AI agents or scripts.
@@ -185,12 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-googletasks](https://freemcp.space/featured/mcp-googletasks) — This Model Context Protocol (MCP) server provides a bridge between LLMs and Google Tasks, allowing you to manage your task lists and tasks directly through Claude.
 - [wecom-docs-mcp-server](https://freemcp.space/featured/wecom-docs-mcp-serve) — MCP server for WeCom (Enterprise WeChat) document operations — create, read, edit Docs and Smartsheets. Fills the doc-CRUD gap in the WeCom MCP ecosystem.
 - [dead-letter](https://freemcp.space/featured/dead-letter) — Convert .eml email exports to Markdown with YAML front matter
-- [content-distribution-mcp](https://freemcp.space/featured/content-distribution) — Multi-channel content distribution MCP server with idempotent state. Auto-publish to DEV.to, Hashnode, GitHub Discussions, Reddit, Bluesky; browser-fallback for Medium, LinkedIn, X/Twitter.
-- [clawaimail](https://freemcp.space/featured/clawaimail) — Email infrastructure for AI agents. Create inboxes on the fly, send and receive real emails, search messages, and manage threads via API. Install with `npx clawaimail-mcp`.
-- [agent-mq](https://freemcp.space/featured/agent-mq-2) — Message queue for AI coding assistants. Let your AI agents talk to each other.
-- [mailbox-mcp](https://freemcp.space/featured/mailbox-mcp) — Official MCP server for mailbox.bot — physical postal mail API for AI agents.
-- [mcgravity](https://freemcp.space/featured/mcgravity) — Fast TUI that orchestrates AI coding tools (Claude Code, Codex, Gemini) in a plan→execute→review loop. Breaks work into atomic tasks for easier verification and course-correction.
-- [fhir-mcp-server](https://freemcp.space/featured/fhir-mcp-server) — FHIR MCP Server for handling medical data standard.
 <!-- freemcp:end -->
 
 ---
