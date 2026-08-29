@@ -1,0 +1,17 @@
+{
+  "name": "agent-cold-email",
+  "description": "Coldrig — cold email infrastructure run entirely by your coding agent (Claude Code / Codex / Cursor / Cline). One token, 28 intent-level MCP + HTTP tools and an npm CLI: domain purchase, mailboxes, warmup, sequences, replies, deliverability guardrails. Free fault-injecting sandbox.",
+  "git_url": "https://github.com/YS-projectcalc/agent-cold-email",
+  "author_github": "YS-projectcalc",
+  "category": "databases",
+  "tags": [
+    "agentnative",
+    "aiagents",
+    "claudecode",
+    "codex",
+    "coldemail"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://coldrig.dev"
+}
