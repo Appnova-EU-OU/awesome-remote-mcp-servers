@@ -1,0 +1,14 @@
+{
+  "name": "imessage-query-fastmcp-mcp-server",
+  "description": "An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP). This server is built with the FastMCP framework and the imessagedb library, enabling LLMs to query and analyze iMessage conversations with proper phone number validation and attachment handling.",
+  "git_url": "https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server",
+  "author_github": "hannesrudolph",
+  "category": "databases",
+  "tags": [
+    "llm",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
