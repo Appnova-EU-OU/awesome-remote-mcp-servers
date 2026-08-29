@@ -91,6 +91,12 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [magg](https://freemcp.space/featured/magg) — Magg: The MCP Aggregator
+- [enigma-python-mcp](https://freemcp.space/featured/enigma-python-mcp) — An MCP (Model Context Protocol) server that brings the capabilities of the enigmapython library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators
+- [b2b-enrichment-mcp](https://freemcp.space/featured/b2b-enrichment-mcp) — Unified MCP server combining Hunter.io and Apollo for B2B lead enrichment
+- [dchub-mcp-server](https://freemcp.space/featured/dchub-mcp-server) — Live data-center, power-grid, energy, interconnection-queue, fiber, natural-gas & M&A intelligence for AI agents — 82 tools, 18,000+ facilities, 300+ markets scored daily (DC Hub Power Index), 1,900+ tracked M&A deals, live grid telemetry across 49 regions. Remote MCP at dchub.cloud/mcp. DCPI & grid analysis CC-BY-4.0.
+- [mcp-bytesmith](https://freemcp.space/featured/mcp-bytesmith) — Pure-Python MCP server for encoding, hashing, and crypto-primitives — computed for real, locally.
+- [apple-mail-mcp](https://freemcp.space/featured/apple-mail-mcp-2) — MCP server for Apple Mail: sub-ms search over 300k+ messages via Mail's own SQLite index, verified sends, Exchange body backfill, triage plan/review/apply. 849 tests, MIT.
 - [Claude-MCP-Read-Email-Attachments](https://freemcp.space/featured/claude-mcp-read-emai-2) — Local MCP server for Claude Desktop to read Outlook emails/bodies/attachments and send local files as attachments.
 - [browserless-mcp](https://freemcp.space/featured/browserless-mcp) — Official MCP server for the Browserless.io 
 - [cognigy-ai-mcp-management-server](https://freemcp.space/featured/cognigy-ai-mcp-manag) — MCP server for Cognigy.AI - 132 tools that let Claude, Cursor & other AI assistants build, configure, test & operate conversational AI agents via the Model Context Protocol.
@@ -185,12 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [openai-gpt-image-mcp](https://freemcp.space/featured/openai-gpt-image-mcp) — A Model Context Protocol (MCP) tool server for OpenAI's GPT-4o/gpt-image-1 image generation and editing APIs.
 - [medical-mcp](https://freemcp.space/featured/medical-mcp) — An MCP server that provides comprehensive medical information by querying multiple authoritative medical APIs including FDA, WHO, PubMed, Google Scholar, and RxNorm
 - [posecode](https://freemcp.space/featured/posecode) — An open-source text language, parser, validator and Three.js renderer for inspectable 3D human movement.
-- [email-mcp](https://freemcp.space/featured/email-mcp) — Email MCP server with full IMAP + SMTP support — read, search, send, manage, and organize email from any AI assistant via the Model Context Protocol
-- [tsgram-mcp](https://freemcp.space/featured/tsgram-mcp) — TSGram - Telegram MCP Server for local Claude Code integration - debug and vibe code on the go!
-- [mcp_server_notify](https://freemcp.space/featured/mcp-server-notify) — Send system notification when Agent task is done.
-- [mcp-googletasks](https://freemcp.space/featured/mcp-googletasks) — This Model Context Protocol (MCP) server provides a bridge between LLMs and Google Tasks, allowing you to manage your task lists and tasks directly through Claude.
-- [wecom-docs-mcp-server](https://freemcp.space/featured/wecom-docs-mcp-serve) — MCP server for WeCom (Enterprise WeChat) document operations — create, read, edit Docs and Smartsheets. Fills the doc-CRUD gap in the WeCom MCP ecosystem.
-- [dead-letter](https://freemcp.space/featured/dead-letter) — Convert .eml email exports to Markdown with YAML front matter
 <!-- freemcp:end -->
 
 ---
