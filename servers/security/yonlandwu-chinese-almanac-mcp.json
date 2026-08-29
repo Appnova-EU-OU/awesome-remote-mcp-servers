@@ -1,0 +1,16 @@
+{
+  "name": "chinese-almanac-mcp",
+  "description": "MCP server for the Chinese almanac — auspicious date picking (择日) for weddings, moves, openings & major purchases, lucky hours (吉时), hour pillars, solar terms, horoscopes. JPL precision. 中国黄历择日 MCP 服务 — 嫁娶开业搬家择吉日.",
+  "git_url": "https://github.com/yonlandwu/chinese-almanac-mcp",
+  "author_github": "yonlandwu",
+  "category": "security",
+  "tags": [
+    "auspiciousdates",
+    "chinesealmanac",
+    "claudecode",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.12zodiacs.com/tung-shing/ "
+}
