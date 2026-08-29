@@ -1,0 +1,17 @@
+{
+  "name": "maket",
+  "description": "Visual design workspace for AI assistants: create posters, flyers, labels and social posts as multi-page HTML/CSS documents with live preview, annotations, brand guides, asset libraries and data-driven collections; validate layouts, export print-ready PDFs and prepare Gmail drafts. Works with Codex, Claude, Gemini and any MCP client.",
+  "git_url": "https://github.com/ng-galien/maket",
+  "author_github": "ng-galien",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "claude",
+    "codex",
+    "documentgeneration",
+    "gemini"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ng-galien.github.io/maket/"
+}
