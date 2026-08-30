@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server",
+  "description": "External anchoring layer: records AI agent accountability boundaries on both sides. Content-blind.",
+  "git_url": "https://github.com/decision-anchor/mcp-server",
+  "author_github": "decision-anchor",
+  "category": "ai-agents",
+  "tags": [
+    "external",
+    "anchoring",
+    "layer",
+    "records",
+    "agent"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
