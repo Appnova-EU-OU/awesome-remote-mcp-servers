@@ -1,0 +1,27 @@
+{
+  "name": "Xquik MCP Server",
+  "description": "Remote Streamable HTTP MCP server for X search, extraction, monitoring, webhooks, SDK workflows, and confirmed write actions through 2 tools. Supports OAuth 2.1 or API-key authentication. Not affiliated with X Corp.",
+  "git_url": "https://github.com/Xquik-dev/x-twitter-scraper",
+  "npm_package": "x-developer",
+  "homepage": "https://docs.xquik.com/mcp/overview",
+  "author_github": "Xquik-dev",
+  "category": "developer-tools",
+  "tags": [
+    "x",
+    "twitter",
+    "social-media",
+    "automation",
+    "webhooks",
+    "streamable-http",
+    "oauth"
+  ],
+  "env_keys": [
+    {
+      "key": "XQUIK_API_KEY",
+      "kind": "client",
+      "description": "Optional Xquik API key for MCP clients that use API-key authentication."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
