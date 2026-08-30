@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [maket](https://freemcp.space/featured/maket) — Visual design workspace for AI assistants: create posters, flyers, labels and social posts as multi-page HTML/CSS documents with live preview, annotations, brand guides, asset libraries and data-driven collections; validate layouts, export print-ready PDFs and prepare Gmail drafts. Works with Codex, Claude, Gemini and any MCP client.
+- [reachpad-mcp](https://freemcp.space/featured/reachpad-mcp) — MCP server for reachpad: lets Claude, Codex and other coding agents build full-stack apps in persistent workspaces and share them by link, without a separate deployment.
+- [agent-cold-email](https://freemcp.space/featured/agent-cold-email) — Coldrig — cold email infrastructure run entirely by your coding agent (Claude Code / Codex / Cursor / Cline). One token, 28 intent-level MCP + HTTP tools and an npm CLI: domain purchase, mailboxes, warmup, sequences, replies, deliverability guardrails. Free fault-injecting sandbox.
+- [solvegate-mcp](https://freemcp.space/featured/solvegate-mcp) — MCP server for Cloudflare Turnstile — inspect a page for Turnstile without an API key, and clear Turnstile and WAF challenges.
+- [dibs](https://freemcp.space/featured/dibs) — Call dibs on files. Coordination for parallel coding agents — file claims with expiry, enforcement hooks, and git-native lessons. One binary, no server, no database.
+- [chinese-almanac-mcp](https://freemcp.space/yonlandwu/chinese-almanac-mcp) — MCP server for the Chinese almanac — auspicious date picking (择日) for weddings, moves, openings & major purchases, lucky hours (吉时), hour pillars, solar terms, horoscopes. JPL precision. 中国黄历择日 MCP 服务 — 嫁娶开业搬家择吉日.
+- [calibreweb-mcp](https://freemcp.space/featured/calibreweb-mcp) — MCP server for Calibre-Web — read-only library access via the OPDS feed
+- [a11y-toolkit](https://freemcp.space/featured/a11y-toolkit) — MCP server + CLI for WCAG 2.2 accessibility: contrast (pairs & text-over-image), EU accessibility declarations (RD 1112/2018 · Ley 11/2023 · EAA), aria-live monitor. Multilanguage es/en · zero dependencies
 - [magg](https://freemcp.space/featured/magg) — Magg: The MCP Aggregator
 - [enigma-python-mcp](https://freemcp.space/featured/enigma-python-mcp) — An MCP (Model Context Protocol) server that brings the capabilities of the enigmapython library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators
 - [b2b-enrichment-mcp](https://freemcp.space/featured/b2b-enrichment-mcp) — Unified MCP server combining Hunter.io and Apollo for B2B lead enrichment
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [telegram-bot-mcp](https://freemcp.space/featured/telegram-bot-mcp) — Full-featured Telegram Bot API MCP server with 174 tools for Claude Code and AI agents
 - [xtapdown-mcp](https://freemcp.space/featured/xtapdown-mcp) — XTapDown MCP Server — 14 X (Twitter) creator tools for Claude, ChatGPT, Gemini and any MCP client
 - [mcp-server](https://freemcp.space/featured/mcp-server-10) — Official Model Context Protocol (MCP) server for FastAlert. This server allows AI agents (like Claude, ChatGPT, and Cursor) to list of your channels and send notifications directly through the FastAlert API.
-- [mattermost-mcp](https://freemcp.space/featured/mattermost-mcp) — Mattermost MCP server to enable Claude to interact with Mattermost Workspaces
-- [doubletick-cli](https://freemcp.space/featured/doubletick-cli) — CLI and MCP server for DoubleTick email read tracking
-- [instapdown-mcp](https://freemcp.space/featured/instapdown-mcp) — 16 Instagram creator tools as an MCP server — Reels/Story/carousel downloaders, engagement audit, hashtag search, Reels hook generator, best-time-to-post and content calendar.
-- [solmail-mcp](https://freemcp.space/featured/solmail-mcp) — MCP server for sending physical mail with Solana cryptocurrency. Colosseum Agent Hackathon submission.
-- [mailwarden](https://freemcp.space/csitte/mailwarden) — A reliable, native Gmail MCP server with full mailbox control — including snooze.
-- [openai-gpt-image-mcp](https://freemcp.space/featured/openai-gpt-image-mcp) — A Model Context Protocol (MCP) tool server for OpenAI's GPT-4o/gpt-image-1 image generation and editing APIs.
-- [medical-mcp](https://freemcp.space/featured/medical-mcp) — An MCP server that provides comprehensive medical information by querying multiple authoritative medical APIs including FDA, WHO, PubMed, Google Scholar, and RxNorm
-- [posecode](https://freemcp.space/featured/posecode) — An open-source text language, parser, validator and Three.js renderer for inspectable 3D human movement.
 <!-- freemcp:end -->
 
 ---
