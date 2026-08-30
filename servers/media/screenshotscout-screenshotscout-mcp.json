@@ -1,0 +1,17 @@
+{
+  "name": "screenshotscout-mcp",
+  "description": "Official MCP server for the Screenshot Scout screenshot API.",
+  "git_url": "https://github.com/screenshotscout/screenshotscout-mcp",
+  "author_github": "screenshotscout",
+  "category": "media",
+  "tags": [
+    "aitools",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "screenshotapi"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://screenshotscout.com/mcp"
+}
