@@ -1,0 +1,17 @@
+{
+  "name": "discord-mcp",
+  "description": "MCP server over the Discord REST API: 5 read tools always on, 7 write tools gated off by default behind an env flag. Typed errors for every failure mode.",
+  "git_url": "https://github.com/jaimenbell/discord-mcp",
+  "author_github": "jaimenbell",
+  "category": "communication",
+  "tags": [
+    "bot",
+    "claude",
+    "discord",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://jaimenbell.dev"
+}
