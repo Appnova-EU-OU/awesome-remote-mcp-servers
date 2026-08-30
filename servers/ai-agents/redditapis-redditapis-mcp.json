@@ -1,0 +1,17 @@
+{
+  "name": "redditapis-mcp",
+  "description": "Official MCP server for redditapis.com — 11 read-only Reddit tools for Claude, Cursor, and any MCP client.",
+  "git_url": "https://github.com/redditapis/redditapis-mcp",
+  "author_github": "redditapis",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "claude",
+    "cursor",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.redditapis.com"
+}
