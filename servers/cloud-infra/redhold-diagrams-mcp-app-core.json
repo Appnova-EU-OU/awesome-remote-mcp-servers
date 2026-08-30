@@ -1,0 +1,17 @@
+{
+  "name": "diagrams-mcp-app-core",
+  "description": "MCP server for Diagrams.so. 23 tools that let an AI agent generate, edit and review cloud architecture diagrams as native draw.io files.",
+  "git_url": "https://github.com/RedHold/diagrams-mcp-app-core",
+  "author_github": "RedHold",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "architecture",
+    "aws",
+    "claude",
+    "cursor"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://diagrams.so/developers"
+}
