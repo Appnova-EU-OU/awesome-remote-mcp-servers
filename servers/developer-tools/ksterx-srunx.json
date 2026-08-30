@@ -1,0 +1,17 @@
+{
+  "name": "srunx",
+  "description": "A modern Python library for SLURM workload manager integration with workflow orchestration capabilities.",
+  "git_url": "https://github.com/ksterx/srunx",
+  "author_github": "ksterx",
+  "category": "developer-tools",
+  "tags": [
+    "cli",
+    "cluster",
+    "fastapi",
+    "gpu",
+    "hpc"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://ksterx.github.io/srunx/"
+}
