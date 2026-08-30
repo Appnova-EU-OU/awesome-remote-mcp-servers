@@ -1,0 +1,16 @@
+{
+  "name": "mcp-books",
+  "description": "MCP server that searches inside several archives at once, browses their catalogues and reads records. No API key.",
+  "git_url": "https://github.com/smeet666/mcp-books",
+  "author_github": "smeet666",
+  "category": "search",
+  "tags": [
+    "archives",
+    "books",
+    "claude",
+    "databnf",
+    "fulltextsearch"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
