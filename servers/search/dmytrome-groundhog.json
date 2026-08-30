@@ -1,0 +1,16 @@
+{
+  "name": "groundhog",
+  "description": "Safe, self-hosted web grounding for AI agents and crawlers — stealth Chrome over MCP",
+  "git_url": "https://github.com/dmytrome/groundhog",
+  "author_github": "dmytrome",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "aisecurity",
+    "chromedevtoolsprotocol",
+    "geminicliextension",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
