@@ -1,0 +1,17 @@
+{
+  "name": "openagentemail",
+  "description": "Self-hosted email for AI agents — the open-source alternative to AgentMail. One compose file → unlimited inboxes, OTP extraction, MCP server.",
+  "git_url": "https://github.com/openagentemail/openagentemail",
+  "author_github": "openagentemail",
+  "category": "communication",
+  "tags": [
+    "agenttools",
+    "ai",
+    "aiagent",
+    "aiagents",
+    "docker"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://openagent.email"
+}
