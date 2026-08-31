@@ -1,0 +1,17 @@
+{
+  "name": "outlook-local-mcp",
+  "description": "Local MCP server for Microsoft Outlook — calendars, events, and email via Microsoft Graph API",
+  "git_url": "https://github.com/desek/outlook-local-mcp",
+  "author_github": "desek",
+  "category": "communication",
+  "tags": [
+    "outlook",
+    "local",
+    "microsoft",
+    "calendars",
+    "events"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://outlook-local-mcp.com"
+}
