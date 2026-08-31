@@ -1,0 +1,16 @@
+{
+  "name": "cloudflare-workers-ai-mcp",
+  "description": "MCP server for Cloudflare Workers AI — LLM inference, embeddings, and image generation for AI agents",
+  "git_url": "https://github.com/puspoaditya/cloudflare-workers-ai-mcp",
+  "author_github": "puspoaditya",
+  "category": "cloud-infra",
+  "tags": [
+    "cloudflare",
+    "workers",
+    "llm",
+    "inference",
+    "embeddings"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
