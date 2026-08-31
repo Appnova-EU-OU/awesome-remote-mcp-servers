@@ -1,0 +1,12 @@
+{
+  "name": "mcp-nutanix",
+  "description": "MCP Server for Nutanix",
+  "git_url": "https://github.com/thunderboltsid/mcp-nutanix",
+  "author_github": "thunderboltsid",
+  "category": "developer-tools",
+  "tags": [
+    "nutanix"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
