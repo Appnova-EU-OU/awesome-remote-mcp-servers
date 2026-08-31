@@ -91,6 +91,21 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [coolify-mcp](https://freemcp.space/featured/coolify-mcp) — MCP server for Coolify — 64 tools to deploy, diagnose, and manage apps, databases, and services on your self-hosted PaaS. OpenAPI-generated schemas, docs search, secrets masked by default.
+- [nodriver-mcp-server](https://freemcp.space/featured/nodriver-mcp-server) — Undetected browser automation MCP server - a stealth, anti-bot-resistant alternative to chrome-devtools-mcp for Claude, Cursor and AI agents. Powered by nodriver (bypasses Cloudflare/WebDriver detection). 65 tools, plus several isolated browsers at once so parallel agents never share a session.
+- [BlazingCDN-MCP](https://freemcp.space/featured/blazingcdn-mcp) — Official MCP server for BlazingCDN - AI agents (Claude, Cursor, Windsurf) manage CDN resources, purge cache, query metrics, domains, Cloud Storage and Video CDN
+- [ghostlight](https://freemcp.space/featured/ghostlight) — Give compatible AI agents a visible workspace in the Chromium browser you already use. Local-first, with optional policy and audit.
+- [discord-mcp](https://freemcp.space/featured/discord-mcp-2) — MCP server over the Discord REST API: 5 read tools always on, 7 write tools gated off by default behind an env flag. Typed errors for every failure mode.
+- [redditapis-mcp](https://freemcp.space/featured/redditapis-mcp) — Official MCP server for redditapis.com — 11 read-only Reddit tools for Claude, Cursor, and any MCP client.
+- [hetzner-dns-mcp](https://freemcp.space/featured/hetzner-dns-mcp) — MCP server for managing DNS zones and records via the Hetzner Cloud API
+- [screenshotscout-mcp](https://freemcp.space/featured/screenshotscout-mcp) — Official MCP server for the Screenshot Scout screenshot API.
+- [nexus-browser-mcp](https://freemcp.space/featured/nexus-browser-mcp) — Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / 事件驱动确定性快照的浏览器操控 MCP 服务器
+- [groundhog](https://freemcp.space/featured/groundhog) — Safe, self-hosted web grounding for AI agents and crawlers — stealth Chrome over MCP
+- [pymol-mcp](https://freemcp.space/featured/pymol-mcp) — Headless PyMOL MCP server for molecular visualization, GROMACS/LAMMPS MD workflows, and clathrate-hydrate cage analysis
+- [diagrams-mcp-app-core](https://freemcp.space/featured/diagrams-mcp-app-cor) — MCP server for Diagrams.so. 23 tools that let an AI agent generate, edit and review cloud architecture diagrams as native draw.io files.
+- [mcp-books](https://freemcp.space/smeet666/mcp-books) — MCP server that searches inside several archives at once, browses their catalogues and reads records. No API key.
+- [mcp-server](https://freemcp.space/featured/mcp-server-15) — External anchoring layer: records AI agent accountability boundaries on both sides. Content-blind.
+- [gliana-mcp](https://freemcp.space/featured/gliana-mcp) — Pay-per-call access to 90+ AI models (LLM chat, image, video, music, speech) plus utility and data tools — web scraping, screenshots, OCR, face matching, crypto and FX rates. No signup and no API key: HTTP 402 settles each call from your own wallet in USDC on Base, Solana, BNB Chain or Algorand. The tool list is read live from the gateway, so it is never stale. `npx -y gliana-ai-mcp` or remote `https://mcp.glianalabs.com`.
 - [maket](https://freemcp.space/featured/maket) — Visual design workspace for AI assistants: create posters, flyers, labels and social posts as multi-page HTML/CSS documents with live preview, annotations, brand guides, asset libraries and data-driven collections; validate layouts, export print-ready PDFs and prepare Gmail drafts. Works with Codex, Claude, Gemini and any MCP client.
 - [reachpad-mcp](https://freemcp.space/featured/reachpad-mcp) — MCP server for reachpad: lets Claude, Codex and other coding agents build full-stack apps in persistent workspaces and share them by link, without a separate deployment.
 - [agent-cold-email](https://freemcp.space/featured/agent-cold-email) — Coldrig — cold email infrastructure run entirely by your coding agent (Claude Code / Codex / Cursor / Cline). One token, 28 intent-level MCP + HTTP tools and an npm CLI: domain purchase, mailboxes, warmup, sequences, replies, deliverability guardrails. Free fault-injecting sandbox.
@@ -176,21 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ntfy-me-mcp](https://freemcp.space/featured/ntfy-me-mcp) — An ntfy MCP server for sending/fetching ntfy notifications to self-hosted or ANY ntfy.sh server from AI Agents 📤 (supports secure token auth & more - use with npx or docker!)
 - [apple-mail-mcp](https://freemcp.space/featured/apple-mail-mcp) — Apple Mail MCP server with full-coverage FTS5 body search. Reliable on large mailboxes where AppleScript-based servers timeout.
 - [wechat-fastbridge](https://freemcp.space/featured/wechat-fastbridge) — 让 Codex 秒级、低 token、安全地读写 macOS 微信 | Fast, token-efficient WeChat bridge for Codex
-- [telegram-archive-mcp](https://freemcp.space/featured/telegram-archive-mcp) — MCP Server for Telegram-Archive — search messages, browse chats, and access archived Telegram history via MCP
-- [iletimerkezi-mcp-server](https://freemcp.space/featured/iletimerkezi-mcp-ser) — iletiMerkezi MCP Server
-- [signal-mcp](https://freemcp.space/featured/signal-mcp) — Ask Claude about your Signal conversations. Persistent history, full-text search, and complete signal-cli coverage — 100% local.
-- [resend-email-mcp](https://freemcp.space/featured/resend-email-mcp) — The most complete MCP server for the Resend email API — full API coverage plus a unique debug/diagnostics layer.
-- [pingwa-client](https://freemcp.space/featured/pingwa-client) — Text your phone from any agent, script or CI - and tap to reply. Python/CLI/MCP client for   pingwa.
-- [mcp-server-notmuch](https://freemcp.space/featured/mcp-server-notmuch) — Read-first MCP server for a local notmuch mail database: search, threads, attachments, drafts. Sending email via Drafts/ 
-- [covalent-bond](https://freemcp.space/featured/covalent-bond) — Peer-to-peer, end-to-end-encrypted collaboration channel for AI coding agents over MCP. The relay never sees your data.
-- [discourse-mcp](https://freemcp.space/featured/discourse-mcp) — MCP client for Discourse sites
-- [docs-mcp](https://freemcp.space/featured/docs-mcp) — CometChat docs search + implementation bundles: add chat, voice, video & moderation to your app through your AI coding agent.
-- [callcenter.js-mcp](https://freemcp.space/featured/callcenter-js-mcp) — Callcenter.JS AI Voice Agent VOIP Connector, MCP + CLI
-- [calcom-mcp](https://freemcp.space/featured/calcom-mcp) — A FastMCP server for interacting with the Cal.com API. This enables LLMs to manage event types, create bookings, and access Cal.com scheduling data programmatically.
-- [feishu-user-plugin](https://freemcp.space/featured/feishu-user-plugin) — 飞书 MCP 服务器 + CLI 工具：让 Claude Code/Codex/脚本 直接接管你的飞书工作流 — 84 个工具、3 层鉴权 cookie / 官方 API / OAuth，以你本人身份发消息、读取群和私聊、操作文档 / 多维表格 / 知识库 / 云空间 / 日历 / 任务 / OKR
-- [telegram-bot-mcp](https://freemcp.space/featured/telegram-bot-mcp) — Full-featured Telegram Bot API MCP server with 174 tools for Claude Code and AI agents
-- [xtapdown-mcp](https://freemcp.space/featured/xtapdown-mcp) — XTapDown MCP Server — 14 X (Twitter) creator tools for Claude, ChatGPT, Gemini and any MCP client
-- [mcp-server](https://freemcp.space/featured/mcp-server-10) — Official Model Context Protocol (MCP) server for FastAlert. This server allows AI agents (like Claude, ChatGPT, and Cursor) to list of your channels and send notifications directly through the FastAlert API.
 <!-- freemcp:end -->
 
 ---
