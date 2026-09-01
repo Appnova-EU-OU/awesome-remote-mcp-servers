@@ -91,6 +91,11 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [outlook-local-mcp](https://freemcp.space/featured/outlook-local-mcp) — Local MCP server for Microsoft Outlook — calendars, events, and email via Microsoft Graph API
+- [openagentemail](https://freemcp.space/featured/openagentemail) — Self-hosted email for AI agents — the open-source alternative to AgentMail. One compose file → unlimited inboxes, OTP extraction, MCP server.
+- [wellness-nourish](https://freemcp.space/featured/wellness-nourish) — Local-first nutrition MCP for Claude/Cursor: USDA food search, barcode + photo, meal logging
+- [standard-vocal-mcp](https://freemcp.space/featured/standard-vocal-mcp) — Voice Agent Factory MCP — deploy, eval, and audit phone agents built on Vapi. Vertical templates, self-testing agents, audio forensics, prompt versioning, CI regression gates.
+- [cloudflare-workers-ai-mcp](https://freemcp.space/featured/cloudflare-workers-a) — MCP server for Cloudflare Workers AI — LLM inference, embeddings, and image generation for AI agents
 - [coolify-mcp](https://freemcp.space/featured/coolify-mcp) — MCP server for Coolify — 64 tools to deploy, diagnose, and manage apps, databases, and services on your self-hosted PaaS. OpenAPI-generated schemas, docs search, secrets masked by default.
 - [nodriver-mcp-server](https://freemcp.space/featured/nodriver-mcp-server) — Undetected browser automation MCP server - a stealth, anti-bot-resistant alternative to chrome-devtools-mcp for Claude, Cursor and AI agents. Powered by nodriver (bypasses Cloudflare/WebDriver detection). 65 tools, plus several isolated browsers at once so parallel agents never share a session.
 - [BlazingCDN-MCP](https://freemcp.space/featured/blazingcdn-mcp) — Official MCP server for BlazingCDN - AI agents (Claude, Cursor, Windsurf) manage CDN resources, purge cache, query metrics, domains, Cloud Storage and Video CDN
@@ -186,11 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [shipmail-mcp](https://freemcp.space/featured/shipmail-mcp) — Official Shipmail MCP server for AI-agent custom-domain business email, REST API, and webhooks
 - [ox-mcp](https://freemcp.space/featured/ox-mcp) — MCP server for Open-Xchange & standards-based mail: email (IMAP/SMTP), Sieve filters, CalDAV calendar, CardDAV contacts, free/busy.
 - [radmail-mcp](https://freemcp.space/featured/radmail-mcp) — Email OS for agents over MCP: two-axis triage, a Right Now lane, commitment follow-through, reviewable drafts, and a machine-verifiable BEC hard-stop (money/banking-change/first-contact = human-only). Zero-auth sandbox.
-- [discogs-mcp-server](https://freemcp.space/featured/discogs-mcp-server) — MCP Server for Discogs
-- [imessage-query-fastmcp-mcp-server](https://freemcp.space/featured/imessage-query-fastm) — An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP). This server is built with the FastMCP framework and the imessagedb library, enabling LLMs to query and analyze iMessage conversations with proper phone number validation and attachment handling.
-- [ntfy-me-mcp](https://freemcp.space/featured/ntfy-me-mcp) — An ntfy MCP server for sending/fetching ntfy notifications to self-hosted or ANY ntfy.sh server from AI Agents 📤 (supports secure token auth & more - use with npx or docker!)
-- [apple-mail-mcp](https://freemcp.space/featured/apple-mail-mcp) — Apple Mail MCP server with full-coverage FTS5 body search. Reliable on large mailboxes where AppleScript-based servers timeout.
-- [wechat-fastbridge](https://freemcp.space/featured/wechat-fastbridge) — 让 Codex 秒级、低 token、安全地读写 macOS 微信 | Fast, token-efficient WeChat bridge for Codex
 <!-- freemcp:end -->
 
 ---
