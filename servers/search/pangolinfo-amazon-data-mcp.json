@@ -1,0 +1,19 @@
+{
+  "name": "Pangolinfo Amazon Data MCP",
+  "description": "Official read-only Amazon research MCP server with product, keyword, review, niche, AI search, Alexa shopping and market intelligence tools.",
+  "git_url": "https://github.com/Pangolin-spg/pangolinfo-mcp",
+  "author_github": "Pangolin-spg",
+  "category": "search",
+  "tags": ["amazon", "ecommerce", "research", "product-data", "keywords", "reviews", "ai-search"],
+  "npm_package": "pangolinfo-amazon-data-mcp",
+  "homepage": "https://www.pangolinfo.com/amazon-data-mcp/",
+  "env_keys": [
+    {
+      "key": "PANGOLINFO_API_KEY",
+      "kind": "required",
+      "description": "Pangolinfo API key supplied by the user; obtain one from https://www.pangolinfo.com/console/."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
