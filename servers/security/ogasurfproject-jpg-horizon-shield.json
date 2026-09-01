@@ -1,0 +1,17 @@
+{
+  "name": "horizon-shield",
+  "description": "NENRIN: tree rings for AI facing services. Bitcoin-anchored public ledger, open witnessing, and an MCP server for verifiable Japanese construction estimates. The operator cannot delete a valid record.",
+  "git_url": "https://github.com/ogasurfproject-jpg/horizon-shield",
+  "author_github": "ogasurfproject-jpg",
+  "category": "security",
+  "tags": [
+    "a2a",
+    "aiagents",
+    "bitcoin",
+    "geminicliextension",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://shield.the-horizons-innovation.com"
+}
