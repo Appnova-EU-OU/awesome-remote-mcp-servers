@@ -1,0 +1,16 @@
+{
+  "name": "excalidraw-architect-mcp",
+  "description": "Turn your architecture into a living, queryable knowledge graph - and render it as beautiful auto-laid-out Excalidraw diagrams. An MCP server for Cursor, Claude Code & Windsurf. Offline, no API keys.",
+  "git_url": "https://github.com/BV-Venky/excalidraw-architect-mcp",
+  "author_github": "BV-Venky",
+  "category": "security",
+  "tags": [
+    "ai",
+    "antigravity",
+    "architecture",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
