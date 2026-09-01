@@ -1,0 +1,16 @@
+{
+  "name": "hop",
+  "description": "Fast, elegant SSH connection manager with a TUI dashboard and MCP server",
+  "git_url": "https://github.com/danmartuszewski/hop",
+  "author_github": "danmartuszewski",
+  "category": "developer-tools",
+  "tags": [
+    "cli",
+    "devops",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
