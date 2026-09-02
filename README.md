@@ -91,6 +91,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [excalidraw-architect-mcp](https://freemcp.space/featured/excalidraw-architect) — Turn your architecture into a living, queryable knowledge graph - and render it as beautiful auto-laid-out Excalidraw diagrams. An MCP server for Cursor, Claude Code & Windsurf. Offline, no API keys.
+- [WebReaper](https://freemcp.space/featured/webreaper) — AI-native web scraper. Single binary with a bundled Claude Code skill. MIT-licensed alternative to Firecrawl.
+- [pipedrive-mcp-server](https://freemcp.space/featured/pipedrive-mcp-server) — MCP server for Pipedrive CRM. 155 contract-tested tools, v2-first API, gated destructive ops. Works with Claude Desktop, Claude Code, and any MCP client.
+- [horizon-shield](https://freemcp.space/featured/horizon-shield) — NENRIN: tree rings for AI facing services. Bitcoin-anchored public ledger, open witnessing, and an MCP server for verifiable Japanese construction estimates. The operator cannot delete a valid record.
 - [outlook-local-mcp](https://freemcp.space/featured/outlook-local-mcp) — Local MCP server for Microsoft Outlook — calendars, events, and email via Microsoft Graph API
 - [openagentemail](https://freemcp.space/featured/openagentemail) — Self-hosted email for AI agents — the open-source alternative to AgentMail. One compose file → unlimited inboxes, OTP extraction, MCP server.
 - [wellness-nourish](https://freemcp.space/featured/wellness-nourish) — Local-first nutrition MCP for Claude/Cursor: USDA food search, barcode + photo, meal logging
@@ -187,10 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [proton-mail-mcp](https://freemcp.space/featured/proton-mail-mcp) — Unofficial MCP server for Proton Mail (not affiliated with Proton AG) — send, read, search & organize email over SMTP/IMAP
 - [mcp-discord-bridge](https://freemcp.space/featured/mcp-discord-bridge) — AI assistant control a Discord server - reading messages, creating/deleting channels, sending messages ,All via the MCP protocol
 - [joltsms-mcp-server](https://freemcp.space/featured/joltsms-mcp-server) — MCP server for JoltSMS — provision real-SIM US phone numbers and receive SMS/OTP codes
-- [qmailing-mcp-server](https://freemcp.space/featured/qmailing-mcp-server) — MCP server for QMailing - AI agents read & send email, manage mailboxes, custom domains and webhooks via the QMailing API.
-- [shipmail-mcp](https://freemcp.space/featured/shipmail-mcp) — Official Shipmail MCP server for AI-agent custom-domain business email, REST API, and webhooks
-- [ox-mcp](https://freemcp.space/featured/ox-mcp) — MCP server for Open-Xchange & standards-based mail: email (IMAP/SMTP), Sieve filters, CalDAV calendar, CardDAV contacts, free/busy.
-- [radmail-mcp](https://freemcp.space/featured/radmail-mcp) — Email OS for agents over MCP: two-axis triage, a Right Now lane, commitment follow-through, reviewable drafts, and a machine-verifiable BEC hard-stop (money/banking-change/first-contact = human-only). Zero-auth sandbox.
 <!-- freemcp:end -->
 
 ---
