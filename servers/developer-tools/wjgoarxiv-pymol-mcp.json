@@ -1,0 +1,16 @@
+{
+  "name": "pymol-mcp",
+  "description": "Headless PyMOL MCP server for molecular visualization, GROMACS/LAMMPS MD workflows, and clathrate-hydrate cage analysis",
+  "git_url": "https://github.com/wjgoarxiv/pymol-mcp",
+  "author_github": "wjgoarxiv",
+  "category": "developer-tools",
+  "tags": [
+    "bioinformatics",
+    "clathratehydrate",
+    "gromacs",
+    "lammps",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
