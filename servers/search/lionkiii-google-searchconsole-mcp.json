@@ -1,0 +1,16 @@
+{
+  "name": "google-searchconsole-mcp",
+  "description": "MCP server for Google Search Console — query search analytics, inspect URLs, find keyword opportunities, track SEO performance. Works with Claude Desktop, Cursor, Windsurf.",
+  "git_url": "https://github.com/lionkiii/google-searchconsole-mcp",
+  "author_github": "lionkiii",
+  "category": "search",
+  "tags": [
+    "ai",
+    "claude",
+    "claudedesktop",
+    "cursor",
+    "googlesearchconsole"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
