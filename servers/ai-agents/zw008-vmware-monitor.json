@@ -1,0 +1,16 @@
+{
+  "name": "VMware-Monitor",
+  "description": "Read-only VMware vCenter/ESXi monitoring — code-level enforced safety, zero destructive operations",
+  "git_url": "https://github.com/zw008/VMware-Monitor",
+  "author_github": "zw008",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiskill",
+    "aiops",
+    "claudecode",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
