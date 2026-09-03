@@ -1,0 +1,16 @@
+{
+  "name": "inoyu-mcp-unomi-server",
+  "description": "An implementation of Anthropic's Model Context Protocol for the Apache Unomi CDP",
+  "git_url": "https://github.com/sergehuber/inoyu-mcp-unomi-server",
+  "author_github": "sergehuber",
+  "category": "ai-agents",
+  "tags": [
+    "inoyu",
+    "unomi",
+    "implementation",
+    "anthropic",
+    "apache"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
