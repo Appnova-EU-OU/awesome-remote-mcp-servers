@@ -91,6 +91,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [kom](https://freemcp.space/featured/kom) — kom 是一个用于 Kubernetes 操作的工具，SDK级的kubectl、client-go的使用封装。并且支持作为管理k8s 的 MCP server。 它提供了一系列功能来管理 Kubernetes 资源，包括创建、更新、删除和获取资源，甚至使用SQL查询k8s资源。这个项目支持多种 Kubernetes 资源类型的操作，并能够处理自定义资源定义（CRD）。 通过使用 kom，你可以轻松地进行资源的增删改查和日志获取以及操作POD内文件等动作。
+- [mcp-server-iaptic](https://freemcp.space/featured/mcp-server-iaptic) —  Model Context Protocol server for interacting with iaptic
+- [mcp-analytics](https://freemcp.space/featured/mcp-analytics) — The statistical analyst in your AI chat — bring data and a question, own a citable, re-runnable analysis. Four depth tiers, from instant Snapshot to full Deck study. Works in Claude, Cursor, and any MCP client.
+- [mcp-icp-fit-scorer](https://freemcp.space/featured/mcp-icp-fit-scorer) — MCP server for ICP Fit Scorer. Scores a company against your ideal customer profile with weighted signals via Apify. Returns a 0 to 100 score, a tier, and a per-signal breakdown. Clay-ready output.
 - [excalidraw-architect-mcp](https://freemcp.space/featured/excalidraw-architect) — Turn your architecture into a living, queryable knowledge graph - and render it as beautiful auto-laid-out Excalidraw diagrams. An MCP server for Cursor, Claude Code & Windsurf. Offline, no API keys.
 - [WebReaper](https://freemcp.space/featured/webreaper) — AI-native web scraper. Single binary with a bundled Claude Code skill. MIT-licensed alternative to Firecrawl.
 - [pipedrive-mcp-server](https://freemcp.space/featured/pipedrive-mcp-server) — MCP server for Pipedrive CRM. 155 contract-tested tools, v2-first API, gated destructive ops. Works with Claude Desktop, Claude Code, and any MCP client.
@@ -187,10 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [producthunt-mcp-server](https://freemcp.space/featured/producthunt-mcp-serv) — MCP server for Product Hunt. Interact with trending posts, comments, collections, users, and more.
 - [mattermost-mcp-host](https://freemcp.space/featured/mattermost-mcp-host) — A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
 - [mcp-server](https://freemcp.space/featured/mcp-server-11) — MCP server for account verification: SMS verification, number rentals and matching-country proxies on carrier-issued mobile numbers. 40 tools, 2500+ services, 145+ countries. Works with Claude, Cursor, Codex, Windsurf, Cline, Zed, OpenClaw, Hermes and Continue.
-- [inxmail-mcp](https://freemcp.space/featured/inxmail-mcp) — MCP server for the Inxmail Commerce transactional API — events, sendings, bounces, blocklist, blacklist, reactions, and delivery tracking from Claude.
-- [proton-mail-mcp](https://freemcp.space/featured/proton-mail-mcp) — Unofficial MCP server for Proton Mail (not affiliated with Proton AG) — send, read, search & organize email over SMTP/IMAP
-- [mcp-discord-bridge](https://freemcp.space/featured/mcp-discord-bridge) — AI assistant control a Discord server - reading messages, creating/deleting channels, sending messages ,All via the MCP protocol
-- [joltsms-mcp-server](https://freemcp.space/featured/joltsms-mcp-server) — MCP server for JoltSMS — provision real-SIM US phone numbers and receive SMS/OTP codes
 <!-- freemcp:end -->
 
 ---
