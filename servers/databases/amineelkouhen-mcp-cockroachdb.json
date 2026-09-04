@@ -1,0 +1,16 @@
+{
+  "name": "mcp-cockroachdb",
+  "description": "The CockroachDB MCP Server is a natural language interface designed for agentic applications to manage, monitor and query data in CockroachDB.",
+  "git_url": "https://github.com/amineelkouhen/mcp-cockroachdb",
+  "author_github": "amineelkouhen",
+  "category": "databases",
+  "tags": [
+    "cockroachdb",
+    "database",
+    "generativeai",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
