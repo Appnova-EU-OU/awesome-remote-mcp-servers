@@ -1,0 +1,17 @@
+{
+  "name": "Network-AI",
+  "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for 32 AI frameworks",
+  "git_url": "https://github.com/Jovancoding/Network-AI",
+  "author_github": "Jovancoding",
+  "category": "security",
+  "tags": [
+    "agentframework",
+    "agentorchestration",
+    "aiagents",
+    "autogen",
+    "blackboard"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://network-ai.org/"
+}
