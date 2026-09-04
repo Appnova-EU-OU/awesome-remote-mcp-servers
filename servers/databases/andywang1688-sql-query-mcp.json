@@ -1,0 +1,16 @@
+{
+  "name": "sql-query-mcp",
+  "description": "A general-purpose MCP server that lets AI work with multiple databases within clear boundaries.",
+  "git_url": "https://github.com/andyWang1688/sql-query-mcp",
+  "author_github": "andyWang1688",
+  "category": "databases",
+  "tags": [
+    "chatgpt",
+    "codex",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
