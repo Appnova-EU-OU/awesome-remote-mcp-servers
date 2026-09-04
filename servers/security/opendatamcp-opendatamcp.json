@@ -1,0 +1,14 @@
+{
+  "name": "OpenDataMCP",
+  "description": "Connect any Open Data to any LLM with Model Context Protocol.",
+  "git_url": "https://github.com/OpenDataMCP/OpenDataMCP",
+  "author_github": "OpenDataMCP",
+  "category": "security",
+  "tags": [
+    "llm",
+    "mcp",
+    "opendata"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
