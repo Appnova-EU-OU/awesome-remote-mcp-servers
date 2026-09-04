@@ -91,6 +91,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-aiven](https://freemcp.space/featured/mcp-aiven) — Model Context Protocol server for Aiven
+- [inoyu-mcp-unomi-server](https://freemcp.space/featured/inoyu-mcp-unomi-serv) — An implementation of Anthropic's Model Context Protocol for the Apache Unomi CDP
+- [google-searchconsole-mcp](https://freemcp.space/featured/google-searchconsole) — MCP server for Google Search Console — query search analytics, inspect URLs, find keyword opportunities, track SEO performance. Works with Claude Desktop, Cursor, Windsurf.
+- [yanifend-mcp](https://freemcp.space/featured/yanifend-mcp) — YaniFend MCP server — manage your YaniFend feedback questionary (works on any website) and read answers from Claude
 - [kom](https://freemcp.space/featured/kom) — kom 是一个用于 Kubernetes 操作的工具，SDK级的kubectl、client-go的使用封装。并且支持作为管理k8s 的 MCP server。 它提供了一系列功能来管理 Kubernetes 资源，包括创建、更新、删除和获取资源，甚至使用SQL查询k8s资源。这个项目支持多种 Kubernetes 资源类型的操作，并能够处理自定义资源定义（CRD）。 通过使用 kom，你可以轻松地进行资源的增删改查和日志获取以及操作POD内文件等动作。
 - [mcp-server-iaptic](https://freemcp.space/featured/mcp-server-iaptic) —  Model Context Protocol server for interacting with iaptic
 - [mcp-analytics](https://freemcp.space/featured/mcp-analytics) — The statistical analyst in your AI chat — bring data and a question, own a citable, re-runnable analysis. Four depth tiers, from instant Snapshot to full Deck study. Works in Claude, Cursor, and any MCP client.
@@ -187,10 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [slack-mcp-server](https://freemcp.space/featured/slack-mcp-server) — Catch up on Slack without reading it. Unreads, threads, search. Browser-session or hosted OAuth. 21 tools.
 - [telephony-mcp-server](https://freemcp.space/featured/telephony-mcp-server) — A very simple no-fuss minimalist MCP Server with telephony tools like voice call and sms. This MCP Server can be integrated with LLM applications. Vonage API is used for calls, SMS, Speech-to-Text and Speech Recognition.
 - [agent-comm-hub](https://freemcp.space/featured/agent-comm-hub) — Let multiple AI agents talk, schedule tasks, share memory and self-evolve — zero external services, 5-minute Docker deploy.
-- [whatsapp-mcp](https://freemcp.space/featured/whatsapp-mcp) — WhatsApp MCP Server — Manage templates & send messages via Claude, Cursor, or any MCP client. Meta Cloud API.
-- [producthunt-mcp-server](https://freemcp.space/featured/producthunt-mcp-serv) — MCP server for Product Hunt. Interact with trending posts, comments, collections, users, and more.
-- [mattermost-mcp-host](https://freemcp.space/featured/mattermost-mcp-host) — A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
-- [mcp-server](https://freemcp.space/featured/mcp-server-11) — MCP server for account verification: SMS verification, number rentals and matching-country proxies on carrier-issued mobile numbers. 40 tools, 2500+ services, 145+ countries. Works with Claude, Cursor, Codex, Windsurf, Cline, Zed, OpenClaw, Hermes and Continue.
 <!-- freemcp:end -->
 
 ---
