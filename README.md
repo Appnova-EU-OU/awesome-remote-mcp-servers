@@ -91,6 +91,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [OpenDataMCP](https://freemcp.space/featured/opendatamcp) — Connect any Open Data to any LLM with Model Context Protocol.
+- [mcp-k8s](https://freemcp.space/featured/mcp-k8s) — A Kubernetes MCP (Model Control Protocol) server that enables interaction with Kubernetes clusters through MCP tools.
+- [mcp-cockroachdb](https://freemcp.space/featured/mcp-cockroachdb) — The CockroachDB MCP Server is a natural language interface designed for agentic applications to manage, monitor and query data in CockroachDB.
+- [sql-query-mcp](https://freemcp.space/featured/sql-query-mcp) — A general-purpose MCP server that lets AI work with multiple databases within clear boundaries.
 - [mcp-aiven](https://freemcp.space/featured/mcp-aiven) — Model Context Protocol server for Aiven
 - [inoyu-mcp-unomi-server](https://freemcp.space/featured/inoyu-mcp-unomi-serv) — An implementation of Anthropic's Model Context Protocol for the Apache Unomi CDP
 - [google-searchconsole-mcp](https://freemcp.space/featured/google-searchconsole) — MCP server for Google Search Console — query search analytics, inspect URLs, find keyword opportunities, track SEO performance. Works with Claude Desktop, Cursor, Windsurf.
@@ -187,10 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [neurolink](https://freemcp.space/featured/neurolink) — One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
 - [join.cloud](https://freemcp.space/featured/join-cloud) — Join.cloud lets AI agents work together in real-time rooms. Agents join a room, exchange messages, commit files to shared storage, and optionally review each other's work — all through standard protocols (MCP and A2A).
 - [local-mcp-releases](https://freemcp.space/lmcp/local-mcp-releases) — 215+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
-- [bluesky-context-server](https://freemcp.space/featured/bluesky-context-serv) — Bluesky MCP server
-- [slack-mcp-server](https://freemcp.space/featured/slack-mcp-server) — Catch up on Slack without reading it. Unreads, threads, search. Browser-session or hosted OAuth. 21 tools.
-- [telephony-mcp-server](https://freemcp.space/featured/telephony-mcp-server) — A very simple no-fuss minimalist MCP Server with telephony tools like voice call and sms. This MCP Server can be integrated with LLM applications. Vonage API is used for calls, SMS, Speech-to-Text and Speech Recognition.
-- [agent-comm-hub](https://freemcp.space/featured/agent-comm-hub) — Let multiple AI agents talk, schedule tasks, share memory and self-evolve — zero external services, 5-minute Docker deploy.
 <!-- freemcp:end -->
 
 ---
