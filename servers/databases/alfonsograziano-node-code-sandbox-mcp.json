@@ -1,0 +1,16 @@
+{
+  "name": "node-code-sandbox-mcp",
+  "description": "A Node.js–based Model Context Protocol server that spins up disposable Docker containers to execute arbitrary JavaScript.",
+  "git_url": "https://github.com/alfonsograziano/node-code-sandbox-mcp",
+  "author_github": "alfonsograziano",
+  "category": "databases",
+  "tags": [
+    "node",
+    "code",
+    "sandbox",
+    "based",
+    "spins"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
