@@ -1,0 +1,12 @@
+{
+  "name": "mcp-server-tidb",
+  "description": "mcp server for tidb",
+  "git_url": "https://github.com/c4pt0r/mcp-server-tidb",
+  "author_github": "c4pt0r",
+  "category": "databases",
+  "tags": [
+    "tidb"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
