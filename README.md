@@ -91,6 +91,9 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [node-code-sandbox-mcp](https://freemcp.space/featured/node-code-sandbox-mc) — A Node.js–based Model Context Protocol server that spins up disposable Docker containers to execute arbitrary JavaScript.
+- [schemabrain](https://freemcp.space/featured/schemabrain) — The trust and intelligence layer between AI agents and your database. Read-only by architecture, semantic knowledge graph + audit log, MCP-native.
+- [local-ydb-toolkit](https://freemcp.space/featured/local-ydb-toolkit) — Codex skill and MCP server for operating Docker-based local YDB deployments, locally or over SSH.
 - [OpenDataMCP](https://freemcp.space/featured/opendatamcp) — Connect any Open Data to any LLM with Model Context Protocol.
 - [mcp-k8s](https://freemcp.space/featured/mcp-k8s) — A Kubernetes MCP (Model Control Protocol) server that enables interaction with Kubernetes clusters through MCP tools.
 - [mcp-cockroachdb](https://freemcp.space/featured/mcp-cockroachdb) — The CockroachDB MCP Server is a natural language interface designed for agentic applications to manage, monitor and query data in CockroachDB.
@@ -188,9 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [alibaba-cloud-ops-mcp-server](https://freemcp.space/featured/alibaba-cloud-ops-mc-2) — AlibabaCloud CloudOps MCP Server
 - [roundtable](https://freemcp.space/featured/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface
 - [codex-control-plane-mcp](https://freemcp.space/featured/codex-control-plane) — Durable MCP control plane for long-running Codex Desktop tasks
-- [neurolink](https://freemcp.space/featured/neurolink) — One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
-- [join.cloud](https://freemcp.space/featured/join-cloud) — Join.cloud lets AI agents work together in real-time rooms. Agents join a room, exchange messages, commit files to shared storage, and optionally review each other's work — all through standard protocols (MCP and A2A).
-- [local-mcp-releases](https://freemcp.space/lmcp/local-mcp-releases) — 215+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
 <!-- freemcp:end -->
 
 ---
