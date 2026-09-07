@@ -1,0 +1,16 @@
+{
+  "name": "snapsurf",
+  "description": "Web navigation and verification for AI agents: a compact semantic page digest, a typed diff after each action, and assertions over that diff. MCP server and CLI on Playwright and SnapDOM.",
+  "git_url": "https://github.com/zumerlab/snapsurf",
+  "author_github": "zumerlab",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "claudecode",
+    "llmtools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
