@@ -1,0 +1,17 @@
+{
+  "name": "lizard-mcp",
+  "description": "MCP server for deploying and managing apps on Lizard — connect ChatGPT, Claude or any MCP client to ship services, read logs, set secrets, scale and attach domains. 33 tools, OAuth 2.1, destructive actions require explicit confirmation.",
+  "git_url": "https://github.com/lizard-build/lizard-mcp",
+  "author_github": "lizard-build",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "chatgpt",
+    "claude",
+    "deployment",
+    "lizard"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://lizard.build"
+}
