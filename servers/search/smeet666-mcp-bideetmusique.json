@@ -1,0 +1,16 @@
+{
+  "name": "mcp-bideetmusique",
+  "description": "MCP server for Bide & Musique: search the hand-built catalogue of forgotten French songs by performer, title, writer or lyrics. No API key.",
+  "git_url": "https://github.com/smeet666/mcp-bideetmusique",
+  "author_github": "smeet666",
+  "category": "search",
+  "tags": [
+    "bideetmusique",
+    "chanson",
+    "claude",
+    "discography",
+    "french"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
