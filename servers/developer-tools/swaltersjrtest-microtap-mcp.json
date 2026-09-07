@@ -1,0 +1,13 @@
+{
+  "name": "microtap-mcp",
+  "description": "Repo for the microtap-mcp ",
+  "git_url": "https://github.com/swaltersjrtest/microtap-mcp",
+  "author_github": "swaltersjrtest",
+  "category": "developer-tools",
+  "tags": [
+    "microtap",
+    "repo"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
