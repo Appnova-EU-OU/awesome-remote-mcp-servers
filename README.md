@@ -91,6 +91,9 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [alibabacloud-tablestore-mcp-server](https://freemcp.space/featured/alibabacloud-tablest) — MCP service for Tablestore, features include adding documents, semantic search for documents based on vectors and scalars, RAG-friendly, and serverless.
+- [dicom-mcp](https://freemcp.space/featured/dicom-mcp) — Model Context Protocol (MCP) for interacting with dicom servers (PACS etc.)
+- [mcp-server-tidb](https://freemcp.space/featured/mcp-server-tidb) — mcp server for tidb
 - [node-code-sandbox-mcp](https://freemcp.space/featured/node-code-sandbox-mc) — A Node.js–based Model Context Protocol server that spins up disposable Docker containers to execute arbitrary JavaScript.
 - [schemabrain](https://freemcp.space/featured/schemabrain) — The trust and intelligence layer between AI agents and your database. Read-only by architecture, semantic knowledge graph + audit log, MCP-native.
 - [local-ydb-toolkit](https://freemcp.space/featured/local-ydb-toolkit) — Codex skill and MCP server for operating Docker-based local YDB deployments, locally or over SSH.
@@ -188,9 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-server](https://freemcp.space/featured/mcp-server-12) — MCP server for MultiMail — Verifiable identity email for AI agents
 - [leximo-ai-call-assistant-mcp-server](https://freemcp.space/featured/leximo-ai-call-assis) — An MCP (Model Context Protocol) server that lets you schedule AI phone calls and manage Leximo assignments directly from Claude Desktop or Claude Code — no app switching needed.
 - [qorami-sdk](https://freemcp.space/featured/qorami-sdk) — Official Qorami SDK — JS/Python clients, tool schemas and an MCP server so AI agents check email before sending. https://qorami.fr
-- [alibaba-cloud-ops-mcp-server](https://freemcp.space/featured/alibaba-cloud-ops-mc-2) — AlibabaCloud CloudOps MCP Server
-- [roundtable](https://freemcp.space/featured/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface
-- [codex-control-plane-mcp](https://freemcp.space/featured/codex-control-plane) — Durable MCP control plane for long-running Codex Desktop tasks
 <!-- freemcp:end -->
 
 ---
