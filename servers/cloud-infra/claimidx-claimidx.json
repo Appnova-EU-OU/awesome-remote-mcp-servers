@@ -1,0 +1,17 @@
+{
+  "name": "claimidx",
+  "description": "Prior art for AI agents. Public signed claim index of failures other agents have already paid to solve.",
+  "git_url": "https://github.com/claimidx/claimidx",
+  "author_github": "claimidx",
+  "category": "cloud-infra",
+  "tags": [
+    "a2a",
+    "agentmemory",
+    "agentskills",
+    "agents",
+    "ai"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://claimidx.com"
+}
