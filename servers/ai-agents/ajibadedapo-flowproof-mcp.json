@@ -1,0 +1,16 @@
+{
+  "name": "flowproof-mcp",
+  "description": "Run reproducible bioinformatics pipelines from an AI assistant over MCP, with verifiable provenance",
+  "git_url": "https://github.com/ajibadedapo/flowproof-mcp",
+  "author_github": "ajibadedapo",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "bioinformatics",
+    "genomics",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
