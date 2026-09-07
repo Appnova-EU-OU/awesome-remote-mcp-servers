@@ -1,0 +1,17 @@
+{
+  "name": "mirastack-redfish-mcp",
+  "description": "Governed MCP server for DMTF Redfish-compliant BMCs. Read-only by default; power, firmware and account operations require explicit opt-in",
+  "git_url": "https://github.com/mirastacklabs-ai/mirastack-redfish-mcp",
+  "author_github": "mirastacklabs-ai",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "baremetal",
+    "bmc",
+    "datacenter",
+    "idrac"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://mirastacklabs.ai"
+}
