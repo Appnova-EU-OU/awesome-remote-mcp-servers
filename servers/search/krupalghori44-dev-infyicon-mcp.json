@@ -1,0 +1,16 @@
+{
+  "name": "infyicon-mcp",
+  "description": "MCP server for Infyicon — search 161,000+ free hand-drawn icons and fetch ready-to-embed SVG/PNG from Claude, ChatGPT, Cursor, VS Code and any MCP client. Hosted endpoint: https://infyicon.com/mcp (no auth)",
+  "git_url": "https://github.com/krupalghori44-dev/infyicon-mcp",
+  "author_github": "krupalghori44-dev",
+  "category": "search",
+  "tags": [
+    "freeicons",
+    "iconset",
+    "iconsvg",
+    "iconspack",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
