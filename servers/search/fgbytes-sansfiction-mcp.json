@@ -1,0 +1,16 @@
+{
+  "name": "sansfiction-mcp",
+  "description": "Search a books catalog (titles, authors, series, ISBNs, collections) and manage a personal reading library — status, reading progress, ratings, reviews, collections, stats. Public catalog needs no auth; personal library uses a bearer token. Hosted MCP: https://sansfiction.com/api/mcp",
+  "git_url": "https://github.com/fgbytes/sansfiction-mcp",
+  "author_github": "fgbytes",
+  "category": "search",
+  "tags": [
+    "sansfiction",
+    "search",
+    "books",
+    "catalog",
+    "titles"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
