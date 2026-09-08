@@ -1,0 +1,17 @@
+{
+  "name": "bridgenode-mcp",
+  "description": "BridgeNode — x402 pay-per-request AI inference. MCP server for AI agents.",
+  "git_url": "https://github.com/bridgenode-ai/bridgenode-mcp",
+  "author_github": "bridgenode-ai",
+  "category": "security",
+  "tags": [
+    "agenticcommerce",
+    "aiagents",
+    "autonomousagents",
+    "gasless",
+    "gptoss"
+  ],
+  "license": "MIT-0",
+  "status": "active",
+  "homepage": "https://bridgenode.cc"
+}
