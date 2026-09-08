@@ -1,0 +1,17 @@
+{
+  "name": "opticparse-public",
+  "description": "Stealth Multimodal Web Scraper & 0-Day Phishing Shield for AI Agents. Alternative to Firecrawl & Crawl4AI with zero-CSS vision extraction, 200 free trial credits, and native LangChain / ElizaOS / MCP support.",
+  "git_url": "https://github.com/parastejpal987-cmyk/opticparse-public",
+  "author_github": "parastejpal987-cmyk",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "antibot",
+    "autonomousagents",
+    "coinbaseagentkit",
+    "crawl4aialternative"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://opticparse.com"
+}
