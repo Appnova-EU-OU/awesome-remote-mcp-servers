@@ -1,0 +1,17 @@
+{
+  "name": "eqvps-mcp",
+  "description": "Crypto-native VPS that AI agents rent and pay for autonomously via MCP — no KYC",
+  "git_url": "https://github.com/Poiuyhje/eqvps-mcp",
+  "author_github": "Poiuyhje",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "crypto",
+    "hosting",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://eqvps.com"
+}
