@@ -1,0 +1,16 @@
+{
+  "name": "lambdacad-mcp",
+  "description": "λ MCP server for any AutoLISP-capable CAD — AI drafting with 105 tools, 2D + 3D solids, STL export. BricsCAD® on Linux is the reference adapter. No COM, no SDK.",
+  "git_url": "https://github.com/Psalmustrack/lambdacad-mcp",
+  "author_github": "Psalmustrack",
+  "category": "cloud-infra",
+  "tags": [
+    "3dmodeling",
+    "3dprinting",
+    "ai",
+    "aiagents",
+    "autocad"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
