@@ -1,0 +1,17 @@
+{
+  "name": "krova-node",
+  "description": "Monorepo for the Krova Cloud JS/TS packages — SDK, CLI, MCP, webhook verifier, n8n node.",
+  "git_url": "https://github.com/krovacloud/krova-node",
+  "author_github": "krovacloud",
+  "category": "cloud-infra",
+  "tags": [
+    "apiclient",
+    "cli",
+    "cloud",
+    "developertools",
+    "firecracker"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://krova.cloud"
+}
