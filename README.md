@@ -91,6 +91,25 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [codecalc](https://freemcp.space/featured/codecalc) — Universal code & logic calculator for AI models: 52 MCP tools across 31 languages. Rust-sandboxed execution with verdicts, sessions, artifacts, exact arithmetic, and verified translation/optimization. No LLM, no gateway, no telemetry: the caller is the model. Apache-2.0.
+- [lizard-mcp](https://freemcp.space/featured/lizard-mcp) — MCP server for deploying and managing apps on Lizard — connect ChatGPT, Claude or any MCP client to ship services, read logs, set secrets, scale and attach domains. 33 tools, OAuth 2.1, destructive actions require explicit confirmation.
+- [tarot-mcp-server](https://freemcp.space/featured/tarot-mcp-server) — MCP server exposing 78-card tarot deck meanings and spreads to Claude, Cursor, Windsurf. Powered by deckaura.com
+- [openhire](https://freemcp.space/featured/openhire) — Agent-native job protocol over public ATS APIs — remote AI/Infra jobs for your MCP client. Your résumé never transits the server.
+- [claimidx](https://freemcp.space/featured/claimidx) — Prior art for AI agents. Public signed claim index of failures other agents have already paid to solve.
+- [flowproof-mcp](https://freemcp.space/featured/flowproof-mcp) — Run reproducible bioinformatics pipelines from an AI assistant over MCP, with verifiable provenance
+- [mirastack-redfish-mcp](https://freemcp.space/featured/mirastack-redfish-mc) — Governed MCP server for DMTF Redfish-compliant BMCs. Read-only by default; power, firmware and account operations require explicit opt-in
+- [snapsurf](https://freemcp.space/featured/snapsurf) — Web navigation and verification for AI agents: a compact semantic page digest, a typed diff after each action, and assertions over that diff. MCP server and CLI on Playwright and SnapDOM.
+- [nutrients-mcp](https://freemcp.space/featured/nutrients-mcp) — MCP server giving AI assistants food image & text nutrition analysis — calories, macros, vitamins, minerals, allergens. Powered by TastyAPI.
+- [den_archi_mcp](https://freemcp.space/featured/den-archi-mcp) — AI Agent 를 위한 한국 AEC 전문 지식 큐레이션 MCP — 기준·법령과 실무, 그 사이의 이유까지. 답에는 근거가 붙고, 근거가 없으면 답하지 않습니다. Curated Korean AEC expertise for AI agents.
+- [mcp-bideetmusique](https://freemcp.space/featured/mcp-bideetmusique) — MCP server for Bide & Musique: search the hand-built catalogue of forgotten French songs by performer, title, writer or lyrics. No API key.
+- [image-mcp](https://freemcp.space/featured/image-mcp) — 本地 Pillow 图片处理 MCP：12 工具（信息/缩放/裁剪/转换/压缩/旋转/翻转/缩略图/水印/特效/占位/叠加），离线零成本，经 dsh-mcp-client 接入 DSH。Local Pillow image MCP with 12 tools for DeepSeek Harness, offline & free. | Platforms: macOS/Windows/Linux (Python+Pillow)
+- [shakespeare-monologues-mcp](https://freemcp.space/featured/shakespeare-monologu) — Read-only MCP server for shakespeare-monologues.org - search and fetch Shakespeare monologue metadata over the Model Context Protocol
+- [vineverse-mcp](https://freemcp.space/featured/vineverse-mcp) — stdio bridge to the hosted VineVerse MCP server - the Bible as a knowledge graph
+- [infyicon-mcp](https://freemcp.space/featured/infyicon-mcp) — MCP server for Infyicon — search 161,000+ free hand-drawn icons and fetch ready-to-embed SVG/PNG from Claude, ChatGPT, Cursor, VS Code and any MCP client. Hosted endpoint: https://infyicon.com/mcp (no auth)
+- [sansfiction-mcp](https://freemcp.space/featured/sansfiction-mcp) — Search a books catalog (titles, authors, series, ISBNs, collections) and manage a personal reading library — status, reading progress, ratings, reviews, collections, stats. Public catalog needs no auth; personal library uses a bearer token. Hosted MCP: https://sansfiction.com/api/mcp
+- [microtap-mcp](https://freemcp.space/featured/microtap-mcp) — Repo for the microtap-mcp 
+- [utility-grid-mcp](https://freemcp.space/featured/utility-grid-mcp) — MCP server for discovering and calling 400+ practical APIs through six compact tools, with free catalog search and pay-per-call x402 execution on Base.
+- [findagent-mcp](https://freemcp.space/featured/findagent-mcp) — The MCP server for FindAgent — the vetted, cross-LLM marketplace of doer agents. Hosted remote endpoint: mcp.findagent.cloud/mcp
 - [alibabacloud-tablestore-mcp-server](https://freemcp.space/featured/alibabacloud-tablest) — MCP service for Tablestore, features include adding documents, semantic search for documents based on vectors and scalars, RAG-friendly, and serverless.
 - [dicom-mcp](https://freemcp.space/featured/dicom-mcp) — Model Context Protocol (MCP) for interacting with dicom servers (PACS etc.)
 - [mcp-server-tidb](https://freemcp.space/featured/mcp-server-tidb) — mcp server for tidb
@@ -172,25 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [vrchat-mcp](https://freemcp.space/featured/vrchat-mcp) — This project is a Model Context Protocol (MCP) server for interacting with the VRChat API.
 - [fast-mcp-telegram](https://freemcp.space/featured/fast-mcp-telegram) — Telegram MCP gateway for AI agents: 8 tools, multi-tenant HTTP/stdio, MTProto
 - [mcp-hey](https://freemcp.space/featured/mcp-hey) — MCP server for Hey.com: read, send, search, and organise email from Claude or any MCP client. Runs locally, stores no credentials, respects rate limits.
-- [zoho-mail-mcp](https://freemcp.space/featured/zoho-mail-mcp) — MCP server for Zoho Mail — read, search, and send email via Claude
-- [botbell-mcp](https://freemcp.space/featured/botbell-mcp-2) — BotBell MCP Server — Give Your AI a Voice
-- [mcp-telegram](https://freemcp.space/featured/mcp-telegram) — Telegram MCP Server — connect Telegram to Claude AI & ChatGPT. 181 tools: messages, media, reactions, polls, stories & more. MTProto userbot. Self-host (npx) or hosted at mcp-telegram.com.
-- [discord-mcp](https://freemcp.space/featured/discord-mcp) — MCP server to control Discord — messages, channels, roles, permissions, members, and moderation
-- [cv-mcp-server](https://freemcp.space/featured/cv-mcp-server) — Carbon Voice MCP Server
-- [chatterboxio-mcp-server](https://freemcp.space/featured/chatterboxio-mcp-ser-2) — A Model Context Protocol server implementation for ChatterBox, enabling AI agents to interact with online meetings and generate meeting summaries
-- [Omnicord](https://freemcp.space/featured/omnicord) — Discord server management MCP for AI agents. Chat, moderation, administration, and full server building from one brief. 150+ tools, with destructive actions gated behind a preview.
-- [mcp-server](https://freemcp.space/featured/mcp-server-13) — MCP server for Postcard.bot — let AI agents send real printed postcards. Works with Claude, Cursor, Windsurf, and any MCP client.
-- [aiogram-mcp](https://freemcp.space/featured/aiogram-mcp-2) — MCP server middleware for aiogram Telegram bots — expose your bot to AI agents via the Model Context Protocol
-- [outlook-assistant](https://freemcp.space/featured/outlook-assistant) — MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
-- [better-email-mcp](https://freemcp.space/featured/better-email-mcp) — IMAP/SMTP email for AI agents -- read, send, organize folders, and manage attachments across multiple accounts, with auto-discovery.
-- [ringback](https://freemcp.space/featured/ringback) — Let your AI agent call your phone and talk to you — MCP servers for live, interruptible voice calls + tiered alerts, using free self-hosted pieces (pjsua2 + whisper.cpp + Linphone). No paid telephony, no extra API key.
-- [email-mcp](https://freemcp.space/featured/email-mcp-2) — Unified MCP server for email access across Gmail, Outlook, iCloud, and IMAP
-- [caldav-mcp](https://freemcp.space/featured/caldav-mcp-2) — Universal MCP server for CalDAV protocol integration. Works with any CalDAV-compatible calendar server including Yandex Calendar, Google Calendar (via CalDAV), Nextcloud, ownCloud, Apple iCloud, and others. Supports creating events with recurrence, categories, priority, attendees, reminders, searching events, and retrieving events by UID.
-- [mingle-mcp](https://freemcp.space/featured/mingle-mcp) — Your AI meets other people's AIs. You meet the people. Agent-native networking via MCP.
-- [Xadeus-QQ-MCP](https://freemcp.space/xadeus/xadeus-qq-mcp) — QQ MCP Server - connect AI agents to QQ via NapCatQQ. Auto-wake, messaging, group management, file sharing, cross-platform.
-- [mcp-server](https://freemcp.space/featured/mcp-server-12) — MCP server for MultiMail — Verifiable identity email for AI agents
-- [leximo-ai-call-assistant-mcp-server](https://freemcp.space/featured/leximo-ai-call-assis) — An MCP (Model Context Protocol) server that lets you schedule AI phone calls and manage Leximo assignments directly from Claude Desktop or Claude Code — no app switching needed.
-- [qorami-sdk](https://freemcp.space/featured/qorami-sdk) — Official Qorami SDK — JS/Python clients, tool schemas and an MCP server so AI agents check email before sending. https://qorami.fr
 <!-- freemcp:end -->
 
 ---
