@@ -1,0 +1,16 @@
+{
+  "name": "repo-cartographer",
+  "description": "Understand any codebase in 60 seconds - an MCP server, CLI and GitHub Action that turns any repo into an architecture diagram (Mermaid/Graphviz) and enforces architecture rules in CI. Works with Claude, Cursor, ChatGPT and any MCP client.",
+  "git_url": "https://github.com/builditwithgk/repo-cartographer",
+  "author_github": "builditwithgk",
+  "category": "communication",
+  "tags": [
+    "architecture",
+    "architecturediagram",
+    "cli",
+    "codebaseanalysis",
+    "dependencygraph"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
