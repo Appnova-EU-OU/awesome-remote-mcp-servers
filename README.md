@@ -91,6 +91,25 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [opticparse-public](https://freemcp.space/featured/opticparse-public) — Stealth Multimodal Web Scraper & 0-Day Phishing Shield for AI Agents. Alternative to Firecrawl & Crawl4AI with zero-CSS vision extraction, 200 free trial credits, and native LangChain / ElizaOS / MCP support.
+- [repo-cartographer](https://freemcp.space/featured/repo-cartographer) — Understand any codebase in 60 seconds - an MCP server, CLI and GitHub Action that turns any repo into an architecture diagram (Mermaid/Graphviz) and enforces architecture rules in CI. Works with Claude, Cursor, ChatGPT and any MCP client.
+- [picoberry-mcp](https://freemcp.space/featured/picoberry-mcp) — PicoBerry MCP server — an AI 3D workspace for games, VR, and beyond. Generate, remesh, texture, and animate 3D assets from any MCP client. Multi-engine, one API.
+- [lambdacad-mcp](https://freemcp.space/featured/lambdacad-mcp) — λ MCP server for any AutoLISP-capable CAD — AI drafting with 105 tools, 2D + 3D solids, STL export. BricsCAD® on Linux is the reference adapter. No COM, no SDK.
+- [bridgenode-mcp](https://freemcp.space/featured/bridgenode-mcp) — BridgeNode — x402 pay-per-request AI inference. MCP server for AI agents.
+- [minia2a-mcp](https://freemcp.space/featured/minia2a-mcp) — Remote MCP server for minia2a.uk — 1,680+ x402 pay-per-call agent tools. USDC on Base, 5 free trial calls per wallet.
+- [k8s-mcp-server](https://freemcp.space/featured/k8s-mcp-server) — Model Context Protocol (MCP) server for debugging, analyzing, and diagnosing Kubernetes clusters directly from AI agents.
+- [stacktree-mcp](https://freemcp.space/featured/stacktree-mcp) — MCP server for stacktr.ee — publish HTML privately from any AI agent (Claude Code, Codex, Cursor, Claude.ai). Seven tool calls for unguessable, replace-in-place URLs.
+- [eqvps-mcp](https://freemcp.space/eqvps/eqvps-mcp) — Crypto-native VPS that AI agents rent and pay for autonomously via MCP — no KYC
+- [krova-node](https://freemcp.space/featured/krova-node) — Monorepo for the Krova Cloud JS/TS packages — SDK, CLI, MCP, webhook verifier, n8n node.
+- [noodle-mcp](https://freemcp.space/featured/noodle-mcp) — Noodle Biomedical Literature Discovery MCP — search papers and traverse citation or semantic literature graphs.
+- [identityforge-mcp](https://freemcp.space/featured/identityforge-mcp) — Design systems, brand naming, and domain research for coding agents through MCP and CLI.
+- [mcp-imslp](https://freemcp.space/featured/mcp-imslp) — MCP server for IMSLP, the Petrucci Music Library. Read works, scores and recordings. No API key required.
+- [mcp-lrclib](https://freemcp.space/featured/mcp-lrclib) — MCP server for LRCLIB: search tracks and fetch plain or time-synced (LRC) lyrics. No API key.
+- [runcomfy-mcp](https://freemcp.space/featured/runcomfy-mcp) — Remote MCP for RunComfy: ComfyUI deployments, hosted models, LoRA training. 31 tools.
+- [fatenava-mcp](https://freemcp.space/featured/fatenava-mcp) — FateNava MCP — BaZi, Zi Wei Dou Shu & Western Astrology chart casting for AI agents
+- [glyphdna-mcp](https://freemcp.space/featured/glyphdna-mcp) — GlyphDNA MCP adapter: machine-native identity, verifiable meeting rooms, script provenance. Join with one MCP call.
+- [frantic-mcp](https://freemcp.space/featured/frantic-mcp) — A public bounty board where AI agents do paid work. Claim funded bounties, get paid in USDC on Base on accepted delivery.
+- [taghvim](https://freemcp.space/featured/taghvim) — Deterministic temporal reasoning engine for AI agents. 12 tools for date/time arithmetic, timezone conversion with DST, business days across 100+ countries, public holidays, RFC 5545 recurrence, Gregorian/Persian calendar conversion, and temporal claim verification. `npx taghvim-mcp`
 - [codecalc](https://freemcp.space/featured/codecalc) — Universal code & logic calculator for AI models: 52 MCP tools across 31 languages. Rust-sandboxed execution with verdicts, sessions, artifacts, exact arithmetic, and verified translation/optimization. No LLM, no gateway, no telemetry: the caller is the model. Apache-2.0.
 - [lizard-mcp](https://freemcp.space/featured/lizard-mcp) — MCP server for deploying and managing apps on Lizard — connect ChatGPT, Claude or any MCP client to ship services, read logs, set secrets, scale and attach domains. 33 tools, OAuth 2.1, destructive actions require explicit confirmation.
 - [tarot-mcp-server](https://freemcp.space/featured/tarot-mcp-server) — MCP server exposing 78-card tarot deck meanings and spreads to Claude, Cursor, Windsurf. Powered by deckaura.com
@@ -172,25 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [waxseal-sdk](https://freemcp.space/featured/waxseal-sdk) — Ed25519 cryptographic identity for apps and AI agents — MCP server for Claude/Cursor/Windsurf + JS/TS verify SDK
 - [lobbyvoices-mcp](https://freemcp.space/featured/lobbyvoices-mcp) — Official MCP server for Lobby (lobbyvoices.com) — 8 free, no-auth receptionist tools for AI agents: phone scripts & IVR menus (EN+ES), ElevenLabs agent prompts, missed-call math, call simulation, and more.
 - [zerodrop-mcp](https://freemcp.space/featured/zerodrop-mcp) — MCP server for ZeroDrop — gives AI agents disposable inboxes with auto-extracted OTPs and magic links. Claude, Cursor, Claude Code.
-- [leetcode-mcp-server](https://freemcp.space/featured/leetcode-mcp-server) — An MCP server enabling automated access to LeetCode's problems, solutions, and public data with optional authentication for user-specific features, supporting leetcode.com & leetcode.cn sites.
-- [open-feishu-mcp-server](https://freemcp.space/featured/open-feishu-mcp-serv) — A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.
-- [nworks](https://freemcp.space/featured/nworks) — Full-featured MCP server and CLI for LINE WORKS (NAVER WORKS) — 26 tools covering messages, calendar, drive, mail, tasks, and boards. Automate with AI agents or scripts.
-- [whatsapp-mcp-stream](https://freemcp.space/featured/whatsapp-mcp-stream) — A WhatsApp MCP server built around Streamable HTTP transport, using Baileys for WhatsApp connectivity, with a web admin UI and bidirectional media flow (upload + download).
-- [mcp-server](https://freemcp.space/featured/mcp-server-14) — WAzion MCP Server - Connect AI agents to WhatsApp via WAzion API. Smart copilot, 24/7 automation, mass marketing.
-- [websitetoolbox-mcp](https://freemcp.space/featured/websitetoolbox-mcp) — MCP server for Website Toolbox forum — exposes Categories, Topics, Posts, Users, and more via the Forum REST API
-- [zulipmcp](https://freemcp.space/featured/zulipmcp) — Run AI agents in Zulip as @mentionable bots — or wire into any MCP client.
-- [owlex](https://freemcp.space/featured/owlex) — AI council server: query CLI agents (Claude Code, Codex, Gemini, and OpenCode) in parallel with deliberation rounds
-- [pluggedin-mcp-proxy](https://freemcp.space/featured/pluggedin-mcp-proxy) — Plugged.in MCP Server manages all your other MCPs in one MCP.
-- [ntfy-mcp](https://freemcp.space/featured/ntfy-mcp) — The MCP server that keeps you informed by sending the notification on phone using ntfy
-- [imessage-mcp](https://freemcp.space/wyattjoh/imessage-mcp-2) — A Model Context Protocol server for reading iMessage data from macOS.
-- [neurodock](https://freemcp.space/featured/neurodock) — A local-first cognitive substrate for neurodivergent professionals. Gives Claude memory, a sense of time, a translator for corporate ambiguity, and a guardrail that refuses to amplify rumination, hyperfocus, or sycophancy. MCP-native. No telemetry. AGPL-3.0-or-later. Self-ID sufficient — no diagnosis gating.
-- [didlogic_mcp](https://freemcp.space/featured/didlogic-mcp) — An MCP server for [DIDLogic](https://didlogic.com). Adds functionality to manage SIP endpoints, numbers and destinations.
-- [spix-mcp](https://freemcp.space/featured/spix-mcp) — Spix MCP Server — give AI agents phone calls, SMS, and email as tool calls
-- [fhir-mcp-server](https://freemcp.space/featured/fhir-mcp-server-2) — FHIR MCP Server – helping you expose any FHIR Server or API as a MCP Server.
-- [sendmux-sdk](https://freemcp.space/featured/sendmux-sdk) — Official monorepo of SDKs, CLI, and MCP servers for Sendmux email APIs across TypeScript, Python, Go, PHP, Rust, and Ruby.
-- [vrchat-mcp](https://freemcp.space/featured/vrchat-mcp) — This project is a Model Context Protocol (MCP) server for interacting with the VRChat API.
-- [fast-mcp-telegram](https://freemcp.space/featured/fast-mcp-telegram) — Telegram MCP gateway for AI agents: 8 tools, multi-tenant HTTP/stdio, MTProto
-- [mcp-hey](https://freemcp.space/featured/mcp-hey) — MCP server for Hey.com: read, send, search, and organise email from Claude or any MCP client. Runs locally, stores no credentials, respects rate limits.
 <!-- freemcp:end -->
 
 ---
