@@ -1,0 +1,16 @@
+{
+  "name": "AgenticCrawler",
+  "description": "acrawl — LLM-powered web crawler. Describe what you want in plain English, get structured data back. Single Rust binary, 25 providers, MCP server built-in.",
+  "git_url": "https://github.com/Mingye-Lu/AgenticCrawler",
+  "author_github": "Mingye-Lu",
+  "category": "security",
+  "tags": [
+    "aiagent",
+    "autonomousagents",
+    "browserautomation",
+    "claude",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
