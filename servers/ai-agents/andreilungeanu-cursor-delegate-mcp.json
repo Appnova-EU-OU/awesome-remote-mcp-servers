@@ -1,0 +1,16 @@
+{
+  "name": "cursor-delegate-mcp",
+  "description": " Stop burning your Claude or Codex limits on boilerplate. Delegate multi-file implementation to Cursor's Composer 2.5 over MCP — your frontier model writes the brief and reviews the diff; Composer does the typing, fast, on a separate quota.",
+  "git_url": "https://github.com/andreilungeanu/cursor-delegate-mcp",
+  "author_github": "andreilungeanu",
+  "category": "ai-agents",
+  "tags": [
+    "acp",
+    "agentclientprotocol",
+    "agents",
+    "aiagents",
+    "aiagentscli"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
