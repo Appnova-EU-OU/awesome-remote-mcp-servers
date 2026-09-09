@@ -1,0 +1,17 @@
+{
+  "name": "tdmcp",
+  "description": "TouchDesigner MCP server, describe a visual to Claude, Cursor or Codex and it builds a real, playable node network (audio-reactive, generative, particle, 3D, feedback) with live knobs + MIDI/OSC/DMX, then checks for errors and previews its own work.",
+  "git_url": "https://github.com/Pantani/tdmcp",
+  "author_github": "Pantani",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "audioreactive",
+    "claude",
+    "creativecoding",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pantani.github.io/tdmcp/"
+}
