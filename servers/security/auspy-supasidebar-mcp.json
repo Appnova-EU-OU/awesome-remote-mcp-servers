@@ -1,0 +1,16 @@
+{
+  "name": "supasidebar-mcp",
+  "description": "Give your AI assistant local access to your open tabs, saved bookmarks, and recently opened links across every browser on your Mac. Open source, zero telemetry.",
+  "git_url": "https://github.com/auspy/supasidebar-mcp",
+  "author_github": "auspy",
+  "category": "security",
+  "tags": [
+    "supasidebar",
+    "give",
+    "your",
+    "assistant",
+    "local"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
