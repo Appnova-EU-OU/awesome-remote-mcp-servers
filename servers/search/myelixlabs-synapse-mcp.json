@@ -1,0 +1,17 @@
+{
+  "name": "synapse-mcp",
+  "description": "Free, 100% local MCP server. Turns your codebase into an AST knowledge graph so AI coding agents (Claude, Cursor, Copilot) get exact caller trees, semantic search, and safe writes — 60% fewer tokens, zero data egress.",
+  "git_url": "https://github.com/myelixlabs/synapse-mcp",
+  "author_github": "myelixlabs",
+  "category": "search",
+  "tags": [
+    "aicoding",
+    "ast",
+    "codegraph",
+    "codeintelligence",
+    "codingagent"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://synapse-mcp.dev"
+}
