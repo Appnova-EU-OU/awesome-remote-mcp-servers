@@ -1,0 +1,17 @@
+{
+  "name": "allmcps-server",
+  "description": "Official MCP server for AllMCPs.com — submit MCP servers to the directory directly from your AI agent.",
+  "git_url": "https://github.com/Jackalope-Dev/allmcps-server",
+  "author_github": "Jackalope-Dev",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aiagent",
+    "aiagents",
+    "aitools",
+    "antigravity"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://allmcps.com/"
+}
