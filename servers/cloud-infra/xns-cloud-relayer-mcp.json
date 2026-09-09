@@ -1,0 +1,17 @@
+{
+  "name": "relayer-mcp",
+  "description": "MCP server for XNS S3-compatible storage — agent-driven Relayer install & management. Mirrored from GitLab.",
+  "git_url": "https://github.com/xns-cloud/relayer-mcp",
+  "author_github": "xns-cloud",
+  "category": "cloud-infra",
+  "tags": [
+    "agenticworkflows",
+    "aiagents",
+    "claude",
+    "cloudstorage",
+    "docker"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://xns.tech/relayer/"
+}
