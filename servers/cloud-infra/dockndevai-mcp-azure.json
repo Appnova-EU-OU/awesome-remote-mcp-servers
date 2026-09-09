@@ -1,0 +1,17 @@
+{
+  "name": "mcp-azure",
+  "description": "MCP server for Azure (Resource Manager) — inventory, tags, VM power, lifecycle — with governance controls (scoping, protected groups, location allowlist, delete gating, confirmation).",
+  "git_url": "https://github.com/dockndevai/mcp-azure",
+  "author_github": "dockndevai",
+  "category": "cloud-infra",
+  "tags": [
+    "azure",
+    "cloud",
+    "governance",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dockndevai.github.io/"
+}
