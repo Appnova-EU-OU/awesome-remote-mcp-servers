@@ -1,0 +1,17 @@
+{
+  "name": "dochost-mcp",
+  "description": "Official MCP server for dochost (https://dochost.io) — publish Markdown or HTML to a shareable link from Claude, ChatGPT or Cursor. OAuth, no API keys.",
+  "git_url": "https://github.com/zyli5313/dochost-mcp",
+  "author_github": "zyli5313",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "claude",
+    "html",
+    "markdown",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dochost.io"
+}
