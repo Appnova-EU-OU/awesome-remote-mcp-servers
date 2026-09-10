@@ -1,0 +1,17 @@
+{
+  "name": "gigamail",
+  "description": "Mail for AI agents ( and humans). MCP server giving Claude (or any agent) safe, permission-controlled access to email (Microsoft Graph + IMAP), calendar and your knowledge files. Two-phase confirmation for sends, audit log, local index. No built-in LLM: your agent brings the intelligence.",
+  "git_url": "https://github.com/adecubed/gigamail",
+  "author_github": "adecubed",
+  "category": "communication",
+  "tags": [
+    "calendar",
+    "humanintheloop",
+    "imap",
+    "llmtools",
+    "mail"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://gigamail.ai"
+}
