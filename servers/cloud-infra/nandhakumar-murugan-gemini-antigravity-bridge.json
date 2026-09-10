@@ -1,0 +1,17 @@
+{
+  "name": "gemini-antigravity-bridge",
+  "description": "⚡ Bridge connecting Google Gemini Spark & Cloud AI to your local machine via MCP with autonomous file creation, terminal execution, and subagent orchestration.",
+  "git_url": "https://github.com/nandhakumar-murugan/gemini-antigravity-bridge",
+  "author_github": "nandhakumar-murugan",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "automation",
+    "developertools",
+    "gemini",
+    "googlecloud"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/nandhakumar-murugan/antigravity-mcp-bridge#readme"
+}
