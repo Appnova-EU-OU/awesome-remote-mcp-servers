@@ -91,6 +91,21 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [public-browser](https://freemcp.space/featured/public-browser) — Lets Claude Code and Cursor drive Chrome. Browse your real profile: -30% tokens, -25% cost, -41% tool calls, -34% tool defs, +40% faster. Direct CDP, a11y-tree refs, server-side plan executor. MIT, no paid tier.
+- [claude-codex-bridge](https://freemcp.space/featured/claude-codex-bridge) — Use Codex agents from Claude Code with live progress, steering, and session continuation.
+- [Nimbus](https://freemcp.space/featured/nimbus) — On-call intelligence for DevOps and platform teams. Local-first AI agent over your tools — HITL-gated, MCP-native, AGPL-3.0.
+- [cursor-delegate-mcp](https://freemcp.space/featured/cursor-delegate-mcp) —  Stop burning your Claude or Codex limits on boilerplate. Delegate multi-file implementation to Cursor's Composer 2.5 over MCP — your frontier model writes the brief and reviews the diff; Composer does the typing, fast, on a separate quota.
+- [unclick](https://freemcp.space/featured/unclick) — The universal remote for AI: one MCP install gives agents 450+ callable endpoints across 60+ integrations, plus persistent cross-session memory. Works with Claude, ChatGPT, Cursor, and any MCP client.
+- [allmcps-server](https://freemcp.space/featured/allmcps-server) — Official MCP server for AllMCPs.com — submit MCP servers to the directory directly from your AI agent.
+- [relayer-mcp](https://freemcp.space/featured/relayer-mcp) — MCP server for XNS S3-compatible storage — agent-driven Relayer install & management. Mirrored from GitLab.
+- [mcp-server-vibes-coded](https://freemcp.space/featured/mcp-server-vibes-cod) — 26-tool MCP server for agent security, scanner consensus, x402 reliability, and Vibes-Coded's 344-resource commerce catalog.
+- [LiuHe](https://freemcp.space/featured/liuhe) — LLM-native code toolkit: Rust multi-language parser (tree-sitter) + 44 MCP tools for atomic editing, impact analysis, reference tracing and deterministic zero-LLM code quality gates. Built for the handless, eyeless, memoryless LLM.
+- [synapse-mcp](https://freemcp.space/featured/synapse-mcp) — Free, 100% local MCP server. Turns your codebase into an AST knowledge graph so AI coding agents (Claude, Cursor, Copilot) get exact caller trees, semantic search, and safe writes — 60% fewer tokens, zero data egress.
+- [dochost-mcp](https://freemcp.space/featured/dochost-mcp) — Official MCP server for dochost (https://dochost.io) — publish Markdown or HTML to a shareable link from Claude, ChatGPT or Cursor. OAuth, no API keys.
+- [mcp-azure](https://freemcp.space/featured/mcp-azure) — MCP server for Azure (Resource Manager) — inventory, tags, VM power, lifecycle — with governance controls (scoping, protected groups, location allowlist, delete gating, confirmation).
+- [snapshot-site-mcp](https://freemcp.space/featured/snapshot-site-mcp) — Let Claude, ChatGPT, and other MCP clients capture, compare, and analyze any web page — hosted with OAuth, or local over stdio.
+- [awarse-mcp](https://freemcp.space/featured/awarse-mcp) — Model Context Protocol (MCP) server for automated test heal, Playwright orchestration, and AI-assisted QA workflows.
+- [traecnclaw-mcp-skill](https://freemcp.space/featured/traecnclaw-mcp-skill) — Public TRAECNclaw MCP Agent Skill and installable server package bundle.
 - [opticparse-public](https://freemcp.space/featured/opticparse-public) — Stealth Multimodal Web Scraper & 0-Day Phishing Shield for AI Agents. Alternative to Firecrawl & Crawl4AI with zero-CSS vision extraction, 200 free trial credits, and native LangChain / ElizaOS / MCP support.
 - [repo-cartographer](https://freemcp.space/featured/repo-cartographer) — Understand any codebase in 60 seconds - an MCP server, CLI and GitHub Action that turns any repo into an architecture diagram (Mermaid/Graphviz) and enforces architecture rules in CI. Works with Claude, Cursor, ChatGPT and any MCP client.
 - [picoberry-mcp](https://freemcp.space/featured/picoberry-mcp) — PicoBerry MCP server — an AI 3D workspace for games, VR, and beyond. Generate, remesh, texture, and animate 3D assets from any MCP client. Multi-engine, one API.
@@ -176,21 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [agent-cold-email](https://freemcp.space/featured/agent-cold-email) — Coldrig — cold email infrastructure run entirely by your coding agent (Claude Code / Codex / Cursor / Cline). One token, 28 intent-level MCP + HTTP tools and an npm CLI: domain purchase, mailboxes, warmup, sequences, replies, deliverability guardrails. Free fault-injecting sandbox.
 - [solvegate-mcp](https://freemcp.space/featured/solvegate-mcp) — MCP server for Cloudflare Turnstile — inspect a page for Turnstile without an API key, and clear Turnstile and WAF challenges.
 - [dibs](https://freemcp.space/featured/dibs) — Call dibs on files. Coordination for parallel coding agents — file claims with expiry, enforcement hooks, and git-native lessons. One binary, no server, no database.
-- [chinese-almanac-mcp](https://freemcp.space/yonlandwu/chinese-almanac-mcp) — MCP server for the Chinese almanac — auspicious date picking (择日) for weddings, moves, openings & major purchases, lucky hours (吉时), hour pillars, solar terms, horoscopes. JPL precision. 中国黄历择日 MCP 服务 — 嫁娶开业搬家择吉日.
-- [calibreweb-mcp](https://freemcp.space/featured/calibreweb-mcp) — MCP server for Calibre-Web — read-only library access via the OPDS feed
-- [a11y-toolkit](https://freemcp.space/featured/a11y-toolkit) — MCP server + CLI for WCAG 2.2 accessibility: contrast (pairs & text-over-image), EU accessibility declarations (RD 1112/2018 · Ley 11/2023 · EAA), aria-live monitor. Multilanguage es/en · zero dependencies
-- [magg](https://freemcp.space/featured/magg) — Magg: The MCP Aggregator
-- [enigma-python-mcp](https://freemcp.space/featured/enigma-python-mcp) — An MCP (Model Context Protocol) server that brings the capabilities of the enigmapython library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators
-- [b2b-enrichment-mcp](https://freemcp.space/featured/b2b-enrichment-mcp) — Unified MCP server combining Hunter.io and Apollo for B2B lead enrichment
-- [dchub-mcp-server](https://freemcp.space/featured/dchub-mcp-server) — Live data-center, power-grid, energy, interconnection-queue, fiber, natural-gas & M&A intelligence for AI agents — 82 tools, 18,000+ facilities, 300+ markets scored daily (DC Hub Power Index), 1,900+ tracked M&A deals, live grid telemetry across 49 regions. Remote MCP at dchub.cloud/mcp. DCPI & grid analysis CC-BY-4.0.
-- [mcp-bytesmith](https://freemcp.space/featured/mcp-bytesmith) — Pure-Python MCP server for encoding, hashing, and crypto-primitives — computed for real, locally.
-- [apple-mail-mcp](https://freemcp.space/featured/apple-mail-mcp-2) — MCP server for Apple Mail: sub-ms search over 300k+ messages via Mail's own SQLite index, verified sends, Exchange body backfill, triage plan/review/apply. 849 tests, MIT.
-- [Claude-MCP-Read-Email-Attachments](https://freemcp.space/featured/claude-mcp-read-emai-2) — Local MCP server for Claude Desktop to read Outlook emails/bodies/attachments and send local files as attachments.
-- [browserless-mcp](https://freemcp.space/featured/browserless-mcp) — Official MCP server for the Browserless.io 
-- [cognigy-ai-mcp-management-server](https://freemcp.space/featured/cognigy-ai-mcp-manag) — MCP server for Cognigy.AI - 132 tools that let Claude, Cursor & other AI assistants build, configure, test & operate conversational AI agents via the Model Context Protocol.
-- [waxseal-sdk](https://freemcp.space/featured/waxseal-sdk) — Ed25519 cryptographic identity for apps and AI agents — MCP server for Claude/Cursor/Windsurf + JS/TS verify SDK
-- [lobbyvoices-mcp](https://freemcp.space/featured/lobbyvoices-mcp) — Official MCP server for Lobby (lobbyvoices.com) — 8 free, no-auth receptionist tools for AI agents: phone scripts & IVR menus (EN+ES), ElevenLabs agent prompts, missed-call math, call simulation, and more.
-- [zerodrop-mcp](https://freemcp.space/featured/zerodrop-mcp) — MCP server for ZeroDrop — gives AI agents disposable inboxes with auto-extracted OTPs and magic links. Claude, Cursor, Claude Code.
 <!-- freemcp:end -->
 
 ---
