@@ -1,0 +1,16 @@
+{
+  "name": "taghvim",
+  "description": "Deterministic temporal reasoning engine for AI agents. 12 tools for date/time arithmetic, timezone conversion with DST, business days across 100+ countries, public holidays, RFC 5545 recurrence, Gregorian/Persian calendar conversion, and temporal claim verification. `npx taghvim-mcp`",
+  "git_url": "https://github.com/mrfelfel/taghvim",
+  "author_github": "mrfelfel",
+  "category": "communication",
+  "tags": [
+    "api",
+    "js",
+    "taghvim",
+    "deterministic",
+    "temporal"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
