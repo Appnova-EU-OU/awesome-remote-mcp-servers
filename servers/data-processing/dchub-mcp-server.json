@@ -1,6 +1,6 @@
 {
   "name": "DC Hub MCP Server",
-  "description": "Live data-center, power-grid, energy, interconnection-queue, fiber, natural-gas & M&A intelligence for AI agents \u2014 88 tools, 21,500+ facilities, 300+ markets. Remote MCP at https://dchub.cloud/mcp. Official registry: cloud.dchub/mcp-server.",
+  "description": "Live data-center, power-grid, energy, interconnection-queue, fiber, natural-gas & M&A intelligence for AI agents \u2014 90 tools, 21,600+ facilities, 300+ markets. Full server https://dchub.cloud/mcp plus focused packs: /mcp/siting /mcp/grid /mcp/fiber /mcp/deals /mcp/gas /mcp/site /mcp/deepresearch. Whats-new: https://dchub.cloud/whats-new. Official registry: cloud.dchub/mcp-server.",
   "git_url": "https://github.com/azmartone67/dchub-mcp-server",
   "homepage": "https://dchub.cloud/mcp",
   "author_github": "azmartone67",
@@ -10,7 +10,10 @@
     "energy",
     "grid",
     "mcp",
-    "infrastructure"
+    "infrastructure",
+    "site-selection",
+    "fiber",
+    "interconnection"
   ],
   "license": "MIT",
   "status": "active"
