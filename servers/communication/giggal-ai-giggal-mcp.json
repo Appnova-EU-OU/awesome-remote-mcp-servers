@@ -1,0 +1,17 @@
+{
+  "name": "giggal-mcp",
+  "description": "Official MCP server for Giggal.ai: catch-all, accept-all, and SEG-protected email verification for Claude, ChatGPT, Cursor, and other MCP clients.",
+  "git_url": "https://github.com/giggal-ai/giggal-mcp",
+  "author_github": "giggal-ai",
+  "category": "communication",
+  "tags": [
+    "bouncerate",
+    "bounceratereduction",
+    "catchall",
+    "chatgpt",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://giggal.ai/mcp"
+}
