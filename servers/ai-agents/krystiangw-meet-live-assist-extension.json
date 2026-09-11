@@ -1,0 +1,17 @@
+{
+  "name": "meet-live-assist-extension",
+  "description": "Your own AI agent, live in a Google Meet or Zoom call: reads the captions, answers in a side panel, runs entirely on your machine over MCP.",
+  "git_url": "https://github.com/krystiangw/meet-live-assist-extension",
+  "author_github": "krystiangw",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "chromeextension",
+    "claude",
+    "googlemeet",
+    "localfirst"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://meet-live-assist.github.io/"
+}
