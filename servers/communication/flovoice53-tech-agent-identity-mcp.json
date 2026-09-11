@@ -1,0 +1,17 @@
+{
+  "name": "agent-identity-mcp",
+  "description": "MCP server that gives an AI agent a disposable email address and a real UK phone number to test signup/verification flows end to end",
+  "git_url": "https://github.com/flovoice53-tech/agent-identity-mcp",
+  "author_github": "flovoice53-tech",
+  "category": "communication",
+  "tags": [
+    "aiagent",
+    "claude",
+    "claudecode",
+    "disposableemail",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/agent-identity-mcp"
+}
