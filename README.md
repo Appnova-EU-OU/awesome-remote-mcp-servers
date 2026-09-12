@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [b2-mcp](https://freemcp.space/featured/b2-mcp) — MCP server for Backblaze B2 Cloud Storage: a focused, safe 40-tool surface (17 native B2 SDK, 19 S3 data-plane, 4 analytics) for any MCP-compatible AI client, currently incubating in Backblaze-Labs
+- [x402-list-mcp](https://freemcp.space/featured/x402-list-mcp) — MCP server for x402-list.com: discover x402 payment services and on-chain-verified facilitator settlement volumes. Published on npm as x402-list-mcp.
+- [pbx-mcp](https://freemcp.space/featured/pbx-mcp) — MCP server for Asterisk and FreeSWITCH. Lets AI assistants inspect channels, SIP registrations, trunk status and dialplan on a live PBX.
+- [meet-live-assist-extension](https://freemcp.space/featured/meet-live-assist-ext) — Your own AI agent, live in a Google Meet or Zoom call: reads the captions, answers in a side panel, runs entirely on your machine over MCP.
+- [fmsg-mcp](https://freemcp.space/featured/fmsg-mcp) — MCP server for fmsg: send and receive federated messages from any AI agent via a deployed fmsg Web API
+- [agent-identity-mcp](https://freemcp.space/flovoice53/agent-identity-mcp) — MCP server that gives an AI agent a disposable email address and a real UK phone number to test signup/verification flows end to end
+- [giggal-mcp](https://freemcp.space/featured/giggal-mcp) — Official MCP server for Giggal.ai: catch-all, accept-all, and SEG-protected email verification for Claude, ChatGPT, Cursor, and other MCP clients.
+- [sms-florin-mcp](https://freemcp.space/flovoice53/sms-florin-mcp) — MCP server for sms-florin — rent a real UK phone number and receive SMS/OTP codes from AI coding agents (Claude, Cursor, Codex...)
 - [aginxbrowser](https://freemcp.space/featured/aginxbrowser) — The browser built for AI agents — fetch live pages as markdown, render JS/SPAs with built-in V8, take screenshots without Chromium, meta-search 5 engines, and drive interactive login sessions. One Rust binary, stealth TLS fingerprints, MCP native for Claude Code & Cursor. Headless browser alternative to Puppeteer/Playwright.
 - [domain-mcp](https://freemcp.space/featured/domain-mcp) — Manage Dynadot domains, DNS, renewals, and transfers from Claude, Cursor, or any MCP client.
 - [Agent402](https://freemcp.space/featured/agent402) — agent402.tools: 500+ pay-per-call tools, metered models and finished reports for AI agents, paid per call in USDC over x402 and MPP or by card. Open source, self-hostable, MCP-native. The applied layer of agentic finance.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [wellness-nourish](https://freemcp.space/featured/wellness-nourish) — Local-first nutrition MCP for Claude/Cursor: USDA food search, barcode + photo, meal logging
 - [standard-vocal-mcp](https://freemcp.space/featured/standard-vocal-mcp) — Voice Agent Factory MCP — deploy, eval, and audit phone agents built on Vapi. Vertical templates, self-testing agents, audio forensics, prompt versioning, CI regression gates.
 - [cloudflare-workers-ai-mcp](https://freemcp.space/featured/cloudflare-workers-a) — MCP server for Cloudflare Workers AI — LLM inference, embeddings, and image generation for AI agents
-- [coolify-mcp](https://freemcp.space/featured/coolify-mcp) — MCP server for Coolify — 64 tools to deploy, diagnose, and manage apps, databases, and services on your self-hosted PaaS. OpenAPI-generated schemas, docs search, secrets masked by default.
-- [nodriver-mcp-server](https://freemcp.space/featured/nodriver-mcp-server) — Undetected browser automation MCP server - a stealth, anti-bot-resistant alternative to chrome-devtools-mcp for Claude, Cursor and AI agents. Powered by nodriver (bypasses Cloudflare/WebDriver detection). 65 tools, plus several isolated browsers at once so parallel agents never share a session.
-- [BlazingCDN-MCP](https://freemcp.space/featured/blazingcdn-mcp) — Official MCP server for BlazingCDN - AI agents (Claude, Cursor, Windsurf) manage CDN resources, purge cache, query metrics, domains, Cloud Storage and Video CDN
-- [ghostlight](https://freemcp.space/featured/ghostlight) — Give compatible AI agents a visible workspace in the Chromium browser you already use. Local-first, with optional policy and audit.
-- [discord-mcp](https://freemcp.space/featured/discord-mcp-2) — MCP server over the Discord REST API: 5 read tools always on, 7 write tools gated off by default behind an env flag. Typed errors for every failure mode.
-- [redditapis-mcp](https://freemcp.space/featured/redditapis-mcp) — Official MCP server for redditapis.com — 11 read-only Reddit tools for Claude, Cursor, and any MCP client.
-- [hetzner-dns-mcp](https://freemcp.space/featured/hetzner-dns-mcp) — MCP server for managing DNS zones and records via the Hetzner Cloud API
-- [screenshotscout-mcp](https://freemcp.space/featured/screenshotscout-mcp) — Official MCP server for the Screenshot Scout screenshot API.
 <!-- freemcp:end -->
 
 ---
