@@ -1,0 +1,16 @@
+{
+  "name": "deepseek-as-subagent",
+  "description": "Run DeepSeek as a real sub-agent inside Claude Code / Codex CLI — DeepSeek gets its own 7-tool agent loop in a sandboxed workspace, not just a single LLM call.",
+  "git_url": "https://github.com/PsChina/deepseek-as-subagent",
+  "author_github": "PsChina",
+  "category": "databases",
+  "tags": [
+    "agentloop",
+    "aiagent",
+    "claudecode",
+    "codexcli",
+    "deepseek"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
