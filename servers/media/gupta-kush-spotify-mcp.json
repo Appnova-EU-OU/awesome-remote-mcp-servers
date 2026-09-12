@@ -1,0 +1,17 @@
+{
+  "name": "gupta-kush/spotify-mcp",
+  "description": "Control Spotify from Claude, Cursor, or any MCP client. 100+ tools for playback, playlists, discovery, and curation.",
+  "git_url": "https://github.com/gupta-kush/spotify-mcp",
+  "author_github": "gupta-kush",
+  "category": "media",
+  "tags": [
+    "ai",
+    "claude",
+    "fastmcp",
+    "llmtools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/spotify-mcp/"
+}
