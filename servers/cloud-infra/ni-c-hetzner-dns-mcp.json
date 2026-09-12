@@ -1,0 +1,17 @@
+{
+  "name": "hetzner-dns-mcp",
+  "description": "MCP server for managing DNS zones and records via the Hetzner Cloud API",
+  "git_url": "https://github.com/ni-c/hetzner-dns-mcp",
+  "author_github": "ni-c",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "claude",
+    "claudecode",
+    "dns",
+    "hetzner"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://hetzner-dns-mcp.ni-c.de"
+}
