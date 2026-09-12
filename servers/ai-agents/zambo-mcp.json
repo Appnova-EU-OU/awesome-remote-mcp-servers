@@ -1,0 +1,20 @@
+{
+  "name": "Zambo MCP",
+  "description": "100+ native MCP tools over one remote URL with zero auth and no signup: code audit, lead generation, strategy, onchain scoring, credit discovery, prompt defense, and more. Solo-built AI infrastructure by Brennan Zambo. Free 20 calls/tool/day.",
+  "git_url": "https://github.com/zambodotdev/zambo-mcp",
+  "author_github": "zambodotdev",
+  "category": "ai-agents",
+  "tags": [
+    "remote",
+    "no-auth",
+    "ai-agents",
+    "developer-tools",
+    "free-tier",
+    "code-audit",
+    "lead-generation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "npm_package": "zambo",
+  "homepage": "https://zambo.dev/mcp"
+}
