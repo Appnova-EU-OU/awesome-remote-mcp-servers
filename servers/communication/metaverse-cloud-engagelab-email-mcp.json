@@ -1,0 +1,16 @@
+{
+  "name": "engagelab-email-mcp",
+  "description": "Official EngageLab Agent Email MCP server for AI agents to send, receive, monitor, and reply to email",
+  "git_url": "https://github.com/Metaverse-Cloud/engagelab-email-mcp",
+  "author_github": "Metaverse-Cloud",
+  "category": "communication",
+  "tags": [
+    "agentemail",
+    "aiagents",
+    "emailapi",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
