@@ -1,0 +1,17 @@
+{
+  "name": "browser-mcp",
+  "description": "Drive your real, logged-in Chrome from any AI agent (Claude Code, Codex, Cursor, VS Code) — works where headless dies. Reads emailed login codes from your Gmail, 40 tools, up to 20 concurrent sessions. MIT, local-only.",
+  "git_url": "https://github.com/Agent360dk/browser-mcp",
+  "author_github": "Agent360dk",
+  "category": "communication",
+  "tags": [
+    "2fa",
+    "aiagent",
+    "aiagents",
+    "anthropic",
+    "browserautomation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://browsermcp.dev"
+}
