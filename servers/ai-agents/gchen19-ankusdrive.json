@@ -1,0 +1,17 @@
+{
+  "name": "AnkusDrive",
+  "description": "CLI + MCP server that turns FreeCAD into a mechanical-design workbench for LLM agents — parametric CAD, drawings, FEM/CFD simulation, and manufacturing checks",
+  "git_url": "https://github.com/gchen19/AnkusDrive",
+  "author_github": "gchen19",
+  "category": "ai-agents",
+  "tags": [
+    "cad",
+    "cfd",
+    "fem",
+    "freecad",
+    "llmagents"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/ankusdrive/"
+}
