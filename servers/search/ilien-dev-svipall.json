@@ -1,0 +1,17 @@
+{
+  "name": "svipall",
+  "description": "Local-first MCP server and CLI in Rust: any page as LLM-ready Markdown, whole-site crawls, keyless search, and local captcha solving. No cloud, no API keys.",
+  "git_url": "https://github.com/ilien-dev/svipall",
+  "author_github": "ilien-dev",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "antibot",
+    "browserfingerprinting",
+    "captchasolverforbots",
+    "claude"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://svipall.ilien.dev"
+}
