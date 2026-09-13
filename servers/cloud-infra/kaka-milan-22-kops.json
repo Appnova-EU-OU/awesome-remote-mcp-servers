@@ -1,0 +1,16 @@
+{
+  "name": "kops",
+  "description": "Read-only kubectl as an MCP server for Claude Code — structured JSON, hardcoded safe verbs, one-shot triage & inventory.",
+  "git_url": "https://github.com/kaka-milan-22/kops",
+  "author_github": "kaka-milan-22",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "claude",
+    "devops",
+    "kubectl",
+    "kubernetes"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
