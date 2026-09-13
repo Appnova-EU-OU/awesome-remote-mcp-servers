@@ -1,0 +1,17 @@
+{
+  "name": "vitamind-mcp",
+  "description": "MCP server for solar vitamin D — when the sun where you are can actually make vitamin D, for your skin type. Bridges any stdio MCP client to the hosted Vitamin D Explorer server.",
+  "git_url": "https://github.com/JaviMaligno/vitamind-mcp",
+  "author_github": "JaviMaligno",
+  "category": "developer-tools",
+  "tags": [
+    "claude",
+    "health",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://getvitamind.app/connect"
+}
