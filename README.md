@@ -91,6 +91,12 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [browser-mcp](https://freemcp.space/featured/browser-mcp) — Drive your real, logged-in Chrome from any AI agent (Claude Code, Codex, Cursor, VS Code) — works where headless dies. Reads emailed login codes from your Gmail, 40 tools, up to 20 concurrent sessions. MIT, local-only.
+- [caldav-mcp](https://freemcp.space/featured/caldav-mcp-3) — MCP server for CalDAV calendars: events, tasks and journals over the open standard
+- [carddav-mcp](https://freemcp.space/featured/carddav-mcp) — Model Context Protocol (MCP) server for CardDAV address books: contacts, groups and photos
+- [engagelab-email-mcp](https://freemcp.space/featured/engagelab-email-mcp) — Official EngageLab Agent Email MCP server for AI agents to send, receive, monitor, and reply to email
+- [mailflat-sdks](https://freemcp.space/featured/mailflat-sdks) — Official MailFlat SDKs for Python, TypeScript/JavaScript and Java. Real email inboxes your agent or test suite can create from code and read one-time codes from.
+- [outlook-mcp](https://freemcp.space/featured/outlook-mcp-2) — MCP server for tidying a large Outlook / Hotmail mailbox via Microsoft Graph. Bulk moves, folder-tree surgery, inbox rules — no send tool, no permanent delete.
 - [b2-mcp](https://freemcp.space/featured/b2-mcp) — MCP server for Backblaze B2 Cloud Storage: a focused, safe 40-tool surface (17 native B2 SDK, 19 S3 data-plane, 4 analytics) for any MCP-compatible AI client, currently incubating in Backblaze-Labs
 - [x402-list-mcp](https://freemcp.space/featured/x402-list-mcp) — MCP server for x402-list.com: discover x402 payment services and on-chain-verified facilitator settlement volumes. Published on npm as x402-list-mcp.
 - [pbx-mcp](https://freemcp.space/featured/pbx-mcp) — MCP server for Asterisk and FreeSWITCH. Lets AI assistants inspect channels, SIP registrations, trunk status and dialplan on a live PBX.
@@ -108,7 +114,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ssh-mcp-server](https://freemcp.space/featured/ssh-mcp-server-2) — SSH MCP server for AI agents: remote commands, file transfer, log search and server audits through OpenSSH.
 - [SmartCLI](https://freemcp.space/featured/smartcli) — Three Agent Skills over one pluggable PTY + pyte core: drive TUIs, design terminal effects, and render cell-accurate UIs. pip install smartcli-toolkit
 - [markdown-to-whatsapp](https://freemcp.space/featured/markdown-to-whatsapp) — Convert Markdown into WhatsApp formatting: tables drawn to fit the phone's monospace width. Web page, library, CLI and MCP server.
-- [clawdcall-mcp](https://freemcp.space/featured/clawdcall-mcp) — Let AI agents place consent-based outbound phone calls and retrieve transcripts, summaries, and outcomes. Use the hosted Streamable HTTP server or install with `npx -y clawdcall-mcp`.
+- [clawdcall-mcp](https://freemcp.space/dialgoodian/clawdcall-mcp) — Let AI agents place consent-based outbound phone calls and retrieve transcripts, summaries, and outcomes. Use the hosted Streamable HTTP server or install with `npx -y clawdcall-mcp`.
 - [sendgrid-mcp-secure](https://freemcp.space/featured/sendgrid-mcp-secure) — Security-first MCP server for SendGrid — recipient allowlists, send caps, review-mode, audit log, no silent BCC. Hardened against the postmark-mcp incident class.
 - [heliograph](https://freemcp.space/featured/heliograph) — Remote, captured, auditable execution on a machine you cannot log into. Control CLI, relay and transports around the heliograph method.
 - [public-browser](https://freemcp.space/featured/public-browser) — Lets Claude Code and Cursor drive Chrome. Browse your real profile: -30% tokens, -25% cost, -41% tool calls, -34% tool defs, +40% faster. Direct CDP, a11y-tree refs, server-side plan executor. MIT, no paid tier.
@@ -185,12 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [excalidraw-architect-mcp](https://freemcp.space/featured/excalidraw-architect) — Turn your architecture into a living, queryable knowledge graph - and render it as beautiful auto-laid-out Excalidraw diagrams. An MCP server for Cursor, Claude Code & Windsurf. Offline, no API keys.
 - [WebReaper](https://freemcp.space/featured/webreaper) — AI-native web scraper. Single binary with a bundled Claude Code skill. MIT-licensed alternative to Firecrawl.
 - [pipedrive-mcp-server](https://freemcp.space/featured/pipedrive-mcp-server) — MCP server for Pipedrive CRM. 155 contract-tested tools, v2-first API, gated destructive ops. Works with Claude Desktop, Claude Code, and any MCP client.
-- [horizon-shield](https://freemcp.space/featured/horizon-shield) — NENRIN: tree rings for AI facing services. Bitcoin-anchored public ledger, open witnessing, and an MCP server for verifiable Japanese construction estimates. The operator cannot delete a valid record.
-- [outlook-local-mcp](https://freemcp.space/featured/outlook-local-mcp) — Local MCP server for Microsoft Outlook — calendars, events, and email via Microsoft Graph API
-- [openagentemail](https://freemcp.space/featured/openagentemail) — Self-hosted email for AI agents — the open-source alternative to AgentMail. One compose file → unlimited inboxes, OTP extraction, MCP server.
-- [wellness-nourish](https://freemcp.space/featured/wellness-nourish) — Local-first nutrition MCP for Claude/Cursor: USDA food search, barcode + photo, meal logging
-- [standard-vocal-mcp](https://freemcp.space/featured/standard-vocal-mcp) — Voice Agent Factory MCP — deploy, eval, and audit phone agents built on Vapi. Vertical templates, self-testing agents, audio forensics, prompt versioning, CI regression gates.
-- [cloudflare-workers-ai-mcp](https://freemcp.space/featured/cloudflare-workers-a) — MCP server for Cloudflare Workers AI — LLM inference, embeddings, and image generation for AI agents
 <!-- freemcp:end -->
 
 ---
