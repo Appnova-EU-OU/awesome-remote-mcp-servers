@@ -1,0 +1,17 @@
+{
+  "name": "jgs-magic-sysmlv1-mcp",
+  "description": "Bring Claude Code and any MCP agent to your live SysML v1 models in CATIA Magic: 130+ tools to query, audit, and edit the real model over a local, air-gapped connection. No cloud, no export. FREE / PRO / ENTERPRISE.",
+  "git_url": "https://github.com/jgsystemsconsulting/jgs-magic-sysmlv1-mcp",
+  "author_github": "jgsystemsconsulting",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "cameo",
+    "catiamagic",
+    "claudecode",
+    "mbse"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://jgsystemsconsulting.github.io/jgs-magic-sysmlv1-mcp/"
+}
