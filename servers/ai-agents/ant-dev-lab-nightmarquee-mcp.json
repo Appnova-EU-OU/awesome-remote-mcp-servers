@@ -1,0 +1,17 @@
+{
+  "name": "nightmarquee-mcp",
+  "description": "Cinematic website prompts with live previews, inside your editor. MCP server for Claude Code, Claude Desktop and Cursor.",
+  "git_url": "https://github.com/ant-dev-lab/nightmarquee-mcp",
+  "author_github": "ant-dev-lab",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claude",
+    "claudecode",
+    "cursor",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://nightmarquee.com"
+}
