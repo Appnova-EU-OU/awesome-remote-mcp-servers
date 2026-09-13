@@ -1,0 +1,17 @@
+{
+  "name": "tarot-mcp-server",
+  "description": "MCP server exposing 78-card tarot deck meanings and spreads to Claude, Cursor, Windsurf. Powered by deckaura.com",
+  "git_url": "https://github.com/gokimedia/tarot-mcp-server",
+  "author_github": "gokimedia",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "deckaura",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://deckaura.com/pages/ai-data-sources"
+}
