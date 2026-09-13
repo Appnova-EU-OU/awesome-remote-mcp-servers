@@ -1,0 +1,16 @@
+{
+  "name": "traecnclaw-mcp-skill",
+  "description": "Public TRAECNclaw MCP Agent Skill and installable server package bundle.",
+  "git_url": "https://github.com/Luckycat133/traecnclaw-mcp-skill",
+  "author_github": "Luckycat133",
+  "category": "ai-agents",
+  "tags": [
+    "agent",
+    "mcp",
+    "npm",
+    "skill",
+    "trae"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
