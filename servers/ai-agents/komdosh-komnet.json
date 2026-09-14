@@ -1,0 +1,17 @@
+{
+  "name": "komnet",
+  "description": "Git-backed message bus for AI coding agents — Claude Code, Cursor and Codex coordinate asynchronously, with no server",
+  "git_url": "https://github.com/Komdosh/komnet",
+  "author_github": "Komdosh",
+  "category": "ai-agents",
+  "tags": [
+    "agentcommunication",
+    "agenticai",
+    "aiagents",
+    "aicodingassistant",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/komnet"
+}
