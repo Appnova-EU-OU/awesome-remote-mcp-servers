@@ -1,0 +1,17 @@
+{
+  "name": "ictpbx-mcp",
+  "description": "Read-only MCP server for ICTPBX — extensions, DIDs, SIP trunks, tenants and PBX statistics over ICTCore REST. By ICT Innovations.",
+  "git_url": "https://github.com/ictinnovations/ictpbx-mcp",
+  "author_github": "ictinnovations",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "claude",
+    "ictcore",
+    "ictpbx",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ictpbx.com"
+}
