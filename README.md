@@ -91,6 +91,20 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [munim](https://freemcp.space/featured/munim) — A multi-account MCP server for people who look after other people's infrastructure. Built with the Strands Agents SDK.
+- [portkey-admin-mcp](https://freemcp.space/featured/portkey-admin-mcp-2) — Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance
+- [jgs-magic-sysmlv1-mcp](https://freemcp.space/featured/jgs-magic-sysmlv1-mc) — Bring Claude Code and any MCP agent to your live SysML v1 models in CATIA Magic: 130+ tools to query, audit, and edit the real model over a local, air-gapped connection. No cloud, no export. FREE / PRO / ENTERPRISE.
+- [magents](https://freemcp.space/featured/magents) — Shared session bus for Claude Code, Codex, and Cursor
+- [AnkusDrive](https://freemcp.space/gchen19/ankusdrive) — CLI + MCP server that turns FreeCAD into a mechanical-design workbench for LLM agents — parametric CAD, drawings, FEM/CFD simulation, and manufacturing checks
+- [drop2run-cli](https://freemcp.space/featured/drop2run-cli) — Source for the drop2run CLI and MCP server — publish a static site or an agent's output to an HTTPS link, no git and no build config.
+- [elicitly](https://freemcp.space/featured/elicitly) — Elicitly Free Edition — human-in-the-loop for prompts and Agent Skills over MCP elicitation. Local MCP server (npx -y elicitly) + embeddable toolkit (@elicitly/tools).
+- [K8s-AIops](https://freemcp.space/featured/k8s-aiops) — Standalone governed Kubernetes ops — 15 MCP tools with built-in audit/budget/undo/risk-tier harness
+- [ottersnap-mcp](https://freemcp.space/featured/ottersnap-mcp) — MCP server for the OtterSnap rendering API — screenshots, PDFs, OG images and page extraction for AI agents.
+- [svipall](https://freemcp.space/featured/svipall) — Local-first MCP server and CLI in Rust: any page as LLM-ready Markdown, whole-site crawls, keyless search, and local captcha solving. No cloud, no API keys.
+- [x402-scraper-engine](https://freemcp.space/featured/x402-scraper-engine) — HTTP 402 pay-per-call web scraper & Llama-3 digest engine for autonomous AI agents on Base L2. No API keys, no subscriptions.
+- [vitamind-mcp](https://freemcp.space/featured/vitamind-mcp) — MCP server for solar vitamin D — when the sun where you are can actually make vitamin D, for your skin type. Bridges any stdio MCP client to the hosted Vitamin D Explorer server.
+- [nightmarquee-mcp](https://freemcp.space/featured/nightmarquee-mcp) — Cinematic website prompts with live previews, inside your editor. MCP server for Claude Code, Claude Desktop and Cursor.
+- [mcp-server](https://freemcp.space/featured/mcp-server-16) — MCP server for cogDepot, the anonymous broker where AI agents publish capabilities, negotiate, and form direct peer-to-peer deals. Keyless discovery, or the full trading loop with a key - post, browse, negotiate, seal, rate. Local via npx or the hosted remote server.
 - [browser-mcp](https://freemcp.space/featured/browser-mcp) — Drive your real, logged-in Chrome from any AI agent (Claude Code, Codex, Cursor, VS Code) — works where headless dies. Reads emailed login codes from your Gmail, 40 tools, up to 20 concurrent sessions. MIT, local-only.
 - [caldav-mcp](https://freemcp.space/featured/caldav-mcp-3) — MCP server for CalDAV calendars: events, tasks and journals over the open standard
 - [carddav-mcp](https://freemcp.space/featured/carddav-mcp) — Model Context Protocol (MCP) server for CardDAV address books: contacts, groups and photos
@@ -177,20 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [schemabrain](https://freemcp.space/featured/schemabrain) — The trust and intelligence layer between AI agents and your database. Read-only by architecture, semantic knowledge graph + audit log, MCP-native.
 - [local-ydb-toolkit](https://freemcp.space/featured/local-ydb-toolkit) — Codex skill and MCP server for operating Docker-based local YDB deployments, locally or over SSH.
 - [OpenDataMCP](https://freemcp.space/featured/opendatamcp) — Connect any Open Data to any LLM with Model Context Protocol.
-- [mcp-k8s](https://freemcp.space/featured/mcp-k8s) — A Kubernetes MCP (Model Control Protocol) server that enables interaction with Kubernetes clusters through MCP tools.
-- [mcp-cockroachdb](https://freemcp.space/featured/mcp-cockroachdb) — The CockroachDB MCP Server is a natural language interface designed for agentic applications to manage, monitor and query data in CockroachDB.
-- [sql-query-mcp](https://freemcp.space/featured/sql-query-mcp) — A general-purpose MCP server that lets AI work with multiple databases within clear boundaries.
-- [mcp-aiven](https://freemcp.space/featured/mcp-aiven) — Model Context Protocol server for Aiven
-- [inoyu-mcp-unomi-server](https://freemcp.space/featured/inoyu-mcp-unomi-serv) — An implementation of Anthropic's Model Context Protocol for the Apache Unomi CDP
-- [google-searchconsole-mcp](https://freemcp.space/featured/google-searchconsole) — MCP server for Google Search Console — query search analytics, inspect URLs, find keyword opportunities, track SEO performance. Works with Claude Desktop, Cursor, Windsurf.
-- [yanifend-mcp](https://freemcp.space/featured/yanifend-mcp) — YaniFend MCP server — manage your YaniFend feedback questionary (works on any website) and read answers from Claude
-- [kom](https://freemcp.space/featured/kom) — kom 是一个用于 Kubernetes 操作的工具，SDK级的kubectl、client-go的使用封装。并且支持作为管理k8s 的 MCP server。 它提供了一系列功能来管理 Kubernetes 资源，包括创建、更新、删除和获取资源，甚至使用SQL查询k8s资源。这个项目支持多种 Kubernetes 资源类型的操作，并能够处理自定义资源定义（CRD）。 通过使用 kom，你可以轻松地进行资源的增删改查和日志获取以及操作POD内文件等动作。
-- [mcp-server-iaptic](https://freemcp.space/featured/mcp-server-iaptic) —  Model Context Protocol server for interacting with iaptic
-- [mcp-analytics](https://freemcp.space/featured/mcp-analytics) — The statistical analyst in your AI chat — bring data and a question, own a citable, re-runnable analysis. Four depth tiers, from instant Snapshot to full Deck study. Works in Claude, Cursor, and any MCP client.
-- [mcp-icp-fit-scorer](https://freemcp.space/featured/mcp-icp-fit-scorer) — MCP server for ICP Fit Scorer. Scores a company against your ideal customer profile with weighted signals via Apify. Returns a 0 to 100 score, a tier, and a per-signal breakdown. Clay-ready output.
-- [excalidraw-architect-mcp](https://freemcp.space/featured/excalidraw-architect) — Turn your architecture into a living, queryable knowledge graph - and render it as beautiful auto-laid-out Excalidraw diagrams. An MCP server for Cursor, Claude Code & Windsurf. Offline, no API keys.
-- [WebReaper](https://freemcp.space/featured/webreaper) — AI-native web scraper. Single binary with a bundled Claude Code skill. MIT-licensed alternative to Firecrawl.
-- [pipedrive-mcp-server](https://freemcp.space/featured/pipedrive-mcp-server) — MCP server for Pipedrive CRM. 155 contract-tested tools, v2-first API, gated destructive ops. Works with Claude Desktop, Claude Code, and any MCP client.
 <!-- freemcp:end -->
 
 ---
