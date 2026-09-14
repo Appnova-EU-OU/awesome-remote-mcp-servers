@@ -1,0 +1,16 @@
+{
+  "name": "calibreweb-mcp",
+  "description": "MCP server for Calibre-Web — read-only library access via the OPDS feed",
+  "git_url": "https://github.com/ni-c/calibreweb-mcp",
+  "author_github": "ni-c",
+  "category": "developer-tools",
+  "tags": [
+    "calibre",
+    "calibreweb",
+    "ebooks",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
