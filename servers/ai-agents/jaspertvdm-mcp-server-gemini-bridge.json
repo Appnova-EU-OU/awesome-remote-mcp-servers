@@ -1,0 +1,16 @@
+{
+  "name": "jaspertvdm/mcp-server-gemini-bridge",
+  "description": "MCP Server - Bridge to Google Gemini API. Part of HumoticaOS/SymbAIon ecosystem.",
+  "git_url": "https://github.com/jaspertvdm/mcp-server-gemini-bridge",
+  "author_github": "jaspertvdm",
+  "category": "ai-agents",
+  "tags": [
+    "jaspertvdm",
+    "gemini",
+    "bridge",
+    "google",
+    "api"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
