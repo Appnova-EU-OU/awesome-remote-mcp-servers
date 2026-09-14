@@ -1,0 +1,17 @@
+{
+  "name": "ntfy-mcp",
+  "description": "MCP server for ntfy: publish notifications, read cached messages, manage users and topic access",
+  "git_url": "https://github.com/ni-c/ntfy-mcp",
+  "author_github": "ni-c",
+  "category": "developer-tools",
+  "tags": [
+    "alerting",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "notifications"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ntfy-mcp.ni-c.de"
+}
