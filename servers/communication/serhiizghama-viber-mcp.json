@@ -1,0 +1,17 @@
+{
+  "name": "viber-mcp",
+  "description": "MCP server for Viber messenger (Rakuten Viber Bot API) — TypeScript",
+  "git_url": "https://github.com/serhiizghama/viber-mcp",
+  "author_github": "serhiizghama",
+  "category": "communication",
+  "tags": [
+    "bot",
+    "chatbot",
+    "claude",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@serhii.zghama/viber-mcp"
+}
