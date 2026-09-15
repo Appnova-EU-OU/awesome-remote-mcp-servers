@@ -91,6 +91,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [ictpbx-mcp](https://freemcp.space/featured/ictpbx-mcp) — Read-only MCP server for ICTPBX — extensions, DIDs, SIP trunks, tenants and PBX statistics over ICTCore REST. By ICT Innovations.
+- [komnet](https://freemcp.space/featured/komnet) — Git-backed message bus for AI coding agents — Claude Code, Cursor and Codex coordinate asynchronously, with no server
+- [ntfy-mcp](https://freemcp.space/featured/ntfy-mcp-2) — MCP server for ntfy: publish notifications, read cached messages, manage users and topic access
+- [smtp-mcp](https://freemcp.space/featured/smtp-mcp) — MCP server that sends mail over SMTP, gated behind an allowlist and a human confirmation
 - [munim](https://freemcp.space/featured/munim) — A multi-account MCP server for people who look after other people's infrastructure. Built with the Strands Agents SDK.
 - [portkey-admin-mcp](https://freemcp.space/featured/portkey-admin-mcp-2) — Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance
 - [jgs-magic-sysmlv1-mcp](https://freemcp.space/featured/jgs-magic-sysmlv1-mc) — Bring Claude Code and any MCP agent to your live SysML v1 models in CATIA Magic: 130+ tools to query, audit, and edit the real model over a local, air-gapped connection. No cloud, no export. FREE / PRO / ENTERPRISE.
@@ -187,10 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [alibabacloud-tablestore-mcp-server](https://freemcp.space/featured/alibabacloud-tablest) — MCP service for Tablestore, features include adding documents, semantic search for documents based on vectors and scalars, RAG-friendly, and serverless.
 - [dicom-mcp](https://freemcp.space/featured/dicom-mcp) — Model Context Protocol (MCP) for interacting with dicom servers (PACS etc.)
 - [mcp-server-tidb](https://freemcp.space/featured/mcp-server-tidb) — mcp server for tidb
-- [node-code-sandbox-mcp](https://freemcp.space/featured/node-code-sandbox-mc) — A Node.js–based Model Context Protocol server that spins up disposable Docker containers to execute arbitrary JavaScript.
-- [schemabrain](https://freemcp.space/featured/schemabrain) — The trust and intelligence layer between AI agents and your database. Read-only by architecture, semantic knowledge graph + audit log, MCP-native.
-- [local-ydb-toolkit](https://freemcp.space/featured/local-ydb-toolkit) — Codex skill and MCP server for operating Docker-based local YDB deployments, locally or over SSH.
-- [OpenDataMCP](https://freemcp.space/featured/opendatamcp) — Connect any Open Data to any LLM with Model Context Protocol.
 <!-- freemcp:end -->
 
 ---
