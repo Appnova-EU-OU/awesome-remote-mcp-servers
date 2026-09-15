@@ -1,0 +1,17 @@
+{
+  "name": "SmartCLI",
+  "description": "Three Agent Skills over one pluggable PTY + pyte core: drive TUIs, design terminal effects, and render cell-accurate UIs. pip install smartcli-toolkit",
+  "git_url": "https://github.com/dwgx/SmartCLI",
+  "author_github": "dwgx",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "agenttools",
+    "aiagents",
+    "ansi",
+    "asciiart"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dwgx.github.io/SmartCLI/"
+}
