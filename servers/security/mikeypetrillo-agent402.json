@@ -1,0 +1,17 @@
+{
+  "name": "Agent402",
+  "description": "agent402.tools: 500+ pay-per-call tools, metered models and finished reports for AI agents, paid per call in USDC over x402 and MPP or by card. Open source, self-hostable, MCP-native. The applied layer of agentic finance.",
+  "git_url": "https://github.com/MikeyPetrillo/Agent402",
+  "author_github": "MikeyPetrillo",
+  "category": "security",
+  "tags": [
+    "agentpayments",
+    "agenticfinance",
+    "agenticpayments",
+    "aiagents",
+    "aifi"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://agent402.tools"
+}
