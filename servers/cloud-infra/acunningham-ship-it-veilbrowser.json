@@ -1,0 +1,16 @@
+{
+  "name": "veilbrowser",
+  "description": "Stealth browser for AI agents — real Chrome over raw CDP, no Playwright/Puppeteer. TypeScript + MCP-native. Passes sannysoft 57/57, bypasses Cloudflare.",
+  "git_url": "https://github.com/acunningham-ship-it/veilbrowser",
+  "author_github": "acunningham-ship-it",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "antidetection",
+    "automation",
+    "browserautomation",
+    "cdp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
