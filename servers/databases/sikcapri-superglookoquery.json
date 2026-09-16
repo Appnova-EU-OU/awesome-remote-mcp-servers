@@ -1,0 +1,16 @@
+{
+  "name": "superglookoquery",
+  "description": "MCP server exposing Glooko diabetes device data (any pump/CGM combination) for clinical audit, with device-agnostic capability discovery. Forked from podquery-mcp.",
+  "git_url": "https://github.com/sikcapri/superglookoquery",
+  "author_github": "sikcapri",
+  "category": "databases",
+  "tags": [
+    "cgm",
+    "claude",
+    "claudedesktop",
+    "diabetes",
+    "glooko"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
