@@ -1,0 +1,17 @@
+{
+  "name": "mcp-oci",
+  "description": "MCP server for Oracle Cloud (OCI) — live resource discovery, dependency mapping, and Terraform generation, with security modes and access-control flags.",
+  "git_url": "https://github.com/dockndevai/mcp-oci",
+  "author_github": "dockndevai",
+  "category": "cloud-infra",
+  "tags": [
+    "iac",
+    "llm",
+    "mcp",
+    "modelcontextprotocol",
+    "oci"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dockndevai.github.io/"
+}
