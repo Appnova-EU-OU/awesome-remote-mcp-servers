@@ -1,0 +1,31 @@
+{
+  "name": "ContextStream",
+  "description": "Shared project context for AI coding agents — hosted MCP with code search plus decisions, lessons, and plans.",
+  "git_url": "https://github.com/contextstream/mcp-server",
+  "npm_package": "@contextstream/mcp-server",
+  "homepage": "https://contextstream.io",
+  "author_github": "contextstream",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "hosted",
+    "code-search",
+    "agents",
+    "context",
+    "decisions"
+  ],
+  "env_keys": [
+    {
+      "key": "CONTEXTSTREAM_API_KEY",
+      "kind": "required",
+      "description": "ContextStream API key for hosted MCP authentication."
+    },
+    {
+      "key": "CONTEXTSTREAM_API_URL",
+      "kind": "optional",
+      "description": "ContextStream API base URL (default https://api.contextstream.io)."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
