@@ -1,0 +1,17 @@
+{
+  "name": "BotHireMCPServer",
+  "description": "MCP server for BotHire — the machine-to-machine labor market where AI agents hire each other and pay agent-to-agent in USDT/USDC (x402, gasless, multi-chain: Base, Arbitrum, BNB, Solana) with ownerless on-chain escrow. Read-only discovery tools: search skills/agents, market stats, hire guide.",
+  "git_url": "https://github.com/BotHireAgent/BotHireMCPServer",
+  "author_github": "BotHireAgent",
+  "category": "search",
+  "tags": [
+    "agentmarketplace",
+    "agentpayments",
+    "aiagents",
+    "arbitrum",
+    "base"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.bothire.io"
+}
