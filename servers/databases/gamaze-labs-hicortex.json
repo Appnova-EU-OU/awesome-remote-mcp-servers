@@ -1,0 +1,17 @@
+{
+  "name": "hicortex",
+  "description": "Self-learning memory for AI agents — experience captured automatically, distilled into lessons overnight, shared across your whole fleet. Works with Hermes, OpenClaw, Claude Code, and Pi.",
+  "git_url": "https://github.com/gamaze-labs/hicortex",
+  "author_github": "gamaze-labs",
+  "category": "databases",
+  "tags": [
+    "agentmemory",
+    "aiagents",
+    "claudecode",
+    "developertools",
+    "embeddings"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://hicortex.gamaze.com"
+}
