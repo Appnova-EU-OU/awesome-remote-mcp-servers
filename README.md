@@ -91,6 +91,23 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-oci](https://freemcp.space/featured/mcp-oci) — MCP server for Oracle Cloud (OCI) — live resource discovery, dependency mapping, and Terraform generation, with security modes and access-control flags.
+- [cute-web-scraper](https://freemcp.space/featured/cute-web-scraper) — A free, local MCP server that gives Claude web scraping powers. 24 tools, four escalating fetch tiers, no API key.
+- [evipedia-mcp](https://freemcp.space/featured/evipedia-mcp) — MCP Server for evipedia.ai
+- [mcp-server](https://freemcp.space/featured/mcp-server-17) — MCP server for Tribeunal — 39 tools and 8 Agent Skills that put humans and AI agents on the same jury
+- [plopino-mcp](https://freemcp.space/featured/plopino-mcp) — MCP server for Plopino — lets an AI agent publish a page, a file, or a folder and hand back a public link.
+- [shiped-mcp](https://freemcp.space/featured/shiped-mcp) — Deploy AI-generated HTML/CSS/JS to an instant public HTTPS URL from any MCP agent (Claude Code, Codex, Cursor, Kiro, Copilot). Remote HTTP MCP endpoint with OAuth 2.1 device-flow login — no API key to mint or store.
+- [superglookoquery](https://freemcp.space/featured/superglookoquery) — MCP server exposing Glooko diabetes device data (any pump/CGM combination) for clinical audit, with device-agnostic capability discovery. Forked from podquery-mcp.
+- [architecture_viewer](https://freemcp.space/featured/architecture-viewer) — AI coding session architecture gate — local MCP (av_guard) + CLI diffs vs git HEAD for cross-layer deps. Apache-2.0.
+- [scenef-mcp](https://freemcp.space/featured/scenef-mcp) — SceneF MCP server — verified California and Hawaii movie showtimes, every operating cinema in the covered states, checked twice daily. Remote, no key: https://scenef.com/mcp
+- [opticquiz-mcp](https://freemcp.space/featured/opticquiz-mcp) — Two MCP servers for color-vision accessibility: check whether a palette or image is colorblind-safe, and see it recolored as protan/deutan/tritan. Machado 2009 + CIEDE2000, published method. Local stdio.
+- [ergonia](https://freemcp.space/featured/ergonia) — Ergonia Works: verifiable work for AI agents. Work isn't done because an agent says so, it's done when anyone can verify it. Every task carries an acceptance condition a stranger can execute.
+- [macaroonnetwork-mcp](https://freemcp.space/featured/macaroonnetwork-mcp) — MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agents pay per query via Bitcoin Lightning (L402) or Base/USDC (x402).
+- [neon-mcp-gateway](https://freemcp.space/featured/neon-mcp-gateway) — Enterprise Zero-Trust security gateway, token rate-limiter, and secure SSE proxy for Model Context Protocol (MCP) servers.
+- [BotHireMCPServer](https://freemcp.space/featured/bothiremcpserver) — MCP server for BotHire — the machine-to-machine labor market where AI agents hire each other and pay agent-to-agent in USDT/USDC (x402, gasless, multi-chain: Base, Arbitrum, BNB, Solana) with ownerless on-chain escrow. Read-only discovery tools: search skills/agents, market stats, hire guide.
+- [moltline-mcp](https://freemcp.space/featured/moltline-mcp) — Zero-dependency stdio bridge for the Moltline Studio MCP fleet - 19 hosted streamable-HTTP servers, 132 tools, 92 of them free with no signup.
+- [veilbrowser](https://freemcp.space/featured/veilbrowser) — Stealth browser for AI agents — real Chrome over raw CDP, no Playwright/Puppeteer. TypeScript + MCP-native. Passes sannysoft 57/57, bypasses Cloudflare.
+- [viber-mcp](https://freemcp.space/featured/viber-mcp) — MCP server for Viber messenger (Rakuten Viber Bot API) — TypeScript
 - [ictpbx-mcp](https://freemcp.space/featured/ictpbx-mcp) — Read-only MCP server for ICTPBX — extensions, DIDs, SIP trunks, tenants and PBX statistics over ICTCore REST. By ICT Innovations.
 - [komnet](https://freemcp.space/featured/komnet) — Git-backed message bus for AI coding agents — Claude Code, Cursor and Codex coordinate asynchronously, with no server
 - [ntfy-mcp](https://freemcp.space/featured/ntfy-mcp-2) — MCP server for ntfy: publish notifications, read cached messages, manage users and topic access
@@ -107,7 +124,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [svipall](https://freemcp.space/featured/svipall) — Local-first MCP server and CLI in Rust: any page as LLM-ready Markdown, whole-site crawls, keyless search, and local captcha solving. No cloud, no API keys.
 - [x402-scraper-engine](https://freemcp.space/featured/x402-scraper-engine) — HTTP 402 pay-per-call web scraper & Llama-3 digest engine for autonomous AI agents on Base L2. No API keys, no subscriptions.
 - [vitamind-mcp](https://freemcp.space/featured/vitamind-mcp) — MCP server for solar vitamin D — when the sun where you are can actually make vitamin D, for your skin type. Bridges any stdio MCP client to the hosted Vitamin D Explorer server.
-- [nightmarquee-mcp](https://freemcp.space/featured/nightmarquee-mcp) — Cinematic website prompts with live previews, inside your editor. MCP server for Claude Code, Claude Desktop and Cursor.
+- [nightmarquee-mcp](https://freemcp.space/antdevlab/nightmarquee-mcp) — Cinematic website prompts with live previews, inside your editor. MCP server for Claude Code, Claude Desktop and Cursor.
 - [mcp-server](https://freemcp.space/featured/mcp-server-16) — MCP server for cogDepot, the anonymous broker where AI agents publish capabilities, negotiate, and form direct peer-to-peer deals. Keyless discovery, or the full trading loop with a key - post, browse, negotiate, seal, rate. Local via npx or the hosted remote server.
 - [browser-mcp](https://freemcp.space/featured/browser-mcp) — Drive your real, logged-in Chrome from any AI agent (Claude Code, Codex, Cursor, VS Code) — works where headless dies. Reads emailed login codes from your Gmail, 40 tools, up to 20 concurrent sessions. MIT, local-only.
 - [caldav-mcp](https://freemcp.space/featured/caldav-mcp-3) — MCP server for CalDAV calendars: events, tasks and journals over the open standard
@@ -174,23 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [tarot-mcp-server](https://freemcp.space/featured/tarot-mcp-server) — MCP server exposing 78-card tarot deck meanings and spreads to Claude, Cursor, Windsurf. Powered by deckaura.com
 - [openhire](https://freemcp.space/featured/openhire) — Agent-native job protocol over public ATS APIs — remote AI/Infra jobs for your MCP client. Your résumé never transits the server.
 - [claimidx](https://freemcp.space/featured/claimidx) — Prior art for AI agents. Public signed claim index of failures other agents have already paid to solve.
-- [flowproof-mcp](https://freemcp.space/featured/flowproof-mcp) — Run reproducible bioinformatics pipelines from an AI assistant over MCP, with verifiable provenance
-- [mirastack-redfish-mcp](https://freemcp.space/featured/mirastack-redfish-mc) — Governed MCP server for DMTF Redfish-compliant BMCs. Read-only by default; power, firmware and account operations require explicit opt-in
-- [snapsurf](https://freemcp.space/featured/snapsurf) — Web navigation and verification for AI agents: a compact semantic page digest, a typed diff after each action, and assertions over that diff. MCP server and CLI on Playwright and SnapDOM.
-- [nutrients-mcp](https://freemcp.space/featured/nutrients-mcp) — MCP server giving AI assistants food image & text nutrition analysis — calories, macros, vitamins, minerals, allergens. Powered by TastyAPI.
-- [den_archi_mcp](https://freemcp.space/featured/den-archi-mcp) — AI Agent 를 위한 한국 AEC 전문 지식 큐레이션 MCP — 기준·법령과 실무, 그 사이의 이유까지. 답에는 근거가 붙고, 근거가 없으면 답하지 않습니다. Curated Korean AEC expertise for AI agents.
-- [mcp-bideetmusique](https://freemcp.space/featured/mcp-bideetmusique) — MCP server for Bide & Musique: search the hand-built catalogue of forgotten French songs by performer, title, writer or lyrics. No API key.
-- [image-mcp](https://freemcp.space/featured/image-mcp) — 本地 Pillow 图片处理 MCP：12 工具（信息/缩放/裁剪/转换/压缩/旋转/翻转/缩略图/水印/特效/占位/叠加），离线零成本，经 dsh-mcp-client 接入 DSH。Local Pillow image MCP with 12 tools for DeepSeek Harness, offline & free. | Platforms: macOS/Windows/Linux (Python+Pillow)
-- [shakespeare-monologues-mcp](https://freemcp.space/featured/shakespeare-monologu) — Read-only MCP server for shakespeare-monologues.org - search and fetch Shakespeare monologue metadata over the Model Context Protocol
-- [vineverse-mcp](https://freemcp.space/featured/vineverse-mcp) — stdio bridge to the hosted VineVerse MCP server - the Bible as a knowledge graph
-- [infyicon-mcp](https://freemcp.space/featured/infyicon-mcp) — MCP server for Infyicon — search 161,000+ free hand-drawn icons and fetch ready-to-embed SVG/PNG from Claude, ChatGPT, Cursor, VS Code and any MCP client. Hosted endpoint: https://infyicon.com/mcp (no auth)
-- [sansfiction-mcp](https://freemcp.space/featured/sansfiction-mcp) — Search a books catalog (titles, authors, series, ISBNs, collections) and manage a personal reading library — status, reading progress, ratings, reviews, collections, stats. Public catalog needs no auth; personal library uses a bearer token. Hosted MCP: https://sansfiction.com/api/mcp
-- [microtap-mcp](https://freemcp.space/featured/microtap-mcp) — Repo for the microtap-mcp 
-- [utility-grid-mcp](https://freemcp.space/featured/utility-grid-mcp) — MCP server for discovering and calling 400+ practical APIs through six compact tools, with free catalog search and pay-per-call x402 execution on Base.
-- [findagent-mcp](https://freemcp.space/featured/findagent-mcp) — The MCP server for FindAgent — the vetted, cross-LLM marketplace of doer agents. Hosted remote endpoint: mcp.findagent.cloud/mcp
-- [alibabacloud-tablestore-mcp-server](https://freemcp.space/featured/alibabacloud-tablest) — MCP service for Tablestore, features include adding documents, semantic search for documents based on vectors and scalars, RAG-friendly, and serverless.
-- [dicom-mcp](https://freemcp.space/featured/dicom-mcp) — Model Context Protocol (MCP) for interacting with dicom servers (PACS etc.)
-- [mcp-server-tidb](https://freemcp.space/featured/mcp-server-tidb) — mcp server for tidb
 <!-- freemcp:end -->
 
 ---
