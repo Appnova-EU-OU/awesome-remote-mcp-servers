@@ -1,0 +1,16 @@
+{
+  "name": "colab-mcp",
+  "description": "Fixed & enhanced fork of Google's Colab MCP — tools visible at startup, GPU control, Windows support, no more 'Disconnected'",
+  "git_url": "https://github.com/SebastianGilPinzon/colab-mcp",
+  "author_github": "SebastianGilPinzon",
+  "category": "ai-agents",
+  "tags": [
+    "claudecode",
+    "cursor",
+    "googlecolab",
+    "gpu",
+    "llmtools"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
