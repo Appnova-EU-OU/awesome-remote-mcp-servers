@@ -1,0 +1,17 @@
+{
+  "name": "chrome-bridge",
+  "description": "Your real, logged-in Chrome as an MCP server for Claude Code: 59 token-efficient web-dev tools, a skill with recipes, a zero-token CLI. ChromeOS included.",
+  "git_url": "https://github.com/frsorrentino/chrome-bridge",
+  "author_github": "frsorrentino",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "browserautomation",
+    "chromeextension",
+    "chromeos"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://frsorrentino.github.io/chrome-bridge/"
+}
