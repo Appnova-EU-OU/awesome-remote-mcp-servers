@@ -1,0 +1,16 @@
+{
+  "name": "hermes-action-bridge",
+  "description": "Configurable bridge for external agents to delegate actions to Hermes Agent via CLI or MCP.",
+  "git_url": "https://github.com/TheBlueHouse75/hermes-action-bridge",
+  "author_github": "TheBlueHouse75",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "automation",
+    "claudecode",
+    "cli",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
