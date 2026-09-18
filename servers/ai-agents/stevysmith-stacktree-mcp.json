@@ -1,0 +1,17 @@
+{
+  "name": "stacktree-mcp",
+  "description": "MCP server for stacktr.ee — publish HTML privately from any AI agent (Claude Code, Codex, Cursor, Claude.ai). Seven tool calls for unguessable, replace-in-place URLs.",
+  "git_url": "https://github.com/stevysmith/stacktree-mcp",
+  "author_github": "stevysmith",
+  "category": "ai-agents",
+  "tags": [
+    "stacktree",
+    "stacktr",
+    "publish",
+    "html",
+    "privately"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://stacktr.ee"
+}
