@@ -91,6 +91,15 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [reaper-daemon](https://freemcp.space/featured/reaper-daemon) — Free, open source REAPER MCP server that lets an AI agent (Claude or any MCP client) drive REAPER: read every plugin and parameter, set FX values, write automation, and measure a mix move before and after. MIT. macOS, Windows, Linux.
+- [vibatchium](https://freemcp.space/featured/vibatchium) — Stealth browser automation for AI agents — unattended, headless, N parallel persistent logged-in Chromes. One MCP server + CLI, credential vault with TOTP/IMAP 2FA, vision clicking, prompt-injection scanning. Self-hosted, real Chrome. 1,250 tests.
+- [hermes-action-bridge](https://freemcp.space/featured/hermes-action-bridge) — Configurable bridge for external agents to delegate actions to Hermes Agent via CLI or MCP.
+- [Contradiction-MCP](https://freemcp.space/featured/contradiction-mcp) — Autonomous Model Context Protocol (MCP) engine for factual consistency, version reconciliation, and conflict resolution across engineering knowledge bases.
+- [chrome-bridge](https://freemcp.space/featured/chrome-bridge) — Your real, logged-in Chrome as an MCP server for Claude Code: 59 token-efficient web-dev tools, a skill with recipes, a zero-token CLI. ChromeOS included.
+- [revit-model-mcp](https://freemcp.space/featured/revit-model-mcp) — MCP server for live Autodesk Revit models: query, aggregate and inspect by default, act only behind opt-in gates
+- [mcp-hub](https://freemcp.space/featured/mcp-hub) — Serve multiple stdio MCP servers from one container: path routing, hub meta-tools, OAuth 2.1 + API tokens for ChatGPT, Claude, Cursor and other MCP clients
+- [hicortex](https://freemcp.space/featured/hicortex) — Self-learning memory for AI agents — experience captured automatically, distilled into lessons overnight, shared across your whole fleet. Works with Hermes, OpenClaw, Claude Code, and Pi.
+- [sandbox-as-a-service-mcp](https://freemcp.space/featured/sandbox-as-a-service) — MCP server for Sandbox as a Service: give an agent a real Linux VM — run commands, move files, expose a preview URL, destroy it.
 - [mcp-oci](https://freemcp.space/featured/mcp-oci) — MCP server for Oracle Cloud (OCI) — live resource discovery, dependency mapping, and Terraform generation, with security modes and access-control flags.
 - [cute-web-scraper](https://freemcp.space/featured/cute-web-scraper) — A free, local MCP server that gives Claude web scraping powers. 24 tools, four escalating fetch tiers, no API key.
 - [evipedia-mcp](https://freemcp.space/featured/evipedia-mcp) — MCP Server for evipedia.ai
@@ -182,15 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-imslp](https://freemcp.space/featured/mcp-imslp) — MCP server for IMSLP, the Petrucci Music Library. Read works, scores and recordings. No API key required.
 - [mcp-lrclib](https://freemcp.space/featured/mcp-lrclib) — MCP server for LRCLIB: search tracks and fetch plain or time-synced (LRC) lyrics. No API key.
 - [runcomfy-mcp](https://freemcp.space/featured/runcomfy-mcp) — Remote MCP for RunComfy: ComfyUI deployments, hosted models, LoRA training. 31 tools.
-- [fatenava-mcp](https://freemcp.space/featured/fatenava-mcp) — FateNava MCP — BaZi, Zi Wei Dou Shu & Western Astrology chart casting for AI agents
-- [glyphdna-mcp](https://freemcp.space/featured/glyphdna-mcp) — GlyphDNA MCP adapter: machine-native identity, verifiable meeting rooms, script provenance. Join with one MCP call.
-- [frantic-mcp](https://freemcp.space/featured/frantic-mcp) — A public bounty board where AI agents do paid work. Claim funded bounties, get paid in USDC on Base on accepted delivery.
-- [taghvim](https://freemcp.space/qazvinyjavad/taghvim) — Deterministic temporal reasoning engine for AI agents. 12 tools for date/time arithmetic, timezone conversion with DST, business days across 100+ countries, public holidays, RFC 5545 recurrence, Gregorian/Persian calendar conversion, and temporal claim verification. `npx taghvim-mcp`
-- [codecalc](https://freemcp.space/featured/codecalc) — Universal code & logic calculator for AI models: 52 MCP tools across 31 languages. Rust-sandboxed execution with verdicts, sessions, artifacts, exact arithmetic, and verified translation/optimization. No LLM, no gateway, no telemetry: the caller is the model. Apache-2.0.
-- [lizard-mcp](https://freemcp.space/featured/lizard-mcp) — MCP server for deploying and managing apps on Lizard — connect ChatGPT, Claude or any MCP client to ship services, read logs, set secrets, scale and attach domains. 33 tools, OAuth 2.1, destructive actions require explicit confirmation.
-- [tarot-mcp-server](https://freemcp.space/featured/tarot-mcp-server) — MCP server exposing 78-card tarot deck meanings and spreads to Claude, Cursor, Windsurf. Powered by deckaura.com
-- [openhire](https://freemcp.space/featured/openhire) — Agent-native job protocol over public ATS APIs — remote AI/Infra jobs for your MCP client. Your résumé never transits the server.
-- [claimidx](https://freemcp.space/featured/claimidx) — Prior art for AI agents. Public signed claim index of failures other agents have already paid to solve.
 <!-- freemcp:end -->
 
 ---
