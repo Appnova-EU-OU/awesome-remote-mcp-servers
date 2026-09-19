@@ -1,0 +1,16 @@
+{
+  "name": "rupinder2/mcp-orchestrator",
+  "description": " MCP Orchestration Gateway – aggregates tools from multiple MCP servers with BM25 search and deferred loading for Claude Desktop",
+  "git_url": "https://github.com/rupinder2/mcp-orchestrator",
+  "author_github": "rupinder2",
+  "category": "search",
+  "tags": [
+    "claude",
+    "claudedesktop",
+    "fastmcp",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
