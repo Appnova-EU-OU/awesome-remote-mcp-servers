@@ -195,6 +195,13 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 
 ---
 
+## Other remote MCP servers
+
+Remote MCP endpoints not hosted on freemcp.space.
+
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. Endpoint: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet` · https://statsnet.co
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR.
