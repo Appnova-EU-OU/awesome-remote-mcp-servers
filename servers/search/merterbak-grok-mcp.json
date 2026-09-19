@@ -1,0 +1,15 @@
+{
+  "name": "Grok-MCP",
+  "description": "    MCP server for xAI’s Grok API with Web/X search, vision, image/video generation and file support",
+  "git_url": "https://github.com/merterbak/Grok-MCP",
+  "author_github": "merterbak",
+  "category": "search",
+  "tags": [
+    "grok",
+    "mcp",
+    "mcpserver",
+    "xai"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
