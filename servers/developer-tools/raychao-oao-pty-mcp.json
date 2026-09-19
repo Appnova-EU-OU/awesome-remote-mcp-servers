@@ -1,0 +1,16 @@
+{
+  "name": "pty-mcp",
+  "description": "MCP server for interactive terminal sessions — local shells, SSH, serial ports, and   persistent remote sessions",
+  "git_url": "https://github.com/raychao-oao/pty-mcp",
+  "author_github": "raychao-oao",
+  "category": "developer-tools",
+  "tags": [
+    "pty",
+    "interactive",
+    "terminal",
+    "sessions",
+    "local"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
