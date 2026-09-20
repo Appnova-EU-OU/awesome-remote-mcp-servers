@@ -1,0 +1,17 @@
+{
+  "name": "mcp-clickhouse",
+  "description": "MCP server for ClickHouse — explore, query, and manage with SQL-classification-based security modes and access-control flags.",
+  "git_url": "https://github.com/dockndevai/mcp-clickhouse",
+  "author_github": "dockndevai",
+  "category": "databases",
+  "tags": [
+    "clickhouse",
+    "llm",
+    "mcp",
+    "modelcontextprotocol",
+    "olap"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dockndevai.github.io/"
+}
