@@ -1,0 +1,17 @@
+{
+  "name": "tailtest-cline",
+  "description": "tailtest for Cline: MCP server + .clinerules pack + Memory Bank integration. Reaches 8+ editors via Cline. Adversarial test mode shipped from day one.",
+  "git_url": "https://github.com/avansaber/tailtest-cline",
+  "author_github": "avansaber",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aicoding",
+    "automatedtesting",
+    "cline",
+    "codequality"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tailtest.com"
+}
