@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-sqlite",
+  "description": "MCP server for SQLite — query databases, inspect schemas, explain queries",
+  "git_url": "https://github.com/ofershap/mcp-server-sqlite",
+  "author_github": "ofershap",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "claude",
+    "cursor",
+    "database",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
