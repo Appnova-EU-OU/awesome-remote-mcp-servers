@@ -1,0 +1,17 @@
+{
+  "name": "nlqueries",
+  "description": "Open source natural language to SQL (NL2SQL) engine with schema validation and an MCP server for Claude and Cursor",
+  "git_url": "https://github.com/nlqueries/nlqueries",
+  "author_github": "nlqueries",
+  "category": "databases",
+  "tags": [
+    "cli",
+    "database",
+    "llm",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://nlqueries.com"
+}
