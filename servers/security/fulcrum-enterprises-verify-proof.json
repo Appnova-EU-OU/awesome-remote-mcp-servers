@@ -1,0 +1,17 @@
+{
+  "name": "verify-proof",
+  "description": "Verify blockchain-anchored timestamp proofs offline. Python CLI + MCP server for SHA-256 and Merkle-path verification of ProofLedger and OpenTimestamps proofs.",
+  "git_url": "https://github.com/Fulcrum-Enterprises/verify-proof",
+  "author_github": "Fulcrum-Enterprises",
+  "category": "security",
+  "tags": [
+    "bitcoin",
+    "blockchain",
+    "chainofcustody",
+    "claude",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://proofledger.io"
+}
