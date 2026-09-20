@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server-questdb",
+  "description": "QuestDB MCP server connects coding agents to a running QuestDB Web Console. The agent gets tools to create notebook cells, run queries, and build charts.",
+  "git_url": "https://github.com/questdb/mcp-server-questdb",
+  "author_github": "questdb",
+  "category": "databases",
+  "tags": [
+    "claudecode",
+    "codex",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://questdb.com/docs/getting-started/web-console/mcp-server/"
+}
