@@ -1,0 +1,17 @@
+{
+  "name": "sqemo-mcp",
+  "description": "MCP server for Sqemo. AI agents query and edit ERDs, generate physical names from your team's shared glossary, import/export SQL (7 dialects) and DBML, and diff the model against a live database.",
+  "git_url": "https://github.com/sqemo/sqemo-mcp",
+  "author_github": "sqemo",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "datamodeling",
+    "database",
+    "databasedesign",
+    "dbml"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sqemo.com"
+}
