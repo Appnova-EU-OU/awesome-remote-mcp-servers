@@ -1,0 +1,17 @@
+{
+  "name": "sms-florin-mcp",
+  "description": "MCP server for sms-florin — rent a real UK phone number and receive SMS/OTP codes from AI coding agents (Claude, Cursor, Codex...)",
+  "git_url": "https://github.com/flovoice53-tech/sms-florin-mcp",
+  "author_github": "flovoice53-tech",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "otp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://flo-voice1.com"
+}
