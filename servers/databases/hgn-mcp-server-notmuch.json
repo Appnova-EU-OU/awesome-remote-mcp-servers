@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-notmuch",
+  "description": "Read-first MCP server for a local notmuch mail database: search, threads, attachments, drafts. Sending email via Drafts/ ",
+  "git_url": "https://github.com/hgn/mcp-server-notmuch",
+  "author_github": "hgn",
+  "category": "databases",
+  "tags": [
+    "notmuch",
+    "read",
+    "first",
+    "local",
+    "mail"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
