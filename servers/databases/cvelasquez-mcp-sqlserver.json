@@ -1,0 +1,17 @@
+{
+  "name": "mcp-sqlserver",
+  "description": "One MCP server for every SQL Server you administer — grouped connections, execution plans, index audits, stored-procedure analysis",
+  "git_url": "https://github.com/cvelasquez/mcp-sqlserver",
+  "author_github": "cvelasquez",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claude",
+    "database",
+    "dba",
+    "executionplan"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@cevelas/mcp-sqlserver"
+}
