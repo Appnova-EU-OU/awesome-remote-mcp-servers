@@ -1,0 +1,16 @@
+{
+  "name": "flamerobin-mcp-server",
+  "description": "Firebird database MCP server that reads connection details from [FlameRobin's](http://www.flamerobin.org/) config — no credential setup required. Access all locally registered databases in one session with full schema introspection, DDL/DML execution, execution plans, and missing index analysis.",
+  "git_url": "https://github.com/Michael2150/flamerobin-mcp-server",
+  "author_github": "Michael2150",
+  "category": "databases",
+  "tags": [
+    "flamerobin",
+    "firebird",
+    "database",
+    "reads",
+    "connection"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
