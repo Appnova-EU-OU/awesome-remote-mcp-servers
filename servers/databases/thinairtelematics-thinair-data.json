@@ -1,0 +1,16 @@
+{
+  "name": "thinair-data",
+  "description": "Secure read-only MCP server for PostgreSQL, MySQL, and SQL Server — built for ThinAir Data, operational analytics, reporting, and AI-assisted database workflows.",
+  "git_url": "https://github.com/ThinAirTelematics/thinair-data",
+  "author_github": "ThinAirTelematics",
+  "category": "databases",
+  "tags": [
+    "thinair",
+    "data",
+    "secure",
+    "read",
+    "only"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
