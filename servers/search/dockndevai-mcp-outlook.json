@@ -1,0 +1,16 @@
+{
+  "name": "mcp-outlook",
+  "description": "Safe-by-default MCP server for Microsoft Outlook mail (Microsoft Graph) — read, search, draft, send, reply, forward and organize email, with browser sign-in.",
+  "git_url": "https://github.com/dockndevai/mcp-outlook",
+  "author_github": "dockndevai",
+  "category": "search",
+  "tags": [
+    "ai",
+    "email",
+    "llm",
+    "mcp",
+    "microsoft365"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
