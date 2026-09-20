@@ -1,0 +1,17 @@
+{
+  "name": "jdbc-mcp-server",
+  "description": "Read-only JDBC MCP server for PostgreSQL, Oracle, and SQL Server: safe SQL access for AI agents (Claude Code, Cursor, Copilot) with schema discovery, query validation, execution plans, benchmarking, and index/statistics tools",
+  "git_url": "https://github.com/igorolv/jdbc-mcp-server",
+  "author_github": "igorolv",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "database",
+    "executionplan",
+    "java"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/igorolv/jdbc-mcp-server#quickstart"
+}
