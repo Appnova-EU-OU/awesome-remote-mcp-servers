@@ -1,0 +1,17 @@
+{
+  "name": "echoloc-mcp",
+  "description": "Remote MCP server for echoloc company technographics — search 760K+ companies by tech stack with direction of change (adopting/replacing/evaluating)",
+  "git_url": "https://github.com/echoloc-ai/echoloc-mcp",
+  "author_github": "echoloc-ai",
+  "category": "search",
+  "tags": [
+    "b2b",
+    "companydata",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://echoloc.ai/for-agents/"
+}
