@@ -1,0 +1,17 @@
+{
+  "name": "mcp-kubernetes",
+  "description": "MCP server for Kubernetes — multi-cluster ops with security modes (read-only/read-write/admin) and access-control flags.",
+  "git_url": "https://github.com/dockndevai/mcp-kubernetes",
+  "author_github": "dockndevai",
+  "category": "cloud-infra",
+  "tags": [
+    "devops",
+    "k8s",
+    "kubernetes",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dockndevai.github.io/"
+}
