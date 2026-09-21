@@ -1,0 +1,17 @@
+{
+  "name": "dbridge-mcp",
+  "description": "MCP server that lets AI agents query SQL databases in natural language - read-only, with column masking, row caps, and query limits. SQLite / PostgreSQL / MySQL.",
+  "git_url": "https://github.com/ugurcl/dbridge-mcp",
+  "author_github": "ugurcl",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claude",
+    "database",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/dbridge-mcp"
+}
