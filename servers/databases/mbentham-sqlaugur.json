@@ -1,0 +1,16 @@
+{
+  "name": "SqlAugur",
+  "description": "MCP server providing AI assistants with safe, read-only access to SQL Server databases. AST-based query validation, rate limiting, and DBA      diagnostic tooling.",
+  "git_url": "https://github.com/mbentham/SqlAugur",
+  "author_github": "mbentham",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "csharp",
+    "dba",
+    "dotnet",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
