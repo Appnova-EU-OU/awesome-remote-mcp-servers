@@ -1,0 +1,17 @@
+{
+  "name": "mcp-datalink",
+  "description": "MCP server for secure database access (PostgreSQL, MySQL, SQLite)",
+  "git_url": "https://github.com/pilat/mcp-datalink",
+  "author_github": "pilat",
+  "category": "databases",
+  "tags": [
+    "database",
+    "mcp",
+    "modelcontextprotocol",
+    "mysql",
+    "postgresql"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@pilat/mcp-datalink"
+}
