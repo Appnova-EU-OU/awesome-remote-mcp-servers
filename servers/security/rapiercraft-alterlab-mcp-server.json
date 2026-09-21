@@ -1,0 +1,16 @@
+{
+  "name": "alterlab-mcp-server",
+  "description": "Web scraping MCP server for Claude, Cursor, Windsurf & AI agents — scrape any site, extract structured data, take screenshots. Anti-bot bypass, proxy rotation, authenticated scraping.",
+  "git_url": "https://github.com/RapierCraft/alterlab-mcp-server",
+  "author_github": "RapierCraft",
+  "category": "security",
+  "tags": [
+    "agentic",
+    "aiagent",
+    "antibotbypass",
+    "claude",
+    "cline"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
