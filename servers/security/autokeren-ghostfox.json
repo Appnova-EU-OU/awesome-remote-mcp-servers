@@ -1,0 +1,17 @@
+{
+  "name": "ghostfox",
+  "description": "The agent-native stealth browser you can own — fingerprint-coherent Firefox engine + Rust MCP runtime. Self-hosted, open source, engine-level anti-detect.",
+  "git_url": "https://github.com/autokeren/ghostfox",
+  "author_github": "autokeren",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "antibot",
+    "antidetect",
+    "browserautomation",
+    "browseruse"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://autokeren.github.io/ghostfox/"
+}
