@@ -1,0 +1,16 @@
+{
+  "name": "infino-mcp",
+  "description": "MCP Server for Infino",
+  "git_url": "https://github.com/infino-ai/infino-mcp",
+  "author_github": "infino-ai",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "bm25",
+    "hybridsearch",
+    "infino",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
