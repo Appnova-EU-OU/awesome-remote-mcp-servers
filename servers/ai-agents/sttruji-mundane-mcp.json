@@ -1,0 +1,17 @@
+{
+  "name": "mundane-mcp",
+  "description": "MCP server for Mundane: let your AI agent hire verified humans for real-world tasks — errands, photos, queues, in-person bookings. 22 tools, connect to the hosted endpoint over Streamable HTTP or self-run over stdio. Escrow-backed, ID-verified, policy-screened.",
+  "git_url": "https://github.com/sttruji/mundane-mcp",
+  "author_github": "sttruji",
+  "category": "ai-agents",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "anthropic",
+    "claude",
+    "escrow"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://mundane.market/for-agents"
+}
