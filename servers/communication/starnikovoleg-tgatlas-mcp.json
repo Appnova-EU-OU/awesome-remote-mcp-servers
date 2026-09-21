@@ -1,0 +1,16 @@
+{
+  "name": "tgatlas-mcp",
+  "description": "MCP server for public Telegram channels — profiles, posting cadence, and the channels Telegram itself considers similar.",
+  "git_url": "https://github.com/starnikovoleg/tgatlas-mcp",
+  "author_github": "starnikovoleg",
+  "category": "communication",
+  "tags": [
+    "tgatlas",
+    "public",
+    "telegram",
+    "channels",
+    "profiles"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
