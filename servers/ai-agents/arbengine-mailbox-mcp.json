@@ -1,0 +1,17 @@
+{
+  "name": "mailbox-mcp",
+  "description": "Official MCP server for mailbox.bot — physical postal mail API for AI agents.",
+  "git_url": "https://github.com/arbengine/mailbox-mcp",
+  "author_github": "arbengine",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "claude",
+    "mail",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mailbox.bot"
+}
