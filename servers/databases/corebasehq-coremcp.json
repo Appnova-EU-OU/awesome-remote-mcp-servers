@@ -1,0 +1,17 @@
+{
+  "name": "coremcp",
+  "description": "CoreMCP: Connect Legacy Databases to AI Agents via Model Context Protocol. Open-source bridge for LLM data analysis.",
+  "git_url": "https://github.com/corebasehq/coremcp",
+  "author_github": "corebasehq",
+  "category": "databases",
+  "tags": [
+    "databasebridge",
+    "golang",
+    "legacysystems",
+    "llmops",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://corebasehq.com"
+}
