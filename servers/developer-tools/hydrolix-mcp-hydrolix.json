@@ -1,0 +1,12 @@
+{
+  "name": "mcp-hydrolix",
+  "description": "An MCP server for Hydrolix",
+  "git_url": "https://github.com/hydrolix/mcp-hydrolix",
+  "author_github": "hydrolix",
+  "category": "developer-tools",
+  "tags": [
+    "hydrolix"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
