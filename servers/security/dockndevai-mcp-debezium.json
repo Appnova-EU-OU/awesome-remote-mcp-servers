@@ -1,0 +1,17 @@
+{
+  "name": "mcp-debezium",
+  "description": "MCP server for Debezium / Kafka Connect — monitor & manage CDC connectors with security modes and access-control flags.",
+  "git_url": "https://github.com/dockndevai/mcp-debezium",
+  "author_github": "dockndevai",
+  "category": "security",
+  "tags": [
+    "cdc",
+    "debezium",
+    "kafkaconnect",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dockndevai.github.io/"
+}
