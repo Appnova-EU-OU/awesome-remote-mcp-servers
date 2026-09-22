@@ -1,0 +1,14 @@
+{
+  "name": "skysql-mcp",
+  "description": "SkySQL MCP server and client repository.",
+  "git_url": "https://github.com/skysqlinc/skysql-mcp",
+  "author_github": "skysqlinc",
+  "category": "databases",
+  "tags": [
+    "skysql",
+    "client",
+    "repository"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
