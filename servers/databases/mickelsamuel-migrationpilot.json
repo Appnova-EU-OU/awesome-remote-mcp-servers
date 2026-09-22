@@ -1,0 +1,17 @@
+{
+  "name": "migrationpilot",
+  "description": "PostgreSQL migration linter. Blocks unsafe migrations before merge: 112 rules, the real Postgres parser, lock analysis, auto-fix. CLI, GitHub Action, MCP.",
+  "git_url": "https://github.com/mickelsamuel/migrationpilot",
+  "author_github": "mickelsamuel",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "cli",
+    "database",
+    "ddl",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://migrationpilot.dev"
+}
