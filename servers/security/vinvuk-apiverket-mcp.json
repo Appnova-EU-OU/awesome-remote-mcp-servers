@@ -1,0 +1,16 @@
+{
+  "name": "apiverket-mcp",
+  "description": "MCP server for querying Swedish government data via Apiverket.se API",
+  "git_url": "https://github.com/vinvuk/apiverket-mcp",
+  "author_github": "vinvuk",
+  "category": "security",
+  "tags": [
+    "apiverket",
+    "bolagsverket",
+    "governmentdata",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
