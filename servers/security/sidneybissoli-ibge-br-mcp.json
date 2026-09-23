@@ -1,0 +1,17 @@
+{
+  "name": "ibge-br-mcp",
+  "description": "MCP Server for IBGE APIs - Brazilian geographic, demographic and statistical data",
+  "git_url": "https://github.com/SidneyBissoli/ibge-br-mcp",
+  "author_github": "SidneyBissoli",
+  "category": "security",
+  "tags": [
+    "brasil",
+    "brazil",
+    "censo",
+    "claude",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ibge.sidneybissoli.com"
+}
