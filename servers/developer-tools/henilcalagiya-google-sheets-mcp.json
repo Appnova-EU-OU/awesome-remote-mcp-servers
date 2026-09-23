@@ -1,0 +1,17 @@
+{
+  "name": "google-sheets-mcp",
+  "description": "Python package of google sheet mcp",
+  "git_url": "https://github.com/henilcalagiya/google-sheets-mcp",
+  "author_github": "henilcalagiya",
+  "category": "developer-tools",
+  "tags": [
+    "google",
+    "sheets",
+    "python",
+    "package",
+    "sheet"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/google-sheets-mcp/"
+}
