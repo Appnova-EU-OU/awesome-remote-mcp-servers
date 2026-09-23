@@ -1,0 +1,16 @@
+{
+  "name": "aicommander",
+  "description": "Release binaries and SHA256SUMS for AI Commander (aicommander.dev)",
+  "git_url": "https://github.com/AICommander-dev/aicommander",
+  "author_github": "AICommander-dev",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "mcp",
+    "modelcontextprotocol",
+    "remoteaccess"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://aicommander.dev"
+}
