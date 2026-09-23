@@ -1,0 +1,16 @@
+{
+  "name": "mcp_creator_growth",
+  "description": "Intelligent learning sidecar for AI coding assistants. Helps developers learn from AI-generated code changes through interactive blocking quizzes and provides agents with persistent project-specific debugging memory using silent RAG tools. Features 56% token optimization and multi-language support.",
+  "git_url": "https://github.com/SunflowersLwtech/mcp_creator_growth",
+  "author_github": "SunflowersLwtech",
+  "category": "ai-agents",
+  "tags": [
+    "creator",
+    "growth",
+    "intelligent",
+    "learning",
+    "sidecar"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
