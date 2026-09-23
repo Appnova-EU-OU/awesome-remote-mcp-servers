@@ -1,0 +1,14 @@
+{
+  "name": "flexorch-mcp",
+  "description": "MCP server for FlexOrch — SDK for machines",
+  "git_url": "https://github.com/flexorch/flexorch-mcp",
+  "author_github": "flexorch",
+  "category": "developer-tools",
+  "tags": [
+    "flexorch",
+    "sdk",
+    "machines"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
