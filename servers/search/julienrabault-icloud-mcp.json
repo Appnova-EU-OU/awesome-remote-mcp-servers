@@ -1,0 +1,17 @@
+{
+  "name": "icloud-mcp",
+  "description": "MCP server for iCloud Mail over IMAP/SMTP — search every folder, read, draft, send, flag and file your Apple mail. Runs locally, no third party.",
+  "git_url": "https://github.com/JulienRabault/icloud-mcp",
+  "author_github": "JulienRabault",
+  "category": "search",
+  "tags": [
+    "aiagent",
+    "anthropic",
+    "apple",
+    "applemail",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/icloud-mail-mcp/"
+}
