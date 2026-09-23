@@ -1,0 +1,13 @@
+{
+  "name": "qlik-mcp",
+  "description": "An MCP server to run qlik",
+  "git_url": "https://github.com/jwaxman19/qlik-mcp",
+  "author_github": "jwaxman19",
+  "category": "developer-tools",
+  "tags": [
+    "qlik",
+    "run"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
