@@ -1,0 +1,16 @@
+{
+  "name": "snapmcp",
+  "description": "All-in-one MCP server for visual captures: terminal, code, browser, markdown, diffs, HTML, and PDF — via Playwright",
+  "git_url": "https://github.com/reeinharddd/snapmcp",
+  "author_github": "reeinharddd",
+  "category": "media",
+  "tags": [
+    "capture",
+    "cli",
+    "mcp",
+    "modelcontextprotocol",
+    "playwright"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
