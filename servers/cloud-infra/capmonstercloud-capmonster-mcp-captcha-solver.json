@@ -1,0 +1,17 @@
+{
+  "name": "capmonster-mcp-captcha-solver",
+  "description": "Official CapMonster Cloud MCP server — AI captcha solver for reCAPTCHA v2/v3, Cloudflare Turnstile & DataDome. Let Claude, Cursor, and other AI agents solve captchas directly via MCP.",
+  "git_url": "https://github.com/CapMonsterCloud/capmonster-mcp-captcha-solver",
+  "author_github": "CapMonsterCloud",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "anticaptcha",
+    "automation",
+    "browserautomation",
+    "capmonster"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://capmonster.cloud"
+}
