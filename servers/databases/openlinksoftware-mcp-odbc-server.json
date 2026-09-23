@@ -1,0 +1,16 @@
+{
+  "name": "mcp-odbc-server",
+  "description": "Typescript based Model Context Procotol (MCP) Server for Open Database Connectivity (ODBC)",
+  "git_url": "https://github.com/OpenLinkSoftware/mcp-odbc-server",
+  "author_github": "OpenLinkSoftware",
+  "category": "databases",
+  "tags": [
+    "odbc",
+    "typescript",
+    "based",
+    "procotol",
+    "open"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
