@@ -1,0 +1,17 @@
+{
+  "name": "mcp-doctor",
+  "description": "Zero-config health check, binary validator, and JSON auto-repair engine for Claude Desktop, Cursor, and Cline MCP setups.",
+  "git_url": "https://github.com/rafim-dev/mcp-doctor",
+  "author_github": "rafim-dev",
+  "category": "ai-agents",
+  "tags": [
+    "claudedesktop",
+    "cursor",
+    "developertools",
+    "diagnostics",
+    "jsonrepair"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://rafi860.gumroad.com/l/mcp-doctor"
+}
