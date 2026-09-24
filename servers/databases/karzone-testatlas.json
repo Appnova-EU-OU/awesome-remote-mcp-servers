@@ -1,0 +1,16 @@
+{
+  "name": "TestAtlas",
+  "description": "Turn any .NET test-automation solution into a queryable map in one SQLite file — features, steps, API clients, page objects, and their dependencies. Zero config, no AI, no network, 100% deterministic.",
+  "git_url": "https://github.com/Karzone/TestAtlas",
+  "author_github": "Karzone",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "bdd",
+    "codeanalysis",
+    "csharp",
+    "dependencygraph"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
