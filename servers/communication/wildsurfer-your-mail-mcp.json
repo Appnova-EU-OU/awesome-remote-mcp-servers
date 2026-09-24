@@ -1,0 +1,17 @@
+{
+  "name": "your-mail-mcp",
+  "description": "Self-hosted, read-only MCP server that serves IMAP mail from a local notmuch index over authenticated HTTP",
+  "git_url": "https://github.com/wildsurfer/your-mail-mcp",
+  "author_github": "wildsurfer",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "claude",
+    "email",
+    "gmail",
+    "golang"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/wildsurfer/your-mail-mcp#readme"
+}
