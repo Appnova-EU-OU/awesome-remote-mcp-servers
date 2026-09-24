@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "Remote MCP server for 2ools — build, version, review and export websites, web apps and games from the AI chat you already use. 43 tools, one free and authless.",
+  "git_url": "https://github.com/2ools/mcp-server",
+  "author_github": "2ools",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "anthropic",
+    "claude",
+    "claudedesktop",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://2ools.app/connect-ai"
+}
