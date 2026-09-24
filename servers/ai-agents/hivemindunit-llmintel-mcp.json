@@ -1,0 +1,17 @@
+{
+  "name": "llmintel-mcp",
+  "description": "MCP server for AI model lifecycle data: check whether a model id is deprecated or retiring, and what to migrate to. Public mirror of packages/mcp from the LLMIntel monorepo.",
+  "git_url": "https://github.com/hivemindunit/llmintel-mcp",
+  "author_github": "hivemindunit",
+  "category": "ai-agents",
+  "tags": [
+    "llmintel",
+    "lifecycle",
+    "data",
+    "check",
+    "whether"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://llmintel.ai/mcp"
+}
