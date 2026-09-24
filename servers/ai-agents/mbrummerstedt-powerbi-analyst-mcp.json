@@ -1,0 +1,16 @@
+{
+  "name": "powerbi-analyst-mcp",
+  "description": "This repo is a local mcp server made for connecting Power BI to your llm for analysis purposes",
+  "git_url": "https://github.com/mbrummerstedt/powerbi-analyst-mcp",
+  "author_github": "mbrummerstedt",
+  "category": "ai-agents",
+  "tags": [
+    "powerbi",
+    "analyst",
+    "repo",
+    "local",
+    "made"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
