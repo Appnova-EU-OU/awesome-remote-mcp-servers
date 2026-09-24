@@ -1,0 +1,17 @@
+{
+  "name": "GroundTruth-MCP",
+  "description": "Self-hosted MCP server for live documentation, code audits, and best practices. 598+ curated libraries, 100+ audit patterns, no rate limits.",
+  "git_url": "https://github.com/rm-rf-prod/GroundTruth-MCP",
+  "author_github": "rm-rf-prod",
+  "category": "ai-agents",
+  "tags": [
+    "aicoding",
+    "aitools",
+    "bestpractices",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@groundtruth-mcp/gt-mcp"
+}
