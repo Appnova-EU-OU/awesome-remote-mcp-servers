@@ -1,0 +1,16 @@
+{
+  "name": "discomcp",
+  "description": "Teach any AI agent how you use an MCP server – Soft-Landing to your AI integrations",
+  "git_url": "https://github.com/ieranama/discomcp",
+  "author_github": "ieranama",
+  "category": "ai-agents",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "cli",
+    "llm",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
