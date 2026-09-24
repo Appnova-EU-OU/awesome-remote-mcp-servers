@@ -1,0 +1,17 @@
+{
+  "name": "PyreCrawl",
+  "description": "Web browsing superpowers for AI agents - one MCP server to scrape, crawl, extract, map, search, batch, research & monitor the web. Self-hosted, no API keys. Free Firecrawl alternative.",
+  "git_url": "https://github.com/SanggonBoy/PyreCrawl",
+  "author_github": "SanggonBoy",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "crawler",
+    "firecrawlalternative",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/pyrecrawl/"
+}
