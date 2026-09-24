@@ -1,0 +1,16 @@
+{
+  "name": "capsulemcp",
+  "description": "Capsule CRM tools for Claude. Local install via npx, org-wide via Custom Connectors.",
+  "git_url": "https://github.com/soil-dev/capsulemcp",
+  "author_github": "soil-dev",
+  "category": "developer-tools",
+  "tags": [
+    "capsulecrm",
+    "claude",
+    "claudecode",
+    "claudedesktop",
+    "crm"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
