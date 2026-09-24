@@ -1,0 +1,17 @@
+{
+  "name": "effectfence",
+  "description": "Causal concurrency fence for multi-agent tool calls — stop double-charges and duplicate side effects. Rust library + MCP server.",
+  "git_url": "https://github.com/aurumflux20/effectfence",
+  "author_github": "aurumflux20",
+  "category": "ai-agents",
+  "tags": [
+    "agentsafety",
+    "exactlyonce",
+    "idempotency",
+    "mcp",
+    "retry"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://docs.rs/effectfence"
+}
