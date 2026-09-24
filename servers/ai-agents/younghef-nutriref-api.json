@@ -1,0 +1,17 @@
+{
+  "name": "nutriref-api",
+  "description": "Pay-per-call USDA nutrition API for AI agents. x402 + USDC on Base.",
+  "git_url": "https://github.com/Younghef/nutriref-api",
+  "author_github": "Younghef",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "cdp",
+    "coinbase",
+    "fastapi",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://nutriref.xyz"
+}
