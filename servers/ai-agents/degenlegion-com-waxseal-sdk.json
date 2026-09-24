@@ -1,0 +1,17 @@
+{
+  "name": "waxseal-sdk",
+  "description": "Ed25519 cryptographic identity for apps and AI agents — MCP server for Claude/Cursor/Windsurf + JS/TS verify SDK",
+  "git_url": "https://github.com/degenlegion-com/waxseal-sdk",
+  "author_github": "degenlegion-com",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "blockchain",
+    "claude",
+    "cryptographicidentity",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://waxseal.id"
+}
