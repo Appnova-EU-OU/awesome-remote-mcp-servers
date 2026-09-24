@@ -1,0 +1,16 @@
+{
+  "name": "bastion",
+  "description": "A remote MCP server for in-loop design review, and a worked reference for OAuth 2.1 auth, SSRF-safe URL handling, and long-running jobs over MCP.",
+  "git_url": "https://github.com/apatureai/bastion",
+  "author_github": "apatureai",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "designreview",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
