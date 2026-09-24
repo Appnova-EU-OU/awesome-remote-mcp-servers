@@ -1,0 +1,16 @@
+{
+  "name": "airflow-mcp-server",
+  "description": "Airflow MCP server — DAG list, runs, task instances, log tails, trigger and clear over the Airflow REST API",
+  "git_url": "https://github.com/us-all/airflow-mcp-server",
+  "author_github": "us-all",
+  "category": "ai-agents",
+  "tags": [
+    "airflow",
+    "dag",
+    "list",
+    "runs",
+    "task"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
