@@ -1,0 +1,14 @@
+{
+  "name": "mcp_server_notify",
+  "description": "Send system notification when Agent task is done.",
+  "git_url": "https://github.com/Cactusinhand/mcp_server_notify",
+  "author_github": "Cactusinhand",
+  "category": "ai-agents",
+  "tags": [
+    "mcp",
+    "mcpserver",
+    "notification"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
