@@ -1,0 +1,16 @@
+{
+  "name": "databricks-genie-MCP",
+  "description": "A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.",
+  "git_url": "https://github.com/yashshingvi/databricks-genie-MCP",
+  "author_github": "yashshingvi",
+  "category": "databases",
+  "tags": [
+    "databricks",
+    "genie",
+    "connects",
+    "api",
+    "allowing"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
