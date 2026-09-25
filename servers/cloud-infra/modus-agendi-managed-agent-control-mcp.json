@@ -1,0 +1,16 @@
+{
+  "name": "managed-agent-control-mcp",
+  "description": "Start, observe, and interact with Claude Managed Agents from any MCP client (Claude.ai, Claude Code, …). Pluggable auth (bearer/OIDC/Cognito); runs on stdio, Docker, or AWS Lambda.",
+  "git_url": "https://github.com/modus-agendi/managed-agent-control-mcp",
+  "author_github": "modus-agendi",
+  "category": "cloud-infra",
+  "tags": [
+    "agentic",
+    "agents",
+    "aiagents",
+    "anthropic",
+    "awslambda"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
