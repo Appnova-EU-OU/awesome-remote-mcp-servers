@@ -1,0 +1,17 @@
+{
+  "name": "checkyourself",
+  "description": "Local-first completion-evidence system for AI-built apps: read-only audit, verifier-executed challenges, evidence-based 0-100 score, guided fixes, learning plan, CLI, and MCP.",
+  "git_url": "https://github.com/KyaniteLabs/checkyourself",
+  "author_github": "KyaniteLabs",
+  "category": "security",
+  "tags": [
+    "ai",
+    "aiagents",
+    "aicodingassistant",
+    "aitools",
+    "claude"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://kyanitelabs.tech"
+}
