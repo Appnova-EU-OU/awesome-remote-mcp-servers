@@ -1,0 +1,17 @@
+{
+  "name": "vdiff",
+  "description": "Breaking-change diffs for npm packages, served over REST and MCP, so coding agents stop writing code against outdated API knowledge.",
+  "git_url": "https://github.com/mcurmi05/vdiff",
+  "author_github": "mcurmi05",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "breakingchanges",
+    "developertools",
+    "fastify",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/vdiff-mcp"
+}
