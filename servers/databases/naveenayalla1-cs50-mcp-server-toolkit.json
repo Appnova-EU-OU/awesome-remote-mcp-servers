@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-toolkit",
+  "description": "MCP servers that help Claude Code/Cursor search your repo, docs, database, and git history instead of guessing.",
+  "git_url": "https://github.com/naveenayalla1-CS50/mcp-server-toolkit",
+  "author_github": "naveenayalla1-CS50",
+  "category": "databases",
+  "tags": [
+    "aitools",
+    "claudecode",
+    "cursoraiagent",
+    "developertools",
+    "llmdevelopertools"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
