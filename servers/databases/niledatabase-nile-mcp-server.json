@@ -1,0 +1,16 @@
+{
+  "name": "nile-mcp-server",
+  "description": "MCP server for Nile Database - Manage and query databases, tenants, users, auth using LLMs",
+  "git_url": "https://github.com/niledatabase/nile-mcp-server",
+  "author_github": "niledatabase",
+  "category": "databases",
+  "tags": [
+    "nile",
+    "database",
+    "manage",
+    "query",
+    "databases"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
