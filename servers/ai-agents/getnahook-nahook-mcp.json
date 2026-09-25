@@ -1,0 +1,17 @@
+{
+  "name": "nahook-mcp",
+  "description": "The official Model Context Protocol server for Nahook — trigger webhooks, inspect deliveries, and debug failures from Claude Desktop, Cursor, Cline, and any MCP-compatible AI client",
+  "git_url": "https://github.com/getnahook/nahook-mcp",
+  "author_github": "getnahook",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "claude",
+    "cursor",
+    "developertools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://nahook.com"
+}
