@@ -1,0 +1,17 @@
+{
+  "name": "persistproc",
+  "description": "MCP server to allow LLMs to manage and inspect long-running processes",
+  "git_url": "https://github.com/irskep/persistproc",
+  "author_github": "irskep",
+  "category": "ai-agents",
+  "tags": [
+    "persistproc",
+    "allow",
+    "llms",
+    "manage",
+    "inspect"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://steveasleep.com/persistproc/"
+}
