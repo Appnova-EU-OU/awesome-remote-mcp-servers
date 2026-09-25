@@ -1,0 +1,16 @@
+{
+  "name": "bumpguard-mcp",
+  "description": "Guard your dependency bumps: an MCP server that tells your AI agent which parts of YOUR code break when you upgrade a dependency, and verifies AI-written code against the installed API - static analysis, never runs third-party code.",
+  "git_url": "https://github.com/appcreationsca/bumpguard-mcp",
+  "author_github": "appcreationsca",
+  "category": "security",
+  "tags": [
+    "ai",
+    "breakingchanges",
+    "dependencies",
+    "developertools",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
