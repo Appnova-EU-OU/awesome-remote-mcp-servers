@@ -1,0 +1,17 @@
+{
+  "name": "cyberrescue",
+  "description": "A secure, lightweight Model Context Protocol (MCP) host telemetry gateway built using Python, FastMCP, and python-on-whales.",
+  "git_url": "https://github.com/Vivekpatil200320/cyberrescue",
+  "author_github": "Vivekpatil200320",
+  "category": "cloud-infra",
+  "tags": [
+    "claude",
+    "devtools",
+    "docker",
+    "fastmcp",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://cyberrescue.vercel.app"
+}
