@@ -1,0 +1,17 @@
+{
+  "name": "ictbroadcast-mcp",
+  "description": "MCP server for ICTBroadcast — monitor outbound voice/SMS/fax campaigns and start/stop them. By ICT Innovations.",
+  "git_url": "https://github.com/ictinnovations/ictbroadcast-mcp",
+  "author_github": "ictinnovations",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "callcenter",
+    "claude",
+    "ictbroadcast",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ictbroadcast.com"
+}
