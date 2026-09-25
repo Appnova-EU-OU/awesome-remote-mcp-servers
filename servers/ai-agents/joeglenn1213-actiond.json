@@ -1,0 +1,16 @@
+{
+  "name": "ActionD",
+  "description": "Local CI/CD engine for AI agents: event-driven plugin execution on LGH git events, MCP server, web console",
+  "git_url": "https://github.com/JoeGlenn1213/ActionD",
+  "author_github": "JoeGlenn1213",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "automation",
+    "cicd",
+    "developertools",
+    "golang"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
