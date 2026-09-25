@@ -1,0 +1,17 @@
+{
+  "name": "mcp-code-indexer",
+  "description": "Index any TypeScript/React repo (incl. monorepos) into a queryable code graph — npx CLI, HTTP/WS + MCP server, 3D viewer. who-renders, who-calls, blast-radius, cycles, dead-code. npm: code-graph-indexer",
+  "git_url": "https://github.com/Nishant-Chaudhary5338/mcp-code-indexer",
+  "author_github": "Nishant-Chaudhary5338",
+  "category": "security",
+  "tags": [
+    "aitools",
+    "claude",
+    "codegraph",
+    "dependencygraph",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/code-graph-indexer"
+}
