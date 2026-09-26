@@ -1,0 +1,16 @@
+{
+  "name": "mcp-libsql",
+  "description": "Secure MCP server for libSQL databases with comprehensive tools, connection pooling, and transaction support. Built with TypeScript for Claude Desktop, Claude Code, Cursor, and other MCP clients.",
+  "git_url": "https://github.com/Xexr/mcp-libsql",
+  "author_github": "Xexr",
+  "category": "databases",
+  "tags": [
+    "aitools",
+    "claude",
+    "database",
+    "libsql",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
