@@ -1,0 +1,17 @@
+{
+  "name": "CTX",
+  "description": "Local-first code graph + context engine for AI coding agents (Rust/MCP server). Published in microsoft/winget-pkgs (winget install halloffame12.CTX) & awesome-mcp-servers. A+ on Glama.",
+  "git_url": "https://github.com/halloffame12/CTX",
+  "author_github": "halloffame12",
+  "category": "ai-agents",
+  "tags": [
+    "aicoding",
+    "codegraph",
+    "codeintelligence",
+    "codingassistant",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ctx.sumitchauhan.me/playground/"
+}
