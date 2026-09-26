@@ -91,6 +91,31 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-server-trino](https://freemcp.space/featured/mcp-server-trino) — MCP Server for Trino
+- [databricks-genie-MCP](https://freemcp.space/featured/databricks-genie-mcp) — A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
+- [nile-mcp-server](https://freemcp.space/featured/nile-mcp-server) — MCP server for Nile Database - Manage and query databases, tenants, users, auth using LLMs
+- [mcp-jdbc-server](https://freemcp.space/featured/mcp-jdbc-server) — Java based Model Context Procotol (MCP) Server for JDBC
+- [ictbroadcast-mcp](https://freemcp.space/featured/ictbroadcast-mcp) — MCP server for ICTBroadcast — monitor outbound voice/SMS/fax campaigns and start/stop them. By ICT Innovations.
+- [noisy-coding](https://freemcp.space/featured/noisy-coding) — Talk to Claude Code instead of typing: a voice daemon + dashboard that records you, transcribes, routes to your agent sessions, and speaks the replies back - with per-voice avatars, push-to-talk hotkeys, and a live conversation HUD
+- [reuse-before-generate](https://freemcp.space/featured/reuse-before-generat) — Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold.
+- [checkyourself](https://freemcp.space/featured/checkyourself) — Local-first completion-evidence system for AI-built apps: read-only audit, verifier-executed challenges, evidence-based 0-100 score, guided fixes, learning plan, CLI, and MCP.
+- [mcp-server-toolkit](https://freemcp.space/featured/mcp-server-toolkit) — MCP servers that help Claude Code/Cursor search your repo, docs, database, and git history instead of guessing.
+- [prumo](https://freemcp.space/featured/prumo) — Is your documentation still true? Checks the context files your coding agent reads against the code. Five high-precision checks, two reports, zero dependencies.
+- [bumpguard-mcp](https://freemcp.space/featured/bumpguard-mcp) — Guard your dependency bumps: an MCP server that tells your AI agent which parts of YOUR code break when you upgrade a dependency, and verifies AI-written code against the installed API - static analysis, never runs third-party code.
+- [mcp-code-indexer](https://freemcp.space/featured/mcp-code-indexer) — Index any TypeScript/React repo (incl. monorepos) into a queryable code graph — npx CLI, HTTP/WS + MCP server, 3D viewer. who-renders, who-calls, blast-radius, cycles, dead-code. npm: code-graph-indexer
+- [aso-audit-mcp](https://freemcp.space/featured/aso-audit-mcp) — Open-source Agent Signal Optimization audit MCP for scanning websites, APIs, and product surfaces for AI agent discoverability and readiness signals.
+- [cyberrescue](https://freemcp.space/featured/cyberrescue) — A secure, lightweight Model Context Protocol (MCP) host telemetry gateway built using Python, FastMCP, and python-on-whales.
+- [qwen-dap-mcp](https://freemcp.space/featured/qwen-dap-mcp) — Autonomous native crash debugging for Qwen Code via DAP → MCP. CodeLLDB, crash dumps, runtime evidence and agentic verification.
+- [nahook-mcp](https://freemcp.space/featured/nahook-mcp) — The official Model Context Protocol server for Nahook — trigger webhooks, inspect deliveries, and debug failures from Claude Desktop, Cursor, Cline, and any MCP-compatible AI client
+- [managed-agent-control-mcp](https://freemcp.space/featured/managed-agent-contro) — Start, observe, and interact with Claude Managed Agents from any MCP client (Claude.ai, Claude Code, …). Pluggable auth (bearer/OIDC/Cognito); runs on stdio, Docker, or AWS Lambda.
+- [verificate-mcp-quickstart](https://freemcp.space/featured/verificate-mcp-quick) — Take your vibe-coded MVP all the way to production — 17 reality gates + frontier-model review with veto power on every AI-written change. Hosted MCP; free to try, no signup.
+- [eleata-verify-mcp](https://freemcp.space/featured/eleata-verify-mcp) — MCP server: grounding/hallucination guard — verify a claim against evidence (Supported/Refuted/NEE) for AI agents
+- [vdiff](https://freemcp.space/featured/vdiff) — Breaking-change diffs for npm packages, served over REST and MCP, so coding agents stop writing code against outdated API knowledge.
+- [mcp-server](https://freemcp.space/featured/mcp-server-19) — Official MCP server for M00N Report: let an AI assistant author test cases, plan manual executions, cut releases and read project health over 50+ tools.
+- [ActionD](https://freemcp.space/featured/actiond) — Local CI/CD engine for AI agents: event-driven plugin execution on LGH git events, MCP server, web console
+- [docweave-mcp](https://freemcp.space/featured/docweave-mcp) — Open-source MCP server for Docweave — generate_pdf + read_pdf tools for AI agents (Claude, Cursor, …).
+- [delx-mcp-server](https://freemcp.space/featured/delx-mcp-server) — Free MCP stdio bridge for agent continuity: resume after compaction, hand off between runtimes, recover from failure. No API key.
+- [motionspec](https://freemcp.space/featured/motionspec) — Verifies and compiles reduced-motion-safe, on-budget UI animation for AI-generated web apps: schema-validated specs to deterministic vanilla-GSAP + CSS, WCAG 2.2.2 / 2.3.3 checks. MIT core, keyless MCP server, free web check at motionspec.dev/motion-check. Not Motion.dev/Framer Motion, not the Android/iOS MotionSpec class, not a video generator.
 - [tokenchit](https://freemcp.space/featured/tokenchit) — Read your local AI coding agent logs and render a stat card into your repo.
 - [mysql-mcp-server](https://freemcp.space/featured/mysql-mcp-server-2) — mcp model-context-protocol mysql cursor n8n
 - [your-mail-mcp](https://freemcp.space/featured/your-mail-mcp) — Self-hosted, read-only MCP server that serves IMAP mail from a local notmuch index over authenticated HTTP
@@ -166,31 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [verilexdata-mcp](https://freemcp.space/featured/verilexdata-mcp) — MCP server for Verilex Data — query NPI, SEC, PACER, Weather, and OTC datasets from AI agents
 - [mcp-kafka](https://freemcp.space/featured/mcp-kafka) — MCP server for Apache Kafka — monitor & manage clusters, topics, and consumer groups (with lag), with security modes and access-control flags.
 - [mcp-debezium](https://freemcp.space/featured/mcp-debezium) — MCP server for Debezium / Kafka Connect — monitor & manage CDC connectors with security modes and access-control flags.
-- [erp-report-engine](https://freemcp.space/featured/erp-report-engine) — A provably read-only SQL layer for AI agents (MCP) and weekly reports — over the database behind an ERP (Logo Tiger, Netsis, Mikro). Statement-checking guard, measured against 28 attacks.
-- [Litescope](https://freemcp.space/featured/litescope) — The operations toolchain for production SQLite — diff, migrate, monitor, and run staged migrations across an entire fleet of Turso & Cloudflare D1 databases.
-- [civicdataforge-mcp](https://freemcp.space/featured/civicdataforge-mcp) — Official public-records MCP tools for STR permits, LEIE screening, childcare licensing, and film permits.
-- [astrofabric-mcp](https://freemcp.space/featured/astrofabric-mcp) — Agentic AI for business intelligence over MCP: company and contact discovery, verification, enrichment, business signals and governed delivery.
-- [schema-bridge-mcp](https://freemcp.space/featured/schema-bridge-mcp) — Universal schema compiler (SQL/Prisma to Zod, TypeScript, Pydantic) and realistic synthetic mock API data generator for MCP.
-- [SqlAugur](https://freemcp.space/featured/sqlaugur) — MCP server providing AI assistants with safe, read-only access to SQL Server databases. AST-based query validation, rate limiting, and DBA      diagnostic tooling.
-- [fluxmail](https://freemcp.space/featured/fluxmail) — Self-hosted email CLI / API / MCP server for AI agents and apps
-- [vikingdb-mcp-server](https://freemcp.space/featured/vikingdb-mcp-server) — a mcp server for vikingdb store and search
-- [tabpilot-mcp](https://freemcp.space/featured/tabpilot-mcp) — Drive the real, logged-in Chrome you already have open — cross-platform, token-optimized, and Ubuntu headless 24/7.
-- [vibe-testing](https://freemcp.space/featured/vibe-testing) — Code-aware browser testing agent — 13 MCP tools for AI editors (Claude Code, Cursor, Windsurf). Reads your codebase, opens Playwright, tests everything, reports with screenshots.
-- [mcp-datalink](https://freemcp.space/featured/mcp-datalink) — MCP server for secure database access (PostgreSQL, MySQL, SQLite)
-- [ms-graph-mcp](https://freemcp.space/featured/ms-graph-mcp) — Microsoft Graph MCP server for AI agents — 85 tools across Outlook mail & calendar, Teams, OneDrive, SharePoint, OneNote, Planner and Entra ID. Delegated OAuth, stdio or Streamable HTTP.
-- [urdb-mcp](https://freemcp.space/featured/urdb-mcp) — Search URDB's product integrity database for integrity scores, enshittification events, and change tracking across consumer products
-- [dbridge-mcp](https://freemcp.space/featured/dbridge-mcp) — MCP server that lets AI agents query SQL databases in natural language - read-only, with column masking, row caps, and query limits. SQLite / PostgreSQL / MySQL.
-- [ratatosk-mcp](https://freemcp.space/featured/ratatosk-mcp) — MCP server for Ratatosk — CNCF release intelligence facts for AI agents. check_stack compares your running versions locally; only project slugs leave your cluster.
-- [mcp-kubernetes](https://freemcp.space/featured/mcp-kubernetes) — MCP server for Kubernetes — multi-cluster ops with security modes (read-only/read-write/admin) and access-control flags.
-- [mcpdbwizard-open](https://freemcp.space/featured/mcpdbwizard-open) — Open source MCP server for Oracle PLSQL, SQL statements and Tables
-- [tgatlas-mcp](https://freemcp.space/featured/tgatlas-mcp) — MCP server for public Telegram channels — profiles, posting cadence, and the channels Telegram itself considers similar.
-- [tirith](https://freemcp.space/featured/tirith) — The tower of guard for parallel coding agents. Keeps parallel coding agents from stepping on each other. Claims, contracts and change notices over MCP.
-- [seedfast-mcp](https://freemcp.space/featured/seedfast-mcp) — Public integration surface for the Seedfast MCP server: client configuration, tool reference and a smoke test
-- [infino-mcp](https://freemcp.space/featured/infino-mcp) — MCP Server for Infino
-- [limzo-mcp](https://freemcp.space/featured/limzo-mcp) — MCP server for Limzo — read-only public Telegram group statistics (leaderboards, levels, activity) from limzo.com. npx limzo-mcp
-- [mailmcp-dist](https://freemcp.space/featured/mailmcp-dist) — All your mailboxes in ChatGPT and Claude: self-hosted email MCP server (Gmail, Outlook, iCloud, any IMAP/SMTP). Passwords stay yours.
-- [aamio-python](https://freemcp.space/github/aamio-python) — Ephemeral rendezvous for agents: threads with a secret read key and a public write address that expire on time, receipts that outlive them, and an open board where agents that have never met find each other. Hosted at aamio.at/mcp with no account, or as a local runtime that keeps the key.
-- [Pandaone-AI-Agent](https://freemcp.space/featured/pandaone-ai-agent) — Pandaone Guard — Free open-source MCP server for AI code audit. L1-L6 defense (file lock + audit log + pre-commit hooks) for Claude/Cursor/Trae. Local stdio, no API key, MIT.
 <!-- freemcp:end -->
 
 ---
