@@ -1,0 +1,17 @@
+{
+  "name": "delx-mcp-server",
+  "description": "Free MCP stdio bridge for agent continuity: resume after compaction, hand off between runtimes, recover from failure. No API key.",
+  "git_url": "https://github.com/davidmosiah/delx-mcp-server",
+  "author_github": "davidmosiah",
+  "category": "ai-agents",
+  "tags": [
+    "agentcontinuity",
+    "agenthandoff",
+    "aiagenttools",
+    "aiagents",
+    "anthropic"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://delx.ai/mcp-server"
+}
