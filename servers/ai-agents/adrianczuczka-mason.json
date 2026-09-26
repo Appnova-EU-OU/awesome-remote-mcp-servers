@@ -1,0 +1,16 @@
+{
+  "name": "mason",
+  "description": "A context engineer MCP for your AI agents. Stops agents from writing code with outdated instructions.",
+  "git_url": "https://github.com/adrianczuczka/mason",
+  "author_github": "adrianczuczka",
+  "category": "ai-agents",
+  "tags": [
+    "mason",
+    "engineer",
+    "your",
+    "agents",
+    "stops"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
