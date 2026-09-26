@@ -1,0 +1,17 @@
+{
+  "name": "Diffcontext",
+  "description": "Show an AI coding assistant only the code that matters for the change it's making. Measures whether it actually works on your repo.",
+  "git_url": "https://github.com/trakshan-mishra/Diffcontext",
+  "author_github": "trakshan-mishra",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "codesearch",
+    "developertools",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://diffcontext-docs.pages.dev"
+}
