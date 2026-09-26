@@ -1,0 +1,16 @@
+{
+  "name": "mcp-swiss",
+  "description": "Swiss open data MCP server — transport, weather, geodata, companies, etc,. Zero API keys.",
+  "git_url": "https://github.com/vikramgorla/mcp-swiss",
+  "author_github": "vikramgorla",
+  "category": "security",
+  "tags": [
+    "swiss",
+    "open",
+    "data",
+    "transport",
+    "weather"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
