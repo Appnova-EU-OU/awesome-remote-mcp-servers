@@ -1,0 +1,17 @@
+{
+  "name": "prumo",
+  "description": "Is your documentation still true? Checks the context files your coding agent reads against the code. Five high-precision checks, two reports, zero dependencies.",
+  "git_url": "https://github.com/TomD4vs/prumo",
+  "author_github": "TomD4vs",
+  "category": "security",
+  "tags": [
+    "agentsmd",
+    "aiagents",
+    "claudecode",
+    "claudemd",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@tomd4vs/prumo"
+}
