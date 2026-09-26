@@ -1,0 +1,16 @@
+{
+  "name": "session-watcher",
+  "description": "Context is inventory. Know when to restock.",
+  "git_url": "https://github.com/nomadop/session-watcher",
+  "author_github": "nomadop",
+  "category": "ai-agents",
+  "tags": [
+    "claudecode",
+    "codingagents",
+    "contextengineering",
+    "contextwindow",
+    "costoptimization"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
