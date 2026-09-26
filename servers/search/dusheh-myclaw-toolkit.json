@@ -1,0 +1,16 @@
+{
+  "name": "myclaw-toolkit",
+  "description": "23-in-1 developer utility MCP server — search, exchange rates, crypto, QR codes, JSON formatter, and more",
+  "git_url": "https://github.com/Dusheh/myclaw-toolkit",
+  "author_github": "Dusheh",
+  "category": "search",
+  "tags": [
+    "api",
+    "developertools",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
