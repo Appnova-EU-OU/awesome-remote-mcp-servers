@@ -1,0 +1,16 @@
+{
+  "name": "mcp-blast-radius",
+  "description": "MCP Blast-Radius Auditor — static blast radius extraction and CI divergence gate for MCP servers.",
+  "git_url": "https://github.com/aos-standard/mcp-blast-radius",
+  "author_github": "aos-standard",
+  "category": "developer-tools",
+  "tags": [
+    "blast",
+    "radius",
+    "auditor",
+    "static",
+    "extraction"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
