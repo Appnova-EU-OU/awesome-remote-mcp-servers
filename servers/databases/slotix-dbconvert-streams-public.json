@@ -1,0 +1,17 @@
+{
+  "name": "dbconvert-streams-public",
+  "description": "DBConvert Streams: Database IDE, Federated SQL, Real-time CDC & AI assistants via MCP — explore, query, and replicate data across databases and files",
+  "git_url": "https://github.com/slotix/dbconvert-streams-public",
+  "author_github": "slotix",
+  "category": "databases",
+  "tags": [
+    "cdc",
+    "changedatacapture",
+    "dataengineering",
+    "dataintegration",
+    "datamigration"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://streams.dbconvert.com"
+}
