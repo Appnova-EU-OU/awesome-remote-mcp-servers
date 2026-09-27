@@ -1,0 +1,16 @@
+{
+  "name": "mobius-mcp",
+  "description": "MCP server + skill file for Sweipe/FlatMobile WordPress sites (agent REST surface)",
+  "git_url": "https://github.com/tcgunel/mobius-mcp",
+  "author_github": "tcgunel",
+  "category": "ai-agents",
+  "tags": [
+    "mobius",
+    "skill",
+    "file",
+    "sweipe",
+    "flatmobile"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
