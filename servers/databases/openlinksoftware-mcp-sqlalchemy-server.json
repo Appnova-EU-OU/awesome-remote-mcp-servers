@@ -1,0 +1,16 @@
+{
+  "name": "mcp-sqlalchemy-server",
+  "description": "A simple MCP ODBC server using FastAPI, ODBC and SQLAlchemy.",
+  "git_url": "https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server",
+  "author_github": "OpenLinkSoftware",
+  "category": "databases",
+  "tags": [
+    "sqlalchemy",
+    "simple",
+    "odbc",
+    "using",
+    "fastapi"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
