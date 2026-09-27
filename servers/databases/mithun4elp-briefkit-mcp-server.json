@@ -1,0 +1,17 @@
+{
+  "name": "briefkit-mcp-server",
+  "description": "BriefKit — Engineer-grade specs for AI-built SaaS. 14 files. $9. briefkit.online",
+  "git_url": "https://github.com/mithun4elp/briefkit-mcp-server",
+  "author_github": "mithun4elp",
+  "category": "databases",
+  "tags": [
+    "aibuildtools",
+    "briefkit",
+    "cursor",
+    "lovable",
+    "lovabledev"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://briefkit.online"
+}
