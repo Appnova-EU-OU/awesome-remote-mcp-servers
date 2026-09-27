@@ -1,0 +1,17 @@
+{
+  "name": "anilist-mcp",
+  "description": "AniList MCP server for accessing anime and manga data",
+  "git_url": "https://github.com/yuna0x0/anilist-mcp",
+  "author_github": "yuna0x0",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "anilist",
+    "anime",
+    "api",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/anilist-mcp"
+}
