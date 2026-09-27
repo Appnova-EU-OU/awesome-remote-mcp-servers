@@ -1,0 +1,17 @@
+{
+  "name": "mcp-devtools",
+  "description": "AI-native developer tools via MCP — filesystem, databases, processes and OpenAPI for any MCP-compatible agent",
+  "git_url": "https://github.com/marin1321/mcp-devtools",
+  "author_github": "marin1321",
+  "category": "databases",
+  "tags": [
+    "devtools",
+    "native",
+    "developer",
+    "tools",
+    "via"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcp-devtools-site-oscar-marins-projects.vercel.app"
+}
