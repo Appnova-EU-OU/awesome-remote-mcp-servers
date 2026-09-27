@@ -1,0 +1,17 @@
+{
+  "name": "portkey-admin-mcp",
+  "description": "Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance",
+  "git_url": "https://github.com/CodesWhat/portkey-admin-mcp",
+  "author_github": "CodesWhat",
+  "category": "ai-agents",
+  "tags": [
+    "adminapi",
+    "aigateway",
+    "anthropic",
+    "llm",
+    "llmops"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/portkey-admin-mcp"
+}
