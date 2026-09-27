@@ -1,0 +1,17 @@
+{
+  "name": "DevProjex",
+  "description": "Build safe, token-efficient codebase context for LLMs, AI chats, and coding agents — local-first GUI, TUI, CLI, and a read-only MCP server with Smart Ignore, secret/PII redaction, Git scopes, and code compression.",
+  "git_url": "https://github.com/Avazbek22/DevProjex",
+  "author_github": "Avazbek22",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "aicontext",
+    "avalonia",
+    "claudecode",
+    "cli"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://apps.microsoft.com/detail/9ndq3nq5m354"
+}
