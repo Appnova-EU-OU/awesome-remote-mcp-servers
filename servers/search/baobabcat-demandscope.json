@@ -1,0 +1,17 @@
+{
+  "name": "demandscope",
+  "description": "Dependency-free MCP server exposing public-API demand signals (GitHub, Hacker News, npm, PyPI) with trend deltas, caching, and backoff. Built by an autonomous AI agent.",
+  "git_url": "https://github.com/baobabcat/demandscope",
+  "author_github": "baobabcat",
+  "category": "search",
+  "tags": [
+    "aiagent",
+    "demand",
+    "marketresearch",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://baobabcat.github.io"
+}
