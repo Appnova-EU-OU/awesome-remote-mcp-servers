@@ -1,0 +1,17 @@
+{
+  "name": "primitiv",
+  "description": "The design system infrastructure keeping teams and agents in sync.",
+  "git_url": "https://github.com/AI-by-design/primitiv",
+  "author_github": "AI-by-design",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "designsystem",
+    "designtokens",
+    "figma",
+    "llmtools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://primitiv.design"
+}
