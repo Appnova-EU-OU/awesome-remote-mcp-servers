@@ -1,0 +1,16 @@
+{
+  "name": "elementor-mcp-agent",
+  "description": "Agency-grade MCP server for WordPress Elementor — multi-site management, safe Elementor data editing, template export/import, version tracking. MIT.",
+  "git_url": "https://github.com/Mogacode-ma/elementor-mcp-agent",
+  "author_github": "Mogacode-ma",
+  "category": "ai-agents",
+  "tags": [
+    "agency",
+    "anthropic",
+    "claude",
+    "elementor",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
