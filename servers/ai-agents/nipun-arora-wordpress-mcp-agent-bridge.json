@@ -1,0 +1,16 @@
+{
+  "name": "wordpress-mcp-agent-bridge",
+  "description": "WordPress MCP + REST bridge for AI agents — verified Rank Math SEO and schema writes, hashed snapshots, verified restore, additive-only gates. Claude Code, Cursor, any MCP client. Pairs with EMCP.",
+  "git_url": "https://github.com/nipun-arora/wordpress-mcp-agent-bridge",
+  "author_github": "nipun-arora",
+  "category": "ai-agents",
+  "tags": [
+    "abilitiesapi",
+    "agenttools",
+    "aiagents",
+    "aisafety",
+    "claude"
+  ],
+  "license": "GPL-2.0",
+  "status": "active"
+}
