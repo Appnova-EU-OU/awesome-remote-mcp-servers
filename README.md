@@ -91,6 +91,31 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [selvedge](https://freemcp.space/featured/selvedge) — Decision provenance for AI-coded codebases: the why, and what was already tried and rejected.
+- [dbt-docs-mcp](https://freemcp.space/featured/dbt-docs-mcp) — MCP (model context protocol) server for interacting with dbt Docs
+- [mcp-postgres-server](https://freemcp.space/featured/mcp-postgres-server) — MCP server for PostgreSQL. Works with VS Code, Cursor, Claude Code, Codex, and Windsurf.
+- [davinci-resolve-ai-bridge-mcp](https://freemcp.space/featured/davinci-resolve-ai-b) — DaVinci Resolve (Free Version and Studio) MCP server for Claude, Cursor, Codex, and Antigravity. Full timeline editing, cuts, camera zoom, and color grading.
+- [mcp-swiss](https://freemcp.space/featured/mcp-swiss) — Swiss open data MCP server — transport, weather, geodata, companies, etc,. Zero API keys.
+- [mcp-libsql](https://freemcp.space/featured/mcp-libsql) — Secure MCP server for libSQL databases with comprehensive tools, connection pooling, and transaction support. Built with TypeScript for Claude Desktop, Claude Code, Cursor, and other MCP clients.
+- [rag-rat](https://freemcp.space/featured/rag-rat) — Local repo-intelligence index + MCP server: semantic search, symbol/graph navigation, impact-surface preflight, git + GitHub papertrail, and a source-anchored memory graph.
+- [druid-mcp-server](https://freemcp.space/featured/druid-mcp-server) — A comprehensive Model Context Protocol (MCP) server for Apache Druid that provides extensive tools, resources, and AI-assisted prompts for managing and analyzing Druid clusters. Built with Spring Boot and Spring AI, this server enables seamless integration between AI assistants and Apache Druid through standardized MCP protocol.
+- [axint](https://freemcp.space/featured/axint) — Proof and repair for Apple coding agents. Validate Swift, run Xcode evidence, repair failures, and generate inspectable Apple-native capabilities.
+- [etincel](https://freemcp.space/featured/etincel) — Find the AI tells in your prose. Deterministic, local, runs in CI. MCP server + CLI + Action.
+- [mason](https://freemcp.space/featured/mason) — A context engineer MCP for your AI agents. Stops agents from writing code with outdated instructions.
+- [execkit](https://freemcp.space/featured/execkit) — Stateful, structured, safe command execution for AI agents - over local shells, SSH, and Docker.
+- [mcp-web-validator](https://freemcp.space/featured/mcp-web-validator) — W3C HTML/CSS Validator and Technical SEO Audit MCP Server. Part of the DigestSEO (https://digestseo.com) suite.
+- [session-watcher](https://freemcp.space/featured/session-watcher) — Context is inventory. Know when to restock.
+- [Diffcontext](https://freemcp.space/featured/diffcontext) — Show an AI coding assistant only the code that matters for the change it's making. Measures whether it actually works on your repo.
+- [spring-nacos-mcp](https://freemcp.space/featured/spring-nacos-mcp) — Project-aware, read-only Nacos MCP server for Spring Cloud repos: auto-discovers every environment from your application/bootstrap configs. 面向 Spring Cloud 项目的零配置只读 Nacos MCP server
+- [nowsecure-mcp-server](https://freemcp.space/featured/nowsecure-mcp-server) — MCP server for NowSecure Platform: pull remediation findings and generate clean PDF reports, bypassing the broken UI report renderer.
+- [mcp-billing-gateway-sdk](https://freemcp.space/featured/mcp-billing-gateway) — Client SDK and docs for MCP Billing Gateway — add Stripe + x402 billing to any MCP server
+- [mcp-drill](https://freemcp.space/featured/mcp-drill) — Fault injection and reliability scoring for MCP servers
+- [github-projectpulse-mcp](https://freemcp.space/featured/github-projectpulse) — projectpulse-mcp.private
+- [validate](https://freemcp.space/featured/validate) — Deterministic validation for AI-generated artifacts: JSON Schema, OpenAPI response, SQL. Typed verdicts with fix hints. Metered API + MCP.
+- [kiyas](https://freemcp.space/featured/kiyas) — MCP server + CLI for AI-powered design fidelity — compare Figma designs or screenshots against rendered UI. 90% mutation recall, zero false positives on a golden eval set. No API keys — uses your Claude Code or Codex subscription.
+- [pntr-cli](https://freemcp.space/featured/pntr-cli) — CLI and MCP server for PNTR — free *.pntr.dev subdomains with DNS, disposable email, and AI-native management
+- [CTX](https://freemcp.space/featured/ctx) — Local-first code graph + context engine for AI coding agents (Rust/MCP server). Published in microsoft/winget-pkgs (winget install halloffame12.CTX) & awesome-mcp-servers. A+ on Glama.
+- [myclaw-toolkit](https://freemcp.space/featured/myclaw-toolkit) — 23-in-1 developer utility MCP server — search, exchange rates, crypto, QR codes, JSON formatter, and more
 - [mcp-server-trino](https://freemcp.space/featured/mcp-server-trino) — MCP Server for Trino
 - [databricks-genie-MCP](https://freemcp.space/featured/databricks-genie-mcp) — A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
 - [nile-mcp-server](https://freemcp.space/featured/nile-mcp-server) — MCP server for Nile Database - Manage and query databases, tenants, users, auth using LLMs
@@ -166,31 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [datapulse-my](https://freemcp.space/featured/datapulse-my) — Open-source trust & interoperability layer for Malaysian public data: freshness monitoring, schema validation, and health reports for official datasets.
 - [greencalculus-mcp](https://freemcp.space/featured/greencalculus-mcp) — Run the GreenCalculus MCP server over stdio — sourced carbon emission factors and audit-traced calculations an AI can cite.
 - [datanika-core](https://freemcp.space/featured/datanika-core) — Your entire data pipeline. One platform
-- [icloud-mcp](https://freemcp.space/featured/icloud-mcp) — MCP server for iCloud Mail over IMAP/SMTP — search every folder, read, draft, send, flag and file your Apple mail. Runs locally, no third party.
-- [agentrender-mcp](https://freemcp.space/featured/agentrender-mcp) — MCP + REST: URL to screenshot, PDF, or structured extract for AI agents
-- [gen-image-mcp](https://freemcp.space/featured/gen-image-mcp) — Local MCP for OpenAI-compatible and Gemini image generation, editing, and automatic model fallback
-- [MCPg](https://freemcp.space/devopam/mcpg) — **A production-grade [Model Context Protocol](https://modelcontextprotocol.io) server for PostgreSQL.** It lets AI agents safely inspect, query, operate, and tune a Postgres database — 254 tools spanning catalog introspection, query intelligence, natural-language SQL, structural diffs, hybrid search
-- [mcp-hydrolix](https://freemcp.space/featured/mcp-hydrolix) — An MCP server for Hydrolix
-- [coremcp](https://freemcp.space/featured/coremcp-2) — CoreMCP: Connect Legacy Databases to AI Agents via Model Context Protocol. Open-source bridge for LLM data analysis.
-- [postgres_mcp](https://freemcp.space/featured/postgres-mcp) — The only postgress MCP server I have been able to connect to my docker postgres
-- [memvid-mcp-server](https://freemcp.space/featured/memvid-mcp-server) — A Streamable HTTP MCP Server for Memvid
-- [VictoriaMetrics-mcp-server](https://freemcp.space/featured/victoriametrics-mcp) — MCP Server for the VictoriaMetrics.
-- [simple_snowflake_mcp](https://freemcp.space/featured/simple-snowflake-mcp) — Simple Snowflake MCP server that works behind a corporate proxy. Read and write (optional) operations
-- [skysql-mcp](https://freemcp.space/featured/skysql-mcp) — SkySQL MCP server and client repository.
-- [dolphindb-mcp-server](https://freemcp.space/featured/dolphindb-mcp-server) — dolphindb-mcp-server
-- [safedb-mcp](https://freemcp.space/featured/safedb-mcp) — Secure MCP server for safe, read-only DB access by AI agents, with SQL guardrails, table allowlists, PII masking, and audit logs
-- [migrationpilot](https://freemcp.space/featured/migrationpilot) — PostgreSQL migration linter. Blocks unsafe migrations before merge: 112 rules, the real Postgres parser, lock analysis, auto-fix. CLI, GitHub Action, MCP.
-- [brasil-data-mcp](https://freemcp.space/featured/brasil-data-mcp) — MCP server providing access to Brazilian public data (CNPJ, CEP, banks, holidays, DDD, ISBN, economic rates, exchange rates, CVM brokers, IBGE states/municipalities, .br domains) via BrasilAPI. For Claude Desktop, Claude Code, Cursor and other MCP clients.
-- [metabase-mcp](https://freemcp.space/featured/metabase-mcp-2) — MCP server connecting Claude to Metabase for natural language data analysis, dashboard management, and SQL queries
-- [alkemi-mcp](https://freemcp.space/featured/alkemi-mcp) — A STDIO Model Context Protocol Server that lets MCP Clients query databases using plain-english questions and query exposed API endpoints abstracting data products.
-- [method-crm-mcp](https://freemcp.space/featured/method-crm-mcp) — Production-ready Model Context Protocol (MCP) server for Method CRM API integration. Enables LLMs to interact with Method CRM through 20 comprehensive tools.
-- [apiverket-mcp](https://freemcp.space/featured/apiverket-mcp) — MCP server for querying Swedish government data via Apiverket.se API
-- [autario-mcp](https://freemcp.space/featured/autario-mcp) — Autario MCP server | Query 2,500+ verified datasets from your AI agent
-- [mcp-airflow](https://freemcp.space/featured/mcp-airflow) — MCP server for airflow
-- [scala-mcp-server](https://freemcp.space/featured/scala-mcp-server) — MCP server for AI agents — search 250M+ companies via Claude, ChatGPT, Cursor. Free company data API.
-- [verilexdata-mcp](https://freemcp.space/featured/verilexdata-mcp) — MCP server for Verilex Data — query NPI, SEC, PACER, Weather, and OTC datasets from AI agents
-- [mcp-kafka](https://freemcp.space/featured/mcp-kafka) — MCP server for Apache Kafka — monitor & manage clusters, topics, and consumer groups (with lag), with security modes and access-control flags.
-- [mcp-debezium](https://freemcp.space/featured/mcp-debezium) — MCP server for Debezium / Kafka Connect — monitor & manage CDC connectors with security modes and access-control flags.
 <!-- freemcp:end -->
 
 ---
