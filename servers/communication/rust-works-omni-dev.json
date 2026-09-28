@@ -1,0 +1,16 @@
+{
+  "name": "omni-dev",
+  "description": "AI-powered git commit rewriter, PR generator, and MCP server for Jira, Confluence, and Datadog. Single Rust binary.",
+  "git_url": "https://github.com/rust-works/omni-dev",
+  "author_github": "rust-works",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "anthropic",
+    "atlassian",
+    "automation",
+    "claude"
+  ],
+  "license": "BSD-3-Clause",
+  "status": "active"
+}
