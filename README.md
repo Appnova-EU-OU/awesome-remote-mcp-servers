@@ -91,6 +91,30 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [kilo-kit-mcp](https://freemcp.space/featured/kilo-kit-mcp) — An MCP server for safer coding agents: skill routing, C4 workflow gates, memory checks, and verification before completion.
+- [DevProjex](https://freemcp.space/featured/devprojex) — Build safe, token-efficient codebase context for LLMs, AI chats, and coding agents — local-first GUI, TUI, CLI, and a read-only MCP server with Smart Ignore, secret/PII redaction, Git scopes, and code compression.
+- [dbconvert-streams-public](https://freemcp.space/dbconvert/dbconvert-streams-pu) — DBConvert Streams: Database IDE, Federated SQL, Real-time CDC & AI assistants via MCP — explore, query, and replicate data across databases and files
+- [mcp-sqlalchemy-server](https://freemcp.space/featured/mcp-sqlalchemy-serve) — A simple MCP ODBC server using FastAPI, ODBC and SQLAlchemy.
+- [fable-mode](https://freemcp.space/featured/fable-mode) — Open-source MCP control plane for AI coding agents: mechanical time-locks, evidence-gated proof receipts, red-team remediation, and persistent engineering memory.
+- [primitiv](https://freemcp.space/featured/primitiv) — The design system infrastructure keeping teams and agents in sync.
+- [aspnetcore-debugger-mcp](https://freemcp.space/featured/aspnetcore-debugger) — MCP server that lets AI agents (Claude, Cursor) debug your .NET / ASP.NET Core app
+- [ios-mcp-code-quality-server](https://freemcp.space/featured/ios-mcp-code-quality) — This server enables AI assistants to run Xcode tests, perform linter analysis, and provide detailed feedback on iOS projects through structured, actionable reports.
+- [codebeamer-mcp](https://freemcp.space/featured/codebeamer-mcp-2) — Codebeamer ALM: read and write work items, trackers, projects, associations, references, comments and risk management data via the REST API.
+- [ai-dev-analytics](https://freemcp.space/featured/ai-dev-analytics-2) — An open-source AI coding observability layer. Silently tracks vibe coding sessions via MCP and codifies AI deviations into project rules. 100% local.
+- [studiomcphub](https://freemcp.space/featured/studiomcphub) — Creative AI MCP server — 32 tools (18 free): image generation, upscaling, bg removal, mockups, CMYK, print-ready PDF, vectorization, watermarking, enrichment, provenance. Pay per call via x402/Stripe/GCX.
+- [agent-utils-mcp](https://freemcp.space/featured/agent-utils-mcp-2) — Utility tools with x402 micropayments: JSON validation, base64, hashing, UUIDs, regex testing, Markdown and datetime conversion, cron parsing and JWT decoding.
+- [wp-cli-mcp](https://freemcp.space/featured/wp-cli-mcp) — MCP server that gives AI tools full WordPress management via WP-CLI — 30+ tools for themes, plugins, posts, menus, users, database, and scaffolding
+- [HuaweiAppGalleryMcp](https://freemcp.space/featured/huaweiappgallerymcp) — Huawei AppGallery Connect publishing: upload APK/AAB, update metadata and localizations, submit for review, and manage phased rollouts.
+- [agent-gate](https://freemcp.space/featured/agent-gate) — MCP server that adds a fail-closed quality gate and hash-chained receipt ledger to any AI agent workflow.
+- [elementor-mcp-agent](https://freemcp.space/featured/elementor-mcp-agent) — Agency-grade MCP server for WordPress Elementor — multi-site management, safe Elementor data editing, template export/import, version tracking. MIT.
+- [mcp-devtools](https://freemcp.space/featured/mcp-devtools) — AI-native developer tools via MCP — filesystem, databases, processes and OpenAPI for any MCP-compatible agent
+- [4DA](https://freemcp.space/featured/4da) — Privacy-first developer intelligence — surfaces what matters from the noise
+- [codebase-agent-mcp](https://freemcp.space/featured/codebase-agent-mcp) — A sub-harness (both an MCP server and an MCP client). Delegates documentation and source code analysis, as well as interactions with related context-providing MCP servers, to a local or inexpensive OpenAI-compatible LLM. Drastically reduces token usage and context size for coding agents on the top-tier LLM.
+- [briefkit-mcp-server](https://freemcp.space/featured/briefkit-mcp-server) — BriefKit — Engineer-grade specs for AI-built SaaS. 14 files. $9. briefkit.online
+- [mcp-agent-health](https://freemcp.space/featured/mcp-agent-health) — MCP server for AOS-compliant agent health reporting (P2 · advisory)
+- [mcp-blast-radius](https://freemcp.space/featured/mcp-blast-radius) — MCP Blast-Radius Auditor — static blast radius extraction and CI divergence gate for MCP servers.
+- [mobius-mcp](https://freemcp.space/featured/mobius-mcp) — MCP server + skill file for Sweipe/FlatMobile WordPress sites (agent REST surface)
+- [wordpress-mcp-agent-bridge](https://freemcp.space/featured/wordpress-mcp-agent) — WordPress MCP + REST bridge for AI agents — verified Rank Math SEO and schema writes, hashed snapshots, verified restore, additive-only gates. Claude Code, Cursor, any MCP client. Pairs with EMCP.
 - [selvedge](https://freemcp.space/featured/selvedge) — Decision provenance for AI-coded codebases: the why, and what was already tried and rejected.
 - [dbt-docs-mcp](https://freemcp.space/featured/dbt-docs-mcp) — MCP (model context protocol) server for interacting with dbt Docs
 - [mcp-postgres-server](https://freemcp.space/featured/mcp-postgres-server) — MCP server for PostgreSQL. Works with VS Code, Cursor, Claude Code, Codex, and Windsurf.
@@ -110,7 +134,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [nowsecure-mcp-server](https://freemcp.space/featured/nowsecure-mcp-server) — MCP server for NowSecure Platform: pull remediation findings and generate clean PDF reports, bypassing the broken UI report renderer.
 - [mcp-billing-gateway-sdk](https://freemcp.space/featured/mcp-billing-gateway) — Client SDK and docs for MCP Billing Gateway — add Stripe + x402 billing to any MCP server
 - [mcp-drill](https://freemcp.space/featured/mcp-drill) — Fault injection and reliability scoring for MCP servers
-- [github-projectpulse-mcp](https://freemcp.space/featured/github-projectpulse) — projectpulse-mcp.private
+- [github-projectpulse-mcp](https://freemcp.space/alexbypa/github-projectpulse) — projectpulse-mcp.private
 - [validate](https://freemcp.space/featured/validate) — Deterministic validation for AI-generated artifacts: JSON Schema, OpenAPI response, SQL. Typed verdicts with fix hints. Metered API + MCP.
 - [kiyas](https://freemcp.space/featured/kiyas) — MCP server + CLI for AI-powered design fidelity — compare Figma designs or screenshots against rendered UI. 90% mutation recall, zero false positives on a golden eval set. No API keys — uses your Claude Code or Codex subscription.
 - [pntr-cli](https://freemcp.space/featured/pntr-cli) — CLI and MCP server for PNTR — free *.pntr.dev subdomains with DNS, disposable email, and AI-native management
@@ -167,30 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-server](https://freemcp.space/featured/mcp-server-18) — Remote MCP server for 2ools — build, version, review and export websites, web apps and games from the AI chat you already use. 43 tools, one free and authless.
 - [mcp-doctor](https://freemcp.space/featured/mcp-doctor-2) — Zero-config health check, binary validator, and JSON auto-repair engine for Claude Desktop, Cursor, and Cline MCP setups.
 - [mcp-context-condenser](https://freemcp.space/featured/mcp-context-condense) — Token-slimming AST code outliner, log compressor & context budget analyzer for AI coding agents (Cursor, Claude, Cline, Antigravity). Slashes token usage & LLM API bills up to 85%.
-- [mcp-dataverse](https://freemcp.space/featured/mcp-dataverse) — MCP server for Microsoft Dataverse Web API for devs !
-- [kafka-mcp](https://freemcp.space/featured/kafka-mcp) — MCP Server for Apache Kafka
-- [google-sheets-mcp](https://freemcp.space/featured/google-sheets-mcp-2) — Python package of google sheet mcp
-- [mcp-odbc-server](https://freemcp.space/featured/mcp-odbc-server) — Typescript based Model Context Procotol (MCP) Server for Open Database Connectivity (ODBC)
-- [mcp-timeplus](https://freemcp.space/featured/mcp-timeplus) — Execute SQL queries and manage databases seamlessly with Timeplus. Leverage powerful tools to interact with your data, Kafka topics, and Iceberg tables efficiently. Enhance your data workflows with a user-friendly interface and robust backend capabilities.
-- [datacharter](https://freemcp.space/featured/datacharter) — Your data, explored locally — and your AI agents kept on a leash. A federated data explorer with governed agentic access.
-- [qlik-mcp](https://freemcp.space/featured/qlik-mcp) — An MCP server to run qlik
-- [ibge-br-mcp](https://freemcp.space/featured/ibge-br-mcp) — MCP Server for IBGE APIs - Brazilian geographic, demographic and statistical data
-- [mcp-flowcore-platform](https://freemcp.space/featured/mcp-flowcore-platfor) — MCP server for managing and interacting with Flowcore Platform
-- [mercadolibre-mcp](https://freemcp.space/featured/mercadolibre-mcp) — MercadoLibre MCP server for AI agents. Search products, browse categories, track trends across Latin America.
-- [mcp-vtenext](https://freemcp.space/featured/mcp-vtenext) — MCP server for VTENext CRM: exposes the WebService API as tools for Claude and other MCP clients
-- [oyemi-mcp](https://freemcp.space/featured/oyemi-mcp) — MCP support for Oyemi Library
-- [mcp-reunion](https://freemcp.space/featured/mcp-reunion) — MCP server for La Réunion open data
-- [permisapi-mcp](https://freemcp.space/featured/permisapi-mcp) — MCP server officiel pour PermisAPI (1,2 M+ permis de construire FR 2014-2026, Sitadel open data). 10 outils, pip-installable, stdio transport pour Claude Desktop / Cursor / Windsurf.
-- [caisse-enregistreuse-mcp-server](https://freemcp.space/featured/caisse-enregistreuse) — Kash.click MCP server [Official]
-- [mrc-data](https://freemcp.space/featured/mrc-data) — China's apparel supply chain data infrastructure for AI agents — 3,000+ verified suppliers, 350+ lab-tested fabrics, 170+ industrial clusters. MCP + REST + OpenAPI.
-- [power-bi-mcp](https://freemcp.space/featured/power-bi-mcp) — Power BI MCP server with device code auth, enhanced refresh (table-level polling with retry), refresh diagnostics with root-cause error catalog, DAX queries with RLS simulation, PBIP source locating, and scheduled refresh reports.
-- [keyneg-mcp](https://freemcp.space/featured/keyneg-mcp) — Keyneg connector
-- [flexorch-mcp](https://freemcp.space/featured/flexorch-mcp) — MCP server for FlexOrch — SDK for machines
-- [aicommander](https://freemcp.space/featured/aicommander) — Release binaries and SHA256SUMS for AI Commander (aicommander.dev)
-- [capmonster-mcp-captcha-solver](https://freemcp.space/featured/capmonster-mcp-captc) — Official CapMonster Cloud MCP server — AI captcha solver for reCAPTCHA v2/v3, Cloudflare Turnstile & DataDome. Let Claude, Cursor, and other AI agents solve captchas directly via MCP.
-- [datapulse-my](https://freemcp.space/featured/datapulse-my) — Open-source trust & interoperability layer for Malaysian public data: freshness monitoring, schema validation, and health reports for official datasets.
-- [greencalculus-mcp](https://freemcp.space/featured/greencalculus-mcp) — Run the GreenCalculus MCP server over stdio — sourced carbon emission factors and audit-traced calculations an AI can cite.
-- [datanika-core](https://freemcp.space/featured/datanika-core) — Your entire data pipeline. One platform
 <!-- freemcp:end -->
 
 ---
