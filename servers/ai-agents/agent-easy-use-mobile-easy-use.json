@@ -1,0 +1,17 @@
+{
+  "name": "mobile-easy-use",
+  "description": "Runtime access for AI coding agents to observe and control Android and iOS apps. ",
+  "git_url": "https://github.com/agent-easy-use/mobile-easy-use",
+  "author_github": "agent-easy-use",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "android",
+    "debugging",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/agent-easy-use/mobile-easy-use#readme"
+}
