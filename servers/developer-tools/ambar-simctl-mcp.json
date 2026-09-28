@@ -1,0 +1,15 @@
+{
+  "name": "simctl-mcp",
+  "description": "Control the iOS Simulator.",
+  "git_url": "https://github.com/ambar/simctl-mcp",
+  "author_github": "ambar",
+  "category": "developer-tools",
+  "tags": [
+    "simctl",
+    "control",
+    "ios",
+    "simulator"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
