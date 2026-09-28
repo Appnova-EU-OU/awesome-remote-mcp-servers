@@ -1,0 +1,17 @@
+{
+  "name": "telos",
+  "description": "Build shared AI workspaces for creation, simulation, verification, MCP tools, and replayable receipts.",
+  "git_url": "https://github.com/HarperZ9/telos",
+  "author_github": "HarperZ9",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "automation",
+    "browserautomation",
+    "computeruse",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://harperz9.github.io/studio.html"
+}
