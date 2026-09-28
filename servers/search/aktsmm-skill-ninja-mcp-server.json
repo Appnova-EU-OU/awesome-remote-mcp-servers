@@ -1,0 +1,16 @@
+{
+  "name": "skill-ninja-mcp-server",
+  "description": "MCP Server for Agent Skill Ninja - Search, Install, and Manage Agent Skills",
+  "git_url": "https://github.com/aktsmm/skill-ninja-mcp-server",
+  "author_github": "aktsmm",
+  "category": "search",
+  "tags": [
+    "skill",
+    "ninja",
+    "agent",
+    "search",
+    "install"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
