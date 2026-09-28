@@ -1,0 +1,17 @@
+{
+  "name": "registep-mcp",
+  "description": "Registep MCP Server - AI-powered POS & sales analytics for Claude Code, Cursor, and other MCP clients",
+  "git_url": "https://github.com/saikiyusuke/registep-mcp",
+  "author_github": "saikiyusuke",
+  "category": "ai-agents",
+  "tags": [
+    "registep",
+    "powered",
+    "pos",
+    "sales",
+    "analytics"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://registep.jp"
+}
