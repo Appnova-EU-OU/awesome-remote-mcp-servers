@@ -1,0 +1,14 @@
+{
+  "name": "MCP_AI_SOC_Sher",
+  "description": "AI SOC  Security Threat analysis using  MCP Server ",
+  "git_url": "https://github.com/akramIOT/MCP_AI_SOC_Sher",
+  "author_github": "akramIOT",
+  "category": "security",
+  "tags": [
+    "aisoc",
+    "mcpsecurity",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
