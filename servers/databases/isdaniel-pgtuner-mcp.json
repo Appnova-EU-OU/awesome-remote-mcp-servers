@@ -1,0 +1,15 @@
+{
+  "name": "pgtuner_mcp",
+  "description": "provides AI-powered PostgreSQL performance tuning capabilities.",
+  "git_url": "https://github.com/isdaniel/pgtuner_mcp",
+  "author_github": "isdaniel",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "mcpserver",
+    "python",
+    "python3"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
