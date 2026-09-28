@@ -1,0 +1,16 @@
+{
+  "name": "cws-mcp",
+  "description": "MCP server for Chrome Web Store — upload, publish, status, metadata & Playwright-based UI automation",
+  "git_url": "https://github.com/mikusnuz/cws-mcp",
+  "author_github": "mikusnuz",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "browserextension",
+    "chromeextension",
+    "chromewebstore",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
