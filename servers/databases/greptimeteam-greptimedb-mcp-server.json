@@ -1,0 +1,16 @@
+{
+  "name": "greptimedb-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for GreptimeDB",
+  "git_url": "https://github.com/GreptimeTeam/greptimedb-mcp-server",
+  "author_github": "GreptimeTeam",
+  "category": "databases",
+  "tags": [
+    "greptimedb",
+    "mcpserver",
+    "observability",
+    "observabilitydata",
+    "timeseriesanalysis"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
