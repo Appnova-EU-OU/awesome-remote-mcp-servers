@@ -1,0 +1,16 @@
+{
+  "name": "defluff",
+  "description": "Deterministic slop detector for AI-generated prose. No model, no API key.",
+  "git_url": "https://github.com/ahmedak/defluff",
+  "author_github": "ahmedak",
+  "category": "ai-agents",
+  "tags": [
+    "aidetection",
+    "antislop",
+    "cli",
+    "llm",
+    "llmtools"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
