@@ -1,0 +1,17 @@
+{
+  "name": "mcp-web-validator",
+  "description": "W3C HTML/CSS Validator and Technical SEO Audit MCP Server. Part of the DigestSEO (https://digestseo.com) suite.",
+  "git_url": "https://github.com/AKzar1el/mcp-web-validator",
+  "author_github": "AKzar1el",
+  "category": "developer-tools",
+  "tags": [
+    "accessibility",
+    "cssvalidator",
+    "developertools",
+    "htmlvalidator",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://digestseo.com/validator-mcp/"
+}
