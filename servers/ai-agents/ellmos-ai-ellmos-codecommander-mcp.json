@@ -1,0 +1,17 @@
+{
+  "name": "ellmos-codecommander-mcp",
+  "description": "Developer-focused MCP server with 23 tools for Python code analysis, structural editing, JSON repair, imports, encoding, Markdown/PDF export, diffs, and regex testing",
+  "git_url": "https://github.com/ellmos-ai/ellmos-codecommander-mcp",
+  "author_github": "ellmos-ai",
+  "category": "ai-agents",
+  "tags": [
+    "aicodingassistant",
+    "claude",
+    "claudecode",
+    "codeanalysis",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/ellmos-codecommander-mcp"
+}
