@@ -1,0 +1,17 @@
+{
+  "name": "SchemaCrawler-MCP-Server-Usage",
+  "description": "Find out how to use SchemaCrawler AI MCP Server",
+  "git_url": "https://github.com/schemacrawler/SchemaCrawler-MCP-Server-Usage",
+  "author_github": "schemacrawler",
+  "category": "ai-agents",
+  "tags": [
+    "schemacrawler",
+    "usage",
+    "find",
+    "out",
+    "how"
+  ],
+  "license": "EPL-2.0",
+  "status": "active",
+  "homepage": "https://www.schemacrawler.com/"
+}
