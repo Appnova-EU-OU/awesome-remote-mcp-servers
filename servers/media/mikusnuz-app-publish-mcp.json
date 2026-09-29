@@ -1,0 +1,16 @@
+{
+  "name": "app-publish-mcp",
+  "description": "Unified MCP server for App Store Connect & Google Play Console — 91 tools for listings, screenshots, releases, reviews & submissions",
+  "git_url": "https://github.com/mikusnuz/app-publish-mcp",
+  "author_github": "mikusnuz",
+  "category": "media",
+  "tags": [
+    "aitools",
+    "android",
+    "apppublishing",
+    "appstoreconnect",
+    "googleplay"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
