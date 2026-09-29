@@ -1,0 +1,16 @@
+{
+  "name": "kafka-schema-reg-mcp",
+  "description": "A comprehensive Message Control Protocol (MCP) server for Kafka Schema Registry.",
+  "git_url": "https://github.com/aywengo/kafka-schema-reg-mcp",
+  "author_github": "aywengo",
+  "category": "cloud-infra",
+  "tags": [
+    "apachekafka",
+    "claudedesktop",
+    "cursor",
+    "docker",
+    "enterprise"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
