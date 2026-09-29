@@ -1,0 +1,16 @@
+{
+  "name": "code-context",
+  "description": "Retrieval + inference offload for AI coding agents.",
+  "git_url": "https://github.com/infino-ai/code-context",
+  "author_github": "infino-ai",
+  "category": "search",
+  "tags": [
+    "bm25",
+    "claudecode",
+    "codesearch",
+    "codebasecontext",
+    "codingagents"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
