@@ -1,0 +1,16 @@
+{
+  "name": "fastmcp-sonarqube-metrics",
+  "description": "Chat with your SonarQube data: explore metrics, compare trends, and track issues—effortlessly.",
+  "git_url": "https://github.com/ArchAI-Labs/fastmcp-sonarqube-metrics",
+  "author_github": "ArchAI-Labs",
+  "category": "communication",
+  "tags": [
+    "mcpserver",
+    "sonarqube",
+    "fastmcp",
+    "metrics",
+    "chat"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
