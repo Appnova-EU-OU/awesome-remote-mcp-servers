@@ -1,0 +1,16 @@
+{
+  "name": "eleata-verify-mcp",
+  "description": "MCP server: grounding/hallucination guard — verify a claim against evidence (Supported/Refuted/NEE) for AI agents",
+  "git_url": "https://github.com/hernaninverso/eleata-verify-mcp",
+  "author_github": "hernaninverso",
+  "category": "ai-agents",
+  "tags": [
+    "eleata",
+    "verify",
+    "grounding",
+    "hallucination",
+    "guard"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
