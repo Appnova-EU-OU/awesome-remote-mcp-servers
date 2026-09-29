@@ -1,0 +1,16 @@
+{
+  "name": "python-docs-mcp-server",
+  "description": "Read-only MCP server for official Python docs: local index, no API keys, exact symbol lookup, version-aware retrieval.",
+  "git_url": "https://github.com/ayhammouda/python-docs-mcp-server",
+  "author_github": "ayhammouda",
+  "category": "databases",
+  "tags": [
+    "claude",
+    "cursor",
+    "documentation",
+    "fts5",
+    "glama"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
