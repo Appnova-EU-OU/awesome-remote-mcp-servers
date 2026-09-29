@@ -1,0 +1,17 @@
+{
+  "name": "codex-pets",
+  "description": "Community gallery, CLI, and MCP service for Codex-compatible animated pets, backed by YDB.",
+  "git_url": "https://github.com/astandrik/codex-pets",
+  "author_github": "astandrik",
+  "category": "databases",
+  "tags": [
+    "codex",
+    "codexcli",
+    "codingagents",
+    "developertools",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pets.ydb-qdrant.tech/"
+}
