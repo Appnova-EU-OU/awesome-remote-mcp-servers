@@ -1,0 +1,14 @@
+{
+  "name": "ydb-mcp",
+  "description": "Interact with YDB databases.",
+  "git_url": "https://github.com/ydb-platform/ydb-mcp",
+  "author_github": "ydb-platform",
+  "category": "databases",
+  "tags": [
+    "ydb",
+    "interact",
+    "databases"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
