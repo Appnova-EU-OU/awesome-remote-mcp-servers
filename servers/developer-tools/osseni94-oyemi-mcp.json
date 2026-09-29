@@ -1,0 +1,14 @@
+{
+  "name": "oyemi-mcp",
+  "description": "MCP support for Oyemi Library",
+  "git_url": "https://github.com/Osseni94/oyemi-mcp",
+  "author_github": "Osseni94",
+  "category": "developer-tools",
+  "tags": [
+    "oyemi",
+    "support",
+    "library"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
