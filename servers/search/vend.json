@@ -1,0 +1,11 @@
+{
+  "name": "Vend API Merchant",
+  "description": "Pay-per-call web extraction and search for agents, settled per call in Nano (XNO) via the x402 protocol.",
+  "git_url": "https://github.com/dhyabi2/vend",
+  "homepage": "https://extract.paypercall.dev/",
+  "author_github": "dhyabi2",
+  "category": "search",
+  "tags": ["search", "web", "extraction", "scraping", "x402", "nano"],
+  "license": "MIT",
+  "status": "active"
+}
