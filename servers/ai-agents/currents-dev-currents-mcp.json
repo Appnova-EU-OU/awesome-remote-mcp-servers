@@ -1,0 +1,16 @@
+{
+  "name": "currents-mcp",
+  "description": "Currents MCP Server",
+  "git_url": "https://github.com/currents-dev/currents-mcp",
+  "author_github": "currents-dev",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "currents",
+    "mcp",
+    "playwright"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://currents.dev"
+}
