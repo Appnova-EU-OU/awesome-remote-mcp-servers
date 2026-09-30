@@ -1,0 +1,17 @@
+{
+  "name": "open-code-review",
+  "description": "🤖 AI code quality gate for AI-generated code. Detects hallucinated packages, phantom dependencies, stale APIs, and more. MCP Server + CLI + CI/CD Action.",
+  "git_url": "https://github.com/raye-deng/open-code-review",
+  "author_github": "raye-deng",
+  "category": "security",
+  "tags": [
+    "ai",
+    "aigeneratedcode",
+    "cicd",
+    "codequality",
+    "codereview"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://codes.evallab.ai"
+}
