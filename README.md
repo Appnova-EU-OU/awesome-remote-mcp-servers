@@ -91,6 +91,28 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [codesign](https://freemcp.space/featured/codesign) — CoDesign gives AI agents like Claude Code, Codex and PI a real design engine for genuine, editable designs, not flat images. Bring in what you have: InDesign, Photoshop, PowerPoint and PDF files stay editable. Exports print-ready PDFs with CMYK and bleed. Every design opens in a built-in editor for manual fixes. Runs on your machine, no account.
+- [mcp-server-couchbase](https://freemcp.space/featured/mcp-server-couchbase) — Model Context Protocol server for Couchbase - connect AI agents and LLMs like Claude, Cursor, and Copilot to Couchbase/Capella
+- [app-publish-mcp](https://freemcp.space/featured/app-publish-mcp) — Unified MCP server for App Store Connect & Google Play Console — 91 tools for listings, screenshots, releases, reviews & submissions
+- [roku-dev-studio](https://freemcp.space/featured/roku-dev-studio) — Cross-platform Electron desktop studio for Roku developers: remote control, device queries, sideload, telnet console, RALE/App Connector, BrightScript Fiddle, JSON Action Scripts, an `rds` CLI, an MCP server for AI agents, and an internet relay.
+- [dynatrace-managed-mcp](https://freemcp.space/featured/dynatrace-managed-mc) — An MCP server for self-hosted Dynatrace Managed platform
+- [kafka-schema-reg-mcp](https://freemcp.space/featured/kafka-schema-reg-mcp) — A comprehensive Message Control Protocol (MCP) server for Kafka Schema Registry.
+- [code-context](https://freemcp.space/featured/code-context) — Retrieval + inference offload for AI coding agents.
+- [docguard](https://freemcp.space/featured/docguard) — Audit and enforce canonical project documentation for AI-assisted development. Detect drift, validate specs, and brief agents. Part of the Guard family with TestGuard and WebSec Validator.
+- [mcp-database-server](https://freemcp.space/featured/mcp-database-server) — Store and load JSON documents from LLM tool use
+- [ydb-mcp](https://freemcp.space/featured/ydb-mcp) — Interact with YDB databases.
+- [mcp-code-runner](https://freemcp.space/featured/mcp-code-runner) — Run code in multiple programming languages locally via Docker.
+- [agent-skill-loader](https://freemcp.space/featured/agent-skill-loader) — MCP server to expose Claude Code Skills to AI agents
+- [fastmcp-sonarqube-metrics](https://freemcp.space/featured/fastmcp-sonarqube-me) — Chat with your SonarQube data: explore metrics, compare trends, and track issues—effortlessly.
+- [memorydetective](https://freemcp.space/featured/memorydetective) — MCP server for iOS leak hunting and performance investigation. 28 MCP tools, 34-pattern retain-cycle classifier with Swift fixTemplate snippets, compareTracesByPattern for CI gating, SourceKit-LSP source bridging. Reads .memgraph and .trace files; macOS only.
+- [echo-mcp](https://freemcp.space/featured/echo-mcp) — Enable AI assistants to interact with your Echo API 
+- [python-docs-mcp-server](https://freemcp.space/featured/python-docs-mcp-serv) — Read-only MCP server for official Python docs: local index, no API keys, exact symbol lookup, version-aware retrieval.
+- [openapi-to-mcp](https://freemcp.space/featured/openapi-to-mcp-2) — OpenApiMCPServer is an MCP server that automatically converts any OpenAPI/Swagger specification into a set of usable MCP tools
+- [squiggles](https://freemcp.space/featured/squiggles) — MCP server that lets your coding agent see the squiggles — LSP diagnostics, navigation, refactoring, and each server's custom superpowers
+- [jenkins-mcp-server](https://freemcp.space/featured/jenkins-mcp-server) — An MCP server for interacting with a Jenkins server. Allows you to trigger jobs, check build statuses, and manage your Jenkins instance through MCP.
+- [codex-pets](https://freemcp.space/astandrik/codex-pets) — Community gallery, CLI, and MCP service for Codex-compatible animated pets, backed by YDB.
+- [resharper-cli-mcp](https://freemcp.space/featured/resharper-cli-mcp) — MCP server wrapping JetBrains' ReSharper CLI for headless C# inspection and code cleanup for coding agents. Unofficial, not affiliated with JetBrains.
+- [featureflip-mcp](https://freemcp.space/featured/featureflip-mcp) — MCP server for Featureflip — manage feature flags from AI agents and editors (read-only mirror)
 - [SchemaCrawler-MCP-Server-Usage](https://freemcp.space/featured/schemacrawler-mcp-se) — Find out how to use SchemaCrawler AI MCP Server
 - [pgtuner_mcp](https://freemcp.space/featured/pgtuner-mcp) — provides AI-powered PostgreSQL performance tuning capabilities.
 - [greptimedb-mcp-server](https://freemcp.space/featured/greptimedb-mcp-serve) — A Model Context Protocol (MCP) server for GreptimeDB
@@ -169,28 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [nile-mcp-server](https://freemcp.space/featured/nile-mcp-server) — MCP server for Nile Database - Manage and query databases, tenants, users, auth using LLMs
 - [mcp-jdbc-server](https://freemcp.space/featured/mcp-jdbc-server) — Java based Model Context Procotol (MCP) Server for JDBC
 - [ictbroadcast-mcp](https://freemcp.space/featured/ictbroadcast-mcp) — MCP server for ICTBroadcast — monitor outbound voice/SMS/fax campaigns and start/stop them. By ICT Innovations.
-- [noisy-coding](https://freemcp.space/featured/noisy-coding) — Talk to Claude Code instead of typing: a voice daemon + dashboard that records you, transcribes, routes to your agent sessions, and speaks the replies back - with per-voice avatars, push-to-talk hotkeys, and a live conversation HUD
-- [reuse-before-generate](https://freemcp.space/featured/reuse-before-generat) — Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold.
-- [checkyourself](https://freemcp.space/featured/checkyourself) — Local-first completion-evidence system for AI-built apps: read-only audit, verifier-executed challenges, evidence-based 0-100 score, guided fixes, learning plan, CLI, and MCP.
-- [mcp-server-toolkit](https://freemcp.space/featured/mcp-server-toolkit) — MCP servers that help Claude Code/Cursor search your repo, docs, database, and git history instead of guessing.
-- [prumo](https://freemcp.space/elytonmoreira163/prumo) — Is your documentation still true? Checks the context files your coding agent reads against the code. Five high-precision checks, two reports, zero dependencies.
-- [bumpguard-mcp](https://freemcp.space/featured/bumpguard-mcp) — Guard your dependency bumps: an MCP server that tells your AI agent which parts of YOUR code break when you upgrade a dependency, and verifies AI-written code against the installed API - static analysis, never runs third-party code.
-- [mcp-code-indexer](https://freemcp.space/featured/mcp-code-indexer) — Index any TypeScript/React repo (incl. monorepos) into a queryable code graph — npx CLI, HTTP/WS + MCP server, 3D viewer. who-renders, who-calls, blast-radius, cycles, dead-code. npm: code-graph-indexer
-- [aso-audit-mcp](https://freemcp.space/featured/aso-audit-mcp) — Open-source Agent Signal Optimization audit MCP for scanning websites, APIs, and product surfaces for AI agent discoverability and readiness signals.
-- [cyberrescue](https://freemcp.space/featured/cyberrescue) — A secure, lightweight Model Context Protocol (MCP) host telemetry gateway built using Python, FastMCP, and python-on-whales.
-- [qwen-dap-mcp](https://freemcp.space/featured/qwen-dap-mcp) — Autonomous native crash debugging for Qwen Code via DAP → MCP. CodeLLDB, crash dumps, runtime evidence and agentic verification.
-- [nahook-mcp](https://freemcp.space/featured/nahook-mcp) — The official Model Context Protocol server for Nahook — trigger webhooks, inspect deliveries, and debug failures from Claude Desktop, Cursor, Cline, and any MCP-compatible AI client
-- [managed-agent-control-mcp](https://freemcp.space/featured/managed-agent-contro) — Start, observe, and interact with Claude Managed Agents from any MCP client (Claude.ai, Claude Code, …). Pluggable auth (bearer/OIDC/Cognito); runs on stdio, Docker, or AWS Lambda.
-- [verificate-mcp-quickstart](https://freemcp.space/featured/verificate-mcp-quick) — Take your vibe-coded MVP all the way to production — 17 reality gates + frontier-model review with veto power on every AI-written change. Hosted MCP; free to try, no signup.
-- [eleata-verify-mcp](https://freemcp.space/featured/eleata-verify-mcp) — MCP server: grounding/hallucination guard — verify a claim against evidence (Supported/Refuted/NEE) for AI agents
-- [vdiff](https://freemcp.space/featured/vdiff) — Breaking-change diffs for npm packages, served over REST and MCP, so coding agents stop writing code against outdated API knowledge.
-- [mcp-server](https://freemcp.space/featured/mcp-server-19) — Official MCP server for M00N Report: let an AI assistant author test cases, plan manual executions, cut releases and read project health over 50+ tools.
-- [ActionD](https://freemcp.space/featured/actiond) — Local CI/CD engine for AI agents: event-driven plugin execution on LGH git events, MCP server, web console
-- [docweave-mcp](https://freemcp.space/featured/docweave-mcp) — Open-source MCP server for Docweave — generate_pdf + read_pdf tools for AI agents (Claude, Cursor, …).
-- [delx-mcp-server](https://freemcp.space/featured/delx-mcp-server) — Free MCP stdio bridge for agent continuity: resume after compaction, hand off between runtimes, recover from failure. No API key.
-- [motionspec](https://freemcp.space/featured/motionspec) — Verifies and compiles reduced-motion-safe, on-budget UI animation for AI-generated web apps: schema-validated specs to deterministic vanilla-GSAP + CSS, WCAG 2.2.2 / 2.3.3 checks. MIT core, keyless MCP server, free web check at motionspec.dev/motion-check. Not Motion.dev/Framer Motion, not the Android/iOS MotionSpec class, not a video generator.
-- [tokenchit](https://freemcp.space/featured/tokenchit) — Read your local AI coding agent logs and render a stat card into your repo.
-- [mysql-mcp-server](https://freemcp.space/featured/mysql-mcp-server-2) — mcp model-context-protocol mysql cursor n8n
 <!-- freemcp:end -->
 
 ---
