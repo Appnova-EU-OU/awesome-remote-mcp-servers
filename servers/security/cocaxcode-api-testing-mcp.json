@@ -1,0 +1,17 @@
+{
+  "name": "api-testing-mcp",
+  "description": "The most complete MCP server for API testing. 27 tools: requests, assertions, flows, OpenAPI, mock data, load testing, collections, environments, cURL export, response diffing. Zero config, zero dependencies.",
+  "git_url": "https://github.com/cocaxcode/api-testing-mcp",
+  "author_github": "cocaxcode",
+  "category": "security",
+  "tags": [
+    "aitools",
+    "apitesting",
+    "claude",
+    "codex",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@cocaxcode/api-testing-mcp"
+}
