@@ -1,0 +1,19 @@
+{
+  "name": "RunAPI MCP Server",
+  "description": "Discover models and pricing, then create and monitor image, video, music, audio, and other model API tasks through MCP.",
+  "git_url": "https://github.com/runapi-ai/mcp",
+  "npm_package": "@runapi.ai/mcp",
+  "homepage": "https://runapi.ai/mcp",
+  "author_github": "runapi-ai",
+  "category": "media",
+  "tags": ["image-generation", "video-generation", "music", "audio", "models"],
+  "env_keys": [
+    {
+      "key": "RUNAPI_API_KEY",
+      "kind": "optional",
+      "description": "RunAPI API key for authenticated task creation, status, and balance tools."
+    }
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
