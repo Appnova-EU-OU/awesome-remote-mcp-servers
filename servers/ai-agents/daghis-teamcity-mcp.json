@@ -1,0 +1,17 @@
+{
+  "name": "teamcity-mcp",
+  "description": "Model Context Protocol (MCP) server for JetBrains TeamCity: control builds, tests, agents and configs from AI coding assistants.",
+  "git_url": "https://github.com/Daghis/teamcity-mcp",
+  "author_github": "Daghis",
+  "category": "ai-agents",
+  "tags": [
+    "automation",
+    "cd",
+    "ci",
+    "devops",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/Daghis/teamcity-mcp"
+}
