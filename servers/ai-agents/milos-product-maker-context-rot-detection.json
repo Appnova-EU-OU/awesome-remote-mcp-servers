@@ -1,0 +1,16 @@
+{
+  "name": "context-rot-detection",
+  "description": "Context Rot Detection & Healing MCP Service — gives AI agents self-awareness about their cognitive state",
+  "git_url": "https://github.com/milos-product-maker/context-rot-detection",
+  "author_github": "milos-product-maker",
+  "category": "ai-agents",
+  "tags": [
+    "rot",
+    "detection",
+    "healing",
+    "service",
+    "gives"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
