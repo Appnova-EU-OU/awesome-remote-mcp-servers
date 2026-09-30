@@ -1,0 +1,17 @@
+{
+  "name": "codelogic-mcp-server",
+  "description": "An MCP Server to utilize Lineai's rich software dependency data in your AI programming assistant.",
+  "git_url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
+  "author_github": "CodeLogicIncEngineering",
+  "category": "security",
+  "tags": [
+    "ai",
+    "aiagents",
+    "coding",
+    "developertools",
+    "mcpserver"
+  ],
+  "license": "MPL-2.0",
+  "status": "active",
+  "homepage": "https://codelogic.com/"
+}
