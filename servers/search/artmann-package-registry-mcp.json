@@ -1,0 +1,16 @@
+{
+  "name": "package-registry-mcp",
+  "description": "MCP server for searching and getting up-to-date information about NPM, Cargo, PyPi, and NuGet packages.",
+  "git_url": "https://github.com/artmann/package-registry-mcp",
+  "author_github": "artmann",
+  "category": "search",
+  "tags": [
+    "package",
+    "registry",
+    "searching",
+    "getting",
+    "date"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
