@@ -1,0 +1,12 @@
+{
+  "name": "conan-mcp",
+  "description": "Model Context Protocol server for Conan",
+  "git_url": "https://github.com/conan-io/conan-mcp",
+  "author_github": "conan-io",
+  "category": "developer-tools",
+  "tags": [
+    "conan"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
