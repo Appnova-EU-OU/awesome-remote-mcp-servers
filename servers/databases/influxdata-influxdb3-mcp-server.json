@@ -1,0 +1,12 @@
+{
+  "name": "influxdb3_mcp_server",
+  "description": "MCP Server for InfluxDB 3",
+  "git_url": "https://github.com/influxdata/influxdb3_mcp_server",
+  "author_github": "influxdata",
+  "category": "databases",
+  "tags": [
+    "influxdb"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
