@@ -1,0 +1,17 @@
+{
+  "name": "apple-mail-mcp",
+  "description": "MCP server for Apple Mail: sub-ms search over 300k+ messages via Mail's own SQLite index, verified sends, Exchange body backfill, triage plan/review/apply. 849 tests, MIT.",
+  "git_url": "https://github.com/parasxos/apple-mail-mcp",
+  "author_github": "parasxos",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "applemail",
+    "claude",
+    "claudecode",
+    "claudedesktop"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/apple-mailbox-mcp/"
+}
