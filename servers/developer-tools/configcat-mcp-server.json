@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "Official ConfigCat Model Context Protocol (MCP) Server ",
+  "git_url": "https://github.com/configcat/mcp-server",
+  "author_github": "configcat",
+  "category": "developer-tools",
+  "tags": [
+    "configcat",
+    "featureflags",
+    "featuretoggle",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://configcat.com/docs/advanced/mcp-server/"
+}
