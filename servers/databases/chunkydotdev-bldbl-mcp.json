@@ -1,0 +1,16 @@
+{
+  "name": "bldbl-mcp",
+  "description": "Buildable development platform: manage tasks, track progress, get project context and collaborate with humans on software projects.",
+  "git_url": "https://github.com/chunkydotdev/bldbl-mcp",
+  "author_github": "chunkydotdev",
+  "category": "databases",
+  "tags": [
+    "bldbl",
+    "buildable",
+    "development",
+    "platform",
+    "manage"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
