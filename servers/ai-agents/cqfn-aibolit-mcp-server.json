@@ -1,0 +1,15 @@
+{
+  "name": "aibolit-mcp-server",
+  "description": "MCP Server for Aibolit Java Static Analyzer: Helping Your AI Agent Identify Hotspots for Refactoring",
+  "git_url": "https://github.com/cqfn/aibolit-mcp-server",
+  "author_github": "cqfn",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "mcpserver",
+    "refactoring"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/aibolit-mcp-server"
+}
