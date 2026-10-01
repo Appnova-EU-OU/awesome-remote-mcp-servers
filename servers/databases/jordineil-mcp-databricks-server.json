@@ -1,0 +1,12 @@
+{
+  "name": "mcp-databricks-server",
+  "description": "MCP Server for Databricks",
+  "git_url": "https://github.com/JordiNeil/mcp-databricks-server",
+  "author_github": "JordiNeil",
+  "category": "databases",
+  "tags": [
+    "databricks"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
