@@ -1,0 +1,16 @@
+{
+  "name": "endiagram-mcp",
+  "description": "MCP server for EN Diagram — structural analysis for any system. Install: npx @endiagram/mcp",
+  "git_url": "https://github.com/dushyant30suthar/endiagram-mcp",
+  "author_github": "dushyant30suthar",
+  "category": "developer-tools",
+  "tags": [
+    "endiagram",
+    "diagram",
+    "structural",
+    "analysis",
+    "any"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
