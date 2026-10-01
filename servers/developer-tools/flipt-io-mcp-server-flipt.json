@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-flipt",
+  "description": "Interact with feature flags in Flipt.",
+  "git_url": "https://github.com/flipt-io/mcp-server-flipt",
+  "author_github": "flipt-io",
+  "category": "developer-tools",
+  "tags": [
+    "flipt",
+    "interact",
+    "feature",
+    "flags"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@flipt-io/mcp-server-flipt"
+}
