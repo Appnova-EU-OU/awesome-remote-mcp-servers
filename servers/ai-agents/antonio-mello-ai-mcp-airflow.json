@@ -1,0 +1,14 @@
+{
+  "name": "mcp-airflow",
+  "description": "MCP server for airflow",
+  "git_url": "https://github.com/antonio-mello-ai/mcp-airflow",
+  "author_github": "antonio-mello-ai",
+  "category": "ai-agents",
+  "tags": [
+    "felhen",
+    "mcpserver",
+    "airflow"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
