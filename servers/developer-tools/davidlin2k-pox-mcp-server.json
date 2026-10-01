@@ -1,0 +1,14 @@
+{
+  "name": "pox-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for the POX SDN controller",
+  "git_url": "https://github.com/davidlin2k/pox-mcp-server",
+  "author_github": "davidlin2k",
+  "category": "developer-tools",
+  "tags": [
+    "pox",
+    "sdn",
+    "controller"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
