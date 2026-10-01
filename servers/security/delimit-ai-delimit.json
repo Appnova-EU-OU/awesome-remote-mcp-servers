@@ -1,0 +1,17 @@
+{
+  "name": "delimit",
+  "description": "Building your AI organization: shared records and handoffs, plus a merge gate for AI-written code with signed, replayable attestation. Works with Claude Code, Codex, Cursor, and Gemini CLI.",
+  "git_url": "https://github.com/delimit-ai/delimit",
+  "author_github": "delimit-ai",
+  "category": "security",
+  "tags": [
+    "aigovernance",
+    "apigovernance",
+    "breakingchanges",
+    "claudecode",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://delimit.ai"
+}
