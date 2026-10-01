@@ -1,0 +1,17 @@
+{
+  "name": "infrabroker",
+  "description": "Infrastructure access broker for AI agents — SSH & Kubernetes. Per-operation ephemeral credentials minted by a separate signer; the model never touches one. MCP stdio / HTTP+OIDC.",
+  "git_url": "https://github.com/luisgf/infrabroker",
+  "author_github": "luisgf",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "golang",
+    "kubernetes",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://luisgf.github.io/infrabroker/"
+}
