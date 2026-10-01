@@ -1,0 +1,14 @@
+{
+  "name": "github-projectpulse-mcp",
+  "description": "projectpulse-mcp.private",
+  "git_url": "https://github.com/alexbypa/github-projectpulse-mcp",
+  "author_github": "alexbypa",
+  "category": "developer-tools",
+  "tags": [
+    "github",
+    "projectpulse",
+    "private"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
