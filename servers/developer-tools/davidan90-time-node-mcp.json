@@ -1,0 +1,16 @@
+{
+  "name": "time-node-mcp",
+  "description": "MCP server for timezone-aware date and time operations",
+  "git_url": "https://github.com/davidan90/time-node-mcp",
+  "author_github": "davidan90",
+  "category": "developer-tools",
+  "tags": [
+    "time",
+    "node",
+    "timezone",
+    "aware",
+    "date"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
