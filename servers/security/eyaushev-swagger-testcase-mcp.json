@@ -1,0 +1,16 @@
+{
+  "name": "swagger-testcase-mcp",
+  "description": "MCP server for API testing: generates test cases, validates specs, compares versions, and creates mock data from Swagger/OpenAPI specifications",
+  "git_url": "https://github.com/eyaushev/swagger-testcase-mcp",
+  "author_github": "eyaushev",
+  "category": "security",
+  "tags": [
+    "swagger",
+    "testcase",
+    "api",
+    "testing",
+    "generates"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
