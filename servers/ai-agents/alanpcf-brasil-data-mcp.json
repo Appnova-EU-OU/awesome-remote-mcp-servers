@@ -1,0 +1,17 @@
+{
+  "name": "brasil-data-mcp",
+  "description": "MCP server providing access to Brazilian public data (CNPJ, CEP, banks, holidays, DDD, ISBN, economic rates, exchange rates, CVM brokers, IBGE states/municipalities, .br domains) via BrasilAPI. For Claude Desktop, Claude Code, Cursor and other MCP clients.",
+  "git_url": "https://github.com/alanpcf/brasil-data-mcp",
+  "author_github": "alanpcf",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "brasil",
+    "brasilapi",
+    "cambio",
+    "cep"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/brasil-data-mcp"
+}
