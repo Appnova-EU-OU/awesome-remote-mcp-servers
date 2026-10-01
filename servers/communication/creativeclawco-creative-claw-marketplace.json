@@ -1,0 +1,17 @@
+{
+  "name": "creative-claw-marketplace",
+  "description": "Creative Claw: AI video, image and voiceover generation inside ChatGPT, Claude, Codex and Cursor. Seedance 2.5, Gemini Omni, Nano Banana 2, voice cloning. Pay as you go.",
+  "git_url": "https://github.com/CreativeClawCo/creative-claw-marketplace",
+  "author_github": "CreativeClawCo",
+  "category": "communication",
+  "tags": [
+    "aivideo",
+    "aivideogenerator",
+    "chatgptapps",
+    "chatgptplugin",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://creativeclaw.co"
+}
