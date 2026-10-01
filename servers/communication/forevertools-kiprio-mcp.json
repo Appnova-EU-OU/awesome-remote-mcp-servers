@@ -1,0 +1,17 @@
+{
+  "name": "kiprio-mcp",
+  "description": "MCP server exposing kiprio.com developer APIs (email/DNS/SSL/text/dev utilities) as tools for Claude, Cursor, and any MCP client.",
+  "git_url": "https://github.com/ForeverTools/kiprio-mcp",
+  "author_github": "ForeverTools",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "api",
+    "claude",
+    "developertools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://kiprio.com"
+}
