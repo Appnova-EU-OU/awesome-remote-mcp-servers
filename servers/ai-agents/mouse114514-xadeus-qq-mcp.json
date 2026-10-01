@@ -1,0 +1,16 @@
+{
+  "name": "Xadeus-QQ-MCP",
+  "description": "QQ MCP Server - connect AI agents to QQ via NapCatQQ. Auto-wake, messaging, group management, file sharing, cross-platform.",
+  "git_url": "https://github.com/mouse114514/Xadeus-QQ-MCP",
+  "author_github": "mouse114514",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "autowake",
+    "mcp",
+    "mcpserver",
+    "napcat"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
