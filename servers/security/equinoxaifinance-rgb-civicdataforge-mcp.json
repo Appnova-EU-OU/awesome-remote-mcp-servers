@@ -1,0 +1,17 @@
+{
+  "name": "civicdataforge-mcp",
+  "description": "Official public-records MCP tools for STR permits, LEIE screening, childcare licensing, and film permits.",
+  "git_url": "https://github.com/equinoxaifinance-rgb/civicdataforge-mcp",
+  "author_github": "equinoxaifinance-rgb",
+  "category": "security",
+  "tags": [
+    "apify",
+    "governmentdata",
+    "mcpserver",
+    "modelcontextprotocol",
+    "opendata"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://civicdataforge.pages.dev"
+}
