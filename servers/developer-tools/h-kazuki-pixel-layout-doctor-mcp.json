@@ -1,0 +1,16 @@
+{
+  "name": "layout-doctor-mcp",
+  "description": "HTMLをレンダリングしてレイアウトの破綻を検出するMCPサーバー。文字の重なり・はみ出し・切り捨てを座標で実測。ベースライン不要・検査専用",
+  "git_url": "https://github.com/h-kazuki-pixel/layout-doctor-mcp",
+  "author_github": "h-kazuki-pixel",
+  "category": "developer-tools",
+  "tags": [
+    "claude",
+    "html",
+    "layoutanalysis",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
