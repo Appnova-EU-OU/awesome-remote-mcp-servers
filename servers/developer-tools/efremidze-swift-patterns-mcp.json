@@ -1,0 +1,16 @@
+{
+  "name": "swift-patterns-mcp",
+  "description": "An MCP server providing curated Swift and SwiftUI best practices from leading iOS sources.",
+  "git_url": "https://github.com/efremidze/swift-patterns-mcp",
+  "author_github": "efremidze",
+  "category": "developer-tools",
+  "tags": [
+    "claudecode",
+    "ios",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
