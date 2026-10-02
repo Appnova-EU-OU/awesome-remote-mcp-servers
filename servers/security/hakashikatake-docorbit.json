@@ -1,0 +1,17 @@
+{
+  "name": "docorbit",
+  "description": "DocOrbit discovers authoritative documentation, resolves it against your project's dependency versions, retrieves task-specific context, and verifies generated code against documentation contracts.",
+  "git_url": "https://github.com/HakashiKatake/docorbit",
+  "author_github": "HakashiKatake",
+  "category": "security",
+  "tags": [
+    "agentdocumentation",
+    "cli",
+    "documentprocessing",
+    "documentation",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://hakashikatake.github.io/docorbit/"
+}
