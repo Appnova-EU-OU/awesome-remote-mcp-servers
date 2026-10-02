@@ -1,0 +1,16 @@
+{
+  "name": "agent-skill-loader",
+  "description": "MCP server to expose Claude Code Skills to AI agents",
+  "git_url": "https://github.com/back1ply/agent-skill-loader",
+  "author_github": "back1ply",
+  "category": "ai-agents",
+  "tags": [
+    "antigravity",
+    "claude",
+    "claudecode",
+    "cursor",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
