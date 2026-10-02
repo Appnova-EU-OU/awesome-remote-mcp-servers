@@ -1,0 +1,14 @@
+{
+  "name": "buildkite-mcp-server",
+  "description": "Official MCP Server for Buildkite.",
+  "git_url": "https://github.com/buildkite/buildkite-mcp-server",
+  "author_github": "buildkite",
+  "category": "developer-tools",
+  "tags": [
+    "buildkite",
+    "mcpserver",
+    "official"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
