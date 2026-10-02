@@ -1,0 +1,16 @@
+{
+  "name": "gavel",
+  "description": "Code quality platform for Bazel monorepos — static analyzers as aspects, SARIF, quality gates",
+  "git_url": "https://github.com/gavelcode/gavel",
+  "author_github": "gavelcode",
+  "category": "ai-agents",
+  "tags": [
+    "bazel",
+    "cli",
+    "codecoverage",
+    "codequality",
+    "developertools"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
