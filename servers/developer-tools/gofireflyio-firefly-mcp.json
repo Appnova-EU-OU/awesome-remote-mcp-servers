@@ -1,0 +1,12 @@
+{
+  "name": "firefly-mcp",
+  "description": "Firefly MCP",
+  "git_url": "https://github.com/gofireflyio/firefly-mcp",
+  "author_github": "gofireflyio",
+  "category": "developer-tools",
+  "tags": [
+    "firefly"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
