@@ -1,0 +1,17 @@
+{
+  "name": "agentmako",
+  "description": "Local-first MCP server that gives coding agents structured context packets, code/schema facts, and diagnostics - backed by a local SQLite store.",
+  "git_url": "https://github.com/drhalto/agentmako",
+  "author_github": "drhalto",
+  "category": "databases",
+  "tags": [
+    "aicoding",
+    "claudecode",
+    "claudecodeplugin",
+    "codeintelligence",
+    "codex"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://agentmako.drhalto.com"
+}
