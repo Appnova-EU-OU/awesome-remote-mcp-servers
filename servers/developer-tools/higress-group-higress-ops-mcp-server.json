@@ -1,0 +1,16 @@
+{
+  "name": "higress-ops-mcp-server",
+  "description": "A Model Context Protocol (MCP) server implementation that enables comprehensive configuration and management of Higress.",
+  "git_url": "https://github.com/higress-group/higress-ops-mcp-server",
+  "author_github": "higress-group",
+  "category": "developer-tools",
+  "tags": [
+    "higress",
+    "ops",
+    "implementation",
+    "enables",
+    "comprehensive"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
