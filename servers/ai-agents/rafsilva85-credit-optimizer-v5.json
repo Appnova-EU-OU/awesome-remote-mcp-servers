@@ -1,0 +1,17 @@
+{
+  "name": "credit-optimizer-v5",
+  "description": "Save 47% on Manus AI credits automatically. Zero downsides. Pays for itself in ~27 prompts. Free MCP Server (PyPI) + $12 Manus Skill bundle with Fast Navigation (115x speed boost).",
+  "git_url": "https://github.com/rafsilva85/credit-optimizer-v5",
+  "author_github": "rafsilva85",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "costoptimization",
+    "creditoptimizer",
+    "manusai"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://creditopt.ai"
+}
