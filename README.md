@@ -91,6 +91,27 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [CodemagicMcp](https://freemcp.space/agimaulanadex/codemagicmcp) — A local Python MCP server that exposes the [Codemagic CI/CD REST API](https://docs.codemagic.io/rest-api/overview/) as Claude-callable tools. Trigger builds, manage apps, download artifacts, and clear caches — all from Claude Code or Claude Desktop without leaving the chat.
+- [GooglePlayConsoleMcp](https://freemcp.space/agimaulanadex/googleplayconsolemcp) — A Python [Model Context Protocol](https://modelcontextprotocol.io/) server that lets AI assistants (Claude, etc.) manage the full Google Play Store release lifecycle directly — from uploading artifacts to managing testers, rollouts, and Android Vitals.
+- [mcp-databricks-server](https://freemcp.space/featured/mcp-databricks-serve) — MCP Server for Databricks
+- [influxdb-mcp-server](https://freemcp.space/featured/influxdb-mcp-server) — An MCP Server for querying InfluxDB
+- [mnemiq](https://freemcp.space/featured/mnemiq) — Open-source text-to-SQL engine you tune and measure on your own database
+- [AiDex](https://freemcp.space/featured/aidex) — MCP Server for persistent code indexing. Gives AI assistants (Claude, Gemini, Copilot, Cursor) instant access to your codebase. 50x less context than grep.
+- [ontomics](https://freemcp.space/featured/ontomics) — Extract domain knowledge from codebases to reduce LLM token consumption by 20x and time in agentic search by 10x — gathers and makes concepts, naming conventions, and vocabulary queryable via MCP.
+- [delimit](https://freemcp.space/featured/delimit) — Building your AI organization: shared records and handoffs, plus a merge gate for AI-written code with signed, replayable attestation. Works with Claude Code, Codex, Cursor, and Gemini CLI.
+- [swift-patterns-mcp](https://freemcp.space/featured/swift-patterns-mcp) — An MCP server providing curated Swift and SwiftUI best practices from leading iOS sources.
+- [deploy-mcp](https://freemcp.space/featured/deploy-mcp) — Universal deployment tracker for AI assistants - check deployment status without leaving your AI chat
+- [twitterapi-docs-mcp](https://freemcp.space/featured/twitterapi-docs-mcp) — TwitterAPI.io MCP server: offline docs (endpoints, pages, blogs) for Claude and other AI assistants.
+- [endiagram-mcp](https://freemcp.space/featured/endiagram-mcp) — MCP server for EN Diagram — structural analysis for any system. Install: npx @endiagram/mcp
+- [mcp-server-flipt](https://freemcp.space/featured/mcp-server-flipt) — Interact with feature flags in Flipt.
+- [project-context-mcp](https://freemcp.space/featured/project-context-mcp) — Give Claude Code instant access to your project's institutional knowledge. Drop docs in .context/, mention them with @, and watch Claude become an expert on your codebase.
+- [time-node-mcp](https://freemcp.space/featured/time-node-mcp) — MCP server for timezone-aware date and time operations
+- [swagger-testcase-mcp](https://freemcp.space/featured/swagger-testcase-mcp) — MCP server for API testing: generates test cases, validates specs, compares versions, and creates mock data from Swagger/OpenAPI specifications
+- [mcp-server](https://freemcp.space/featured/mcp-server-21) — MCP server that lets AI coding agents add smart-glasses capabilities to Android and iOS apps — scaffold, validate, and simulate before touching hardware
+- [pox-mcp-server](https://freemcp.space/featured/pox-mcp-server) — A Model Context Protocol (MCP) server for the POX SDN controller
+- [genable](https://freemcp.space/featured/genable) — Quality-first AI UI generator for Figma. Multi-protocol: Gemini · Claude · OpenAI-compatible.
+- [creative-claw-marketplace](https://freemcp.space/featured/creative-claw-market) — Creative Claw: AI video, image and voiceover generation inside ChatGPT, Claude, Codex and Cursor. Seedance 2.5, Gemini Omni, Nano Banana 2, voice cloning. Pay as you go.
+- [kiprio-mcp](https://freemcp.space/featured/kiprio-mcp) — MCP server exposing kiprio.com developer APIs (email/DNS/SSL/text/dev utilities) as tools for Claude, Cursor, and any MCP client.
 - [bitrise-mcp](https://freemcp.space/featured/bitrise-mcp-2) — MCP Server for the Bitrise API, enabling app management, build operations, artifact management and more.
 - [open-code-review](https://freemcp.space/featured/open-code-review) — 🤖 AI code quality gate for AI-generated code. Detects hallucinated packages, phantom dependencies, stale APIs, and more. MCP Server + CLI + CI/CD Action.
 - [package-registry-mcp](https://freemcp.space/featured/package-registry-mcp) — MCP server for searching and getting up-to-date information about NPM, Cargo, PyPi, and NuGet packages.
@@ -169,28 +190,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [studiomcphub](https://freemcp.space/featured/studiomcphub) — Creative AI MCP server — 32 tools (18 free): image generation, upscaling, bg removal, mockups, CMYK, print-ready PDF, vectorization, watermarking, enrichment, provenance. Pay per call via x402/Stripe/GCX.
 - [agent-utils-mcp](https://freemcp.space/featured/agent-utils-mcp-2) — Utility tools with x402 micropayments: JSON validation, base64, hashing, UUIDs, regex testing, Markdown and datetime conversion, cron parsing and JWT decoding.
 - [wp-cli-mcp](https://freemcp.space/featured/wp-cli-mcp) — MCP server that gives AI tools full WordPress management via WP-CLI — 30+ tools for themes, plugins, posts, menus, users, database, and scaffolding
-- [HuaweiAppGalleryMcp](https://freemcp.space/featured/huaweiappgallerymcp) — Huawei AppGallery Connect publishing: upload APK/AAB, update metadata and localizations, submit for review, and manage phased rollouts.
-- [agent-gate](https://freemcp.space/featured/agent-gate) — MCP server that adds a fail-closed quality gate and hash-chained receipt ledger to any AI agent workflow.
-- [elementor-mcp-agent](https://freemcp.space/featured/elementor-mcp-agent) — Agency-grade MCP server for WordPress Elementor — multi-site management, safe Elementor data editing, template export/import, version tracking. MIT.
-- [mcp-devtools](https://freemcp.space/featured/mcp-devtools) — AI-native developer tools via MCP — filesystem, databases, processes and OpenAPI for any MCP-compatible agent
-- [4DA](https://freemcp.space/featured/4da) — Privacy-first developer intelligence — surfaces what matters from the noise
-- [codebase-agent-mcp](https://freemcp.space/featured/codebase-agent-mcp) — A sub-harness (both an MCP server and an MCP client). Delegates documentation and source code analysis, as well as interactions with related context-providing MCP servers, to a local or inexpensive OpenAI-compatible LLM. Drastically reduces token usage and context size for coding agents on the top-tier LLM.
-- [briefkit-mcp-server](https://freemcp.space/featured/briefkit-mcp-server) — BriefKit — Engineer-grade specs for AI-built SaaS. 14 files. $9. briefkit.online
-- [mcp-agent-health](https://freemcp.space/featured/mcp-agent-health) — MCP server for AOS-compliant agent health reporting (P2 · advisory)
-- [mcp-blast-radius](https://freemcp.space/featured/mcp-blast-radius) — MCP Blast-Radius Auditor — static blast radius extraction and CI divergence gate for MCP servers.
-- [mobius-mcp](https://freemcp.space/featured/mobius-mcp) — MCP server + skill file for Sweipe/FlatMobile WordPress sites (agent REST surface)
-- [wordpress-mcp-agent-bridge](https://freemcp.space/featured/wordpress-mcp-agent) — WordPress MCP + REST bridge for AI agents — verified Rank Math SEO and schema writes, hashed snapshots, verified restore, additive-only gates. Claude Code, Cursor, any MCP client. Pairs with EMCP.
-- [selvedge](https://freemcp.space/featured/selvedge) — Decision provenance for AI-coded codebases: the why, and what was already tried and rejected.
-- [dbt-docs-mcp](https://freemcp.space/featured/dbt-docs-mcp) — MCP (model context protocol) server for interacting with dbt Docs
-- [mcp-postgres-server](https://freemcp.space/featured/mcp-postgres-server) — MCP server for PostgreSQL. Works with VS Code, Cursor, Claude Code, Codex, and Windsurf.
-- [davinci-resolve-ai-bridge-mcp](https://freemcp.space/featured/davinci-resolve-ai-b) — DaVinci Resolve (Free Version and Studio) MCP server for Claude, Cursor, Codex, and Antigravity. Full timeline editing, cuts, camera zoom, and color grading.
-- [mcp-swiss](https://freemcp.space/featured/mcp-swiss) — Swiss open data MCP server — transport, weather, geodata, companies, etc,. Zero API keys.
-- [mcp-libsql](https://freemcp.space/featured/mcp-libsql) — Secure MCP server for libSQL databases with comprehensive tools, connection pooling, and transaction support. Built with TypeScript for Claude Desktop, Claude Code, Cursor, and other MCP clients.
-- [rag-rat](https://freemcp.space/featured/rag-rat) — Local repo-intelligence index + MCP server: semantic search, symbol/graph navigation, impact-surface preflight, git + GitHub papertrail, and a source-anchored memory graph.
-- [druid-mcp-server](https://freemcp.space/featured/druid-mcp-server) — A comprehensive Model Context Protocol (MCP) server for Apache Druid that provides extensive tools, resources, and AI-assisted prompts for managing and analyzing Druid clusters. Built with Spring Boot and Spring AI, this server enables seamless integration between AI assistants and Apache Druid through standardized MCP protocol.
-- [axint](https://freemcp.space/featured/axint) — Proof and repair for Apple coding agents. Validate Swift, run Xcode evidence, repair failures, and generate inspectable Apple-native capabilities.
-- [etincel](https://freemcp.space/featured/etincel) — Find the AI tells in your prose. Deterministic, local, runs in CI. MCP server + CLI + Action.
-- [mason](https://freemcp.space/featured/mason) — A context engineer MCP for your AI agents. Stops agents from writing code with outdated instructions.
+- [HuaweiAppGalleryMcp](https://freemcp.space/agimaulanadex/huaweiappgallerymcp) — Huawei AppGallery Connect publishing: upload APK/AAB, update metadata and localizations, submit for review, and manage phased rollouts.
 <!-- freemcp:end -->
 
 ---
