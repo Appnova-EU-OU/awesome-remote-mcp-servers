@@ -1,0 +1,16 @@
+{
+  "name": "mcp-gitlab-jira",
+  "description": "GitLab and Jira: manage projects, merge requests, files, releases and tickets.",
+  "git_url": "https://github.com/HainanZhao/mcp-gitlab-jira",
+  "author_github": "HainanZhao",
+  "category": "communication",
+  "tags": [
+    "gitlab",
+    "jira",
+    "manage",
+    "projects",
+    "merge"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
