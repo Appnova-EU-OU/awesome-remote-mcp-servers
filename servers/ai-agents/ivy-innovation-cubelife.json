@@ -1,0 +1,16 @@
+{
+  "name": "cubelife",
+  "description": "Give your AI agent a persistent pixel-art character. Node SDK, Python SDK, CLI, and MCP server.",
+  "git_url": "https://github.com/Ivy-Innovation/cubelife",
+  "author_github": "Ivy-Innovation",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "claude",
+    "cli",
+    "codex",
+    "copilot"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
