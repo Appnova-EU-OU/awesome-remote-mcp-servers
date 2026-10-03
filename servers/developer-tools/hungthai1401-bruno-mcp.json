@@ -1,0 +1,14 @@
+{
+  "name": "bruno-mcp",
+  "description": "MCP Server for running Bruno Collections",
+  "git_url": "https://github.com/hungthai1401/bruno-mcp",
+  "author_github": "hungthai1401",
+  "category": "developer-tools",
+  "tags": [
+    "bruno",
+    "running",
+    "collections"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
