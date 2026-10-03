@@ -1,0 +1,16 @@
+{
+  "name": "insforge-mcp",
+  "description": "Backend-as-a-service for agents building full-stack apps: auth, PostgreSQL database, storage and functions.",
+  "git_url": "https://github.com/InsForge/insforge-mcp",
+  "author_github": "InsForge",
+  "category": "databases",
+  "tags": [
+    "insforge",
+    "backend",
+    "service",
+    "agents",
+    "building"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
