@@ -1,0 +1,17 @@
+{
+  "name": "homespun",
+  "description": "Homespun: apps your AI builds and hosts. Client CLI, MCP server, SDK core, agent skill and Claude plugin. MIT.",
+  "git_url": "https://github.com/homespunapps/homespun",
+  "author_github": "homespunapps",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "apphosting",
+    "claude",
+    "cli",
+    "homespun"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://homespun.dev"
+}
