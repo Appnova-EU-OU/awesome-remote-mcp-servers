@@ -1,0 +1,16 @@
+{
+  "name": "dati",
+  "description": "Turn your database into secure, semantically rich MCP tools for agents.",
+  "git_url": "https://github.com/yimindev/dati",
+  "author_github": "yimindev",
+  "category": "databases",
+  "tags": [
+    "accesscontrol",
+    "agenticai",
+    "businessintelligence",
+    "chatbi",
+    "clickhouse"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
