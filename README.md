@@ -91,6 +91,25 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [react-analyzer-mcp](https://freemcp.space/featured/react-analyzer-mcp) — MCP server for analyzing & generating docs for React code locally
+- [icloud-mcp](https://freemcp.space/featured/icloud-mcp-2) — MCP server for Apple services — Mail, Calendar, Contacts, Reminders, Notes, Messages, Safari — via AppleScript (local) or iCloud IMAP/CalDAV/CardDAV (cloud)
+- [buildkite-mcp-server](https://freemcp.space/featured/buildkite-mcp-server) — Official MCP Server for Buildkite.
+- [icon-composer-mcp](https://freemcp.space/featured/icon-composer-mcp) — Apple Icon Composer CLI & MCP server: create and manipulate .icon bundles and images with Liquid Glass rendering
+- [agentmako](https://freemcp.space/featured/agentmako) — Local-first MCP server that gives coding agents structured context packets, code/schema facts, and diagnostics - backed by a local SQLite store.
+- [credit-optimizer-v5](https://freemcp.space/featured/credit-optimizer-v5) — Save 47% on Manus AI credits automatically. Zero downsides. Pays for itself in ~27 prompts. Free MCP Server (PyPI) + $12 Manus Skill bundle with Fast Navigation (115x speed boost).
+- [postmancer](https://freemcp.space/featured/postmancer) — An experimental MCP server Rest Client intended to be a replacement of tools postman & insomnia
+- [higress-ops-mcp-server](https://freemcp.space/featured/higress-ops-mcp-serv) — A Model Context Protocol (MCP) server implementation that enables comprehensive configuration and management of Higress.
+- [firefly-mcp](https://freemcp.space/featured/firefly-mcp) — Firefly MCP
+- [unified-diff-mcp](https://freemcp.space/featured/unified-diff-mcp) — Generate and visualize unified diffs as HTML or PNG, with side-by-side and line-by-line views for filesystem dry runs.
+- [mcp-gitlab-jira](https://freemcp.space/featured/mcp-gitlab-jira) — GitLab and Jira: manage projects, merge requests, files, releases and tickets.
+- [gavel](https://freemcp.space/featured/gavel) — Code quality platform for Bazel monorepos — static analyzers as aspects, SARIF, quality gates
+- [stacksfinder-mcp](https://freemcp.space/featured/stacksfinder-mcp) — MCP server for StacksFinder - deterministic tech stack recommendations for LLM clients
+- [rest_api_mcp](https://freemcp.space/featured/rest-api-mcp) — Authenticated calls to any REST API: auto-login, token caching, 2FA/OTP support, Swagger spec fetching and fuzzy endpoint search.
+- [docorbit](https://freemcp.space/featured/docorbit) — DocOrbit discovers authoritative documentation, resolves it against your project's dependency versions, retrieves task-specific context, and verifies generated code against documentation contracts.
+- [gridproof](https://freemcp.space/featured/gridproof) — Spacing & grid QA for AI-generated UIs, in the agent loop. MCP server that audits computed geometry and returns fix hints.
+- [lynxprompt-mcp](https://freemcp.space/featured/lynxprompt-mcp) — MCP Server for LynxPrompt — browse, search, and manage AI configuration blueprints (AGENTS.md, CLAUDE.md) via MCP
+- [layout-doctor-mcp](https://freemcp.space/featured/layout-doctor-mcp) — HTMLをレンダリングしてレイアウトの破綻を検出するMCPサーバー。文字の重なり・はみ出し・切り捨てを座標で実測。ベースライン不要・検査専用
+- [port-keeper-mcp](https://freemcp.space/featured/port-keeper-mcp) — Local ledger for development ports — leases a block per project slot, renders env files, resolves service names to URLs, and serves it all over MCP. No daemon, no listener, no secrets.
 - [CodemagicMcp](https://freemcp.space/agimaulanadex/codemagicmcp) — A local Python MCP server that exposes the [Codemagic CI/CD REST API](https://docs.codemagic.io/rest-api/overview/) as Claude-callable tools. Trigger builds, manage apps, download artifacts, and clear caches — all from Claude Code or Claude Desktop without leaving the chat.
 - [GooglePlayConsoleMcp](https://freemcp.space/agimaulanadex/googleplayconsolemcp) — A Python [Model Context Protocol](https://modelcontextprotocol.io/) server that lets AI assistants (Claude, etc.) manage the full Google Play Store release lifecycle directly — from uploading artifacts to managing testers, rollouts, and Android Vitals.
 - [mcp-databricks-server](https://freemcp.space/featured/mcp-databricks-serve) — MCP Server for Databricks
@@ -99,7 +118,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [AiDex](https://freemcp.space/featured/aidex) — MCP Server for persistent code indexing. Gives AI assistants (Claude, Gemini, Copilot, Cursor) instant access to your codebase. 50x less context than grep.
 - [ontomics](https://freemcp.space/featured/ontomics) — Extract domain knowledge from codebases to reduce LLM token consumption by 20x and time in agentic search by 10x — gathers and makes concepts, naming conventions, and vocabulary queryable via MCP.
 - [delimit](https://freemcp.space/featured/delimit) — Building your AI organization: shared records and handoffs, plus a merge gate for AI-written code with signed, replayable attestation. Works with Claude Code, Codex, Cursor, and Gemini CLI.
-- [swift-patterns-mcp](https://freemcp.space/featured/swift-patterns-mcp) — An MCP server providing curated Swift and SwiftUI best practices from leading iOS sources.
+- [swift-patterns-mcp](https://freemcp.space/efremidzel/swift-patterns-mcp) — An MCP server providing curated Swift and SwiftUI best practices from leading iOS sources.
 - [deploy-mcp](https://freemcp.space/featured/deploy-mcp) — Universal deployment tracker for AI assistants - check deployment status without leaving your AI chat
 - [twitterapi-docs-mcp](https://freemcp.space/featured/twitterapi-docs-mcp) — TwitterAPI.io MCP server: offline docs (endpoints, pages, blogs) for Claude and other AI assistants.
 - [endiagram-mcp](https://freemcp.space/featured/endiagram-mcp) — MCP server for EN Diagram — structural analysis for any system. Install: npx @endiagram/mcp
@@ -172,25 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [adr-mcp-setup](https://freemcp.space/featured/adr-mcp-setup) — Generates Architecture Decision Records from Claude Code conversations, with quality review, duplicate detection, a dependency graph and stale ADR alerts.
 - [atlassian-browser-mcp](https://freemcp.space/featured/atlassian-browser-mc-2) — Browser-backed MCP server wrapping mcp-atlassian with Playwright SSO auth for Atlassian Server/Data Center
 - [imagcon-mcp](https://freemcp.space/featured/imagcon-mcp) — MCP server for Imagcon — generate deployment-ready PWA, iOS, and Android app icon sets from a text description
-- [telos](https://freemcp.space/featured/telos) — Build shared AI workspaces for creation, simulation, verification, MCP tools, and replayable receipts.
-- [codelattice](https://freemcp.space/featured/codelattice) — 面向 AI 编程的本地代码图谱分析工具
-- [defluff](https://freemcp.space/featured/defluff) — Deterministic slop detector for AI-generated prose. No model, no API key.
-- [npm-mcp](https://freemcp.space/featured/npm-mcp) — MCP server for npm package management — 32 tools for publish, install, audit, search, security & more
-- [omni-dev](https://freemcp.space/featured/omni-dev) — AI-powered git commit rewriter, PR generator, and MCP server for Jira, Confluence, and Datadog. Single Rust binary.
-- [kilo-kit-mcp](https://freemcp.space/featured/kilo-kit-mcp) — An MCP server for safer coding agents: skill routing, C4 workflow gates, memory checks, and verification before completion.
-- [DevProjex](https://freemcp.space/featured/devprojex) — Build safe, token-efficient codebase context for LLMs, AI chats, and coding agents — local-first GUI, TUI, CLI, and a read-only MCP server with Smart Ignore, secret/PII redaction, Git scopes, and code compression.
-- [dbconvert-streams-public](https://freemcp.space/dbconvert/dbconvert-streams-pu) — DBConvert Streams: Database IDE, Federated SQL, Real-time CDC & AI assistants via MCP — explore, query, and replicate data across databases and files
-- [mcp-sqlalchemy-server](https://freemcp.space/featured/mcp-sqlalchemy-serve) — A simple MCP ODBC server using FastAPI, ODBC and SQLAlchemy.
-- [fable-mode](https://freemcp.space/featured/fable-mode) — Open-source MCP control plane for AI coding agents: mechanical time-locks, evidence-gated proof receipts, red-team remediation, and persistent engineering memory.
-- [primitiv](https://freemcp.space/featured/primitiv) — The design system infrastructure keeping teams and agents in sync.
-- [aspnetcore-debugger-mcp](https://freemcp.space/featured/aspnetcore-debugger) — MCP server that lets AI agents (Claude, Cursor) debug your .NET / ASP.NET Core app
-- [ios-mcp-code-quality-server](https://freemcp.space/featured/ios-mcp-code-quality) — This server enables AI assistants to run Xcode tests, perform linter analysis, and provide detailed feedback on iOS projects through structured, actionable reports.
-- [codebeamer-mcp](https://freemcp.space/featured/codebeamer-mcp-2) — Codebeamer ALM: read and write work items, trackers, projects, associations, references, comments and risk management data via the REST API.
-- [ai-dev-analytics](https://freemcp.space/featured/ai-dev-analytics-2) — An open-source AI coding observability layer. Silently tracks vibe coding sessions via MCP and codifies AI deviations into project rules. 100% local.
-- [studiomcphub](https://freemcp.space/featured/studiomcphub) — Creative AI MCP server — 32 tools (18 free): image generation, upscaling, bg removal, mockups, CMYK, print-ready PDF, vectorization, watermarking, enrichment, provenance. Pay per call via x402/Stripe/GCX.
-- [agent-utils-mcp](https://freemcp.space/featured/agent-utils-mcp-2) — Utility tools with x402 micropayments: JSON validation, base64, hashing, UUIDs, regex testing, Markdown and datetime conversion, cron parsing and JWT decoding.
-- [wp-cli-mcp](https://freemcp.space/featured/wp-cli-mcp) — MCP server that gives AI tools full WordPress management via WP-CLI — 30+ tools for themes, plugins, posts, menus, users, database, and scaffolding
-- [HuaweiAppGalleryMcp](https://freemcp.space/agimaulanadex/huaweiappgallerymcp) — Huawei AppGallery Connect publishing: upload APK/AAB, update metadata and localizations, submit for review, and manage phased rollouts.
 <!-- freemcp:end -->
 
 ---
