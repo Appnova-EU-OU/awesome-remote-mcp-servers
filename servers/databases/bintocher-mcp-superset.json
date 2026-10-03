@@ -1,0 +1,16 @@
+{
+  "name": "mcp-superset",
+  "description": "MCP server for managing Apache Superset — 128+ tools for dashboards, charts, datasets, SQL Lab, access control",
+  "git_url": "https://github.com/bintocher/mcp-superset",
+  "author_github": "bintocher",
+  "category": "databases",
+  "tags": [
+    "aitools",
+    "apachesuperset",
+    "claude",
+    "fastmcp",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
