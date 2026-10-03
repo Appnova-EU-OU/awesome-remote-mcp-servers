@@ -1,0 +1,17 @@
+{
+  "name": "codesentinel",
+  "description": "AI-Powered Codebase Health Agent for Slack — dead code, circular deps, coupling, architectural drift",
+  "git_url": "https://github.com/icohangar-ops/codesentinel",
+  "author_github": "icohangar-ops",
+  "category": "communication",
+  "tags": [
+    "claude",
+    "codequality",
+    "cursor",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://codesentinel-rho.vercel.app"
+}
