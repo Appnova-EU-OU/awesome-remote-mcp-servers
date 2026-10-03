@@ -1,0 +1,17 @@
+{
+  "name": "ThumbGate",
+  "description": "ThumbGate Pre-Action Checks self-improve from ranked lessons and repeated failures, hard-block detected secret leaks, and block matches in strict mode.",
+  "git_url": "https://github.com/IgorGanapolsky/ThumbGate",
+  "author_github": "IgorGanapolsky",
+  "category": "databases",
+  "tags": [
+    "agentreliability",
+    "aiagents",
+    "aisafety",
+    "amp",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://thumbgate.ai"
+}
