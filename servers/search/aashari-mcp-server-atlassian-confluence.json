@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-atlassian-confluence",
+  "description": "Node.js/TypeScript MCP server for Atlassian Confluence. Provides tools enabling AI systems (LLMs) to list/get spaces & pages (content formatted as Markdown) and search via CQL. Connects AI seamlessly to Confluence knowledge bases using the standard MCP interface.",
+  "git_url": "https://github.com/aashari/mcp-server-atlassian-confluence",
+  "author_github": "aashari",
+  "category": "search",
+  "tags": [
+    "ai",
+    "aiconnector",
+    "aiintegration",
+    "anthropic",
+    "atlassian"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
