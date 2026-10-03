@@ -1,0 +1,16 @@
+{
+  "name": "podium-mcp",
+  "description": "One MCP server, 51 tools for AI agents on mobile + canvas UIs: iOS & Android automation, Maestro E2E, evidenced assertions, React Native/Metro debugging — plus a no-vision canvas/WebGL brain (Pixi/Konva/Fabric/Phaser/Three/Babylon) that drives game UIs like DOM elements, ~5x cheaper than screenshot loops.",
+  "git_url": "https://github.com/hoainho/podium-mcp",
+  "author_github": "hoainho",
+  "category": "media",
+  "tags": [
+    "devtools",
+    "e2etesting",
+    "iossimulator",
+    "maestro",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
