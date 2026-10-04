@@ -1,0 +1,16 @@
+{
+  "name": "onlinecybertools-mcp-server",
+  "description": "MCP stdio server for onlinecybertools.com API",
+  "git_url": "https://github.com/Jambozx/onlinecybertools-mcp-server",
+  "author_github": "Jambozx",
+  "category": "developer-tools",
+  "tags": [
+    "onlinecybertools",
+    "stdio",
+    "com",
+    "api"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://onlinecybertools.com/integrations/mcp-plugin-builder"
+}
