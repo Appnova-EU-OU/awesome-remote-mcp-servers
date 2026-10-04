@@ -1,0 +1,17 @@
+{
+  "name": "mcp-factory",
+  "description": "Manifest-driven engine that scaffolds MCP servers from one mcp.yaml, plus a runtime hub serving tools from every registered bot through a single endpoint.",
+  "git_url": "https://github.com/jaimenbell/mcp-factory",
+  "author_github": "jaimenbell",
+  "category": "developer-tools",
+  "tags": [
+    "claude",
+    "codegeneration",
+    "devtools",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://jaimenbell.dev"
+}
