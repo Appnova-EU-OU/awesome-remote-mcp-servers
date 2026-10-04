@@ -1,0 +1,15 @@
+{
+  "name": "mcp-server-sql-analyzer",
+  "description": "MCP server for SQL static analysis.",
+  "git_url": "https://github.com/j4c0bs/mcp-server-sql-analyzer",
+  "author_github": "j4c0bs",
+  "category": "databases",
+  "tags": [
+    "sql",
+    "analyzer",
+    "static",
+    "analysis"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
