@@ -91,6 +91,24 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [google-health-mcp](https://freemcp.space/featured/google-health-mcp) — Local-first MCP server for Google Health API v4 (Fitbit + Pixel Watch) — Claude/Cursor/Hermes
+- [mcp-server-atlassian-confluence](https://freemcp.space/featured/mcp-server-atlassian) — Node.js/TypeScript MCP server for Atlassian Confluence. Provides tools enabling AI systems (LLMs) to list/get spaces & pages (content formatted as Markdown) and search via CQL. Connects AI seamlessly to Confluence knowledge bases using the standard MCP interface.
+- [mcp-superset](https://freemcp.space/featured/mcp-superset) — MCP server for managing Apache Superset — 128+ tools for dashboards, charts, datasets, SQL Lab, access control
+- [dati](https://freemcp.space/featured/dati) — Turn your database into secure, semantically rich MCP tools for agents.
+- [adx-mcp-server](https://freemcp.space/featured/adx-mcp-server-2) — A Model Context Protocol (MCP) server that enables AI assistants to query and analyze Azure Data Explorer databases through standardized interfaces.
+- [bruno-mcp](https://freemcp.space/featured/bruno-mcp) — MCP Server for running Bruno Collections
+- [insforge-mcp](https://freemcp.space/featured/insforge-mcp) — Backend-as-a-service for agents building full-stack apps: auth, PostgreSQL database, storage and functions.
+- [mcp-image-compression](https://freemcp.space/featured/mcp-image-compressio) — A high-performance image compression microservice based on MCP (Modal Context Protocol)
+- [ThumbGate](https://freemcp.space/featured/thumbgate) — ThumbGate Pre-Action Checks self-improve from ranked lessons and repeated failures, hard-block detected secret leaks, and block matches in strict mode.
+- [mcp-zuul](https://freemcp.space/featured/mcp-zuul) — MCP server for Zuul CI - debug build failures, search logs, manage pipelines, and monitor jobs from Claude, Cursor, or any MCP client
+- [adb-mcp](https://freemcp.space/featured/adb-mcp) — MCP server for Android — drive emulators and real devices over adb from Claude Code, Cursor, or VS Code. 73 tools: screenshots, UI hierarchy, tap/swipe/type, logcat, device locks, Gradle builds and tests. The Android counterpart to XcodeBuildMCP.
+- [podium-mcp](https://freemcp.space/featured/podium-mcp) — One MCP server, 51 tools for AI agents on mobile + canvas UIs: iOS & Android automation, Maestro E2E, evidenced assertions, React Native/Metro debugging — plus a no-vision canvas/WebGL brain (Pixi/Konva/Fabric/Phaser/Three/Babylon) that drives game UIs like DOM elements, ~5x cheaper than screenshot loops.
+- [media-mcp](https://freemcp.space/featured/media-mcp) — Local image and video processing: resize, convert, compress, crop, thumbnails, metadata extraction, rotate, flip, filters and ffmpeg-based video operations.
+- [cubelife](https://freemcp.space/featured/cubelife) — Give your AI agent a persistent pixel-art character. Node SDK, Python SDK, CLI, and MCP server.
+- [homespun](https://freemcp.space/featured/homespun) — Homespun: apps your AI builds and hosts. Client CLI, MCP server, SDK core, agent skill and Claude plugin. MIT.
+- [sonar-mcp-server](https://freemcp.space/featured/sonar-mcp-server) — Read-only MCP server for self-hosted SonarQube Community Build 26.4+: lets AI agents (Claude Code, Cursor, Copilot) read issues, security hotspots, rules and code snippets to fix findings locally
+- [codesentinel](https://freemcp.space/featured/codesentinel) — AI-Powered Codebase Health Agent for Slack — dead code, circular deps, coupling, architectural drift
+- [open-task-relay-public](https://freemcp.space/featured/open-task-relay-publ) — Open-source task commons where AI agents do bounded public-good work, publish evidence, and review results.
 - [react-analyzer-mcp](https://freemcp.space/featured/react-analyzer-mcp) — MCP server for analyzing & generating docs for React code locally
 - [icloud-mcp](https://freemcp.space/featured/icloud-mcp-2) — MCP server for Apple services — Mail, Calendar, Contacts, Reminders, Notes, Messages, Safari — via AppleScript (local) or iCloud IMAP/CalDAV/CardDAV (cloud)
 - [buildkite-mcp-server](https://freemcp.space/featured/buildkite-mcp-server) — Official MCP Server for Buildkite.
@@ -173,24 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [resharper-cli-mcp](https://freemcp.space/featured/resharper-cli-mcp) — MCP server wrapping JetBrains' ReSharper CLI for headless C# inspection and code cleanup for coding agents. Unofficial, not affiliated with JetBrains.
 - [featureflip-mcp](https://freemcp.space/featured/featureflip-mcp) — MCP server for Featureflip — manage feature flags from AI agents and editors (read-only mirror)
 - [SchemaCrawler-MCP-Server-Usage](https://freemcp.space/featured/schemacrawler-mcp-se) — Find out how to use SchemaCrawler AI MCP Server
-- [pgtuner_mcp](https://freemcp.space/featured/pgtuner-mcp) — provides AI-powered PostgreSQL performance tuning capabilities.
-- [greptimedb-mcp-server](https://freemcp.space/featured/greptimedb-mcp-serve) — A Model Context Protocol (MCP) server for GreptimeDB
-- [agrobr-mcp](https://freemcp.space/featured/agrobr-mcp) — MCP server for Brazilian agricultural data — connect LLMs to 10 public data sources via agrobr
-- [hono-telescope](https://freemcp.space/featured/hono-telescope) — Laravel Telescope-style debugging for Hono — plus an MCP server so your AI agent can read the app's live requests, exceptions and queries
-- [simctl-mcp](https://freemcp.space/featured/simctl-mcp) — Control the iOS Simulator.
-- [skill-ninja-mcp-server](https://freemcp.space/featured/skill-ninja-mcp-serv) — MCP Server for Agent Skill Ninja - Search, Install, and Manage Agent Skills
-- [MCP_AI_SOC_Sher](https://freemcp.space/featured/mcp-ai-soc-sher) — AI SOC  Security Threat analysis using  MCP Server 
-- [webhook-tester-mcp](https://freemcp.space/featured/webhook-tester-mcp) — FastMCP server for managing and testing webhooks via webhook-test.com API
-- [mobile-easy-use](https://freemcp.space/featured/mobile-easy-use) — Runtime access for AI coding agents to observe and control Android and iOS apps. 
-- [wopee-mcp](https://freemcp.space/featured/wopee-mcp) — Autonomous web app testing: run test cases in real browsers with pass/fail results and screenshots, and generate user stories, test cases and Playwright code.
-- [cws-mcp](https://freemcp.space/featured/cws-mcp) — MCP server for Chrome Web Store — upload, publish, status, metadata & Playwright-based UI automation
-- [desktopinsights-mcp](https://freemcp.space/featured/desktopinsights-mcp) — MCP server for desktopinsights.com
-- [ellmos-codecommander-mcp](https://freemcp.space/featured/ellmos-codecommander) — Developer-focused MCP server with 23 tools for Python code analysis, structural editing, JSON repair, imports, encoding, Markdown/PDF export, diffs, and regex testing
-- [server](https://freemcp.space/featured/server) — MCP server that teaches any AI agent the AIDE spec methodology — progressive   disclosure specs alongside code
-- [bigindexer](https://freemcp.space/featured/bigindexer) — BGI tries to group code based on what the code actually does (its behavior), not just which file imports what.
-- [adr-mcp-setup](https://freemcp.space/featured/adr-mcp-setup) — Generates Architecture Decision Records from Claude Code conversations, with quality review, duplicate detection, a dependency graph and stale ADR alerts.
-- [atlassian-browser-mcp](https://freemcp.space/featured/atlassian-browser-mc-2) — Browser-backed MCP server wrapping mcp-atlassian with Playwright SSO auth for Atlassian Server/Data Center
-- [imagcon-mcp](https://freemcp.space/featured/imagcon-mcp) — MCP server for Imagcon — generate deployment-ready PWA, iOS, and Android app icon sets from a text description
 <!-- freemcp:end -->
 
 ---
