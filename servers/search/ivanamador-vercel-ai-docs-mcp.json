@@ -1,0 +1,16 @@
+{
+  "name": "vercel-ai-docs-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides AI-powered search and querying capabilities for the Vercel AI SDK documentation. This project enables developers to ask questions about the Vercel AI SDK and receive accurate, contextualized responses based on the official documentation.",
+  "git_url": "https://github.com/IvanAmador/vercel-ai-docs-mcp",
+  "author_github": "IvanAmador",
+  "category": "search",
+  "tags": [
+    "vercel",
+    "docs",
+    "provides",
+    "powered",
+    "search"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
