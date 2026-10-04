@@ -1,0 +1,17 @@
+{
+  "name": "tirith",
+  "description": "The tower of guard for parallel coding agents. Keeps parallel coding agents from stepping on each other. Claims, contracts and change notices over MCP.",
+  "git_url": "https://github.com/eabz/tirith",
+  "author_github": "eabz",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codingagents",
+    "developertools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://eabz.github.io/tirith/"
+}
