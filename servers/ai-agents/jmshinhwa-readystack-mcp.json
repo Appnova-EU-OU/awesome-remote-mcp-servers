@@ -1,0 +1,17 @@
+{
+  "name": "readystack-mcp",
+  "description": "45 regulation-and-deadline linters that run as MCP servers (npx @readystack/<name> --mcp) - CRA/CSAF, PCI DSS 6.4.3, WCAG 2.1 AA, DORA, NIS2, EU AI Act, KSeF, NF-e",
+  "git_url": "https://github.com/jmshinhwa/readystack-mcp",
+  "author_github": "jmshinhwa",
+  "category": "ai-agents",
+  "tags": [
+    "compliance",
+    "gdpr",
+    "geminicliextension",
+    "linter",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://getreadystack.com"
+}
