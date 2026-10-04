@@ -1,0 +1,17 @@
+{
+  "name": "codebase-context",
+  "description": "Codebase Context gives AI agents understanding of your codebase through semantic code search, team conventions, patterns, and memory, so they use fewer tokens, spend less time, and produce better, more familiar output.",
+  "git_url": "https://github.com/PatrickSys/codebase-context",
+  "author_github": "PatrickSys",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "aicoding",
+    "claude",
+    "codeintelligence",
+    "contextengineering"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/codebase-context"
+}
