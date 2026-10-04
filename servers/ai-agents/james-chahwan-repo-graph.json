@@ -1,0 +1,16 @@
+{
+  "name": "repo-graph",
+  "description": "Structural graph memory for AI coding assistants — MCP server for codebase navigation",
+  "git_url": "https://github.com/James-Chahwan/repo-graph",
+  "author_github": "James-Chahwan",
+  "category": "ai-agents",
+  "tags": [
+    "repo",
+    "graph",
+    "structural",
+    "memory",
+    "coding"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
