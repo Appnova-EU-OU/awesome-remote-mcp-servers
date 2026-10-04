@@ -1,0 +1,17 @@
+{
+  "name": "Nexus-MCP",
+  "description": "Unified MCP server: hybrid search + code graph + semantic memory. 10 tools, <350MB RAM, fully local. No API keys.",
+  "git_url": "https://github.com/jaggernaut007/Nexus-MCP",
+  "author_github": "jaggernaut007",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "aiagent",
+    "aicoding",
+    "claude",
+    "codeanalysis"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/jaggernaut007/Nexus-MCP#readme"
+}
