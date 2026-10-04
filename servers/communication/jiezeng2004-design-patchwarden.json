@@ -1,0 +1,17 @@
+{
+  "name": "PatchWarden",
+  "description": "Turn your ChatGPT conversations into safe, auditable local execution. PatchWarden lets you discuss ideas and plans with ChatGPT, then hand the approved plan to local AI agents for guarded, traceable implementation—with scoped permissions, independent verification, and a complete execution record.Turn your ChatGPT conversations into safe, auditable ",
+  "git_url": "https://github.com/jiezeng2004-design/PatchWarden",
+  "author_github": "jiezeng2004-design",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "automation",
+    "chatgpt",
+    "githubcopilot",
+    "learn"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://patchwarden-showcase-redesign.yistart.chatgpt.site"
+}
