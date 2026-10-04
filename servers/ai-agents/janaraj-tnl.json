@@ -1,0 +1,16 @@
+{
+  "name": "tnl",
+  "description": "Structured English contracts for AI coding agents — proposed by the agent, approved by you, saved on disk, read by every future session.",
+  "git_url": "https://github.com/janaraj/tnl",
+  "author_github": "janaraj",
+  "category": "ai-agents",
+  "tags": [
+    "agentworkflow",
+    "aiagents",
+    "claudecode",
+    "cli",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
