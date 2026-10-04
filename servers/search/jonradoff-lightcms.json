@@ -1,0 +1,17 @@
+{
+  "name": "lightcms",
+  "description": "Self-hosted CMS that works human or headless: full admin UI plus REST and MCP APIs, built-in semantic search and site chat, and content forking, versioning, diff/merge review, templates, approvals, and static page generation.",
+  "git_url": "https://github.com/jonradoff/lightcms",
+  "author_github": "jonradoff",
+  "category": "search",
+  "tags": [
+    "agenticworkflow",
+    "contentmanagementsystem",
+    "mcp",
+    "websitedevelopment",
+    "websites"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://metavert.io/lightcms"
+}
