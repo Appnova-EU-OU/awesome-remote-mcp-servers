@@ -1,0 +1,17 @@
+{
+  "name": "aicanvas",
+  "description": "Open-core registry of animated React components, blocks, design systems, and templates. Real, editable code: install with one shadcn CLI command or let your AI agent pull it over MCP.",
+  "git_url": "https://github.com/aicanvas-me/aicanvas",
+  "author_github": "aicanvas-me",
+  "category": "security",
+  "tags": [
+    "ai",
+    "claudecode",
+    "componentlibrary",
+    "copypaste",
+    "designsystem"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://aicanvas.me"
+}
