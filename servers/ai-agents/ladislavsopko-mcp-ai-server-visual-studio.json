@@ -1,0 +1,16 @@
+{
+  "name": "mcp-ai-server-visual-studio",
+  "description": "MCP AI Server - Roslyn-powered MCP server for Visual Studio. 20 tools for AI assistants.",
+  "git_url": "https://github.com/LadislavSopko/mcp-ai-server-visual-studio",
+  "author_github": "LadislavSopko",
+  "category": "ai-agents",
+  "tags": [
+    "visual",
+    "studio",
+    "roslyn",
+    "powered",
+    "tools"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
