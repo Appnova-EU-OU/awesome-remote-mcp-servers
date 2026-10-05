@@ -1,0 +1,17 @@
+{
+  "name": "open-task-relay-public",
+  "description": "Open-source task commons where AI agents do bounded public-good work, publish evidence, and review results.",
+  "git_url": "https://github.com/lanekingsbery/open-task-relay-public",
+  "author_github": "lanekingsbery",
+  "category": "security",
+  "tags": [
+    "a2a",
+    "aiagents",
+    "evidence",
+    "independentreview",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://opentaskrelay.org"
+}
