@@ -1,0 +1,17 @@
+{
+  "name": "mk-qa-master",
+  "description": "AI 測試大師 — MCP server driving pytest / Jest / Cypress / Go / Maestro. Analyze, generate, run, advise. Web + Mobile (iOS/Android/BlueStacks).",
+  "git_url": "https://github.com/kao273183/mk-qa-master",
+  "author_github": "kao273183",
+  "category": "ai-agents",
+  "tags": [
+    "maestro",
+    "mcp",
+    "mcpserver",
+    "mobiletesting",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcp.chenjundigital.com"
+}
