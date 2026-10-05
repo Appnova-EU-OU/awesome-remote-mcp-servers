@@ -1,0 +1,17 @@
+{
+  "name": "mcp-postgres-server",
+  "description": "MCP server for PostgreSQL. Works with VS Code, Cursor, Claude Code, Codex, and Windsurf.",
+  "git_url": "https://github.com/antonorlov/mcp-postgres-server",
+  "author_github": "antonorlov",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "claude",
+    "claudecode",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/mcp-postgres-server"
+}
