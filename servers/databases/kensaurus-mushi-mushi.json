@@ -1,0 +1,17 @@
+{
+  "name": "mushi-mushi",
+  "description": "🦖Know why your AI-built app broke — plain-English diagnosis + ready fix, in your editor. Open source. Sentry optional.",
+  "git_url": "https://github.com/kensaurus/mushi-mushi",
+  "author_github": "kensaurus",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "angular",
+    "autofix",
+    "bugreporting",
+    "bugtracker"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://kensaur.us/mushi-mushi/"
+}
