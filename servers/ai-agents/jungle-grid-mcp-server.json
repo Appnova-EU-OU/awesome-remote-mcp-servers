@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server",
+  "description": "MCP server for Jungle Grid lets agents submit, monitor, and retrieve logs from AI workloads.",
+  "git_url": "https://github.com/Jungle-Grid/mcp-server",
+  "author_github": "Jungle-Grid",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "aiinfrastructure",
+    "developertools",
+    "gpu",
+    "junglegrid"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
