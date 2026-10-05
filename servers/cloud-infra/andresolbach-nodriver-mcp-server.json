@@ -1,0 +1,17 @@
+{
+  "name": "nodriver-mcp-server",
+  "description": "Undetected browser automation MCP server - a stealth, anti-bot-resistant alternative to chrome-devtools-mcp for Claude, Cursor and AI agents. Powered by nodriver (bypasses Cloudflare/WebDriver detection). 65 tools, plus several isolated browsers at once so parallel agents never share a session.",
+  "git_url": "https://github.com/andresolbach/nodriver-mcp-server",
+  "author_github": "andresolbach",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagent",
+    "antibot",
+    "browserautomation",
+    "chromeautomation",
+    "chromedevtoolsmcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/nodriver-mcp/"
+}
