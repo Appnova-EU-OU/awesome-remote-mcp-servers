@@ -1,0 +1,14 @@
+{
+  "name": "globalping-mcp-server",
+  "description": "Remote MCP server that gives LLMs access to run network commands",
+  "git_url": "https://github.com/jsdelivr/globalping-mcp-server",
+  "author_github": "jsdelivr",
+  "category": "ai-agents",
+  "tags": [
+    "mcp",
+    "mcpserver",
+    "remotemcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
