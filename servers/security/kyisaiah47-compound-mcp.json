@@ -1,0 +1,17 @@
+{
+  "name": "compound-mcp",
+  "description": "OpenLookup, an MCP server from Compound Labs: eleven read-only lookups over live public data, including AI model pricing and routing, dependency maintenance and service pricing",
+  "git_url": "https://github.com/kyisaiah47/compound-mcp",
+  "author_github": "kyisaiah47",
+  "category": "security",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "claude",
+    "llmpricing",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/openlookup"
+}
