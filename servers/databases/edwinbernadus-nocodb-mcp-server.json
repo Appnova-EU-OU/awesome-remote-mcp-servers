@@ -1,0 +1,14 @@
+{
+  "name": "nocodb-mcp-server",
+  "description": "nocodb mcp server",
+  "git_url": "https://github.com/edwinbernadus/nocodb-mcp-server",
+  "author_github": "edwinbernadus",
+  "category": "databases",
+  "tags": [
+    "mcp",
+    "mcpserver",
+    "nocodb"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
