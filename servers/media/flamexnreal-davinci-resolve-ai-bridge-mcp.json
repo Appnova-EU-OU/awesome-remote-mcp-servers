@@ -1,0 +1,16 @@
+{
+  "name": "davinci-resolve-ai-bridge-mcp",
+  "description": "DaVinci Resolve (Free Version and Studio) MCP server for Claude, Cursor, Codex, and Antigravity. Full timeline editing, cuts, camera zoom, and color grading.",
+  "git_url": "https://github.com/flamexnreal/davinci-resolve-ai-bridge-mcp",
+  "author_github": "flamexnreal",
+  "category": "media",
+  "tags": [
+    "aiagents",
+    "antigravity",
+    "claudecode",
+    "codex",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
