@@ -91,6 +91,25 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Cognigy Ai Mcp Management Server](https://freemcp.space/tsvetangerginovv/cognigy-ai-mcp-manag) — > Model Context Protocol server for managing Cognigy.AI virtual agents through the Management API > > This is an independent, open-source MCP server and is not affiliated with, endorsed by, or sponsored by Cognigy or NiCE. It requires your own valid Cognigy.AI account and API key, used in accordance
+- [agentmail-mcp](https://freemcp.space/featured/agentmail-mcp) — Email for AI agents: create inboxes on the fly to send, receive and act on email.
+- [go-mcp-mysql](https://freemcp.space/featured/go-mcp-mysql) — Zero burden, ready-to-use Model Context Protocol (MCP) server for interacting with MySQL and automation. No Node.js or Python environment needed.
+- [codebase-context](https://freemcp.space/featured/codebase-context) — Codebase Context gives AI agents understanding of your codebase through semantic code search, team conventions, patterns, and memory, so they use fewer tokens, spend less time, and produce better, more familiar output.
+- [repo-graph](https://freemcp.space/featured/repo-graph) — Structural graph memory for AI coding assistants — MCP server for codebase navigation
+- [simulator-mcp-server](https://freemcp.space/featured/simulator-mcp-server) — Control iOS Simulators.
+- [vercel-ai-docs-mcp](https://freemcp.space/featured/vercel-ai-docs-mcp) — A Model Context Protocol (MCP) server that provides AI-powered search and querying capabilities for the Vercel AI SDK documentation. This project enables developers to ask questions about the Vercel AI SDK and receive accurate, contextualized responses based on the official documentation.
+- [mcp-server-sql-analyzer](https://freemcp.space/featured/mcp-server-sql-analy) — MCP server for SQL static analysis.
+- [lightcms](https://freemcp.space/featured/lightcms) — Self-hosted CMS that works human or headless: full admin UI plus REST and MCP APIs, built-in semantic search and site chat, and content forking, versioning, diff/merge review, templates, approvals, and static page generation.
+- [codewiki-mcp](https://freemcp.space/featured/codewiki-mcp-2) — MCP server for codewiki.google — search, fetch docs, and ask questions about any open-source repo
+- [RestCsvMcpServer](https://freemcp.space/featured/restcsvmcpserver) — MCP Server for RestCSV, Generated using MCPGen
+- [system-prompts-mcp-server](https://freemcp.space/featured/system-prompts-mcp-s) — Model Context Protocol server exposing system prompt files and summaries.
+- [tnl](https://freemcp.space/featured/tnl) — Structured English contracts for AI coding agents — proposed by the agent, approved by you, saved on disk, read by every future session.
+- [PatchWarden](https://freemcp.space/featured/patchwarden) — Turn your ChatGPT conversations into safe, auditable local execution. PatchWarden lets you discuss ideas and plans with ChatGPT, then hand the approved plan to local AI agents for guarded, traceable implementation—with scoped permissions, independent verification, and a complete execution record.Turn your ChatGPT conversations into safe, auditable 
+- [fixgraph-mcp](https://freemcp.space/featured/fixgraph-mcp) — Search and contribute to a community-verified knowledge base of engineering issues and fixes, with trust scores and fix verification.
+- [onlinecybertools-mcp-server](https://freemcp.space/featured/onlinecybertools-mcp) — MCP stdio server for onlinecybertools.com API
+- [readystack-mcp](https://freemcp.space/featured/readystack-mcp) — 45 regulation-and-deadline linters that run as MCP servers (npx @readystack/<name> --mcp) - CRA/CSAF, PCI DSS 6.4.3, WCAG 2.1 AA, DORA, NIS2, EU AI Act, KSeF, NF-e
+- [mcp-factory](https://freemcp.space/featured/mcp-factory) — Manifest-driven engine that scaffolds MCP servers from one mcp.yaml, plus a runtime hub serving tools from every registered bot through a single endpoint.
+- [Nexus-MCP](https://freemcp.space/featured/nexus-mcp) — Unified MCP server: hybrid search + code graph + semantic memory. 10 tools, <350MB RAM, fully local. No API keys.
 - [google-health-mcp](https://freemcp.space/featured/google-health-mcp) — Local-first MCP server for Google Health API v4 (Fitbit + Pixel Watch) — Claude/Cursor/Hermes
 - [mcp-server-atlassian-confluence](https://freemcp.space/featured/mcp-server-atlassian) — Node.js/TypeScript MCP server for Atlassian Confluence. Provides tools enabling AI systems (LLMs) to list/get spaces & pages (content formatted as Markdown) and search via CQL. Connects AI seamlessly to Confluence knowledge bases using the standard MCP interface.
 - [mcp-superset](https://freemcp.space/featured/mcp-superset) — MCP server for managing Apache Superset — 128+ tools for dashboards, charts, datasets, SQL Lab, access control
@@ -172,25 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-server-couchbase](https://freemcp.space/featured/mcp-server-couchbase) — Model Context Protocol server for Couchbase - connect AI agents and LLMs like Claude, Cursor, and Copilot to Couchbase/Capella
 - [app-publish-mcp](https://freemcp.space/featured/app-publish-mcp) — Unified MCP server for App Store Connect & Google Play Console — 91 tools for listings, screenshots, releases, reviews & submissions
 - [roku-dev-studio](https://freemcp.space/featured/roku-dev-studio) — Cross-platform Electron desktop studio for Roku developers: remote control, device queries, sideload, telnet console, RALE/App Connector, BrightScript Fiddle, JSON Action Scripts, an `rds` CLI, an MCP server for AI agents, and an internet relay.
-- [dynatrace-managed-mcp](https://freemcp.space/featured/dynatrace-managed-mc) — An MCP server for self-hosted Dynatrace Managed platform
-- [kafka-schema-reg-mcp](https://freemcp.space/featured/kafka-schema-reg-mcp) — A comprehensive Message Control Protocol (MCP) server for Kafka Schema Registry.
-- [code-context](https://freemcp.space/featured/code-context) — Retrieval + inference offload for AI coding agents.
-- [docguard](https://freemcp.space/featured/docguard) — Audit and enforce canonical project documentation for AI-assisted development. Detect drift, validate specs, and brief agents. Part of the Guard family with TestGuard and WebSec Validator.
-- [mcp-database-server](https://freemcp.space/featured/mcp-database-server) — Store and load JSON documents from LLM tool use
-- [ydb-mcp](https://freemcp.space/featured/ydb-mcp) — Interact with YDB databases.
-- [mcp-code-runner](https://freemcp.space/featured/mcp-code-runner) — Run code in multiple programming languages locally via Docker.
-- [agent-skill-loader](https://freemcp.space/featured/agent-skill-loader) — MCP server to expose Claude Code Skills to AI agents
-- [fastmcp-sonarqube-metrics](https://freemcp.space/featured/fastmcp-sonarqube-me) — Chat with your SonarQube data: explore metrics, compare trends, and track issues—effortlessly.
-- [memorydetective](https://freemcp.space/featured/memorydetective) — MCP server for iOS leak hunting and performance investigation. 28 MCP tools, 34-pattern retain-cycle classifier with Swift fixTemplate snippets, compareTracesByPattern for CI gating, SourceKit-LSP source bridging. Reads .memgraph and .trace files; macOS only.
-- [echo-mcp](https://freemcp.space/featured/echo-mcp) — Enable AI assistants to interact with your Echo API 
-- [python-docs-mcp-server](https://freemcp.space/featured/python-docs-mcp-serv) — Read-only MCP server for official Python docs: local index, no API keys, exact symbol lookup, version-aware retrieval.
-- [openapi-to-mcp](https://freemcp.space/featured/openapi-to-mcp-2) — OpenApiMCPServer is an MCP server that automatically converts any OpenAPI/Swagger specification into a set of usable MCP tools
-- [squiggles](https://freemcp.space/featured/squiggles) — MCP server that lets your coding agent see the squiggles — LSP diagnostics, navigation, refactoring, and each server's custom superpowers
-- [jenkins-mcp-server](https://freemcp.space/featured/jenkins-mcp-server) — An MCP server for interacting with a Jenkins server. Allows you to trigger jobs, check build statuses, and manage your Jenkins instance through MCP.
-- [codex-pets](https://freemcp.space/astandrik/codex-pets) — Community gallery, CLI, and MCP service for Codex-compatible animated pets, backed by YDB.
-- [resharper-cli-mcp](https://freemcp.space/featured/resharper-cli-mcp) — MCP server wrapping JetBrains' ReSharper CLI for headless C# inspection and code cleanup for coding agents. Unofficial, not affiliated with JetBrains.
-- [featureflip-mcp](https://freemcp.space/featured/featureflip-mcp) — MCP server for Featureflip — manage feature flags from AI agents and editors (read-only mirror)
-- [SchemaCrawler-MCP-Server-Usage](https://freemcp.space/featured/schemacrawler-mcp-se) — Find out how to use SchemaCrawler AI MCP Server
 <!-- freemcp:end -->
 
 ---
