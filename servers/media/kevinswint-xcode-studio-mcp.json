@@ -1,0 +1,17 @@
+{
+  "name": "xcode-studio-mcp",
+  "description": "Unified MCP server for AI-assisted iOS development — build, deploy, screenshot, and interact with iOS Simulator from Claude Code, Cursor, or any MCP client",
+  "git_url": "https://github.com/kevinswint/xcode-studio-mcp",
+  "author_github": "kevinswint",
+  "category": "media",
+  "tags": [
+    "aicoding",
+    "claudecode",
+    "cursor",
+    "iosdevelopment",
+    "iossimulator"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/kevinswint/xcode-studio-mcp"
+}
