@@ -1,0 +1,16 @@
+{
+  "name": "clarifyprompt-mcp",
+  "description": "Turns vague prompts into platform-optimized prompts for AI tools across image, video, voice, music, code, chat and document categories.",
+  "git_url": "https://github.com/LumabyteCo/clarifyprompt-mcp",
+  "author_github": "LumabyteCo",
+  "category": "communication",
+  "tags": [
+    "clarifyprompt",
+    "turns",
+    "vague",
+    "prompts",
+    "into"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
