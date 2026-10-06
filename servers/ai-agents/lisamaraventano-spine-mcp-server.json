@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server",
+  "description": "MCP server for Underground Cultural District — 23 tools, 218+ digital goods for AI agents. Free dev tools + paid catalog + Stripe checkout. npm: @underground-cultural-district/mcp-server",
+  "git_url": "https://github.com/lisamaraventano-spine/mcp-server",
+  "author_github": "lisamaraventano-spine",
+  "category": "ai-agents",
+  "tags": [
+    "underground",
+    "cultural",
+    "district",
+    "tools",
+    "digital"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
