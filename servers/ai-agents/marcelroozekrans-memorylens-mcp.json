@@ -1,0 +1,16 @@
+{
+  "name": "memorylens-mcp",
+  "description": "MCP server for .NET memory profiling with AI-actionable code fix suggestions, powered by JetBrains dotMemory",
+  "git_url": "https://github.com/MarcelRoozekrans/memorylens-mcp",
+  "author_github": "MarcelRoozekrans",
+  "category": "ai-agents",
+  "tags": [
+    "memorylens",
+    "net",
+    "memory",
+    "profiling",
+    "actionable"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
