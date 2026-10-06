@@ -1,0 +1,16 @@
+{
+  "name": "localfig",
+  "description": "The Figma desktop app as an MCP server. Gives AI agents the full Figma Plugin API on your open file: read, write, tokens, components, exports, undo. Runs locally with no cloud API, no token and no quota. One command registers it with Claude Code, Cursor, VS Code, Windsurf, Cline, Gemini CLI, Codex and more. Zero dependencies.",
+  "git_url": "https://github.com/LucasGorgal/localfig",
+  "author_github": "LucasGorgal",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "figma",
+    "figmamcp",
+    "figmaplugin",
+    "figmadesign"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
