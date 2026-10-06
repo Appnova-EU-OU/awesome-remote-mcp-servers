@@ -1,0 +1,15 @@
+{
+  "name": "DevDocs-MCP",
+  "description": "Documentation Authority for AI Agents based upon Devdocs",
+  "git_url": "https://github.com/madhan-g-p/DevDocs-MCP",
+  "author_github": "madhan-g-p",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "devdocs",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://registry.modelcontextprotocol.io/?q=io.github.madhan-g-p%2Fdevdocs-mcp"
+}
