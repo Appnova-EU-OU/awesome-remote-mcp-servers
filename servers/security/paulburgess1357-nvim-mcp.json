@@ -1,0 +1,16 @@
+{
+  "name": "nvim-mcp",
+  "description": "MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.",
+  "git_url": "https://github.com/paulburgess1357/nvim-mcp",
+  "author_github": "paulburgess1357",
+  "category": "security",
+  "tags": [
+    "ai",
+    "artificialintelligence",
+    "claude",
+    "claudecode",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
