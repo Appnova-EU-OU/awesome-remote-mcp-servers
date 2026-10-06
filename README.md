@@ -91,9 +91,26 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-openapi-schema-explorer](https://freemcp.space/featured/mcp-openapi-schema-e) — MCP server providing token-efficient access to OpenAPI/Swagger specs via MCP Resource Templates for client-side exploration.
+- [nocodb-mcp-server](https://freemcp.space/featured/nocodb-mcp-server) — nocodb mcp server
+- [altium-designer-mcp](https://freemcp.space/featured/altium-designer-mcp) — MCP server for AI-assisted management of Altium Designer component libraries
+- [mcp-design-system-extractor](https://freemcp.space/featured/mcp-design-system-ex) — MCP (Model Context Protocol) server that enables AI assistants to interact with Storybook design systems. Extract component HTML, analyze styles, and help with design system adoption and refactoring.
+- [aicanvas](https://freemcp.space/featured/aicanvas) — Open-core registry of animated React components, blocks, design systems, and templates. Real, editable code: install with one shadcn CLI command or let your AI agent pull it over MCP.
+- [globalping-mcp-server](https://freemcp.space/featured/globalping-mcp-serve) — Remote MCP server that gives LLMs access to run network commands
+- [roslyn-codelens-mcp](https://freemcp.space/featured/roslyn-codelens-mcp) — Roslyn-based MCP server giving AI agents deep semantic understanding of .NET/C# codebases — 67 tools for navigation, call graphs, diagnostics & code fixes, safe refactoring, code-quality auditing, test intelligence, DI graphs, and IL/external-assembly inspection.
+- [mcp-ai-server-visual-studio](https://freemcp.space/featured/mcp-ai-server-visual) — MCP AI Server - Roslyn-powered MCP server for Visual Studio. 20 tools for AI assistants.
+- [mk-qa-master](https://freemcp.space/featured/mk-qa-master) — AI 測試大師 — MCP server driving pytest / Jest / Cypress / Go / Maestro. Analyze, generate, run, advise. Web + Mobile (iOS/Android/BlueStacks).
+- [metatron](https://freemcp.space/featured/metatron) — Git-native context layer for AI coding agents. Your team's real engineering decisions — patterns, pitfalls, conventions — live as reviewed markdown files in your repo; agents consult them before writing code and record what they learn. Files-first, no server required; MCP as an optional serving layer.
+- [agent-tool](https://freemcp.space/featured/agent-tool) — MCP tool server for AI coding agents -- encoding-aware file tools, binary analysis, DAP debugger, SSH/SFTP, process memory, and more
+- [xcode-studio-mcp](https://freemcp.space/featured/xcode-studio-mcp) — Unified MCP server for AI-assisted iOS development — build, deploy, screenshot, and interact with iOS Simulator from Claude Code, Cursor, or any MCP client
+- [design-token-bridge-mcp](https://freemcp.space/featured/design-token-bridge) — MCP server that translates design tokens between platforms — Tailwind, Figma, CSS to Material 3, SwiftUI, and CSS Variables. Built for the v0 → Figma → Claude Code pipeline.
+- [mcp-server](https://freemcp.space/featured/mcp-server-22) — MCP server for Jungle Grid lets agents submit, monitor, and retrieve logs from AI workloads.
+- [mushi-mushi](https://freemcp.space/featured/mushi-mushi) — 🦖Know why your AI-built app broke — plain-English diagnosis + ready fix, in your editor. Open source. Sentry optional.
+- [compound-mcp](https://freemcp.space/featured/compound-mcp) — OpenLookup, an MCP server from Compound Labs: eleven read-only lookups over live public data, including AI model pricing and routing, dependency maintenance and service pricing
+- [arno](https://freemcp.space/featured/arno) — The IDE for agents. An MCP server: read by symbol, edit against a revision, validate with your own build, revert. Go, Java, Scala, TypeScript, Python, Rust, Ruby.
 - [Cognigy Ai Mcp Management Server](https://freemcp.space/tsvetangerginovv/cognigy-ai-mcp-manag) — > Model Context Protocol server for managing Cognigy.AI virtual agents through the Management API > > This is an independent, open-source MCP server and is not affiliated with, endorsed by, or sponsored by Cognigy or NiCE. It requires your own valid Cognigy.AI account and API key, used in accordance
 - [agentmail-mcp](https://freemcp.space/featured/agentmail-mcp) — Email for AI agents: create inboxes on the fly to send, receive and act on email.
-- [go-mcp-mysql](https://freemcp.space/featured/go-mcp-mysql) — Zero burden, ready-to-use Model Context Protocol (MCP) server for interacting with MySQL and automation. No Node.js or Python environment needed.
+- [go-mcp-mysql](https://freemcp.space/zhwt/go-mcp-mysql) — Zero burden, ready-to-use Model Context Protocol (MCP) server for interacting with MySQL and automation. No Node.js or Python environment needed.
 - [codebase-context](https://freemcp.space/featured/codebase-context) — Codebase Context gives AI agents understanding of your codebase through semantic code search, team conventions, patterns, and memory, so they use fewer tokens, spend less time, and produce better, more familiar output.
 - [repo-graph](https://freemcp.space/featured/repo-graph) — Structural graph memory for AI coding assistants — MCP server for codebase navigation
 - [simulator-mcp-server](https://freemcp.space/featured/simulator-mcp-server) — Control iOS Simulators.
@@ -174,23 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [codelogic-mcp-server](https://freemcp.space/featured/codelogic-mcp-server) — An MCP Server to utilize Lineai's rich software dependency data in your AI programming assistant.
 - [apisix-mcp](https://freemcp.space/featured/apisix-mcp) — APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API.
 - [influxdb3_mcp_server](https://freemcp.space/featured/influxdb3-mcp-server) — MCP Server for InfluxDB 3
-- [teamcity-mcp](https://freemcp.space/featured/teamcity-mcp) — Model Context Protocol (MCP) server for JetBrains TeamCity: control builds, tests, agents and configs from AI coding assistants.
-- [aibolit-mcp-server](https://freemcp.space/featured/aibolit-mcp-server-2) — MCP Server for Aibolit Java Static Analyzer: Helping Your AI Agent Identify Hotspots for Refactoring
-- [currents-mcp](https://freemcp.space/featured/currents-mcp) — Currents MCP Server
-- [patchloom](https://freemcp.space/featured/patchloom) — Structured file edits for AI agents (JSON/YAML/TOML, markdown, AST, dry-run, MCP). Not a generic filesystem MCP.
-- [mcp-server](https://freemcp.space/featured/mcp-server-20) — Official ConfigCat Model Context Protocol (MCP) Server 
-- [context-rot-detection](https://freemcp.space/featured/context-rot-detectio) — Context Rot Detection & Healing MCP Service — gives AI agents self-awareness about their cognitive state
-- [bldbl-mcp](https://freemcp.space/featured/bldbl-mcp-2) — Buildable development platform: manage tasks, track progress, get project context and collaborate with humans on software projects.
-- [conan-mcp](https://freemcp.space/featured/conan-mcp) — Model Context Protocol server for Conan
-- [api-testing-mcp](https://freemcp.space/featured/api-testing-mcp) — The most complete MCP server for API testing. 27 tools: requests, assertions, flows, OpenAPI, mock data, load testing, collections, environments, cURL export, response diffing. Zero config, zero dependencies.
-- [cursor-usage](https://freemcp.space/featured/cursor-usage) — Ask your AI agent about your team's Cursor spending. MCP server + Cursor plugin + Claude Code plugin wrapping the full Cursor Enterprise API.
-- [tuning-engines-cli](https://freemcp.space/featured/tuning-engines-cli) — CLI & MCP server for Tuning Engines — fine-tune LLMs on code repositories
-- [claudecodenavi-mcp](https://freemcp.space/featured/claudecodenavi-mcp-2) — ClaudeCodeNavi MCP Server - Claude Code knowledge platform & marketplace
-- [chatpipe-mcp](https://freemcp.space/featured/chatpipe-mcp) — Publish live web pages from your AI coding agent — instant shareable URLs from your terminal.
-- [codesign](https://freemcp.space/featured/codesign) — CoDesign gives AI agents like Claude Code, Codex and PI a real design engine for genuine, editable designs, not flat images. Bring in what you have: InDesign, Photoshop, PowerPoint and PDF files stay editable. Exports print-ready PDFs with CMYK and bleed. Every design opens in a built-in editor for manual fixes. Runs on your machine, no account.
-- [mcp-server-couchbase](https://freemcp.space/featured/mcp-server-couchbase) — Model Context Protocol server for Couchbase - connect AI agents and LLMs like Claude, Cursor, and Copilot to Couchbase/Capella
-- [app-publish-mcp](https://freemcp.space/featured/app-publish-mcp) — Unified MCP server for App Store Connect & Google Play Console — 91 tools for listings, screenshots, releases, reviews & submissions
-- [roku-dev-studio](https://freemcp.space/featured/roku-dev-studio) — Cross-platform Electron desktop studio for Roku developers: remote control, device queries, sideload, telnet console, RALE/App Connector, BrightScript Fiddle, JSON Action Scripts, an `rds` CLI, an MCP server for AI agents, and an internet relay.
 <!-- freemcp:end -->
 
 ---
