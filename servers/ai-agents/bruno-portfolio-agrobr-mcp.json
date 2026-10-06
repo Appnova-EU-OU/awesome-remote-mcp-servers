@@ -1,0 +1,16 @@
+{
+  "name": "agrobr-mcp",
+  "description": "MCP server for Brazilian agricultural data — connect LLMs to 10 public data sources via agrobr",
+  "git_url": "https://github.com/bruno-portfolio/agrobr-mcp",
+  "author_github": "bruno-portfolio",
+  "category": "ai-agents",
+  "tags": [
+    "agrobr",
+    "brazilian",
+    "agricultural",
+    "data",
+    "connect"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
