@@ -1,0 +1,15 @@
+{
+  "name": "nvim-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides seamless integration with Neovim instances, enabling AI assistants to interact with your editor through connections and access diagnostic information via structured resources.",
+  "git_url": "https://github.com/linw1995/nvim-mcp",
+  "author_github": "linw1995",
+  "category": "ai-agents",
+  "tags": [
+    "lsp",
+    "mcpserver",
+    "nvim",
+    "nvimplugin"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
