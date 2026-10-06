@@ -1,0 +1,17 @@
+{
+  "name": "kivgraph",
+  "description": "A local MCP server for cross-repository semantic code intelligence in TypeScript and Go, backed by a persistent LadybugDB graph.",
+  "git_url": "https://github.com/Luqueee/kivgraph",
+  "author_github": "Luqueee",
+  "category": "databases",
+  "tags": [
+    "codegraph",
+    "codeintelligence",
+    "crossrepository",
+    "golang",
+    "graphdatabase"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://kivgraph.dev"
+}
