@@ -1,0 +1,17 @@
+{
+  "name": "markview",
+  "description": "Native macOS markdown preview + MCP server for Claude Code. Swift/SwiftUI, GFM, Mermaid, syntax highlighting. No Electron.",
+  "git_url": "https://github.com/paulhkang94/markview",
+  "author_github": "paulhkang94",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "claude",
+    "claudecode",
+    "developertools",
+    "gfm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://paulkang.dev"
+}
