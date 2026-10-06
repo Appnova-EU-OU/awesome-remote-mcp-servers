@@ -1,0 +1,16 @@
+{
+  "name": "codebase-agent-mcp",
+  "description": "A sub-harness (both an MCP server and an MCP client). Delegates documentation and source code analysis, as well as interactions with related context-providing MCP servers, to a local or inexpensive OpenAI-compatible LLM. Drastically reduces token usage and context size for coding agents on the top-tier LLM.",
+  "git_url": "https://github.com/FI-Mihej/codebase-agent-mcp",
+  "author_github": "FI-Mihej",
+  "category": "search",
+  "tags": [
+    "agenticai",
+    "ai",
+    "codeanalysis",
+    "codebase",
+    "codingagent"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
