@@ -1,0 +1,17 @@
+{
+  "name": "metatron",
+  "description": "Git-native context layer for AI coding agents. Your team's real engineering decisions — patterns, pitfalls, conventions — live as reviewed markdown files in your repo; agents consult them before writing code and record what they learn. Files-first, no server required; MCP as an optional serving layer.",
+  "git_url": "https://github.com/kerbelp/metatron",
+  "author_github": "kerbelp",
+  "category": "ai-agents",
+  "tags": [
+    "agenticai",
+    "agenticworkflow",
+    "aiagent",
+    "aicodingassistant",
+    "aitools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://getmetatron.com/"
+}
