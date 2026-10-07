@@ -91,6 +91,23 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-server-atlassian-jira](https://freemcp.space/featured/mcp-server-atlassian-2) — Node.js/TypeScript MCP server for Atlassian Jira. Equips AI systems (LLMs) with tools to list/get projects, search/get issues (using JQL/ID), and view dev info (commits, PRs). Connects AI capabilities directly into Jira project management and issue tracking workflows.
+- [SmartDB_MCP](https://freemcp.space/featured/smartdb-mcp) — Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB,DM8,Oracle,not only provides basic database connection such as OAuth 2.0 authentication , health checks, SQL optimization, and index health detection
+- [nvim-mcp](https://freemcp.space/featured/nvim-mcp-2) — A Model Context Protocol (MCP) server that provides seamless integration with Neovim instances, enabling AI assistants to interact with your editor through connections and access diagnostic information via structured resources.
+- [nvim-mcp](https://freemcp.space/featured/nvim-mcp) — MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
+- [logisheets-mcp](https://freemcp.space/featured/logisheets-mcp) — give your AI agent a spreadsheet it can actually think in: deterministic Excel-compatible math + structured memory (blocks), real .xlsx out. Open source, self-hostable.
+- [markview](https://freemcp.space/featured/markview) — Native macOS markdown preview + MCP server for Claude Code. Swift/SwiftUI, GFM, Mermaid, syntax highlighting. No Electron.
+- [kivgraph](https://freemcp.space/featured/kivgraph) — A local MCP server for cross-repository semantic code intelligence in TypeScript and Go, backed by a persistent LadybugDB graph.
+- [DevDocs-MCP](https://freemcp.space/featured/devdocs-mcp) — Documentation Authority for AI Agents based upon Devdocs
+- [clarifyprompt-mcp](https://freemcp.space/featured/clarifyprompt-mcp-2) — Turns vague prompts into platform-optimized prompts for AI tools across image, video, voice, music, code, chat and document categories.
+- [memorylens-mcp](https://freemcp.space/featured/memorylens-mcp) — MCP server for .NET memory profiling with AI-actionable code fix suggestions, powered by JetBrains dotMemory
+- [LynxMCP](https://freemcp.space/featured/lynxmcp) — LynxMCP: local MCP server for the code questions grep can't answer. Call graph and blast radius, hybrid semantic + lexical code search on ONNX Runtime, library docs and PDFs as sources. No cloud, no PyTorch.
+- [atest-mcp-server](https://freemcp.space/featured/atest-mcp-server) — MCP Server of API Testing
+- [loopsense](https://freemcp.space/featured/loopsense) — LoopSense is an open-source MCP server that closes the feedback loop for AI coding agents — giving them real-time visibility into CI results, deployments, test outcomes, and file system changes. 
+- [gptzero-mcp](https://freemcp.space/featured/gptzero-mcp) — Detect AI-generated text via the GPTZero API, with confidence scores, probability breakdowns and French and Spanish support.
+- [localfig](https://freemcp.space/featured/localfig) — The Figma desktop app as an MCP server. Gives AI agents the full Figma Plugin API on your open file: read, write, tokens, components, exports, undo. Runs locally with no cloud API, no token and no quota. One command registers it with Claude Code, Cursor, VS Code, Windsurf, Cline, Gemini CLI, Codex and more. Zero dependencies.
+- [mcp-server](https://freemcp.space/featured/mcp-server-23) — MCP server for Underground Cultural District — 23 tools, 218+ digital goods for AI agents. Free dev tools + paid catalog + Stripe checkout. npm: @underground-cultural-district/mcp-server
+- [overseer-nvim-mcp](https://freemcp.space/featured/overseer-nvim-mcp) — MCP server giving coding agents visibility and control over overseer.nvim tasks: list, tail, run, restart, stop, dispose
 - [mcp-openapi-schema-explorer](https://freemcp.space/featured/mcp-openapi-schema-e) — MCP server providing token-efficient access to OpenAPI/Swagger specs via MCP Resource Templates for client-side exploration.
 - [nocodb-mcp-server](https://freemcp.space/featured/nocodb-mcp-server) — nocodb mcp server
 - [altium-designer-mcp](https://freemcp.space/featured/altium-designer-mcp) — MCP server for AI-assisted management of Altium Designer component libraries
@@ -107,7 +124,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-server](https://freemcp.space/featured/mcp-server-22) — MCP server for Jungle Grid lets agents submit, monitor, and retrieve logs from AI workloads.
 - [mushi-mushi](https://freemcp.space/featured/mushi-mushi) — 🦖Know why your AI-built app broke — plain-English diagnosis + ready fix, in your editor. Open source. Sentry optional.
 - [compound-mcp](https://freemcp.space/featured/compound-mcp) — OpenLookup, an MCP server from Compound Labs: eleven read-only lookups over live public data, including AI model pricing and routing, dependency maintenance and service pricing
-- [arno](https://freemcp.space/featured/arno) — The IDE for agents. An MCP server: read by symbol, edit against a revision, validate with your own build, revert. Go, Java, Scala, TypeScript, Python, Rust, Ruby.
+- [arno](https://freemcp.space/julian/arno) — The IDE for agents. An MCP server: read by symbol, edit against a revision, validate with your own build, revert. Go, Java, Scala, TypeScript, Python, Rust, Ruby.
 - [Cognigy Ai Mcp Management Server](https://freemcp.space/tsvetangerginovv/cognigy-ai-mcp-manag) — > Model Context Protocol server for managing Cognigy.AI virtual agents through the Management API > > This is an independent, open-source MCP server and is not affiliated with, endorsed by, or sponsored by Cognigy or NiCE. It requires your own valid Cognigy.AI account and API key, used in accordance
 - [agentmail-mcp](https://freemcp.space/featured/agentmail-mcp) — Email for AI agents: create inboxes on the fly to send, receive and act on email.
 - [go-mcp-mysql](https://freemcp.space/zhwt/go-mcp-mysql) — Zero burden, ready-to-use Model Context Protocol (MCP) server for interacting with MySQL and automation. No Node.js or Python environment needed.
@@ -174,23 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [delimit](https://freemcp.space/featured/delimit) — Building your AI organization: shared records and handoffs, plus a merge gate for AI-written code with signed, replayable attestation. Works with Claude Code, Codex, Cursor, and Gemini CLI.
 - [swift-patterns-mcp](https://freemcp.space/efremidzel/swift-patterns-mcp) — An MCP server providing curated Swift and SwiftUI best practices from leading iOS sources.
 - [deploy-mcp](https://freemcp.space/featured/deploy-mcp) — Universal deployment tracker for AI assistants - check deployment status without leaving your AI chat
-- [twitterapi-docs-mcp](https://freemcp.space/featured/twitterapi-docs-mcp) — TwitterAPI.io MCP server: offline docs (endpoints, pages, blogs) for Claude and other AI assistants.
-- [endiagram-mcp](https://freemcp.space/featured/endiagram-mcp) — MCP server for EN Diagram — structural analysis for any system. Install: npx @endiagram/mcp
-- [mcp-server-flipt](https://freemcp.space/featured/mcp-server-flipt) — Interact with feature flags in Flipt.
-- [project-context-mcp](https://freemcp.space/featured/project-context-mcp) — Give Claude Code instant access to your project's institutional knowledge. Drop docs in .context/, mention them with @, and watch Claude become an expert on your codebase.
-- [time-node-mcp](https://freemcp.space/featured/time-node-mcp) — MCP server for timezone-aware date and time operations
-- [swagger-testcase-mcp](https://freemcp.space/featured/swagger-testcase-mcp) — MCP server for API testing: generates test cases, validates specs, compares versions, and creates mock data from Swagger/OpenAPI specifications
-- [mcp-server](https://freemcp.space/featured/mcp-server-21) — MCP server that lets AI coding agents add smart-glasses capabilities to Android and iOS apps — scaffold, validate, and simulate before touching hardware
-- [pox-mcp-server](https://freemcp.space/featured/pox-mcp-server) — A Model Context Protocol (MCP) server for the POX SDN controller
-- [genable](https://freemcp.space/featured/genable) — Quality-first AI UI generator for Figma. Multi-protocol: Gemini · Claude · OpenAI-compatible.
-- [creative-claw-marketplace](https://freemcp.space/featured/creative-claw-market) — Creative Claw: AI video, image and voiceover generation inside ChatGPT, Claude, Codex and Cursor. Seedance 2.5, Gemini Omni, Nano Banana 2, voice cloning. Pay as you go.
-- [kiprio-mcp](https://freemcp.space/featured/kiprio-mcp) — MCP server exposing kiprio.com developer APIs (email/DNS/SSL/text/dev utilities) as tools for Claude, Cursor, and any MCP client.
-- [bitrise-mcp](https://freemcp.space/featured/bitrise-mcp-2) — MCP Server for the Bitrise API, enabling app management, build operations, artifact management and more.
-- [open-code-review](https://freemcp.space/featured/open-code-review) — 🤖 AI code quality gate for AI-generated code. Detects hallucinated packages, phantom dependencies, stale APIs, and more. MCP Server + CLI + CI/CD Action.
-- [package-registry-mcp](https://freemcp.space/featured/package-registry-mcp) — MCP server for searching and getting up-to-date information about NPM, Cargo, PyPi, and NuGet packages.
-- [codelogic-mcp-server](https://freemcp.space/featured/codelogic-mcp-server) — An MCP Server to utilize Lineai's rich software dependency data in your AI programming assistant.
-- [apisix-mcp](https://freemcp.space/featured/apisix-mcp) — APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API.
-- [influxdb3_mcp_server](https://freemcp.space/featured/influxdb3-mcp-server) — MCP Server for InfluxDB 3
 <!-- freemcp:end -->
 
 ---
