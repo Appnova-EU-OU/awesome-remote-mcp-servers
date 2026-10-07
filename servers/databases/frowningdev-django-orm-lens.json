@@ -1,0 +1,17 @@
+{
+  "name": "django-orm-lens",
+  "description": "Django ER diagrams, N+1 detection, schema drift & migration-risk linting — in VS Code, a CLI and an MCP server. Static analysis: no database, no django.setup(). Free & MIT.",
+  "git_url": "https://github.com/FROWNINGdev/django-orm-lens",
+  "author_github": "FROWNINGdev",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "aider",
+    "codenavigation",
+    "cursor",
+    "database"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://frowningdev.github.io/django-orm-lens/"
+}
