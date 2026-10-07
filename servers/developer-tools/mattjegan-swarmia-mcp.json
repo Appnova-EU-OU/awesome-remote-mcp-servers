@@ -1,0 +1,16 @@
+{
+  "name": "swarmia-mcp",
+  "description": "A read-only local MCP server for to interact with swarmia.com",
+  "git_url": "https://github.com/mattjegan/swarmia-mcp",
+  "author_github": "mattjegan",
+  "category": "developer-tools",
+  "tags": [
+    "swarmia",
+    "read",
+    "only",
+    "local",
+    "interact"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
