@@ -1,0 +1,16 @@
+{
+  "name": "keboola-mcp-server",
+  "description": "Model Context Protocol (MCP) Server for the Keboola Platform",
+  "git_url": "https://github.com/keboola/keboola-mcp-server",
+  "author_github": "keboola",
+  "category": "databases",
+  "tags": [
+    "dataplatform",
+    "etlpipeline",
+    "keboolaplatform",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
