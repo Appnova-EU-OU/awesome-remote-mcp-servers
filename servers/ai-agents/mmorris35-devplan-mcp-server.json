@@ -1,0 +1,16 @@
+{
+  "name": "devplan-mcp-server",
+  "description": "MCP server for generating development plans, project roadmaps, and task breakdowns for Claude Code. Turn project ideas into paint-by-numbers implementation plans.",
+  "git_url": "https://github.com/mmorris35/devplan-mcp-server",
+  "author_github": "mmorris35",
+  "category": "ai-agents",
+  "tags": [
+    "aicoding",
+    "claude",
+    "claudecode",
+    "developmentplan",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
