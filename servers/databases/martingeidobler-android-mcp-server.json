@@ -1,0 +1,16 @@
+{
+  "name": "android-mcp-server",
+  "description": "MCP server for controlling Android emulators via ADB — screenshots, UI interaction, logcat, and bug documentation for Claude Code",
+  "git_url": "https://github.com/martingeidobler/android-mcp-server",
+  "author_github": "martingeidobler",
+  "category": "databases",
+  "tags": [
+    "android",
+    "controlling",
+    "emulators",
+    "via",
+    "adb"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
