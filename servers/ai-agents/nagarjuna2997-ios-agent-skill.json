@@ -1,0 +1,17 @@
+{
+  "name": "ios-agent-skill",
+  "description": "Swift source, Apple guides and MCP tools for AI coding agents. Review iOS code, scaffold apps, and build/run/preview with Xcode Simulator. ",
+  "git_url": "https://github.com/Nagarjuna2997/ios-agent-skill",
+  "author_github": "Nagarjuna2997",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "apple",
+    "appleintelligence",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://nagarjuna2997.github.io/ios-agent-skill/"
+}
