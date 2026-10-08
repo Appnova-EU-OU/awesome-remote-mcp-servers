@@ -1,0 +1,15 @@
+{
+  "name": "VictoriaMetrics-mcp-server",
+  "description": "MCP Server for the VictoriaMetrics.",
+  "git_url": "https://github.com/yincongcyincong/VictoriaMetrics-mcp-server",
+  "author_github": "yincongcyincong",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "mcpserver",
+    "metrics",
+    "victoriametrics"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
