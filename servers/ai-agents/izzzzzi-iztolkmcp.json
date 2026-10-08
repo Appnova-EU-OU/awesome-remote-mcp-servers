@@ -1,0 +1,16 @@
+{
+  "name": "izTolkMcp",
+  "description": "MCP server for Tolk smart contract compiler — compile, check, and deploy TON blockchain smart contracts from any MCP-compatible AI assistant",
+  "git_url": "https://github.com/izzzzzi/izTolkMcp",
+  "author_github": "izzzzzi",
+  "category": "ai-agents",
+  "tags": [
+    "iztolkmcp",
+    "tolk",
+    "smart",
+    "contract",
+    "compiler"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
