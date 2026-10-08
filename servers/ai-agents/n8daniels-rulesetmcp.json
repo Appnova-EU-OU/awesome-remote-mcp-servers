@@ -1,0 +1,16 @@
+{
+  "name": "RulesetMCP",
+  "description": "Weight-On-Wheels for AI: MCP server that keeps every agent grounded in your project's rules",
+  "git_url": "https://github.com/n8daniels/RulesetMCP",
+  "author_github": "n8daniels",
+  "category": "ai-agents",
+  "tags": [
+    "rulesetmcp",
+    "weight",
+    "wheels",
+    "keeps",
+    "every"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
