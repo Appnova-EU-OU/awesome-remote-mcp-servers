@@ -1,0 +1,16 @@
+{
+  "name": "agenthop",
+  "description": "Let your AI agent talk directly to someone else's. One pairing code, end-to-end encrypted, no public IP. MCP server for Claude Code, Codex, Cursor, Gemini CLI and grok.",
+  "git_url": "https://github.com/sdyuyouth/agenthop",
+  "author_github": "sdyuyouth",
+  "category": "cloud-infra",
+  "tags": [
+    "a2a",
+    "agent",
+    "agenttoagent",
+    "aiagents",
+    "claudecode"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
