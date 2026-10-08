@@ -1,0 +1,13 @@
+{
+  "name": "cloudflare-mcp-go",
+  "description": "Cloudflare MCP server in Go",
+  "git_url": "https://github.com/M-Yamashita01/cloudflare-mcp-go",
+  "author_github": "M-Yamashita01",
+  "category": "cloud-infra",
+  "tags": [
+    "terraformmanaged",
+    "cloudflare"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
