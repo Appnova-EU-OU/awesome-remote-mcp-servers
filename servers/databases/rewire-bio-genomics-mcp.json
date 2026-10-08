@@ -1,0 +1,16 @@
+{
+  "name": "genomics-mcp",
+  "description": "Unified MCP access to genomic archives, reference databases and indexed sequencing files",
+  "git_url": "https://github.com/rewire-bio/genomics-mcp",
+  "author_github": "rewire-bio",
+  "category": "databases",
+  "tags": [
+    "genomics",
+    "unified",
+    "access",
+    "genomic",
+    "archives"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
