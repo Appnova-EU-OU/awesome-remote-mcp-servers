@@ -91,6 +91,22 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [keboola-mcp-server](https://freemcp.space/featured/keboola-mcp-server) — Model Context Protocol (MCP) Server for the Keboola Platform
+- [django-orm-lens](https://freemcp.space/featured/django-orm-lens) — Django ER diagrams, N+1 detection, schema drift & migration-risk linting — in VS Code, a CLI and an MCP server. Static analysis: no database, no django.setup(). Free & MIT.
+- [mcp-server-multiverse](https://freemcp.space/featured/mcp-server-multivers) — A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.
+- [android-mcp-server](https://freemcp.space/featured/android-mcp-server) — MCP server for controlling Android emulators via ADB — screenshots, UI interaction, logcat, and bug documentation for Claude Code
+- [mdma](https://freemcp.space/featured/mdma) — Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
+- [mcp-codebase-index](https://freemcp.space/featured/mcp-codebase-index) — 17 MCP query tools for codebase navigation — functions, classes, imports, dependency graphs, change impact. Zero dependencies. 87% token reduction.
+- [user-feedback-mcp](https://freemcp.space/featured/user-feedback-mcp) — Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor.
+- [mneme](https://freemcp.space/featured/mneme) — Architectural drift prevention for the agentic AI SDLC.
+- [ui-annotator-mcp](https://freemcp.space/featured/ui-annotator-mcp) — MCP server that annotates any web page with hover labels — zero extensions, works in any browser
+- [npm-package-docs-mcp](https://freemcp.space/featured/npm-package-docs-mcp) — A Model Context Protocol (MCP) tool that provides up-to-date documentation for npm packages directly in your IDE. This tool fetches the latest README documentation from either the package's GitHub repository or the README bundled with the npm package itself.
+- [swarmia-mcp](https://freemcp.space/featured/swarmia-mcp) — A read-only local MCP server for to interact with swarmia.com
+- [devplan-mcp-server](https://freemcp.space/featured/devplan-mcp-server) — MCP server for generating development plans, project roadmaps, and task breakdowns for Claude Code. Turn project ideas into paint-by-numbers implementation plans.
+- [mobile-device-mcp](https://freemcp.space/featured/mobile-device-mcp) — MCP server for AI-powered mobile device control — 26 tools for screenshots, UI inspection, touch interaction, and AI visual analysis. Supports Anthropic Claude & Google Gemini.
+- [ollama-handoff](https://freemcp.space/featured/ollama-handoff) — MCP server that offloads cheap work from your cloud LLM agent to a local Ollama model — summaries, drafts, extractions, first-pass reviews — at zero cloud cost.
+- [git-context-mcp](https://freemcp.space/featured/git-context-mcp) — MCP server that answers why code exists - git blame, PR descriptions, and linked issues
+- [mockhero](https://freemcp.space/featured/mockhero) — Synthetic test data generation: detect schemas from SQL or JSON and generate JSON, CSV or SQL data.
 - [mcp-server-atlassian-jira](https://freemcp.space/featured/mcp-server-atlassian-2) — Node.js/TypeScript MCP server for Atlassian Jira. Equips AI systems (LLMs) with tools to list/get projects, search/get issues (using JQL/ID), and view dev info (commits, PRs). Connects AI capabilities directly into Jira project management and issue tracking workflows.
 - [SmartDB_MCP](https://freemcp.space/featured/smartdb-mcp) — Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB,DM8,Oracle,not only provides basic database connection such as OAuth 2.0 authentication , health checks, SQL optimization, and index health detection
 - [nvim-mcp](https://freemcp.space/featured/nvim-mcp-2) — A Model Context Protocol (MCP) server that provides seamless integration with Neovim instances, enabling AI assistants to interact with your editor through connections and access diagnostic information via structured resources.
@@ -175,22 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-gitlab-jira](https://freemcp.space/featured/mcp-gitlab-jira) — GitLab and Jira: manage projects, merge requests, files, releases and tickets.
 - [gavel](https://freemcp.space/featured/gavel) — Code quality platform for Bazel monorepos — static analyzers as aspects, SARIF, quality gates
 - [stacksfinder-mcp](https://freemcp.space/featured/stacksfinder-mcp) — MCP server for StacksFinder - deterministic tech stack recommendations for LLM clients
-- [rest_api_mcp](https://freemcp.space/featured/rest-api-mcp) — Authenticated calls to any REST API: auto-login, token caching, 2FA/OTP support, Swagger spec fetching and fuzzy endpoint search.
-- [docorbit](https://freemcp.space/featured/docorbit) — DocOrbit discovers authoritative documentation, resolves it against your project's dependency versions, retrieves task-specific context, and verifies generated code against documentation contracts.
-- [gridproof](https://freemcp.space/featured/gridproof) — Spacing & grid QA for AI-generated UIs, in the agent loop. MCP server that audits computed geometry and returns fix hints.
-- [lynxprompt-mcp](https://freemcp.space/featured/lynxprompt-mcp) — MCP Server for LynxPrompt — browse, search, and manage AI configuration blueprints (AGENTS.md, CLAUDE.md) via MCP
-- [layout-doctor-mcp](https://freemcp.space/featured/layout-doctor-mcp) — HTMLをレンダリングしてレイアウトの破綻を検出するMCPサーバー。文字の重なり・はみ出し・切り捨てを座標で実測。ベースライン不要・検査専用
-- [port-keeper-mcp](https://freemcp.space/featured/port-keeper-mcp) — Local ledger for development ports — leases a block per project slot, renders env files, resolves service names to URLs, and serves it all over MCP. No daemon, no listener, no secrets.
-- [CodemagicMcp](https://freemcp.space/agimaulanadex/codemagicmcp) — A local Python MCP server that exposes the [Codemagic CI/CD REST API](https://docs.codemagic.io/rest-api/overview/) as Claude-callable tools. Trigger builds, manage apps, download artifacts, and clear caches — all from Claude Code or Claude Desktop without leaving the chat.
-- [GooglePlayConsoleMcp](https://freemcp.space/agimaulanadex/googleplayconsolemcp) — A Python [Model Context Protocol](https://modelcontextprotocol.io/) server that lets AI assistants (Claude, etc.) manage the full Google Play Store release lifecycle directly — from uploading artifacts to managing testers, rollouts, and Android Vitals.
-- [mcp-databricks-server](https://freemcp.space/featured/mcp-databricks-serve) — MCP Server for Databricks
-- [influxdb-mcp-server](https://freemcp.space/featured/influxdb-mcp-server) — An MCP Server for querying InfluxDB
-- [mnemiq](https://freemcp.space/featured/mnemiq) — Open-source text-to-SQL engine you tune and measure on your own database
-- [AiDex](https://freemcp.space/featured/aidex) — MCP Server for persistent code indexing. Gives AI assistants (Claude, Gemini, Copilot, Cursor) instant access to your codebase. 50x less context than grep.
-- [ontomics](https://freemcp.space/featured/ontomics) — Extract domain knowledge from codebases to reduce LLM token consumption by 20x and time in agentic search by 10x — gathers and makes concepts, naming conventions, and vocabulary queryable via MCP.
-- [delimit](https://freemcp.space/featured/delimit) — Building your AI organization: shared records and handoffs, plus a merge gate for AI-written code with signed, replayable attestation. Works with Claude Code, Codex, Cursor, and Gemini CLI.
-- [swift-patterns-mcp](https://freemcp.space/efremidzel/swift-patterns-mcp) — An MCP server providing curated Swift and SwiftUI best practices from leading iOS sources.
-- [deploy-mcp](https://freemcp.space/featured/deploy-mcp) — Universal deployment tracker for AI assistants - check deployment status without leaving your AI chat
 <!-- freemcp:end -->
 
 ---
