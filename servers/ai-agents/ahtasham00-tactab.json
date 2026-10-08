@@ -1,0 +1,16 @@
+{
+  "name": "tactab",
+  "description": "Tactile browser control and multimodal visual vision bridge for AI agents (Cursor, Claude, etc.) via Model Context Protocol (MCP) & Chrome Extension.",
+  "git_url": "https://github.com/Ahtasham00/tactab",
+  "author_github": "Ahtasham00",
+  "category": "ai-agents",
+  "tags": [
+    "tactab",
+    "tactile",
+    "browser",
+    "control",
+    "multimodal"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
