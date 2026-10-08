@@ -1,0 +1,16 @@
+{
+  "name": "claude-session-relay",
+  "description": "Let Claude Code sessions on different machines share a board, message each other and avoid colliding git pushes. Teams, private sessions, and an MCP connector for claude.ai and Cowork.",
+  "git_url": "https://github.com/dimitrihilverda/claude-session-relay",
+  "author_github": "dimitrihilverda",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "claude",
+    "claudecode",
+    "claudecodehooks"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
