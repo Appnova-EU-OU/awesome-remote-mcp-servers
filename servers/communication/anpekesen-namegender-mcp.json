@@ -1,0 +1,17 @@
+{
+  "name": "namegender-mcp",
+  "description": "Model Context Protocol server for the NameGender API: gender from names, emails and usernames, with probability, sample size and source on every answer.",
+  "git_url": "https://github.com/anpekesen/namegender-mcp",
+  "author_github": "anpekesen",
+  "category": "communication",
+  "tags": [
+    "claude",
+    "gender",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://namegender.com/docs#mcp"
+}
