@@ -1,0 +1,16 @@
+{
+  "name": "mcp-gtm-signals-aggregator",
+  "description": "MCP server for GTM Signals Aggregator. Combines hiring and tech stack detection into one composite GTM score via Apify. Clay-ready output.",
+  "git_url": "https://github.com/mambalabsdev/mcp-gtm-signals-aggregator",
+  "author_github": "mambalabsdev",
+  "category": "developer-tools",
+  "tags": [
+    "gtm",
+    "signals",
+    "aggregator",
+    "combines",
+    "hiring"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
