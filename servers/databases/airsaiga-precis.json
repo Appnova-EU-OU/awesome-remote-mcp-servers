@@ -1,0 +1,17 @@
+{
+  "name": "Precis",
+  "description": "🧪 Alpha — Local-first visual data quality platform. Visual DAG editor + schema-aware validation for Excel/CSV. Feedback welcome.",
+  "git_url": "https://github.com/AirSaiga/Precis",
+  "author_github": "AirSaiga",
+  "category": "databases",
+  "tags": [
+    "csv",
+    "dag",
+    "dataquality",
+    "datavalidation",
+    "electron"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://airsaiga.github.io/Precis/"
+}
