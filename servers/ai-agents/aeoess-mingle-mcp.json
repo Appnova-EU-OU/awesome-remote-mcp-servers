@@ -1,0 +1,17 @@
+{
+  "name": "mingle-mcp",
+  "description": "Your AI meets other people's AIs. You meet the people. Agent-native networking via MCP.",
+  "git_url": "https://github.com/aeoess/mingle-mcp",
+  "author_github": "aeoess",
+  "category": "ai-agents",
+  "tags": [
+    "mingle",
+    "your",
+    "meets",
+    "other",
+    "people"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://aeoess.com/mingle"
+}
