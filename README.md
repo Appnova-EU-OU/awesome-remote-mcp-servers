@@ -91,6 +91,22 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [ios-agent-skill](https://freemcp.space/featured/ios-agent-skill) — Swift source, Apple guides and MCP tools for AI coding agents. Review iOS code, scaffold apps, and build/run/preview with Xcode Simulator. 
+- [maven-mcp](https://freemcp.space/featured/maven-mcp) — Maven dependency intelligence MCP server and Claude Code / Grok Build plugin
+- [Porkbun-MCP](https://freemcp.space/featured/porkbun-mcp) — Official Porkbun MCP server — exposes the Porkbun v3 API as native tools for Claude Desktop, Cursor, and other AI agents. Idempotency-safe writes, full domain lifecycle.
+- [Telebrief](https://freemcp.space/featured/telebrief) — Personal digests from Telegram channels and chats: summarizes threads, extracts key points, and delivers a clean daily/weekly brief with links and context.
+- [archprint](https://freemcp.space/featured/archprint) — Infers architecture rules from your TypeScript repo's real import graph, gates each on statistical evidence, and emits them into the tools you already use (ESLint, dependency-cruiser, ts-arch). Turns the boundaries your code already follows into enforcement, so architecture drift gets caught, not just documented.
+- [agenthop](https://freemcp.space/featured/agenthop) — Let your AI agent talk directly to someone else's. One pairing code, end-to-end encrypted, no public IP. MCP server for Claude Code, Codex, Cursor, Gemini CLI and grok.
+- [duplex](https://freemcp.space/featured/duplex) — One browser shared by a human and an AI: visual for the human, source-level for the AI
+- [genomics-mcp](https://freemcp.space/featured/genomics-mcp) — Unified MCP access to genomic archives, reference databases and indexed sequencing files
+- [RulesetMCP](https://freemcp.space/featured/rulesetmcp) — Weight-On-Wheels for AI: MCP server that keeps every agent grounded in your project's rules
+- [ballmac-ui](https://freemcp.space/vamsiy/ballmac-ui) — Ballmac UI: accessible React + Tailwind components your AI agent can install. shadcn registry at ui.ballmac.com
+- [namegender-mcp](https://freemcp.space/featured/namegender-mcp) — Model Context Protocol server for the NameGender API: gender from names, emails and usernames, with probability, sample size and source on every answer.
+- [mailprobe-mcp](https://freemcp.space/featured/mailprobe-mcp) — Official Claude Code plugin and agent skill for the MailProbe MCP server: an AI assistant verifies email addresses in real time (deliverability, disposable and role-based detection). Hosted in France.
+- [claude-session-relay](https://freemcp.space/spekbroodje/claude-session-relay) — Let Claude Code sessions on different machines share a board, message each other and avoid colliding git pushes. Teams, private sessions, and an MCP connector for claude.ai and Cowork.
+- [cloudflare-mcp-go](https://freemcp.space/featured/cloudflare-mcp-go) — Cloudflare MCP server in Go
+- [browser-buddy](https://freemcp.space/featured/browser-buddy) — Let your coding agent read your real, logged-in Chrome: MV3 extension + native host + MCP server (read_active_tab, open_and_read_url). Zero dependencies, MIT.
+- [tactab](https://freemcp.space/featured/tactab) — Tactile browser control and multimodal visual vision bridge for AI agents (Cursor, Claude, etc.) via Model Context Protocol (MCP) & Chrome Extension.
 - [keboola-mcp-server](https://freemcp.space/featured/keboola-mcp-server) — Model Context Protocol (MCP) Server for the Keboola Platform
 - [django-orm-lens](https://freemcp.space/featured/django-orm-lens) — Django ER diagrams, N+1 detection, schema drift & migration-risk linting — in VS Code, a CLI and an MCP server. Static analysis: no database, no django.setup(). Free & MIT.
 - [mcp-server-multiverse](https://freemcp.space/featured/mcp-server-multivers) — A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.
@@ -175,22 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [media-mcp](https://freemcp.space/featured/media-mcp) — Local image and video processing: resize, convert, compress, crop, thumbnails, metadata extraction, rotate, flip, filters and ffmpeg-based video operations.
 - [cubelife](https://freemcp.space/featured/cubelife) — Give your AI agent a persistent pixel-art character. Node SDK, Python SDK, CLI, and MCP server.
 - [homespun](https://freemcp.space/featured/homespun) — Homespun: apps your AI builds and hosts. Client CLI, MCP server, SDK core, agent skill and Claude plugin. MIT.
-- [sonar-mcp-server](https://freemcp.space/featured/sonar-mcp-server) — Read-only MCP server for self-hosted SonarQube Community Build 26.4+: lets AI agents (Claude Code, Cursor, Copilot) read issues, security hotspots, rules and code snippets to fix findings locally
-- [codesentinel](https://freemcp.space/featured/codesentinel) — AI-Powered Codebase Health Agent for Slack — dead code, circular deps, coupling, architectural drift
-- [open-task-relay-public](https://freemcp.space/featured/open-task-relay-publ) — Open-source task commons where AI agents do bounded public-good work, publish evidence, and review results.
-- [react-analyzer-mcp](https://freemcp.space/featured/react-analyzer-mcp) — MCP server for analyzing & generating docs for React code locally
-- [icloud-mcp](https://freemcp.space/featured/icloud-mcp-2) — MCP server for Apple services — Mail, Calendar, Contacts, Reminders, Notes, Messages, Safari — via AppleScript (local) or iCloud IMAP/CalDAV/CardDAV (cloud)
-- [buildkite-mcp-server](https://freemcp.space/featured/buildkite-mcp-server) — Official MCP Server for Buildkite.
-- [icon-composer-mcp](https://freemcp.space/featured/icon-composer-mcp) — Apple Icon Composer CLI & MCP server: create and manipulate .icon bundles and images with Liquid Glass rendering
-- [agentmako](https://freemcp.space/featured/agentmako) — Local-first MCP server that gives coding agents structured context packets, code/schema facts, and diagnostics - backed by a local SQLite store.
-- [credit-optimizer-v5](https://freemcp.space/featured/credit-optimizer-v5) — Save 47% on Manus AI credits automatically. Zero downsides. Pays for itself in ~27 prompts. Free MCP Server (PyPI) + $12 Manus Skill bundle with Fast Navigation (115x speed boost).
-- [postmancer](https://freemcp.space/featured/postmancer) — An experimental MCP server Rest Client intended to be a replacement of tools postman & insomnia
-- [higress-ops-mcp-server](https://freemcp.space/featured/higress-ops-mcp-serv) — A Model Context Protocol (MCP) server implementation that enables comprehensive configuration and management of Higress.
-- [firefly-mcp](https://freemcp.space/featured/firefly-mcp) — Firefly MCP
-- [unified-diff-mcp](https://freemcp.space/featured/unified-diff-mcp) — Generate and visualize unified diffs as HTML or PNG, with side-by-side and line-by-line views for filesystem dry runs.
-- [mcp-gitlab-jira](https://freemcp.space/featured/mcp-gitlab-jira) — GitLab and Jira: manage projects, merge requests, files, releases and tickets.
-- [gavel](https://freemcp.space/featured/gavel) — Code quality platform for Bazel monorepos — static analyzers as aspects, SARIF, quality gates
-- [stacksfinder-mcp](https://freemcp.space/featured/stacksfinder-mcp) — MCP server for StacksFinder - deterministic tech stack recommendations for LLM clients
 <!-- freemcp:end -->
 
 ---
