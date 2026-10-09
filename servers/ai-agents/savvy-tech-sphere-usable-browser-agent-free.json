@@ -1,0 +1,17 @@
+{
+  "name": "usable-browser-agent-free",
+  "description": "Usable Browser Agent, free personal/evaluation tier: an MCP server plus Firefox/Chrome extension that lets your AI agent drive your real, logged-in browser. Commercial license at savvytechsphere.com/usable-browser-agent",
+  "git_url": "https://github.com/Savvy-Tech-Sphere/usable-browser-agent-free",
+  "author_github": "Savvy-Tech-Sphere",
+  "category": "ai-agents",
+  "tags": [
+    "usable",
+    "browser",
+    "agent",
+    "free",
+    "personal"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://savvytechsphere.com/usable-browser-agent"
+}
