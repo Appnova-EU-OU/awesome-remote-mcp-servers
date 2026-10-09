@@ -1,0 +1,17 @@
+{
+  "name": "buildtree-mcp",
+  "description": "MCP server for buildtree: share Android and iOS builds with testers via install links and QR codes",
+  "git_url": "https://github.com/engineerdeep/buildtree-mcp",
+  "author_github": "engineerdeep",
+  "category": "developer-tools",
+  "tags": [
+    "android",
+    "expo",
+    "flutter",
+    "ios",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://buildtree.sh/docs/mcp"
+}
