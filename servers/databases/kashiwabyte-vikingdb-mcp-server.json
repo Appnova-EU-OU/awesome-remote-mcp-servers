@@ -1,0 +1,14 @@
+{
+  "name": "vikingdb-mcp-server",
+  "description": "a mcp server for vikingdb store and search",
+  "git_url": "https://github.com/KashiwaByte/vikingdb-mcp-server",
+  "author_github": "KashiwaByte",
+  "category": "databases",
+  "tags": [
+    "vikingdb",
+    "store",
+    "search"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
