@@ -1,0 +1,16 @@
+{
+  "name": "json-mcp-lite",
+  "description": "Turn any JSON file into an MCP server in one command: list, search and get tools for Claude Desktop, Claude Code and Cursor. MIT.",
+  "git_url": "https://github.com/scoretracker4321/json-mcp-lite",
+  "author_github": "scoretracker4321",
+  "category": "search",
+  "tags": [
+    "aitools",
+    "claude",
+    "cursor",
+    "json",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
