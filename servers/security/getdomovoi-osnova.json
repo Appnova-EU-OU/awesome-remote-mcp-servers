@@ -1,0 +1,17 @@
+{
+  "name": "osnova",
+  "description": "Deterministic code map for AI coding agents: a tree-sitter symbol and call graph served over MCP and a CLI, with no embeddings, network or telemetry.",
+  "git_url": "https://github.com/getdomovoi/osnova",
+  "author_github": "getdomovoi",
+  "category": "security",
+  "tags": [
+    "callgraph",
+    "claudecode",
+    "codegraph",
+    "codeintelligence",
+    "codex"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://getosnova.dev"
+}
