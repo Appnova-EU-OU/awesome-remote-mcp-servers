@@ -1,0 +1,17 @@
+{
+  "name": "ballmac-ui",
+  "description": "Ballmac UI: accessible React + Tailwind components your AI agent can install. shadcn registry at ui.ballmac.com",
+  "git_url": "https://github.com/vamsiy78/ballmac-ui",
+  "author_github": "vamsiy78",
+  "category": "ai-agents",
+  "tags": [
+    "accessibility",
+    "aiagents",
+    "designsystem",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ui.ballmac.com"
+}
