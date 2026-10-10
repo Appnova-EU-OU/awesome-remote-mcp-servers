@@ -1,0 +1,17 @@
+{
+  "name": "dotpals",
+  "description": "See what your coding agent actually did. A desktop pal and notch for Claude Code, Codex, Cursor, Gemini CLI and any agent: test results read from the output, faked passes caught, Claude Code sent back to fix what it broke, and an MCP server any AI tool can ask.",
+  "git_url": "https://github.com/Rikinshah787/dotpals",
+  "author_github": "Rikinshah787",
+  "category": "security",
+  "tags": [
+    "agentobservability",
+    "aiagents",
+    "aicoding",
+    "anthropic",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dotpals.vercel.app"
+}
