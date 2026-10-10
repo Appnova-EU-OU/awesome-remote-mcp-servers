@@ -1,0 +1,17 @@
+{
+  "name": "adb-mcp",
+  "description": "MCP server for Android — drive emulators and real devices over adb from Claude Code, Cursor, or VS Code. 73 tools: screenshots, UI hierarchy, tap/swipe/type, logcat, device locks, Gradle builds and tests. The Android counterpart to XcodeBuildMCP.",
+  "git_url": "https://github.com/iksnerd/adb-mcp",
+  "author_github": "iksnerd",
+  "category": "databases",
+  "tags": [
+    "adb",
+    "android",
+    "androidemulator",
+    "androidtesting",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://adb-mcp.com"
+}
