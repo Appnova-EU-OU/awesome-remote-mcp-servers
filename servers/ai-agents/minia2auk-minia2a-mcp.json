@@ -1,0 +1,17 @@
+{
+  "name": "minia2a-mcp",
+  "description": "Remote MCP server for minia2a.uk — 1,680+ x402 pay-per-call agent tools. USDC on Base, 5 free trial calls per wallet.",
+  "git_url": "https://github.com/minia2auk/minia2a-mcp",
+  "author_github": "minia2auk",
+  "category": "ai-agents",
+  "tags": [
+    "minia",
+    "remote",
+    "pay",
+    "per",
+    "call"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://minia2a.uk"
+}
