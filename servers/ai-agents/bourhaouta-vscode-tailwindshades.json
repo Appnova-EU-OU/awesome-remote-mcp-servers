@@ -1,0 +1,17 @@
+{
+  "name": "vscode-tailwindshades",
+  "description": "Tailwind CSS palettes (50–950) from any color, for Tailwind v4, v3, v2 and v1. A VS Code extension, a CLI, and an MCP server for AI agents.",
+  "git_url": "https://github.com/bourhaouta/vscode-tailwindshades",
+  "author_github": "bourhaouta",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "cli",
+    "colorpalette",
+    "colors",
+    "designtokens"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tailwindshades.bourhaouta.com"
+}
