@@ -1,0 +1,16 @@
+{
+  "name": "android-mcp-server",
+  "description": "MCP server that lets AI assistants (Claude, OpenCode, VS Code) control Android devices securely via ADB",
+  "git_url": "https://github.com/Neem2004/android-mcp-server",
+  "author_github": "Neem2004",
+  "category": "databases",
+  "tags": [
+    "adb",
+    "ai",
+    "android",
+    "automation",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
