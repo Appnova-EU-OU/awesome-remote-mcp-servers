@@ -1,0 +1,17 @@
+{
+  "name": "theluckystrike/mcp-pdf",
+  "description": "Merge, split, extract, rotate, reorder and stamp PDF files from chat: mark an invoice PAID, pull pages out of a scan, join documents into one. Everything stays on your machine. Also hosted remotely at https://mcp.zovo.one/mcp/pdf; a free token from https://mcp.zovo.one/mcp/connect is required.",
+  "git_url": "https://github.com/theluckystrike/mcp-pdf",
+  "author_github": "theluckystrike",
+  "category": "productivity",
+  "tags": [
+    "pdf",
+    "documents",
+    "files",
+    "local-first",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcp.zovo.one/s/pdf"
+}

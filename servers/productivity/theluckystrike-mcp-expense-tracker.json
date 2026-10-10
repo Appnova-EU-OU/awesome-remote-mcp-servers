@@ -1,0 +1,18 @@
+{
+  "name": "theluckystrike/mcp-expense-tracker",
+  "description": "Local expenses, receipts and mileage ledger for freelancers: categorise, split VAT, summarise, export to CSV or xlsx and rebill straight into an invoice. Also hosted remotely at https://mcp.zovo.one/mcp/expense-tracker; a free token from https://mcp.zovo.one/mcp/connect is required.",
+  "git_url": "https://github.com/theluckystrike/mcp-expense-tracker",
+  "author_github": "theluckystrike",
+  "category": "productivity",
+  "tags": [
+    "expenses",
+    "receipts",
+    "mileage",
+    "vat",
+    "local-first",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcp.zovo.one/s/expense-tracker"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "theluckystrike/mcp-bank-statement",
+  "description": "Import a bank CSV export, categorise it, summarise it per currency, find recurring charges and reconcile it against your expense ledger. Everything stays on your machine. Also hosted remotely at https://mcp.zovo.one/mcp/bank-statement; a free token from https://mcp.zovo.one/mcp/connect is required.",
+  "git_url": "https://github.com/theluckystrike/mcp-bank-statement",
+  "author_github": "theluckystrike",
+  "category": "productivity",
+  "tags": [
+    "banking",
+    "csv",
+    "reconciliation",
+    "expenses",
+    "local-first",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcp.zovo.one/s/bank-statement"
+}
