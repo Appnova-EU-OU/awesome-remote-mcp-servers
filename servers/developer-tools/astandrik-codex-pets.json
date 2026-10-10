@@ -1,0 +1,18 @@
+{
+  "name": "codex-pets",
+  "description": "Public read-only MCP server for discovering approved Codex pet packs and retrieving install instructions, badges, embeds, and animated cards. Connect over Streamable HTTP at https://pets.ydb-qdrant.tech/mcp or over stdio with npx @astandrik/codex-pets mcp.",
+  "git_url": "https://github.com/astandrik/codex-pets",
+  "author_github": "astandrik",
+  "category": "developer-tools",
+  "tags": [
+    "codex",
+    "animated-pets",
+    "developer-tools",
+    "mcp",
+    "read-only"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "npm_package": "@astandrik/codex-pets",
+  "homepage": "https://pets.ydb-qdrant.tech/"
+}
