@@ -1,0 +1,16 @@
+{
+  "name": "aso-score-mcp",
+  "description": "MCP server that calculates an Agent Signal Optimization score across discovery, trust, commerce, interoperability, Google AI Search guidance, and browser-agent UX.",
+  "git_url": "https://github.com/forgemeshlabs/aso-score-mcp",
+  "author_github": "forgemeshlabs",
+  "category": "search",
+  "tags": [
+    "aso",
+    "score",
+    "calculates",
+    "agent",
+    "signal"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
