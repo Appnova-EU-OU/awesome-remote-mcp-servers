@@ -91,6 +91,26 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Precis](https://freemcp.space/featured/precis) — 🧪 Alpha — Local-first visual data quality platform. Visual DAG editor + schema-aware validation for Excel/CSV. Feedback welcome.
+- [4DA](https://freemcp.space/featured/4da-2) — Privacy-first developer intelligence — surfaces what matters from the noise
+- [osnova](https://freemcp.space/featured/osnova) — Deterministic code map for AI coding agents: a tree-sitter symbol and call graph served over MCP and a CLI, with no embeddings, network or telemetry.
+- [mcp-keycloak](https://freemcp.space/featured/mcp-keycloak) — MCP server for Keycloak — multi-realm admin with security modes (read-only/read-write/admin) and access-control flags.
+- [yandex-music-mcp](https://freemcp.space/featured/yandex-music-mcp) — Description: Unofficial Yandex Music MCP server for Claude: search, likes, history, My Wave, playlists
+- [whichlib](https://freemcp.space/featured/whichlib) — The dependency picker for coding agents: an MCP server that recommends, compares and scores GitHub repos with a verdict. npx -y whichlib
+- [buildtree-mcp](https://freemcp.space/featured/buildtree-mcp) — MCP server for buildtree: share Android and iOS builds with testers via install links and QR codes
+- [dev-error-explainers](https://freemcp.space/featured/dev-error-explainers) — Paste a developer error, get the real cause and the fix. Offline, zero-dependency explainers for CORS, ESM/CJS, npm ERESOLVE, ChunkLoadError, Postgres/Supabase DATABASE_URL and Next.js build errors.
+- [runecho](https://freemcp.space/featured/runecho) — Stops your AI coding agent from writing calls to functions that don't exist, before the edit lands. Deterministic, no LLM, no API keys.
+- [json-mcp-lite](https://freemcp.space/featured/json-mcp-lite) — Turn any JSON file into an MCP server in one command: list, search and get tools for Claude Desktop, Claude Code and Cursor. MIT.
+- [bitrix24-mcp](https://freemcp.space/featured/bitrix24-mcp) — MCP server for Bitrix24 CRM: deals, leads, contacts, tasks, timeline and sales analytics for Claude and Cursor
+- [mcp-gtm-signals-aggregator](https://freemcp.space/featured/mcp-gtm-signals-aggr) — MCP server for GTM Signals Aggregator. Combines hiring and tech stack detection into one composite GTM score via Apify. Clay-ready output.
+- [discp](https://freemcp.space/featured/discp) — The feature-complete Discord MCP Server for AI assistants (Claude, Cursor, Antigravity, OpenCode). 117 native tools, dual user/bot account support, anti-abuse human pacing, dynamic symbol search.
+- [line-bot-ops-mcp](https://freemcp.space/featured/line-bot-ops-mcp) — MCP server to operate your own LINE bot: webhook queue health, failed jobs and retries, push, Rich Menu, follower insight.
+- [mcp-google-gmail](https://freemcp.space/featured/mcp-google-gmail) — MCP server for the Gmail API — search, read and send email, manage drafts, labels and the trash. For Claude, Cursor, Codex and other AI clients.
+- [usable-browser-agent-free](https://freemcp.space/featured/usable-browser-agent) — Usable Browser Agent, free personal/evaluation tier: an MCP server plus Firefox/Chrome extension that lets your AI agent drive your real, logged-in browser. Commercial license at savvytechsphere.com/usable-browser-agent
+- [aetumi-mcp](https://freemcp.space/featured/aetumi-mcp) — AETumi MCP — install premium, production-ready Three.js/WebGL 3D web components into Claude Code, Cursor & Codex. Premium 3D web you own, from AETumi (aetumi.app).
+- [3dtexel-mcp](https://freemcp.space/featured/3dtexel-mcp) — MCP server for 3D Texel: search and download 7,000+ PBR materials, HDRIs, decals and 3D assets, and generate PBR materials, HDRIs and textures from Claude, Cursor, ChatGPT and other AI agents.
+- [autodesk-inventor-mcp](https://freemcp.space/featured/autodesk-inventor-mc) — Autodesk Inventor MCP server: connect Claude, Cursor or Codex to a live Inventor session (COM). Find sliver faces, test Unwrap, script the Inventor API. Zero dependencies.
+- [market-pulse-mcp](https://freemcp.space/featured/market-pulse-mcp) — MCP server for T3rnel Market Pulse: evidence-graded agent-work lanes, should-I-bid advice, live agent jobs, hash-chained evidence ledger. Free without a key.
 - [ios-agent-skill](https://freemcp.space/featured/ios-agent-skill) — Swift source, Apple guides and MCP tools for AI coding agents. Review iOS code, scaffold apps, and build/run/preview with Xcode Simulator. 
 - [maven-mcp](https://freemcp.space/featured/maven-mcp) — Maven dependency intelligence MCP server and Claude Code / Grok Build plugin
 - [Porkbun-MCP](https://freemcp.space/featured/porkbun-mcp) — Official Porkbun MCP server — exposes the Porkbun v3 API as native tools for Claude Desktop, Cursor, and other AI agents. Idempotency-safe writes, full domain lifecycle.
@@ -171,26 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [system-prompts-mcp-server](https://freemcp.space/featured/system-prompts-mcp-s) — Model Context Protocol server exposing system prompt files and summaries.
 - [tnl](https://freemcp.space/featured/tnl) — Structured English contracts for AI coding agents — proposed by the agent, approved by you, saved on disk, read by every future session.
 - [PatchWarden](https://freemcp.space/featured/patchwarden) — Turn your ChatGPT conversations into safe, auditable local execution. PatchWarden lets you discuss ideas and plans with ChatGPT, then hand the approved plan to local AI agents for guarded, traceable implementation—with scoped permissions, independent verification, and a complete execution record.Turn your ChatGPT conversations into safe, auditable 
-- [fixgraph-mcp](https://freemcp.space/featured/fixgraph-mcp) — Search and contribute to a community-verified knowledge base of engineering issues and fixes, with trust scores and fix verification.
-- [onlinecybertools-mcp-server](https://freemcp.space/featured/onlinecybertools-mcp) — MCP stdio server for onlinecybertools.com API
-- [readystack-mcp](https://freemcp.space/featured/readystack-mcp) — 45 regulation-and-deadline linters that run as MCP servers (npx @readystack/<name> --mcp) - CRA/CSAF, PCI DSS 6.4.3, WCAG 2.1 AA, DORA, NIS2, EU AI Act, KSeF, NF-e
-- [mcp-factory](https://freemcp.space/featured/mcp-factory) — Manifest-driven engine that scaffolds MCP servers from one mcp.yaml, plus a runtime hub serving tools from every registered bot through a single endpoint.
-- [Nexus-MCP](https://freemcp.space/featured/nexus-mcp) — Unified MCP server: hybrid search + code graph + semantic memory. 10 tools, <350MB RAM, fully local. No API keys.
-- [google-health-mcp](https://freemcp.space/featured/google-health-mcp) — Local-first MCP server for Google Health API v4 (Fitbit + Pixel Watch) — Claude/Cursor/Hermes
-- [mcp-server-atlassian-confluence](https://freemcp.space/featured/mcp-server-atlassian) — Node.js/TypeScript MCP server for Atlassian Confluence. Provides tools enabling AI systems (LLMs) to list/get spaces & pages (content formatted as Markdown) and search via CQL. Connects AI seamlessly to Confluence knowledge bases using the standard MCP interface.
-- [mcp-superset](https://freemcp.space/featured/mcp-superset) — MCP server for managing Apache Superset — 128+ tools for dashboards, charts, datasets, SQL Lab, access control
-- [dati](https://freemcp.space/featured/dati) — Turn your database into secure, semantically rich MCP tools for agents.
-- [adx-mcp-server](https://freemcp.space/featured/adx-mcp-server-2) — A Model Context Protocol (MCP) server that enables AI assistants to query and analyze Azure Data Explorer databases through standardized interfaces.
-- [bruno-mcp](https://freemcp.space/featured/bruno-mcp) — MCP Server for running Bruno Collections
-- [insforge-mcp](https://freemcp.space/featured/insforge-mcp) — Backend-as-a-service for agents building full-stack apps: auth, PostgreSQL database, storage and functions.
-- [mcp-image-compression](https://freemcp.space/featured/mcp-image-compressio) — A high-performance image compression microservice based on MCP (Modal Context Protocol)
-- [ThumbGate](https://freemcp.space/featured/thumbgate) — ThumbGate Pre-Action Checks self-improve from ranked lessons and repeated failures, hard-block detected secret leaks, and block matches in strict mode.
-- [mcp-zuul](https://freemcp.space/featured/mcp-zuul) — MCP server for Zuul CI - debug build failures, search logs, manage pipelines, and monitor jobs from Claude, Cursor, or any MCP client
-- [adb-mcp](https://freemcp.space/featured/adb-mcp) — MCP server for Android — drive emulators and real devices over adb from Claude Code, Cursor, or VS Code. 73 tools: screenshots, UI hierarchy, tap/swipe/type, logcat, device locks, Gradle builds and tests. The Android counterpart to XcodeBuildMCP.
-- [podium-mcp](https://freemcp.space/featured/podium-mcp) — One MCP server, 51 tools for AI agents on mobile + canvas UIs: iOS & Android automation, Maestro E2E, evidenced assertions, React Native/Metro debugging — plus a no-vision canvas/WebGL brain (Pixi/Konva/Fabric/Phaser/Three/Babylon) that drives game UIs like DOM elements, ~5x cheaper than screenshot loops.
-- [media-mcp](https://freemcp.space/featured/media-mcp) — Local image and video processing: resize, convert, compress, crop, thumbnails, metadata extraction, rotate, flip, filters and ffmpeg-based video operations.
-- [cubelife](https://freemcp.space/featured/cubelife) — Give your AI agent a persistent pixel-art character. Node SDK, Python SDK, CLI, and MCP server.
-- [homespun](https://freemcp.space/featured/homespun) — Homespun: apps your AI builds and hosts. Client CLI, MCP server, SDK core, agent skill and Claude plugin. MIT.
 <!-- freemcp:end -->
 
 ---
