@@ -1,0 +1,16 @@
+{
+  "name": "editorconfig_mcp",
+  "description": "Formats files using .editorconfig rules so AI-generated code follows project formatting standards.",
+  "git_url": "https://github.com/neilberkman/editorconfig_mcp",
+  "author_github": "neilberkman",
+  "category": "ai-agents",
+  "tags": [
+    "editorconfig",
+    "formats",
+    "files",
+    "using",
+    "rules"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
