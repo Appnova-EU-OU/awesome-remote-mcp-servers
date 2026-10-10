@@ -1,0 +1,17 @@
+{
+  "name": "OpenAaaS",
+  "description": "OpenAaaS: science agent network — bring AI to your data, not your data to AI. AaaS, Agent as a Service, MCP protocol, local execution, Docker sandbox, zero-config Rust nodes.",
+  "git_url": "https://github.com/Wolido/OpenAaaS",
+  "author_github": "Wolido",
+  "category": "databases",
+  "tags": [
+    "aaas",
+    "agentasaservice",
+    "aiagents",
+    "aiforscience",
+    "docker"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.open-aaas.com"
+}
