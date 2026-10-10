@@ -1,0 +1,16 @@
+{
+  "name": "stellify-mcp",
+  "description": "MCP server for Stellify - AI-native code generation platform",
+  "git_url": "https://github.com/Stellify-Software-Ltd/stellify-mcp",
+  "author_github": "Stellify-Software-Ltd",
+  "category": "ai-agents",
+  "tags": [
+    "stellify",
+    "native",
+    "code",
+    "generation",
+    "platform"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
