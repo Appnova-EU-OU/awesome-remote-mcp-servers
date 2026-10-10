@@ -1,0 +1,16 @@
+{
+  "name": "agentrender-mcp",
+  "description": "MCP + REST: URL to screenshot, PDF, or structured extract for AI agents",
+  "git_url": "https://github.com/corbinvachal48/agentrender-mcp",
+  "author_github": "corbinvachal48",
+  "category": "media",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "mcp",
+    "modelcontextprotocol",
+    "pdf"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
