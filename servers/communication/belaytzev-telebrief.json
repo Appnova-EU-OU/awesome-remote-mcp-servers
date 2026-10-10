@@ -1,0 +1,17 @@
+{
+  "name": "Telebrief",
+  "description": "Personal digests from Telegram channels and chats: summarizes threads, extracts key points, and delivers a clean daily/weekly brief with links and context.",
+  "git_url": "https://github.com/belaytzev/Telebrief",
+  "author_github": "belaytzev",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "anthropic",
+    "digest",
+    "digestbot",
+    "docker"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://telebrief.ti1orn.com"
+}
