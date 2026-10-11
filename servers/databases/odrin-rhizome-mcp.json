@@ -1,0 +1,17 @@
+{
+  "name": "rhizome-mcp",
+  "description": "Crash-safe task tracking for AI coding agents over MCP: expiring leases, resumable attempts, version-pinned reviews. One Go binary, one SQLite file per project.",
+  "git_url": "https://github.com/Odrin/rhizome-mcp",
+  "author_github": "Odrin",
+  "category": "databases",
+  "tags": [
+    "agentcoordination",
+    "aiagents",
+    "claudecode",
+    "codingagents",
+    "developertools"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://odrin.github.io/rhizome-mcp/"
+}
