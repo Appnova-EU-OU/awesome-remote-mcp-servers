@@ -91,6 +91,22 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [vscode-tailwindshades](https://freemcp.space/featured/vscode-tailwindshade) — Tailwind CSS palettes (50–950) from any color, for Tailwind v4, v3, v2 and v1. A VS Code extension, a CLI, and an MCP server for AI agents.
+- [dav-mcp](https://freemcp.space/featured/dav-mcp) — Transform AI agents into orchestrating assistants managing calendars, contacts, and tasks
+- [dotpals](https://freemcp.space/featured/dotpals) — See what your coding agent actually did. A desktop pal and notch for Claude Code, Codex, Cursor, Gemini CLI and any agent: test results read from the output, faked passes caught, Claude Code sent back to fix what it broke, and an MCP server any AI tool can ask.
+- [naja-scope](https://freemcp.space/featured/naja-scope) — MCP server for AI agents to explore SystemVerilog/Verilog netlists: trace connectivity, walk hierarchy, jump to source - without pasting RTL into context. Built on najaeda.
+- [n8n-mcp](https://freemcp.space/featured/n8n-mcp) — Debugging-first MCP server for n8n. Tools for workflow generation, linting, per-node execution diagnosis, and driving live n8n instances. Built for AI agents.
+- [gitingest-mcp](https://freemcp.space/featured/gitingest-mcp) — Convert any Git repository into a text digest of its codebase using gitingest.
+- [editorconfig_mcp](https://freemcp.space/featured/editorconfig-mcp) — Formats files using .editorconfig rules so AI-generated code follows project formatting standards.
+- [proton-safe-mcp](https://freemcp.space/featured/proton-safe-mcp) — Draft-only Proton Mail MCP server with attachment support and out-of-band human approval.
+- [cos-codex-bridge](https://freemcp.space/featured/cos-codex-bridge) — Local MCP for Chief of Staff agents to run Codex and Claude Code CLI project sessions with scoped access and durable receipts.
+- [android-mcp-server](https://freemcp.space/featured/android-mcp-server-2) — MCP server that lets AI assistants (Claude, OpenCode, VS Code) control Android devices securely via ADB
+- [n8n-workflow-tester-safe](https://freemcp.space/featured/n8n-workflow-tester) — Safe MCP server + CLI for testing, inspecting, and operating n8n workflows with a constrained scope
+- [stellify-mcp](https://freemcp.space/featured/stellify-mcp) — MCP server for Stellify - AI-native code generation platform
+- [aso-score-mcp](https://freemcp.space/featured/aso-score-mcp) — MCP server that calculates an Agent Signal Optimization score across discovery, trust, commerce, interoperability, Google AI Search guidance, and browser-agent UX.
+- [mcp-review-board](https://freemcp.space/featured/mcp-review-board) — MCP review board that lets different coding agents review each other — object → revise → pass, append-only audit trail. For Claude Code, Codex, OpenCode, Trae, ZCode.
+- [portveil-mcp](https://freemcp.space/featured/portveil-mcp) — Portveil MCP server — let AI assistants manage your Portveil VPN network
+- [zerodom](https://freemcp.space/featured/zerodom) — Terminal-native DOM perception layer for AppSec and AI. Hook into live Chrome sessions, compress HTML tokens by 98.9%, and map attack surfaces deterministically.
 - [Precis](https://freemcp.space/featured/precis) — 🧪 Alpha — Local-first visual data quality platform. Visual DAG editor + schema-aware validation for Excel/CSV. Feedback welcome.
 - [4DA](https://freemcp.space/featured/4da-2) — Privacy-first developer intelligence — surfaces what matters from the noise
 - [osnova](https://freemcp.space/featured/osnova) — Deterministic code map for AI coding agents: a tree-sitter symbol and call graph served over MCP and a CLI, with no embeddings, network or telemetry.
@@ -175,22 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [design-token-bridge-mcp](https://freemcp.space/featured/design-token-bridge) — MCP server that translates design tokens between platforms — Tailwind, Figma, CSS to Material 3, SwiftUI, and CSS Variables. Built for the v0 → Figma → Claude Code pipeline.
 - [mcp-server](https://freemcp.space/featured/mcp-server-22) — MCP server for Jungle Grid lets agents submit, monitor, and retrieve logs from AI workloads.
 - [mushi-mushi](https://freemcp.space/featured/mushi-mushi) — 🦖Know why your AI-built app broke — plain-English diagnosis + ready fix, in your editor. Open source. Sentry optional.
-- [compound-mcp](https://freemcp.space/featured/compound-mcp) — OpenLookup, an MCP server from Compound Labs: eleven read-only lookups over live public data, including AI model pricing and routing, dependency maintenance and service pricing
-- [arno](https://freemcp.space/julian/arno) — The IDE for agents. An MCP server: read by symbol, edit against a revision, validate with your own build, revert. Go, Java, Scala, TypeScript, Python, Rust, Ruby.
-- [Cognigy Ai Mcp Management Server](https://freemcp.space/tsvetangerginovv/cognigy-ai-mcp-manag) — > Model Context Protocol server for managing Cognigy.AI virtual agents through the Management API > > This is an independent, open-source MCP server and is not affiliated with, endorsed by, or sponsored by Cognigy or NiCE. It requires your own valid Cognigy.AI account and API key, used in accordance
-- [agentmail-mcp](https://freemcp.space/featured/agentmail-mcp) — Email for AI agents: create inboxes on the fly to send, receive and act on email.
-- [go-mcp-mysql](https://freemcp.space/zhwt/go-mcp-mysql) — Zero burden, ready-to-use Model Context Protocol (MCP) server for interacting with MySQL and automation. No Node.js or Python environment needed.
-- [codebase-context](https://freemcp.space/featured/codebase-context) — Codebase Context gives AI agents understanding of your codebase through semantic code search, team conventions, patterns, and memory, so they use fewer tokens, spend less time, and produce better, more familiar output.
-- [repo-graph](https://freemcp.space/featured/repo-graph) — Structural graph memory for AI coding assistants — MCP server for codebase navigation
-- [simulator-mcp-server](https://freemcp.space/featured/simulator-mcp-server) — Control iOS Simulators.
-- [vercel-ai-docs-mcp](https://freemcp.space/featured/vercel-ai-docs-mcp) — A Model Context Protocol (MCP) server that provides AI-powered search and querying capabilities for the Vercel AI SDK documentation. This project enables developers to ask questions about the Vercel AI SDK and receive accurate, contextualized responses based on the official documentation.
-- [mcp-server-sql-analyzer](https://freemcp.space/featured/mcp-server-sql-analy) — MCP server for SQL static analysis.
-- [lightcms](https://freemcp.space/featured/lightcms) — Self-hosted CMS that works human or headless: full admin UI plus REST and MCP APIs, built-in semantic search and site chat, and content forking, versioning, diff/merge review, templates, approvals, and static page generation.
-- [codewiki-mcp](https://freemcp.space/featured/codewiki-mcp-2) — MCP server for codewiki.google — search, fetch docs, and ask questions about any open-source repo
-- [RestCsvMcpServer](https://freemcp.space/featured/restcsvmcpserver) — MCP Server for RestCSV, Generated using MCPGen
-- [system-prompts-mcp-server](https://freemcp.space/featured/system-prompts-mcp-s) — Model Context Protocol server exposing system prompt files and summaries.
-- [tnl](https://freemcp.space/featured/tnl) — Structured English contracts for AI coding agents — proposed by the agent, approved by you, saved on disk, read by every future session.
-- [PatchWarden](https://freemcp.space/featured/patchwarden) — Turn your ChatGPT conversations into safe, auditable local execution. PatchWarden lets you discuss ideas and plans with ChatGPT, then hand the approved plan to local AI agents for guarded, traceable implementation—with scoped permissions, independent verification, and a complete execution record.Turn your ChatGPT conversations into safe, auditable 
 <!-- freemcp:end -->
 
 ---
