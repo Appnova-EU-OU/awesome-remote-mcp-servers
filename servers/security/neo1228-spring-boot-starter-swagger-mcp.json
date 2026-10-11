@@ -1,0 +1,17 @@
+{
+  "name": "spring-boot-starter-swagger-mcp",
+  "description": "Turn SpringDoc OpenAPI into production-ready MCP tools for Spring Boot: discovery, validation, workflows, and guardrails.",
+  "git_url": "https://github.com/Neo1228/spring-boot-starter-swagger-mcp",
+  "author_github": "Neo1228",
+  "category": "security",
+  "tags": [
+    "apigateway",
+    "java",
+    "java17",
+    "java25",
+    "llmtools"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/Neo1228/spring-boot-starter-swagger-mcp#readme"
+}
