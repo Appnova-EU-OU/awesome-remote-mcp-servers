@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-devutils",
+  "description": "Zero-auth MCP server with everyday developer utilities: base64, UUID, hash, JWT decode, cron, timestamps, JSON, regex",
+  "git_url": "https://github.com/ofershap/mcp-server-devutils",
+  "author_github": "ofershap",
+  "category": "security",
+  "tags": [
+    "base64",
+    "developertools",
+    "jwt",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
