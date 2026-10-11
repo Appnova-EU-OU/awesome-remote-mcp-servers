@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-scraper",
+  "description": "MCP server for web scraping — extract clean markdown, links, metadata from any URL",
+  "git_url": "https://github.com/ofershap/mcp-server-scraper",
+  "author_github": "ofershap",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claude",
+    "cursor",
+    "llm",
+    "markdown"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
