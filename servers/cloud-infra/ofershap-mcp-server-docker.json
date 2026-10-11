@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-docker",
+  "description": "MCP server for Docker — manage containers, images, volumes from your IDE",
+  "git_url": "https://github.com/ofershap/mcp-server-docker",
+  "author_github": "ofershap",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "claude",
+    "containers",
+    "cursor",
+    "devops"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
