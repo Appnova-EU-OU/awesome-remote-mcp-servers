@@ -1,0 +1,16 @@
+{
+  "name": "gitingest-mcp",
+  "description": "Convert any Git repository into a text digest of its codebase using gitingest.",
+  "git_url": "https://github.com/narumiruna/gitingest-mcp",
+  "author_github": "narumiruna",
+  "category": "developer-tools",
+  "tags": [
+    "gitingest",
+    "convert",
+    "any",
+    "git",
+    "repository"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
