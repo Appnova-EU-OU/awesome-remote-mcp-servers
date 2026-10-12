@@ -1,0 +1,16 @@
+{
+  "name": "ontomics",
+  "description": "Extract domain knowledge from codebases to reduce LLM token consumption by 20x and time in agentic search by 10x — gathers and makes concepts, naming conventions, and vocabulary queryable via MCP.",
+  "git_url": "https://github.com/EtienneChollet/ontomics",
+  "author_github": "EtienneChollet",
+  "category": "search",
+  "tags": [
+    "agenticcoding",
+    "aicoding",
+    "claudecode",
+    "codex",
+    "codingagents"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
