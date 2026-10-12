@@ -1,0 +1,16 @@
+{
+  "name": "pylon-mcp",
+  "description": "MCP server for Pylon AI — 10 pay-per-request APIs as AI agent tools. Powered by x402 on Base.",
+  "git_url": "https://github.com/pylonapi/pylon-mcp",
+  "author_github": "pylonapi",
+  "category": "ai-agents",
+  "tags": [
+    "pylon",
+    "pay",
+    "per",
+    "request",
+    "apis"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
