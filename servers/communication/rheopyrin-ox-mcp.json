@@ -1,0 +1,17 @@
+{
+  "name": "ox-mcp",
+  "description": "MCP server for Open-Xchange & standards-based mail: email (IMAP/SMTP), Sieve filters, CalDAV calendar, CardDAV contacts, free/busy.",
+  "git_url": "https://github.com/Rheopyrin/ox-mcp",
+  "author_github": "Rheopyrin",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "caldav",
+    "calendar",
+    "carddav",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@rheopyrin/ox-mcp"
+}
