@@ -1,0 +1,16 @@
+{
+  "name": "devutils-mcp-server",
+  "description": "An open-source DevUtils MCP Server — a comprehensive developer utilities toolkit for the Docker MCP Catalog. It provides 36 tools across 8 categories that AI assistants can invoke directly.",
+  "git_url": "https://github.com/paladini/devutils-mcp-server",
+  "author_github": "paladini",
+  "category": "cloud-infra",
+  "tags": [
+    "developertools",
+    "devutils",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
