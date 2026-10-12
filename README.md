@@ -91,6 +91,22 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [gin-mcp](https://freemcp.space/featured/gin-mcp) — Enable MCP features for any Gin API with a line of code
+- [agent-droid-bridge](https://freemcp.space/featured/agent-droid-bridge) — Agent Droid Bridge gives AI agents programmatic control over Android devices and emulators via ADB, exposed as an MCP server.
+- [mcp-server-markdown](https://freemcp.space/featured/mcp-server-markdown) — MCP server for markdown — search, extract sections, list headings, find code blocks
+- [jitapi](https://freemcp.space/featured/jitapi) — Just-in-Time API Orchestration for LLMs - An MCP server for dynamic API discovery and execution
+- [mcp-server-scraper](https://freemcp.space/featured/mcp-server-scraper) — MCP server for web scraping — extract clean markdown, links, metadata from any URL
+- [mcp-server-github-actions](https://freemcp.space/featured/mcp-server-github-ac) — MCP server for GitHub Actions — view runs, read logs, re-run jobs, trigger workflows
+- [mcp-server-devutils](https://freemcp.space/featured/mcp-server-devutils) — Zero-auth MCP server with everyday developer utilities: base64, UUID, hash, JWT decode, cron, timestamps, JSON, regex
+- [spring-boot-starter-swagger-mcp](https://freemcp.space/featured/spring-boot-starter) — Turn SpringDoc OpenAPI into production-ready MCP tools for Spring Boot: discovery, validation, workflows, and guardrails.
+- [mcp-server-docker](https://freemcp.space/featured/mcp-server-docker) — MCP server for Docker — manage containers, images, volumes from your IDE
+- [mcp-server-dns](https://freemcp.space/featured/mcp-server-dns) — MCP server for DNS — lookups, reverse DNS, WHOIS, zero auth
+- [hird](https://freemcp.space/featured/hird) — A typed language for LLM agent systems on BEAM: effect-row tracking, auditable tool effects, typed actors, and OTP supervision, queryable by agents over MCP.
+- [mcp-toolkit](https://freemcp.space/featured/mcp-toolkit) — 59 MCP servers for React + TypeScript automation — component scaffolding, CRUD feature factory, WCAG checks, test gen, TS enforcement, render/perf analysis, CRA→Vite migration, legacy analysis. npx-installable.
+- [mcp-server-github-gist](https://freemcp.space/featured/mcp-server-github-gi) — MCP server to create, read, update, list, and search GitHub Gists from your IDE
+- [mcp-server-npm-plus](https://freemcp.space/featured/mcp-server-npm-plus) — MCP server for npm - search, bundle sizes, vulnerabilities, download trends, dependency trees
+- [rhizome-mcp](https://freemcp.space/featured/rhizome-mcp) — Crash-safe task tracking for AI coding agents over MCP: expiring leases, resumable attempts, version-pinned reviews. One Go binary, one SQLite file per project.
+- [woodpecker-ci-mcp](https://freemcp.space/featured/woodpecker-ci-mcp) — MCP server for Woodpecker CI: read repositories, pipelines and logs, and drive builds, secrets and crons
 - [vscode-tailwindshades](https://freemcp.space/featured/vscode-tailwindshade) — Tailwind CSS palettes (50–950) from any color, for Tailwind v4, v3, v2 and v1. A VS Code extension, a CLI, and an MCP server for AI agents.
 - [dav-mcp](https://freemcp.space/featured/dav-mcp) — Transform AI agents into orchestrating assistants managing calendars, contacts, and tasks
 - [dotpals](https://freemcp.space/featured/dotpals) — See what your coding agent actually did. A desktop pal and notch for Claude Code, Codex, Cursor, Gemini CLI and any agent: test results read from the output, faked passes caught, Claude Code sent back to fix what it broke, and an MCP server any AI tool can ask.
@@ -175,22 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [gptzero-mcp](https://freemcp.space/featured/gptzero-mcp) — Detect AI-generated text via the GPTZero API, with confidence scores, probability breakdowns and French and Spanish support.
 - [localfig](https://freemcp.space/featured/localfig) — The Figma desktop app as an MCP server. Gives AI agents the full Figma Plugin API on your open file: read, write, tokens, components, exports, undo. Runs locally with no cloud API, no token and no quota. One command registers it with Claude Code, Cursor, VS Code, Windsurf, Cline, Gemini CLI, Codex and more. Zero dependencies.
 - [mcp-server](https://freemcp.space/featured/mcp-server-23) — MCP server for Underground Cultural District — 23 tools, 218+ digital goods for AI agents. Free dev tools + paid catalog + Stripe checkout. npm: @underground-cultural-district/mcp-server
-- [overseer-nvim-mcp](https://freemcp.space/featured/overseer-nvim-mcp) — MCP server giving coding agents visibility and control over overseer.nvim tasks: list, tail, run, restart, stop, dispose
-- [mcp-openapi-schema-explorer](https://freemcp.space/featured/mcp-openapi-schema-e) — MCP server providing token-efficient access to OpenAPI/Swagger specs via MCP Resource Templates for client-side exploration.
-- [nocodb-mcp-server](https://freemcp.space/featured/nocodb-mcp-server) — nocodb mcp server
-- [altium-designer-mcp](https://freemcp.space/featured/altium-designer-mcp) — MCP server for AI-assisted management of Altium Designer component libraries
-- [mcp-design-system-extractor](https://freemcp.space/featured/mcp-design-system-ex) — MCP (Model Context Protocol) server that enables AI assistants to interact with Storybook design systems. Extract component HTML, analyze styles, and help with design system adoption and refactoring.
-- [aicanvas](https://freemcp.space/featured/aicanvas) — Open-core registry of animated React components, blocks, design systems, and templates. Real, editable code: install with one shadcn CLI command or let your AI agent pull it over MCP.
-- [globalping-mcp-server](https://freemcp.space/featured/globalping-mcp-serve) — Remote MCP server that gives LLMs access to run network commands
-- [roslyn-codelens-mcp](https://freemcp.space/featured/roslyn-codelens-mcp) — Roslyn-based MCP server giving AI agents deep semantic understanding of .NET/C# codebases — 67 tools for navigation, call graphs, diagnostics & code fixes, safe refactoring, code-quality auditing, test intelligence, DI graphs, and IL/external-assembly inspection.
-- [mcp-ai-server-visual-studio](https://freemcp.space/featured/mcp-ai-server-visual) — MCP AI Server - Roslyn-powered MCP server for Visual Studio. 20 tools for AI assistants.
-- [mk-qa-master](https://freemcp.space/featured/mk-qa-master) — AI 測試大師 — MCP server driving pytest / Jest / Cypress / Go / Maestro. Analyze, generate, run, advise. Web + Mobile (iOS/Android/BlueStacks).
-- [metatron](https://freemcp.space/featured/metatron) — Git-native context layer for AI coding agents. Your team's real engineering decisions — patterns, pitfalls, conventions — live as reviewed markdown files in your repo; agents consult them before writing code and record what they learn. Files-first, no server required; MCP as an optional serving layer.
-- [agent-tool](https://freemcp.space/featured/agent-tool) — MCP tool server for AI coding agents -- encoding-aware file tools, binary analysis, DAP debugger, SSH/SFTP, process memory, and more
-- [xcode-studio-mcp](https://freemcp.space/featured/xcode-studio-mcp) — Unified MCP server for AI-assisted iOS development — build, deploy, screenshot, and interact with iOS Simulator from Claude Code, Cursor, or any MCP client
-- [design-token-bridge-mcp](https://freemcp.space/featured/design-token-bridge) — MCP server that translates design tokens between platforms — Tailwind, Figma, CSS to Material 3, SwiftUI, and CSS Variables. Built for the v0 → Figma → Claude Code pipeline.
-- [mcp-server](https://freemcp.space/featured/mcp-server-22) — MCP server for Jungle Grid lets agents submit, monitor, and retrieve logs from AI workloads.
-- [mushi-mushi](https://freemcp.space/featured/mushi-mushi) — 🦖Know why your AI-built app broke — plain-English diagnosis + ready fix, in your editor. Open source. Sentry optional.
 <!-- freemcp:end -->
 
 ---
