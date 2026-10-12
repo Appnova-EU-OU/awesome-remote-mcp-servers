@@ -1,0 +1,16 @@
+{
+  "name": "pagecast",
+  "description": "Record any browser page as GIF or video via MCP — powered by Playwright + ffmpeg",
+  "git_url": "https://github.com/mcpware/pagecast",
+  "author_github": "mcpware",
+  "category": "security",
+  "tags": [
+    "aitools",
+    "automation",
+    "browserautomation",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
