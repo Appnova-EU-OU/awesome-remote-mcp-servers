@@ -1,0 +1,17 @@
+{
+  "name": "airtable-mcp",
+  "description": "Airtable integration for AI-powered applications via Anthropic's Model Context Protocol (MCP)",
+  "git_url": "https://github.com/rashidazarang/airtable-mcp",
+  "author_github": "rashidazarang",
+  "category": "databases",
+  "tags": [
+    "airtable",
+    "airtableapi",
+    "api",
+    "automation",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.airtablemcp.com/"
+}
