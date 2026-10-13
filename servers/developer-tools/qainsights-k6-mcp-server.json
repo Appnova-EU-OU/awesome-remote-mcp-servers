@@ -1,0 +1,17 @@
+{
+  "name": "k6-mcp-server",
+  "description": "k6 MCP server",
+  "git_url": "https://github.com/QAInsights/k6-mcp-server",
+  "author_github": "QAInsights",
+  "category": "developer-tools",
+  "tags": [
+    "grafana",
+    "k6",
+    "mcp",
+    "modelcontextprotocol",
+    "performancetesting"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://qainsights.com"
+}
