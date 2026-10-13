@@ -1,0 +1,17 @@
+{
+  "name": "ARBuilder",
+  "description": "AI-powered code generator for Arbitrum Stylus, SDK bridging, dApps & Orbit chains — 19 MCP tools with RAG",
+  "git_url": "https://github.com/Quantum3-Labs/ARBuilder",
+  "author_github": "Quantum3-Labs",
+  "category": "ai-agents",
+  "tags": [
+    "aicodegeneration",
+    "arbitrium",
+    "claude",
+    "cursor",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://arbuilder.app"
+}
