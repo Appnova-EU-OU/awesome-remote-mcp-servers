@@ -1,0 +1,17 @@
+{
+  "name": "woodpecker-ci-mcp",
+  "description": "MCP server for Woodpecker CI: read repositories, pipelines and logs, and drive builds, secrets and crons",
+  "git_url": "https://github.com/ni-c/woodpecker-ci-mcp",
+  "author_github": "ni-c",
+  "category": "security",
+  "tags": [
+    "ci",
+    "claude",
+    "continuousintegration",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://woodpecker-ci-mcp.ni-c.de"
+}
