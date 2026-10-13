@@ -1,0 +1,11 @@
+{
+  "name": "Surface-ops/surface",
+  "description": "Remote MCP: preflight_url unwraps short links (t.co, bit.ly, lnkd.in) and returns fetch or skip before an agent opens them. Hosted Streamable HTTP at nova-otter-delta-cloud.grok.me/mcp.",
+  "git_url": "https://github.com/Surface-ops/surface",
+  "homepage": "https://nova-otter-delta-cloud.grok.me",
+  "author_github": "Surface-ops",
+  "category": "developer-tools",
+  "tags": ["mcp", "remote-mcp", "preflight", "url-safety", "agents", "streamable-http"],
+  "license": "MIT",
+  "status": "active"
+}
