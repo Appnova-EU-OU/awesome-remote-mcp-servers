@@ -1,0 +1,16 @@
+{
+  "name": "mindpilot-mcp",
+  "description": "See through your agent's eyes. Visualize legacy code, architect new systems, understand everything.",
+  "git_url": "https://github.com/abrinsmead/mindpilot-mcp",
+  "author_github": "abrinsmead",
+  "category": "ai-agents",
+  "tags": [
+    "mindpilot",
+    "see",
+    "through",
+    "your",
+    "agent"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
