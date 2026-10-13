@@ -1,0 +1,17 @@
+{
+  "name": "pubship",
+  "description": "Open-source MCP server for Google Play developer workflows. Runs locally with your own credentials.",
+  "git_url": "https://github.com/pubship/pubship",
+  "author_github": "pubship",
+  "category": "security",
+  "tags": [
+    "android",
+    "geminicliextension",
+    "googleplay",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://pubship.dev"
+}
