@@ -1,0 +1,16 @@
+{
+  "name": "godotlens-mcp",
+  "description": "MCP server for GDScript semantic analysis via Godot's built-in language server",
+  "git_url": "https://github.com/pzalutski-pixel/godotlens-mcp",
+  "author_github": "pzalutski-pixel",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "claude",
+    "codeanalysis",
+    "codeintelligence",
+    "developertools"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
