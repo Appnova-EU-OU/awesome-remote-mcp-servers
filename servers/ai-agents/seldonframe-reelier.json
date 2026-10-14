@@ -1,0 +1,17 @@
+{
+  "name": "reelier",
+  "description": "Agents make claims. Reelier writes receipts — record an agent's tool-call workflow once, replay it deterministically at 0 tokens, and diff runs to catch drift.",
+  "git_url": "https://github.com/seldonframe/reelier",
+  "author_github": "seldonframe",
+  "category": "ai-agents",
+  "tags": [
+    "agentmemory",
+    "agentskills",
+    "aiagents",
+    "automation",
+    "byok"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://reelier.com"
+}
