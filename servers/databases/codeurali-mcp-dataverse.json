@@ -1,0 +1,17 @@
+{
+  "name": "mcp-dataverse",
+  "description": "MCP server for Microsoft Dataverse Web API for devs !",
+  "git_url": "https://github.com/codeurali/mcp-dataverse",
+  "author_github": "codeurali",
+  "category": "databases",
+  "tags": [
+    "dataverse",
+    "mcpserver",
+    "microsoftdataverse",
+    "modelcontextprotocol",
+    "powerplatform"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://codeurali.github.io/mcp-dataverse/"
+}
