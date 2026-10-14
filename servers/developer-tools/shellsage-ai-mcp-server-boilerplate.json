@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server-boilerplate",
+  "description": "Production-ready MCP server templates in TypeScript and Python. Quickstart boilerplate for building Model Context Protocol servers.",
+  "git_url": "https://github.com/shellsage-ai/mcp-server-boilerplate",
+  "author_github": "shellsage-ai",
+  "category": "developer-tools",
+  "tags": [
+    "boilerplate",
+    "production",
+    "ready",
+    "templates",
+    "typescript"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://shellsage-ai.github.io/"
+}
