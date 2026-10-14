@@ -1,0 +1,17 @@
+{
+  "name": "mockhero",
+  "description": "Synthetic test data generation: detect schemas from SQL or JSON and generate JSON, CSV or SQL data.",
+  "git_url": "https://github.com/dinosaur24/mockhero",
+  "author_github": "dinosaur24",
+  "category": "databases",
+  "tags": [
+    "api",
+    "database",
+    "developertools",
+    "faker",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mockhero.dev"
+}
