@@ -91,6 +91,21 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-server-circleci](https://freemcp.space/featured/mcp-server-circleci) — [DEPRECATED] This package is no longer maintained. Migrate to CircleCI's hosted MCP server or the CircleCI CLI MCP. See https://circleci.com/docs/guides/toolkit/circleci-mcp-overview/
+- [PhpCodeArcheology](https://freemcp.space/featured/phpcodearcheology) — PHP static analysis for architecture & maintainability — 60+ metrics, complexity analysis, dependency graphs, git churn hotspots, and AI-ready MCP server. Alternative to PHPMetrics.
+- [mindpilot-mcp](https://freemcp.space/featured/mindpilot-mcp) — See through your agent's eyes. Visualize legacy code, architect new systems, understand everything.
+- [jmeter-mcp-server](https://freemcp.space/featured/jmeter-mcp-server) — ✨ JMeter Meets AI Workflows: Introducing the JMeter MCP Server! 🤯 
+- [spreadsheet-mcp](https://freemcp.space/featured/spreadsheet-mcp) — MCP server for spreadsheet analysis and editing. Slim, token-efficient tool surface designed for LLM agents.
+- [javalens-mcp](https://freemcp.space/featured/javalens-mcp) — MCP server providing semantic Java code analysis for AI agents. Built on Eclipse JDT with tools for navigation, refactoring, search, and metrics.
+- [sharplens-mcp](https://freemcp.space/featured/sharplens-mcp) — Roslyn-powered MCP server for AI-driven C# semantic analysis, refactoring, and code generation
+- [k6-mcp-server](https://freemcp.space/featured/k6-mcp-server) — k6 MCP server
+- [ARBuilder](https://freemcp.space/featured/arbuilder-2) — AI-powered code generator for Arbitrum Stylus, SDK bridging, dApps & Orbit chains — 19 MCP tools with RAG
+- [locust-mcp-server](https://freemcp.space/featured/locust-mcp-server) — A Model Context Protocol (MCP) server implementation for running Locust load tests. This server enables seamless integration of Locust load testing capabilities with AI-powered development environments.
+- [godotlens-mcp](https://freemcp.space/featured/godotlens-mcp) — MCP server for GDScript semantic analysis via Godot's built-in language server
+- [pt-edge](https://freemcp.space/featured/pt-edge) — Precomputed reasoning cache for AI infrastructure decisions — 220K+ pages tracking the open-source AI ecosystem
+- [qr-agent-core](https://freemcp.space/featured/qr-agent-core) — QR-as-a-Service API for AI agents — 34 MCP tools, 11 QR types, dynamic links, scan analytics, webhooks, custom domains. REST API + MCP server.
+- [appstore-release-mcp](https://freemcp.space/featured/appstore-release-mcp) — App Store release pilot MCP server — version bump, archive + TestFlight upload, metadata, review submission. The MCP server that actually ships your binary.
+- [pubship](https://freemcp.space/featured/pubship) — Open-source MCP server for Google Play developer workflows. Runs locally with your own credentials.
 - [unitree-go2-mcp-server](https://freemcp.space/featured/unitree-go2-mcp-serv) — The Unitree Go2 MCP Server is a server built on the MCP that enables users to control the Unitree Go2 robot using natural language commands interpreted by a LLM.
 - [airtable-mcp](https://freemcp.space/featured/airtable-mcp-2) — Airtable integration for AI-powered applications via Anthropic's Model Context Protocol (MCP)
 - [just-mcp](https://freemcp.space/featured/just-mcp) — mcp server for just
@@ -176,21 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [tactab](https://freemcp.space/featured/tactab) — Tactile browser control and multimodal visual vision bridge for AI agents (Cursor, Claude, etc.) via Model Context Protocol (MCP) & Chrome Extension.
 - [keboola-mcp-server](https://freemcp.space/featured/keboola-mcp-server) — Model Context Protocol (MCP) Server for the Keboola Platform
 - [django-orm-lens](https://freemcp.space/featured/django-orm-lens) — Django ER diagrams, N+1 detection, schema drift & migration-risk linting — in VS Code, a CLI and an MCP server. Static analysis: no database, no django.setup(). Free & MIT.
-- [mcp-server-multiverse](https://freemcp.space/featured/mcp-server-multivers) — A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.
-- [android-mcp-server](https://freemcp.space/featured/android-mcp-server) — MCP server for controlling Android emulators via ADB — screenshots, UI interaction, logcat, and bug documentation for Claude Code
-- [mdma](https://freemcp.space/featured/mdma) — Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
-- [mcp-codebase-index](https://freemcp.space/featured/mcp-codebase-index) — 17 MCP query tools for codebase navigation — functions, classes, imports, dependency graphs, change impact. Zero dependencies. 87% token reduction.
-- [user-feedback-mcp](https://freemcp.space/featured/user-feedback-mcp) — Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor.
-- [mneme](https://freemcp.space/featured/mneme) — Architectural drift prevention for the agentic AI SDLC.
-- [ui-annotator-mcp](https://freemcp.space/featured/ui-annotator-mcp) — MCP server that annotates any web page with hover labels — zero extensions, works in any browser
-- [npm-package-docs-mcp](https://freemcp.space/featured/npm-package-docs-mcp) — A Model Context Protocol (MCP) tool that provides up-to-date documentation for npm packages directly in your IDE. This tool fetches the latest README documentation from either the package's GitHub repository or the README bundled with the npm package itself.
-- [swarmia-mcp](https://freemcp.space/featured/swarmia-mcp) — A read-only local MCP server for to interact with swarmia.com
-- [devplan-mcp-server](https://freemcp.space/featured/devplan-mcp-server) — MCP server for generating development plans, project roadmaps, and task breakdowns for Claude Code. Turn project ideas into paint-by-numbers implementation plans.
-- [mobile-device-mcp](https://freemcp.space/featured/mobile-device-mcp) — MCP server for AI-powered mobile device control — 26 tools for screenshots, UI inspection, touch interaction, and AI visual analysis. Supports Anthropic Claude & Google Gemini.
-- [ollama-handoff](https://freemcp.space/featured/ollama-handoff) — MCP server that offloads cheap work from your cloud LLM agent to a local Ollama model — summaries, drafts, extractions, first-pass reviews — at zero cloud cost.
-- [git-context-mcp](https://freemcp.space/featured/git-context-mcp) — MCP server that answers why code exists - git blame, PR descriptions, and linked issues
-- [mockhero](https://freemcp.space/featured/mockhero) — Synthetic test data generation: detect schemas from SQL or JSON and generate JSON, CSV or SQL data.
-- [mcp-server-atlassian-jira](https://freemcp.space/featured/mcp-server-atlassian-2) — Node.js/TypeScript MCP server for Atlassian Jira. Equips AI systems (LLMs) with tools to list/get projects, search/get issues (using JQL/ID), and view dev info (commits, PRs). Connects AI capabilities directly into Jira project management and issue tracking workflows.
 <!-- freemcp:end -->
 
 ---
