@@ -1,0 +1,16 @@
+{
+  "name": "github-repo-mcp",
+  "description": "Model Context Protocol server for Github Repo // Reading Github Repo",
+  "git_url": "https://github.com/Ryan0204/github-repo-mcp",
+  "author_github": "Ryan0204",
+  "category": "developer-tools",
+  "tags": [
+    "github",
+    "githubmcp",
+    "githubmcpserver",
+    "mcp",
+    "mcpgithub"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
