@@ -1,0 +1,17 @@
+{
+  "name": "zerodom",
+  "description": "Terminal-native DOM perception layer for AppSec and AI. Hook into live Chrome sessions, compress HTML tokens by 98.9%, and map attack surfaces deterministically.",
+  "git_url": "https://github.com/DevHusnainAi/zerodom",
+  "author_github": "DevHusnainAi",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "appsec",
+    "attacksurfacemapping",
+    "browserautomation",
+    "claude"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://zerodom.vexralabs.com"
+}
