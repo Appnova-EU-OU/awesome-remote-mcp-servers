@@ -1,0 +1,17 @@
+{
+  "name": "legion-mcp",
+  "description": "A server that helps people access and query data in databases using the Legion Query Runner with Model Context Protocol (MCP) in Python.",
+  "git_url": "https://github.com/TheRaLabs/legion-mcp",
+  "author_github": "TheRaLabs",
+  "category": "databases",
+  "tags": [
+    "database",
+    "legionai",
+    "mcp",
+    "mcpserver",
+    "querybuilder"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://thelegionai.com/"
+}
