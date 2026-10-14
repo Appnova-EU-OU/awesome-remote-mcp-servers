@@ -1,0 +1,16 @@
+{
+  "name": "repo-test-architect",
+  "description": "Evidence-first test strategy tooling for real codebases.",
+  "git_url": "https://github.com/RepoAssay/repo-test-architect",
+  "author_github": "RepoAssay",
+  "category": "developer-tools",
+  "tags": [
+    "codequality",
+    "developertools",
+    "mcp",
+    "repositoryanalysis",
+    "staticanalysis"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
