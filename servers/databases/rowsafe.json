@@ -1,0 +1,17 @@
+{
+  "name": "RowSafe MCP",
+  "description": "Database protection and management through the Apache-2.0 RowSafe agent, CLI and MCP server; the separate hosted service requires a RowSafe account. Use local stdio with rowsafe mcp after CLI login or API-key configuration, or the remote Streamable HTTP endpoint https://api.rowsafe.sh/mcp with OAuth or an API key. Capabilities depend on credentials, permissions and transport configuration.",
+  "git_url": "https://github.com/rowsafe/rowsafe",
+  "author_github": "rowsafe",
+  "category": "databases",
+  "tags": [
+    "database",
+    "backup",
+    "recovery",
+    "postgresql",
+    "devops"
+  ],
+  "homepage": "https://rowsafe.sh",
+  "license": "Apache-2.0",
+  "status": "active"
+}
