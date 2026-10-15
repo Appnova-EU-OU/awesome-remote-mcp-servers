@@ -1,0 +1,16 @@
+{
+  "name": "Queue-AIops",
+  "description": "Governed AI-ops for redis + rabbitmq: memory-pressure/latency/queue-backlog/connection-churn RCAs, s",
+  "git_url": "https://github.com/AIops-tools/Queue-AIops",
+  "author_github": "AIops-tools",
+  "category": "databases",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "mcp",
+    "middleware",
+    "rabbitmq"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
