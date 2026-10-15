@@ -1,0 +1,16 @@
+{
+  "name": "elekto-mcp-sql",
+  "description": "MCP Server (read-only) for SQL Server schema introspection and data sampling",
+  "git_url": "https://github.com/elekto-com-br/elekto-mcp-sql",
+  "author_github": "elekto-com-br",
+  "category": "databases",
+  "tags": [
+    "elekto",
+    "sql",
+    "read",
+    "only",
+    "schema"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
