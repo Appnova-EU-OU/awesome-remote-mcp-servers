@@ -1,0 +1,16 @@
+{
+  "name": "zihin-mcp",
+  "description": "MCP Server proxy stdio-to-HTTP para a plataforma Zihin.ai",
+  "git_url": "https://github.com/zihin-ai/zihin-mcp",
+  "author_github": "zihin-ai",
+  "category": "ai-agents",
+  "tags": [
+    "zihin",
+    "proxy",
+    "stdio",
+    "http",
+    "para"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
