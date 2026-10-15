@@ -91,6 +91,21 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mail-mcp](https://freemcp.space/featured/mail-mcp) — Secure IMAP/SMTP/EWS/Graph API MCP server in Rust — Microsoft 365, Hotmail, Gmail, Zoho, OAuth2, multi-account
+- [legion-mcp](https://freemcp.space/featured/legion-mcp) — A server that helps people access and query data in databases using the Legion Query Runner with Model Context Protocol (MCP) in Python.
+- [a11ymcp](https://freemcp.space/featured/a11ymcp) — MCP Server for Web Accessibility Testing (10k+ Downloads, #20 on ProductHunt)
+- [mcp-openapi](https://freemcp.space/featured/mcp-openapi) — OpenAPI specification MCP server.
+- [memi](https://freemcp.space/featured/memi) — The design layer for agentic AI — design context, interface checks, and verification for coding agents.
+- [Rootly-MCP-server](https://freemcp.space/featured/rootly-mcp-server) — Rootly MCP server
+- [selvage](https://freemcp.space/featured/selvage) — LLM-based code review with AST-based context extraction, supporting Claude, GPT, Gemini and other models via OpenRouter.
+- [github-repo-mcp](https://freemcp.space/featured/github-repo-mcp) — Model Context Protocol server for Github Repo // Reading Github Repo
+- [janee](https://freemcp.space/featured/janee) — Secrets management for AI agents via MCP • @janeesecure
+- [mcp-broker](https://freemcp.space/featured/mcp-broker) — Local MCP broker that exposes one compact MCP entry for MCP clients while routing to many configured upstream servers.
+- [reelier](https://freemcp.space/featured/reelier) — Agents make claims. Reelier writes receipts — record an agent's tool-call workflow once, replay it deterministically at 0 tokens, and diff runs to catch drift.
+- [mcp-server-boilerplate](https://freemcp.space/featured/mcp-server-boilerpla) — Production-ready MCP server templates in TypeScript and Python. Quickstart boilerplate for building Model Context Protocol servers.
+- [mcp-code-sanitizer](https://freemcp.space/featured/mcp-code-sanitizer) — Strict AI code reviewer MCP server powered by Groq
+- [retrieval-lens](https://freemcp.space/featured/retrieval-lens) — MCP server that audits RAG retrieval - logs what chunks the model saw before any answer was generated
+- [repo-test-architect](https://freemcp.space/featured/repo-test-architect) — Evidence-first test strategy tooling for real codebases.
 - [mcp-server-circleci](https://freemcp.space/featured/mcp-server-circleci) — [DEPRECATED] This package is no longer maintained. Migrate to CircleCI's hosted MCP server or the CircleCI CLI MCP. See https://circleci.com/docs/guides/toolkit/circleci-mcp-overview/
 - [PhpCodeArcheology](https://freemcp.space/featured/phpcodearcheology) — PHP static analysis for architecture & maintainability — 60+ metrics, complexity analysis, dependency graphs, git churn hotspots, and AI-ready MCP server. Alternative to PHPMetrics.
 - [mindpilot-mcp](https://freemcp.space/featured/mindpilot-mcp) — See through your agent's eyes. Visualize legacy code, architect new systems, understand everything.
@@ -176,21 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ios-agent-skill](https://freemcp.space/featured/ios-agent-skill) — Swift source, Apple guides and MCP tools for AI coding agents. Review iOS code, scaffold apps, and build/run/preview with Xcode Simulator. 
 - [maven-mcp](https://freemcp.space/featured/maven-mcp) — Maven dependency intelligence MCP server and Claude Code / Grok Build plugin
 - [Porkbun-MCP](https://freemcp.space/featured/porkbun-mcp) — Official Porkbun MCP server — exposes the Porkbun v3 API as native tools for Claude Desktop, Cursor, and other AI agents. Idempotency-safe writes, full domain lifecycle.
-- [Telebrief](https://freemcp.space/featured/telebrief) — Personal digests from Telegram channels and chats: summarizes threads, extracts key points, and delivers a clean daily/weekly brief with links and context.
-- [archprint](https://freemcp.space/featured/archprint) — Infers architecture rules from your TypeScript repo's real import graph, gates each on statistical evidence, and emits them into the tools you already use (ESLint, dependency-cruiser, ts-arch). Turns the boundaries your code already follows into enforcement, so architecture drift gets caught, not just documented.
-- [agenthop](https://freemcp.space/featured/agenthop) — Let your AI agent talk directly to someone else's. One pairing code, end-to-end encrypted, no public IP. MCP server for Claude Code, Codex, Cursor, Gemini CLI and grok.
-- [duplex](https://freemcp.space/featured/duplex) — One browser shared by a human and an AI: visual for the human, source-level for the AI
-- [genomics-mcp](https://freemcp.space/featured/genomics-mcp) — Unified MCP access to genomic archives, reference databases and indexed sequencing files
-- [RulesetMCP](https://freemcp.space/featured/rulesetmcp) — Weight-On-Wheels for AI: MCP server that keeps every agent grounded in your project's rules
-- [ballmac-ui](https://freemcp.space/vamsiy/ballmac-ui) — Ballmac UI: accessible React + Tailwind components your AI agent can install. shadcn registry at ui.ballmac.com
-- [namegender-mcp](https://freemcp.space/featured/namegender-mcp) — Model Context Protocol server for the NameGender API: gender from names, emails and usernames, with probability, sample size and source on every answer.
-- [mailprobe-mcp](https://freemcp.space/featured/mailprobe-mcp) — Official Claude Code plugin and agent skill for the MailProbe MCP server: an AI assistant verifies email addresses in real time (deliverability, disposable and role-based detection). Hosted in France.
-- [claude-session-relay](https://freemcp.space/spekbroodje/claude-session-relay) — Let Claude Code sessions on different machines share a board, message each other and avoid colliding git pushes. Teams, private sessions, and an MCP connector for claude.ai and Cowork.
-- [cloudflare-mcp-go](https://freemcp.space/featured/cloudflare-mcp-go) — Cloudflare MCP server in Go
-- [browser-buddy](https://freemcp.space/featured/browser-buddy) — Let your coding agent read your real, logged-in Chrome: MV3 extension + native host + MCP server (read_active_tab, open_and_read_url). Zero dependencies, MIT.
-- [tactab](https://freemcp.space/featured/tactab) — Tactile browser control and multimodal visual vision bridge for AI agents (Cursor, Claude, etc.) via Model Context Protocol (MCP) & Chrome Extension.
-- [keboola-mcp-server](https://freemcp.space/featured/keboola-mcp-server) — Model Context Protocol (MCP) Server for the Keboola Platform
-- [django-orm-lens](https://freemcp.space/featured/django-orm-lens) — Django ER diagrams, N+1 detection, schema drift & migration-risk linting — in VS Code, a CLI and an MCP server. Static analysis: no database, no django.setup(). Free & MIT.
 <!-- freemcp:end -->
 
 ---
