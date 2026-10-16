@@ -1,0 +1,16 @@
+{
+  "name": "overseer-nvim-mcp",
+  "description": "MCP server giving coding agents visibility and control over overseer.nvim tasks: list, tail, run, restart, stop, dispose",
+  "git_url": "https://github.com/impossiblecode/overseer-nvim-mcp",
+  "author_github": "impossiblecode",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codex",
+    "geminicli",
+    "githubcopilot"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
