@@ -1,0 +1,17 @@
+{
+  "name": "srclight",
+  "description": "Deep code indexing MCP server for AI agents. 25 tools: hybrid FTS5 + embedding search, call graphs, git blame/hotspots, build system analysis. Multi-repo workspaces, GPU-accelerated semantic search, 10 languages via tree-sitter. Fully local, zero cloud dependencies.",
+  "git_url": "https://github.com/srclight/srclight",
+  "author_github": "srclight",
+  "category": "databases",
+  "tags": [
+    "codeindexing",
+    "codeintelligence",
+    "codesearch",
+    "developertools",
+    "embeddings"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://srclight.dev"
+}
