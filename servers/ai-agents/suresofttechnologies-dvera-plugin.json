@@ -1,0 +1,16 @@
+{
+  "name": "dvera-plugin",
+  "description": "DVERA agent skills for CT C/C++ verification workflows: project setup, analysis, test generation, coverage, reporting, and regression.",
+  "git_url": "https://github.com/SuresoftTechnologies/dvera-plugin",
+  "author_github": "SuresoftTechnologies",
+  "category": "ai-agents",
+  "tags": [
+    "c",
+    "claudecode",
+    "claudecodeplugin",
+    "claudecodeplugins",
+    "claudeskills"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
