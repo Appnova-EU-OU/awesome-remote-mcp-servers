@@ -1,0 +1,17 @@
+{
+  "name": "jmeter-mcp-server",
+  "description": "✨ JMeter Meets AI Workflows: Introducing the JMeter MCP Server! 🤯 ",
+  "git_url": "https://github.com/QAInsights/jmeter-mcp-server",
+  "author_github": "QAInsights",
+  "category": "ai-agents",
+  "tags": [
+    "apachejmeter",
+    "jmeter",
+    "mcp",
+    "modelcontextprotocolservers",
+    "performance"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://jmeter.ai"
+}
