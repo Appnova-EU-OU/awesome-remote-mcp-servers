@@ -1,0 +1,18 @@
+{
+  "name": "theluckystrike/mcp-spreadsheet",
+  "description": "Open, inspect, query, edit and convert xlsx and csv files locally from your AI assistant. Also hosted remotely at https://mcp.zovo.one/mcp/spreadsheet; a free token from https://mcp.zovo.one/mcp/connect is required.",
+  "git_url": "https://github.com/theluckystrike/mcp-spreadsheet",
+  "author_github": "theluckystrike",
+  "category": "productivity",
+  "tags": [
+    "spreadsheet",
+    "xlsx",
+    "csv",
+    "data",
+    "local-first",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcp.zovo.one/s/spreadsheet"
+}
