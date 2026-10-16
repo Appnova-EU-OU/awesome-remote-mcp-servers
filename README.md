@@ -91,6 +91,20 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-victorialogs](https://freemcp.space/featured/mcp-victorialogs) — The implementation of Model Context Protocol (MCP) server for VictoriaLogs.
+- [sequa-mcp](https://freemcp.space/featured/sequa-mcp) — Gives AI coding tools context from your entire codebase and docs via Sequa.
+- [shipstores](https://freemcp.space/featured/shipstores) — Ship iOS and Android apps from your AI agent. MCP server for App Store Connect, Google Play Console and Expo EAS.
+- [heap-seance](https://freemcp.space/featured/heap-seance) — MCP server that channels JVM forensics into structured leak verdicts — for Claude Code.
+- [wsapi-mcp](https://freemcp.space/featured/wsapi-mcp) — WSAPI MCP Server
+- [Proxmox-AIops](https://freemcp.space/featured/proxmox-aiops) — Standalone governed Proxmox VE ops — 23 MCP tools with built-in audit/budget/undo/risk-tier harness
+- [askone](https://freemcp.space/phuryn/askone) — MCP server for AskOne live audience Q&A and polls with free AI moderation: let your agent start rooms, launch polls, moderate and answer questions, and draft a FAQ. Hosted or npx askone-mcp. Also AskOne's issue tracker.
+- [elekto-mcp-sql](https://freemcp.space/featured/elekto-mcp-sql) — MCP Server (read-only) for SQL Server schema introspection and data sampling
+- [Queue-AIops](https://freemcp.space/featured/queue-aiops) — Governed AI-ops for redis + rabbitmq: memory-pressure/latency/queue-backlog/connection-churn RCAs, s
+- [zihin-mcp](https://freemcp.space/featured/zihin-mcp) — MCP Server proxy stdio-to-HTTP para a plataforma Zihin.ai
+- [mcp-google-chat](https://freemcp.space/featured/mcp-google-chat) — MCP server for the Google Chat API — list and search spaces, read and send messages, work with threads, reactions, attachments and memberships. For Claude, Cursor, Codex and other AI clients.
+- [agent-bridge](https://freemcp.space/featured/agent-bridge) — MCP server that lets Claude and Codex steer each other's chats. Read chats, send steers, control Codex goals for agent orchestration natively.
+- [appcrane-mcp](https://freemcp.space/featured/appcrane-mcp) — Standalone MCP connector for AppCrane: exposes its 62 deploy and ops tools to any MCP client, proxied to your own self-hosted AppCrane.
+- [quickcast-mcp](https://freemcp.space/featured/quickcast-mcp) — QuickCast Screen-to-Action Protocol MCP Server: Automated Bug Reports, Playwright E2E Tests, and SOP Generator from Screen Recordings.
 - [mail-mcp](https://freemcp.space/featured/mail-mcp) — Secure IMAP/SMTP/EWS/Graph API MCP server in Rust — Microsoft 365, Hotmail, Gmail, Zoho, OAuth2, multi-account
 - [legion-mcp](https://freemcp.space/featured/legion-mcp) — A server that helps people access and query data in databases using the Legion Query Runner with Model Context Protocol (MCP) in Python.
 - [a11ymcp](https://freemcp.space/featured/a11ymcp) — MCP Server for Web Accessibility Testing (10k+ Downloads, #20 on ProductHunt)
@@ -161,7 +175,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [editorconfig_mcp](https://freemcp.space/featured/editorconfig-mcp) — Formats files using .editorconfig rules so AI-generated code follows project formatting standards.
 - [proton-safe-mcp](https://freemcp.space/featured/proton-safe-mcp) — Draft-only Proton Mail MCP server with attachment support and out-of-band human approval.
 - [cos-codex-bridge](https://freemcp.space/featured/cos-codex-bridge) — Local MCP for Chief of Staff agents to run Codex and Claude Code CLI project sessions with scoped access and durable receipts.
-- [android-mcp-server](https://freemcp.space/featured/android-mcp-server-2) — MCP server that lets AI assistants (Claude, OpenCode, VS Code) control Android devices securely via ADB
+- [android-mcp-server](https://freemcp.space/neiyaneusse357/android-mcp-server-2) — MCP server that lets AI assistants (Claude, OpenCode, VS Code) control Android devices securely via ADB
 - [n8n-workflow-tester-safe](https://freemcp.space/featured/n8n-workflow-tester) — Safe MCP server + CLI for testing, inspecting, and operating n8n workflows with a constrained scope
 - [stellify-mcp](https://freemcp.space/featured/stellify-mcp) — MCP server for Stellify - AI-native code generation platform
 - [aso-score-mcp](https://freemcp.space/featured/aso-score-mcp) — MCP server that calculates an Agent Signal Optimization score across discovery, trust, commerce, interoperability, Google AI Search guidance, and browser-agent UX.
@@ -177,20 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [buildtree-mcp](https://freemcp.space/featured/buildtree-mcp) — MCP server for buildtree: share Android and iOS builds with testers via install links and QR codes
 - [dev-error-explainers](https://freemcp.space/featured/dev-error-explainers) — Paste a developer error, get the real cause and the fix. Offline, zero-dependency explainers for CORS, ESM/CJS, npm ERESOLVE, ChunkLoadError, Postgres/Supabase DATABASE_URL and Next.js build errors.
 - [runecho](https://freemcp.space/featured/runecho) — Stops your AI coding agent from writing calls to functions that don't exist, before the edit lands. Deterministic, no LLM, no API keys.
-- [json-mcp-lite](https://freemcp.space/featured/json-mcp-lite) — Turn any JSON file into an MCP server in one command: list, search and get tools for Claude Desktop, Claude Code and Cursor. MIT.
-- [bitrix24-mcp](https://freemcp.space/featured/bitrix24-mcp) — MCP server for Bitrix24 CRM: deals, leads, contacts, tasks, timeline and sales analytics for Claude and Cursor
-- [mcp-gtm-signals-aggregator](https://freemcp.space/featured/mcp-gtm-signals-aggr) — MCP server for GTM Signals Aggregator. Combines hiring and tech stack detection into one composite GTM score via Apify. Clay-ready output.
-- [discp](https://freemcp.space/featured/discp) — The feature-complete Discord MCP Server for AI assistants (Claude, Cursor, Antigravity, OpenCode). 117 native tools, dual user/bot account support, anti-abuse human pacing, dynamic symbol search.
-- [line-bot-ops-mcp](https://freemcp.space/featured/line-bot-ops-mcp) — MCP server to operate your own LINE bot: webhook queue health, failed jobs and retries, push, Rich Menu, follower insight.
-- [mcp-google-gmail](https://freemcp.space/featured/mcp-google-gmail) — MCP server for the Gmail API — search, read and send email, manage drafts, labels and the trash. For Claude, Cursor, Codex and other AI clients.
-- [usable-browser-agent-free](https://freemcp.space/featured/usable-browser-agent) — Usable Browser Agent, free personal/evaluation tier: an MCP server plus Firefox/Chrome extension that lets your AI agent drive your real, logged-in browser. Commercial license at savvytechsphere.com/usable-browser-agent
-- [aetumi-mcp](https://freemcp.space/featured/aetumi-mcp) — AETumi MCP — install premium, production-ready Three.js/WebGL 3D web components into Claude Code, Cursor & Codex. Premium 3D web you own, from AETumi (aetumi.app).
-- [3dtexel-mcp](https://freemcp.space/featured/3dtexel-mcp) — MCP server for 3D Texel: search and download 7,000+ PBR materials, HDRIs, decals and 3D assets, and generate PBR materials, HDRIs and textures from Claude, Cursor, ChatGPT and other AI agents.
-- [autodesk-inventor-mcp](https://freemcp.space/featured/autodesk-inventor-mc) — Autodesk Inventor MCP server: connect Claude, Cursor or Codex to a live Inventor session (COM). Find sliver faces, test Unwrap, script the Inventor API. Zero dependencies.
-- [market-pulse-mcp](https://freemcp.space/featured/market-pulse-mcp) — MCP server for T3rnel Market Pulse: evidence-graded agent-work lanes, should-I-bid advice, live agent jobs, hash-chained evidence ledger. Free without a key.
-- [ios-agent-skill](https://freemcp.space/featured/ios-agent-skill) — Swift source, Apple guides and MCP tools for AI coding agents. Review iOS code, scaffold apps, and build/run/preview with Xcode Simulator. 
-- [maven-mcp](https://freemcp.space/featured/maven-mcp) — Maven dependency intelligence MCP server and Claude Code / Grok Build plugin
-- [Porkbun-MCP](https://freemcp.space/featured/porkbun-mcp) — Official Porkbun MCP server — exposes the Porkbun v3 API as native tools for Claude Desktop, Cursor, and other AI agents. Idempotency-safe writes, full domain lifecycle.
 <!-- freemcp:end -->
 
 ---
