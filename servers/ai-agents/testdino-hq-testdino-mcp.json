@@ -1,0 +1,17 @@
+{
+  "name": "testdino-mcp",
+  "description": "A MCP server that bridges TestDino with AI agents such as Cursor and Claude. Navigate test results, analyze failures, and manage test cases through conversational commands.",
+  "git_url": "https://github.com/testdino-hq/testdino-mcp",
+  "author_github": "testdino-hq",
+  "category": "ai-agents",
+  "tags": [
+    "testdino",
+    "bridges",
+    "agents",
+    "such",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.testdino.com"
+}
