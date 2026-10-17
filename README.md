@@ -91,6 +91,19 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [sqlite-explorer-fastmcp-mcp-server](https://freemcp.space/featured/sqlite-explorer-fast) — An MCP server that provides safe, read-only access to SQLite databases through Model Context Protocol (MCP). This server is built with the FastMCP framework, which enables LLMs to explore and query SQLite databases with built-in safety features and query validation.
+- [mcp-gopls](https://freemcp.space/featured/mcp-gopls) — Model Context Protocol (MCP) server for Go using gopls – LSP-powered analysis, tests, coverage, and tooling.
+- [mcp-gsheets](https://freemcp.space/featured/mcp-gsheets) — MCP server for Google Sheets - Read, write and manipulate spreadsheets through Claude Desktop
+- [srclight](https://freemcp.space/featured/srclight) — Deep code indexing MCP server for AI agents. 25 tools: hybrid FTS5 + embedding search, call graphs, git blame/hotspots, build system analysis. Multi-repo workspaces, GPU-accelerated semantic search, 10 languages via tree-sitter. Fully local, zero cloud dependencies.
+- [xray](https://freemcp.space/featured/xray) — XRAY MCP provides progressive code intelligence and navigation capabilities for AI assistants   through structural code analysis using ast-grep
+- [vibealive](https://freemcp.space/featured/vibealive) — Full-featured utility to test Next.js projects for unused files and APIs + MCP server 
+- [testcollab-mcp-server](https://freemcp.space/featured/testcollab-mcp-serve) — MCP server for TestCollab test management. Lets AI coding assistants (Claude Code, Cursor, Windsurf, Codex) create, update, and query test cases, create test plans, and suite hierarchy. Connect your AI workflow to your QA process.
+- [jira-github-mcp](https://freemcp.space/featured/jira-github-mcp) — A Model Context Protocol (MCP) server exposing Jira and GitHub actions as AI tools to streamline developer workflows end-to-end.
+- [moth](https://freemcp.space/featured/moth) — A debugging workflow plugin for AI coding agents. Turns terminal failures into source-backed fixes via MCP and structured skills.
+- [devpulse-mcp](https://freemcp.space/featured/devpulse-mcp) — Zero-config MCP server that gives AI coding assistants a real-time diagnostic snapshot of your dev environment
+- [tactual](https://freemcp.space/featured/tactual) — Screen-reader navigation cost analyzer — models the real effort to discover, reach, and operate interactive web content
+- [dvera-plugin](https://freemcp.space/featured/dvera-plugin) — DVERA agent skills for CT C/C++ verification workflows: project setup, analysis, test generation, coverage, reporting, and regression.
+- [specshield-mcp-server](https://freemcp.space/featured/specshield-mcp-serve) — The API-change deploy gate for AI coding agents (MCP server): is it safe to ship this API change to my consumers? Read-only, over OpenAPI/Pact.
 - [mcp-victorialogs](https://freemcp.space/featured/mcp-victorialogs) — The implementation of Model Context Protocol (MCP) server for VictoriaLogs.
 - [sequa-mcp](https://freemcp.space/featured/sequa-mcp) — Gives AI coding tools context from your entire codebase and docs via Sequa.
 - [shipstores](https://freemcp.space/featured/shipstores) — Ship iOS and Android apps from your AI agent. MCP server for App Store Connect, Google Play Console and Expo EAS.
@@ -123,11 +136,11 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-server-circleci](https://freemcp.space/featured/mcp-server-circleci) — [DEPRECATED] This package is no longer maintained. Migrate to CircleCI's hosted MCP server or the CircleCI CLI MCP. See https://circleci.com/docs/guides/toolkit/circleci-mcp-overview/
 - [PhpCodeArcheology](https://freemcp.space/featured/phpcodearcheology) — PHP static analysis for architecture & maintainability — 60+ metrics, complexity analysis, dependency graphs, git churn hotspots, and AI-ready MCP server. Alternative to PHPMetrics.
 - [mindpilot-mcp](https://freemcp.space/featured/mindpilot-mcp) — See through your agent's eyes. Visualize legacy code, architect new systems, understand everything.
-- [jmeter-mcp-server](https://freemcp.space/featured/jmeter-mcp-server) — ✨ JMeter Meets AI Workflows: Introducing the JMeter MCP Server! 🤯 
+- [jmeter-mcp-server](https://freemcp.space/qainsights/jmeter-mcp-server) — ✨ JMeter Meets AI Workflows: Introducing the JMeter MCP Server! 🤯 
 - [spreadsheet-mcp](https://freemcp.space/featured/spreadsheet-mcp) — MCP server for spreadsheet analysis and editing. Slim, token-efficient tool surface designed for LLM agents.
 - [javalens-mcp](https://freemcp.space/featured/javalens-mcp) — MCP server providing semantic Java code analysis for AI agents. Built on Eclipse JDT with tools for navigation, refactoring, search, and metrics.
 - [sharplens-mcp](https://freemcp.space/featured/sharplens-mcp) — Roslyn-powered MCP server for AI-driven C# semantic analysis, refactoring, and code generation
-- [k6-mcp-server](https://freemcp.space/featured/k6-mcp-server) — k6 MCP server
+- [k6-mcp-server](https://freemcp.space/qainsights/k6-mcp-server) — k6 MCP server
 - [ARBuilder](https://freemcp.space/featured/arbuilder-2) — AI-powered code generator for Arbitrum Stylus, SDK bridging, dApps & Orbit chains — 19 MCP tools with RAG
 - [locust-mcp-server](https://freemcp.space/featured/locust-mcp-server) — A Model Context Protocol (MCP) server implementation for running Locust load tests. This server enables seamless integration of Locust load testing capabilities with AI-powered development environments.
 - [godotlens-mcp](https://freemcp.space/featured/godotlens-mcp) — MCP server for GDScript semantic analysis via Godot's built-in language server
@@ -178,19 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [android-mcp-server](https://freemcp.space/neiyaneusse357/android-mcp-server-2) — MCP server that lets AI assistants (Claude, OpenCode, VS Code) control Android devices securely via ADB
 - [n8n-workflow-tester-safe](https://freemcp.space/featured/n8n-workflow-tester) — Safe MCP server + CLI for testing, inspecting, and operating n8n workflows with a constrained scope
 - [stellify-mcp](https://freemcp.space/featured/stellify-mcp) — MCP server for Stellify - AI-native code generation platform
-- [aso-score-mcp](https://freemcp.space/featured/aso-score-mcp) — MCP server that calculates an Agent Signal Optimization score across discovery, trust, commerce, interoperability, Google AI Search guidance, and browser-agent UX.
-- [mcp-review-board](https://freemcp.space/featured/mcp-review-board) — MCP review board that lets different coding agents review each other — object → revise → pass, append-only audit trail. For Claude Code, Codex, OpenCode, Trae, ZCode.
-- [portveil-mcp](https://freemcp.space/featured/portveil-mcp) — Portveil MCP server — let AI assistants manage your Portveil VPN network
-- [zerodom](https://freemcp.space/featured/zerodom) — Terminal-native DOM perception layer for AppSec and AI. Hook into live Chrome sessions, compress HTML tokens by 98.9%, and map attack surfaces deterministically.
-- [Precis](https://freemcp.space/featured/precis) — 🧪 Alpha — Local-first visual data quality platform. Visual DAG editor + schema-aware validation for Excel/CSV. Feedback welcome.
-- [4DA](https://freemcp.space/featured/4da-2) — Privacy-first developer intelligence — surfaces what matters from the noise
-- [osnova](https://freemcp.space/featured/osnova) — Deterministic code map for AI coding agents: a tree-sitter symbol and call graph served over MCP and a CLI, with no embeddings, network or telemetry.
-- [mcp-keycloak](https://freemcp.space/featured/mcp-keycloak) — MCP server for Keycloak — multi-realm admin with security modes (read-only/read-write/admin) and access-control flags.
-- [yandex-music-mcp](https://freemcp.space/featured/yandex-music-mcp) — Description: Unofficial Yandex Music MCP server for Claude: search, likes, history, My Wave, playlists
-- [whichlib](https://freemcp.space/featured/whichlib) — The dependency picker for coding agents: an MCP server that recommends, compares and scores GitHub repos with a verdict. npx -y whichlib
-- [buildtree-mcp](https://freemcp.space/featured/buildtree-mcp) — MCP server for buildtree: share Android and iOS builds with testers via install links and QR codes
-- [dev-error-explainers](https://freemcp.space/featured/dev-error-explainers) — Paste a developer error, get the real cause and the fix. Offline, zero-dependency explainers for CORS, ESM/CJS, npm ERESOLVE, ChunkLoadError, Postgres/Supabase DATABASE_URL and Next.js build errors.
-- [runecho](https://freemcp.space/featured/runecho) — Stops your AI coding agent from writing calls to functions that don't exist, before the edit lands. Deterministic, no LLM, no API keys.
 <!-- freemcp:end -->
 
 ---
