@@ -1,0 +1,16 @@
+{
+  "name": "replicant-mcp",
+  "description": "Android MCP server - production-grade, token-optimized, accessibility-first",
+  "git_url": "https://github.com/thecombatwombat/replicant-mcp",
+  "author_github": "thecombatwombat",
+  "category": "developer-tools",
+  "tags": [
+    "replicant",
+    "android",
+    "production",
+    "grade",
+    "token"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
