@@ -1,0 +1,16 @@
+{
+  "name": "vex",
+  "description": "Fast hybrid code search built for AI agents",
+  "git_url": "https://github.com/tenatarika/vex",
+  "author_github": "tenatarika",
+  "category": "search",
+  "tags": [
+    "ast",
+    "claude",
+    "claudecode",
+    "cli",
+    "codesearch"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
