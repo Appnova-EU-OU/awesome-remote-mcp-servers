@@ -1,0 +1,17 @@
+{
+  "name": "wsc",
+  "description": "Prose linter + AI-slop detector: weasel words, passive voice, hedging, and 190+ research-cited AI tells. Web editor, API, MCP server, CLI, GitHub Action.",
+  "git_url": "https://github.com/theserverlessdev/wsc",
+  "author_github": "theserverlessdev",
+  "category": "search",
+  "tags": [
+    "aidetection",
+    "aislop",
+    "cloudflare",
+    "cloudflarepages",
+    "cloudflareworkers"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://wsc.theserverless.dev"
+}
