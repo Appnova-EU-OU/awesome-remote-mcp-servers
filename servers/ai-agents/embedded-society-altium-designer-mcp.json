@@ -1,0 +1,17 @@
+{
+  "name": "altium-designer-mcp",
+  "description": "MCP server for AI-assisted management of Altium Designer component libraries",
+  "git_url": "https://github.com/embedded-society/altium-designer-mcp",
+  "author_github": "embedded-society",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "altium",
+    "altiumdesigner",
+    "altiumlibrary",
+    "claude"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://github.com/embedded-society/altium-designer-mcp"
+}
