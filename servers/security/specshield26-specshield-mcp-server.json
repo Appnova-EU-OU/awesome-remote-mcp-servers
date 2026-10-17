@@ -1,0 +1,16 @@
+{
+  "name": "specshield-mcp-server",
+  "description": "The API-change deploy gate for AI coding agents (MCP server): is it safe to ship this API change to my consumers? Read-only, over OpenAPI/Pact.",
+  "git_url": "https://github.com/specshield26/specshield-mcp-server",
+  "author_github": "specshield26",
+  "category": "security",
+  "tags": [
+    "api",
+    "breakingchanges",
+    "canideploy",
+    "claude",
+    "contracttesting"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
