@@ -1,0 +1,17 @@
+{
+  "name": "vibealive",
+  "description": "Full-featured utility to test Next.js projects for unused files and APIs + MCP server ",
+  "git_url": "https://github.com/skullzarmy/vibealive",
+  "author_github": "skullzarmy",
+  "category": "developer-tools",
+  "tags": [
+    "developertools",
+    "hacktoberfest",
+    "mcp",
+    "nextjs",
+    "npmpackage"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/vibealive"
+}
