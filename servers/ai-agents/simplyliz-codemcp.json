@@ -1,0 +1,17 @@
+{
+  "name": "CodeMCP",
+  "description": "Code intelligence for AI assistants - MCP server, CLI, and HTTP API with symbol navigation, impact analysis, and architecture mapping",
+  "git_url": "https://github.com/SimplyLiz/CodeMCP",
+  "author_github": "SimplyLiz",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "architecture",
+    "claude",
+    "cli",
+    "codeanalysis"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/SimplyLiz/CodeMCP/wiki"
+}
