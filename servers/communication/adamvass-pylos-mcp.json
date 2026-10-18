@@ -1,0 +1,17 @@
+{
+  "name": "pylos-mcp",
+  "description": "Email MCP server for Gmail, Outlook and any IMAP mailbox, hardened against prompt injection",
+  "git_url": "https://github.com/adamVass/pylos-mcp",
+  "author_github": "adamVass",
+  "category": "communication",
+  "tags": [
+    "aisecurity",
+    "claude",
+    "email",
+    "gmail",
+    "imap"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/pylos-mcp"
+}
