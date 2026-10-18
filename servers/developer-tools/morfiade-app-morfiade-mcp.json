@@ -1,0 +1,16 @@
+{
+  "name": "morfiade-mcp",
+  "description": "MCP server for local Google Chrome profiles on Windows — 18 tools over Morfiade's local API",
+  "git_url": "https://github.com/morfiade-app/morfiade-mcp",
+  "author_github": "morfiade-app",
+  "category": "developer-tools",
+  "tags": [
+    "antidetect",
+    "browserautomation",
+    "chromeprofiles",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
