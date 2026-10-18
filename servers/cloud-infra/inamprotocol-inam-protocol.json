@@ -1,0 +1,17 @@
+{
+  "name": "inam-protocol",
+  "description": "Verify before your agent pays: x402 payments only reach agents whose wallet and countersigned work history check out. Open receipts + reputation for AI agents.",
+  "git_url": "https://github.com/inamprotocol/inam-protocol",
+  "author_github": "inamprotocol",
+  "category": "cloud-infra",
+  "tags": [
+    "a2a",
+    "agenteconomy",
+    "agentreputation",
+    "agentskills",
+    "aiagents"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://inamprotocol.org"
+}
