@@ -1,0 +1,17 @@
+{
+  "name": "remcp",
+  "description": "Remote MCP access to computers you explicitly pair — files, terminal, desktop UI, browser automation, diagnostics, and documents.",
+  "git_url": "https://github.com/getremcp/remcp",
+  "author_github": "getremcp",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "automation",
+    "browserautomation",
+    "chatgpt",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://remcp.site"
+}
