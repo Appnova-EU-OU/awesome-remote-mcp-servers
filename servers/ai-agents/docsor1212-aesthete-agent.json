@@ -1,0 +1,16 @@
+{
+  "name": "aesthete-agent",
+  "description": "Mechanically validated frontend aesthetics for AI agents: 89-palette evidence library, OKLCH generation, WCAG/APCA contrast, color-blind-safe data colors, AI-slop detection, theme packs, W3C design tokens. Skill + MCP server.",
+  "git_url": "https://github.com/docsor1212/aesthete-agent",
+  "author_github": "docsor1212",
+  "category": "ai-agents",
+  "tags": [
+    "accessibility",
+    "agentskills",
+    "claude",
+    "colorpalette",
+    "design"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
