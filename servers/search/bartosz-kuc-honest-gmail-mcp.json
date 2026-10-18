@@ -1,0 +1,16 @@
+{
+  "name": "honest-gmail-mcp",
+  "description": "Local MCP server for Gmail — send/search/label with your data staying between your machine and Google",
+  "git_url": "https://github.com/bartosz-kuc/honest-gmail-mcp",
+  "author_github": "bartosz-kuc",
+  "category": "search",
+  "tags": [
+    "aitools",
+    "gmail",
+    "googleworkspace",
+    "honestmcp",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
