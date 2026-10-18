@@ -1,0 +1,16 @@
+{
+  "name": "rosasynthesiz/flstudio-mcp",
+  "description": "AI-powered FL Studio control via the Model Context Protocol. Beyond piano-roll notes — full in-DAW mixing (Mix Doctor, gain staging, EQ/comp/reverb, reference matching), routing, and composition through Claude and other MCP clients. 67 tools. Windows.",
+  "git_url": "https://github.com/rosasynthesiz/flstudio-mcp",
+  "author_github": "rosasynthesiz",
+  "category": "media",
+  "tags": [
+    "aimusic",
+    "audio",
+    "claude",
+    "daw",
+    "flstudio"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
