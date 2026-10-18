@@ -91,6 +91,19 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [CodeMCP](https://freemcp.space/featured/codemcp) — Code intelligence for AI assistants - MCP server, CLI, and HTTP API with symbol navigation, impact analysis, and architecture mapping
+- [chap](https://freemcp.space/featured/chap) — CHAP, the Collaborative Human Agent Protocol, is a MCP/A2A-compatible runtime for auditable human-agent work: approvals, overrides, handoffs, escalation and verifiable evidence logs.
+- [awesome-ionic-mcp](https://freemcp.space/featured/awesome-ionic-mcp) — An Awesome MCP Server to help building mobile apps in React/Vue/Angular/VanillaJS using Capacitor and Ionic
+- [flowbite-mcp](https://freemcp.space/featured/flowbite-mcp) — Convert Figma design to code with the official Flowbite MCP server
+- [bugsnag-mcp](https://freemcp.space/featured/bugsnag-mcp) — A Model Context Protocol (MCP) server for interacting with Bugsnag. This server allows LLM tools like Cursor and Claude to investigate and resolve issues in Bugsnag.
+- [replicant-mcp](https://freemcp.space/featured/replicant-mcp) — Android MCP server - production-grade, token-optimized, accessibility-first
+- [vex](https://freemcp.space/featured/vex) — Fast hybrid code search built for AI agents
+- [tip-md-x402-mcp-server](https://freemcp.space/featured/tip-md-x402-mcp-serv) — 🏆 Hackathon: Transform any AI agent into a payment-enabled agent using x402 + CDP. MCP server for instant crypto tipping with automatic disbursement.
+- [wsc](https://freemcp.space/featured/wsc) — Prose linter + AI-slop detector: weasel words, passive voice, hedging, and 190+ research-cited AI tells. Web editor, API, MCP server, CLI, GitHub Action.
+- [testdino-mcp](https://freemcp.space/featured/testdino-mcp) — A MCP server that bridges TestDino with AI agents such as Cursor and Claude. Navigate test results, analyze failures, and manage test cases through conversational commands.
+- [Tokenectomy](https://freemcp.space/featured/tokenectomy) — Autonomous M2M MCP server that scrubs framework noise & redacts secrets from AI agent error logs before they hit your context window
+- [ReftrixMCP](https://freemcp.space/featured/reftrixmcp) — MCP server with 40 tools for web design analysis — layout extraction, motion detection, quality scoring, accessibility audit, Core Web Vitals, design comparison, and semantic search via Playwright, pgvector, ONNX Runtime, and Ollama.
+- [x402-mcp](https://freemcp.space/featured/x402-mcp) — MCP server bringing 100+ x402-paid APIs to AI agents. Auto-syncs from CDP Bazaar. Stablecoin micropayments via x402 protocol across multi-chain (Base, Solana, Polygon, BNB, EVM). Built for agentic commerce: developer utilities, validators, encoders, generators, M2M payments, autonomous workflows. Works with Claude, Cursor, and any MCP-aware client.
 - [sqlite-explorer-fastmcp-mcp-server](https://freemcp.space/featured/sqlite-explorer-fast) — An MCP server that provides safe, read-only access to SQLite databases through Model Context Protocol (MCP). This server is built with the FastMCP framework, which enables LLMs to explore and query SQLite databases with built-in safety features and query validation.
 - [mcp-gopls](https://freemcp.space/featured/mcp-gopls) — Model Context Protocol (MCP) server for Go using gopls – LSP-powered analysis, tests, coverage, and tooling.
 - [mcp-gsheets](https://freemcp.space/featured/mcp-gsheets) — MCP server for Google Sheets - Read, write and manipulate spreadsheets through Claude Desktop
@@ -178,19 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-server-github-gist](https://freemcp.space/featured/mcp-server-github-gi) — MCP server to create, read, update, list, and search GitHub Gists from your IDE
 - [mcp-server-npm-plus](https://freemcp.space/featured/mcp-server-npm-plus) — MCP server for npm - search, bundle sizes, vulnerabilities, download trends, dependency trees
 - [rhizome-mcp](https://freemcp.space/featured/rhizome-mcp) — Crash-safe task tracking for AI coding agents over MCP: expiring leases, resumable attempts, version-pinned reviews. One Go binary, one SQLite file per project.
-- [woodpecker-ci-mcp](https://freemcp.space/featured/woodpecker-ci-mcp) — MCP server for Woodpecker CI: read repositories, pipelines and logs, and drive builds, secrets and crons
-- [vscode-tailwindshades](https://freemcp.space/featured/vscode-tailwindshade) — Tailwind CSS palettes (50–950) from any color, for Tailwind v4, v3, v2 and v1. A VS Code extension, a CLI, and an MCP server for AI agents.
-- [dav-mcp](https://freemcp.space/featured/dav-mcp) — Transform AI agents into orchestrating assistants managing calendars, contacts, and tasks
-- [dotpals](https://freemcp.space/featured/dotpals) — See what your coding agent actually did. A desktop pal and notch for Claude Code, Codex, Cursor, Gemini CLI and any agent: test results read from the output, faked passes caught, Claude Code sent back to fix what it broke, and an MCP server any AI tool can ask.
-- [naja-scope](https://freemcp.space/featured/naja-scope) — MCP server for AI agents to explore SystemVerilog/Verilog netlists: trace connectivity, walk hierarchy, jump to source - without pasting RTL into context. Built on najaeda.
-- [n8n-mcp](https://freemcp.space/featured/n8n-mcp) — Debugging-first MCP server for n8n. Tools for workflow generation, linting, per-node execution diagnosis, and driving live n8n instances. Built for AI agents.
-- [gitingest-mcp](https://freemcp.space/featured/gitingest-mcp) — Convert any Git repository into a text digest of its codebase using gitingest.
-- [editorconfig_mcp](https://freemcp.space/featured/editorconfig-mcp) — Formats files using .editorconfig rules so AI-generated code follows project formatting standards.
-- [proton-safe-mcp](https://freemcp.space/featured/proton-safe-mcp) — Draft-only Proton Mail MCP server with attachment support and out-of-band human approval.
-- [cos-codex-bridge](https://freemcp.space/featured/cos-codex-bridge) — Local MCP for Chief of Staff agents to run Codex and Claude Code CLI project sessions with scoped access and durable receipts.
-- [android-mcp-server](https://freemcp.space/neiyaneusse357/android-mcp-server-2) — MCP server that lets AI assistants (Claude, OpenCode, VS Code) control Android devices securely via ADB
-- [n8n-workflow-tester-safe](https://freemcp.space/featured/n8n-workflow-tester) — Safe MCP server + CLI for testing, inspecting, and operating n8n workflows with a constrained scope
-- [stellify-mcp](https://freemcp.space/featured/stellify-mcp) — MCP server for Stellify - AI-native code generation platform
 <!-- freemcp:end -->
 
 ---
