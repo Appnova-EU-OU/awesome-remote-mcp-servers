@@ -1,0 +1,17 @@
+{
+  "name": "illugen-mcp",
+  "description": "MCP server for JangaFX IlluGen: let AI agents (Claude, Cursor...) build, edit and render IlluGen node graphs, invisibly.",
+  "git_url": "https://github.com/dokaNc/illugen-mcp",
+  "author_github": "dokaNc",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "gamedev",
+    "illugen",
+    "jangafx"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/dokaNc/illugen-mcp"
+}
