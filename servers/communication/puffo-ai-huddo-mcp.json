@@ -1,0 +1,17 @@
+{
+  "name": "huddo-mcp",
+  "description": "MCP server for Huddo: a group chat where people and AI agents talk in the same room",
+  "git_url": "https://github.com/puffo-ai/huddo-mcp",
+  "author_github": "puffo-ai",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "dshplugin",
+    "groupchat",
+    "huddo",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://huddo.ai"
+}
