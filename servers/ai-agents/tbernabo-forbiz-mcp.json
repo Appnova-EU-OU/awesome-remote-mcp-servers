@@ -1,0 +1,16 @@
+{
+  "name": "forbiz-mcp",
+  "description": "MCP server for Forbiz, the CRM for AI agents: commitments, expected signals, evidence and outcomes your agent can resume later.",
+  "git_url": "https://github.com/tbernabo/forbiz-mcp",
+  "author_github": "tbernabo",
+  "category": "ai-agents",
+  "tags": [
+    "forbiz",
+    "crm",
+    "agents",
+    "commitments",
+    "expected"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
