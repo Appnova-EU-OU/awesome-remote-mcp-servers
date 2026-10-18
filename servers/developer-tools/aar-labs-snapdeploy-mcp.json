@@ -1,0 +1,16 @@
+{
+  "name": "snapdeploy-mcp",
+  "description": "SnapDeploy MCP connector: deploy from Claude Code, Cursor, Codex and Gemini CLI",
+  "git_url": "https://github.com/AAR-Labs/snapdeploy-mcp",
+  "author_github": "AAR-Labs",
+  "category": "developer-tools",
+  "tags": [
+    "snapdeploy",
+    "connector",
+    "deploy",
+    "from",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
