@@ -1,0 +1,17 @@
+{
+  "name": "label-image-mcp",
+  "description": "MCP server and LangGraph agent for the Image Label annotation app (labels.sachin-kale.com)",
+  "git_url": "https://github.com/sachinbkale27/label-image-mcp",
+  "author_github": "sachinbkale27",
+  "category": "media",
+  "tags": [
+    "label",
+    "image",
+    "langgraph",
+    "agent",
+    "annotation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://labels.sachin-kale.com/mcp"
+}
