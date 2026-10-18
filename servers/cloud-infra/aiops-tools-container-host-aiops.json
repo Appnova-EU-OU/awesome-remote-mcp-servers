@@ -1,0 +1,16 @@
+{
+  "name": "Container-Host-AIops",
+  "description": "Governed AI-ops for Docker + Portainer container hosts — restart-loop/resource/bloat RCA, guarded writes, with audit/budget/undo (preview)",
+  "git_url": "https://github.com/AIops-tools/Container-Host-AIops",
+  "author_github": "AIops-tools",
+  "category": "cloud-infra",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "containers",
+    "docker",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
