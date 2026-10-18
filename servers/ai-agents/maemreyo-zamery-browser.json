@@ -1,0 +1,17 @@
+{
+  "name": "zamery-browser",
+  "description": "Typed browser control for AI agents through provider-neutral contracts and live Firefox integration.",
+  "git_url": "https://github.com/maemreyo/zamery-browser",
+  "author_github": "maemreyo",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "browserprovider",
+    "codex",
+    "firefox"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/org/zamery"
+}
