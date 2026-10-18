@@ -1,0 +1,17 @@
+{
+  "name": "ableton-mcp-server",
+  "description": "Local MCP server for Ableton Live: session inspection, MIDI editing, device control, audio analysis and groove tools via a Python Remote Script.",
+  "git_url": "https://github.com/ntworm/ableton-mcp-server",
+  "author_github": "ntworm",
+  "category": "media",
+  "tags": [
+    "ableton",
+    "abletonlive",
+    "audioanalysis",
+    "audioprogramming",
+    "dawautomation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ntworm.github.io/ableton-mcp-server/"
+}
