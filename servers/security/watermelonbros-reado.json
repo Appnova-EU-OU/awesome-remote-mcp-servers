@@ -1,0 +1,17 @@
+{
+  "name": "reado",
+  "description": "Inverted code review: a read-first IDE where you comment on the lines that matter and your coding agent (Claude Code, Codex, Cursor, Copilot) resolves them. Free and open source.",
+  "git_url": "https://github.com/WatermelonBros/reado",
+  "author_github": "WatermelonBros",
+  "category": "security",
+  "tags": [
+    "ai",
+    "aiagents",
+    "aicoding",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://reado.watermelon-studio.it"
+}
