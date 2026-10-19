@@ -91,6 +91,36 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [ableton-mcp-server](https://freemcp.space/featured/ableton-mcp-server) — Local MCP server for Ableton Live: session inspection, MIDI editing, device control, audio analysis and groove tools via a Python Remote Script.
+- [permark](https://freemcp.space/edelmar/permark) — 🔖 Read what your AI writes. Write what it reads. A free, open-source Markdown app for Windows, macOS and Linux: open any .md as a clean page, keep notes that save themselves, and follow, review and steer what your AI agents write.
+- [pylos-mcp](https://freemcp.space/featured/pylos-mcp) — Email MCP server for Gmail, Outlook and any IMAP mailbox, hardened against prompt injection
+- [dbprint](https://freemcp.space/featured/dbprint) — Portable, git-committed snapshot of a database's structure and column-level data distributions, consumable offline by humans, AI coding agents, and CI.
+- [Tower](https://freemcp.space/featured/tower) — Multiplayer for AI coding agents: collision detection before the edit, messaging, delegation. MCP server for Claude Code, Cursor, Codex.
+- [CDPM](https://freemcp.space/featured/cdpm) — MCP server that lets many Claude Code sessions and subagents share numbered, logged-in Chrome instances over CDP
+- [chrome-dev-mcp](https://freemcp.space/featured/chrome-dev-mcp) — An MCP server for Chrome runtime debugging
+- [huddo-mcp](https://freemcp.space/featured/huddo-mcp) — MCP server for Huddo: a group chat where people and AI agents talk in the same room
+- [sendraven-mcp-server](https://freemcp.space/featured/sendraven-mcp-server) — SendRaven is email infrastructure for AI agents. Send, read replies as threads, run campaigns and automations, with limits on the API key.
+- [remcp](https://freemcp.space/featured/remcp) — Remote MCP access to computers you explicitly pair — files, terminal, desktop UI, browser automation, diagnostics, and documents.
+- [backwork-mcp](https://freemcp.space/featured/backwork-mcp) — Official MCP server for the Backwork healthcare API
+- [illugen-mcp](https://freemcp.space/featured/illugen-mcp) — MCP server for JangaFX IlluGen: let AI agents (Claude, Cursor...) build, edit and render IlluGen node graphs, invisibly.
+- [inam-protocol](https://freemcp.space/featured/inam-protocol) — Verify before your agent pays: x402 payments only reach agents whose wallet and countersigned work history check out. Open receipts + reputation for AI agents.
+- [terse](https://freemcp.space/featured/terse) — Shrinks your AI agent's tool output so it burns fewer tokens, without changing what the agent reads. Lossless by default, no decode step.
+- [MySQL-AIops](https://freemcp.space/featured/mysql-aiops) — Governed AI-ops for MySQL/MariaDB DBA operations: slow-query RCA, InnoDB lock-wait & deadlock analys
+- [mcp-people-finder](https://freemcp.space/featured/mcp-people-finder) — MCP server for the Mamba Labs People Finder & Email Verifier actor on Apify
+- [amocrm-kommo-mcp](https://freemcp.space/featured/amocrm-kommo-mcp) — MCP server for amoCRM / Kommo CRM: leads, contacts, tasks, notes and sales analytics (pipeline report, stale deals, overdue tasks)
+- [honest-gmail-mcp](https://freemcp.space/featured/honest-gmail-mcp) — Local MCP server for Gmail — send/search/label with your data staying between your machine and Google
+- [Network-AIops](https://freemcp.space/featured/network-aiops) — Standalone governed multi-vendor network ops (NAPALM) — 13 MCP tools with audit/budget/undo/risk-tier harness
+- [MinIO-AIops](https://freemcp.space/featured/minio-aiops) — Governed AI-ops for MinIO object storage: capacity & usage RCA, bucket exposure audit, lifecycle/ILM
+- [snapdeploy-mcp](https://freemcp.space/featured/snapdeploy-mcp) — SnapDeploy MCP connector: deploy from Claude Code, Cursor, Codex and Gemini CLI
+- [Container-Host-AIops](https://freemcp.space/featured/container-host-aiops) — Governed AI-ops for Docker + Portainer container hosts — restart-loop/resource/bloat RCA, guarded writes, with audit/budget/undo (preview)
+- [Ceph-AIops](https://freemcp.space/featured/ceph-aiops) — Governed Ceph mgr Dashboard ops: HEALTH_WARN RCA, OSD/PG/pool/RBD/CephFS/RGW, 35 MCP tools (preview)
+- [agenteyes-mcp](https://freemcp.space/featured/agenteyes-mcp) — A Node.js MCP server (stdio transport) exposing agent tools backed by headless Chromium. One tool call returns screenshot PNG + accessibility tree + page text — the "eyes for agents" pitch.
+- [morfiade-mcp](https://freemcp.space/featured/morfiade-mcp) — MCP server for local Google Chrome profiles on Windows — 18 tools over Morfiade's local API
+- [zamery-browser](https://freemcp.space/featured/zamery-browser) — Typed browser control for AI agents through provider-neutral contracts and live Firefox integration.
+- [label-image-mcp](https://freemcp.space/featured/label-image-mcp) — MCP server and LangGraph agent for the Image Label annotation app (labels.sachin-kale.com)
+- [aesthete-agent](https://freemcp.space/featured/aesthete-agent) — Mechanically validated frontend aesthetics for AI agents: 89-palette evidence library, OKLCH generation, WCAG/APCA contrast, color-blind-safe data colors, AI-slop detection, theme packs, W3C design tokens. Skill + MCP server.
+- [janction-render](https://freemcp.space/featured/janction-render) — Cloud GPU rendering for Blender scenes and 3D models (GLB/FBX/USD/STL) for AI agents: MCP server, HTTP API, CLI. Product shots, turntables, animations from Claude, ChatGPT, Codex, Cursor. Free to start (100 JPY with no card, 400 JPY more after saving a card), then 0.1 JPY per GPU-second.
+- [forbiz-mcp](https://freemcp.space/featured/forbiz-mcp) — MCP server for Forbiz, the CRM for AI agents: commitments, expected signals, evidence and outcomes your agent can resume later.
 - [CodeMCP](https://freemcp.space/featured/codemcp) — Code intelligence for AI assistants - MCP server, CLI, and HTTP API with symbol navigation, impact analysis, and architecture mapping
 - [chap](https://freemcp.space/featured/chap) — CHAP, the Collaborative Human Agent Protocol, is a MCP/A2A-compatible runtime for auditable human-agent work: approvals, overrides, handoffs, escalation and verifiable evidence logs.
 - [awesome-ionic-mcp](https://freemcp.space/featured/awesome-ionic-mcp) — An Awesome MCP Server to help building mobile apps in React/Vue/Angular/VanillaJS using Capacitor and Ionic
@@ -161,36 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [qr-agent-core](https://freemcp.space/featured/qr-agent-core) — QR-as-a-Service API for AI agents — 34 MCP tools, 11 QR types, dynamic links, scan analytics, webhooks, custom domains. REST API + MCP server.
 - [appstore-release-mcp](https://freemcp.space/featured/appstore-release-mcp) — App Store release pilot MCP server — version bump, archive + TestFlight upload, metadata, review submission. The MCP server that actually ships your binary.
 - [pubship](https://freemcp.space/featured/pubship) — Open-source MCP server for Google Play developer workflows. Runs locally with your own credentials.
-- [unitree-go2-mcp-server](https://freemcp.space/featured/unitree-go2-mcp-serv) — The Unitree Go2 MCP Server is a server built on the MCP that enables users to control the Unitree Go2 robot using natural language commands interpreted by a LLM.
-- [airtable-mcp](https://freemcp.space/featured/airtable-mcp-2) — Airtable integration for AI-powered applications via Anthropic's Model Context Protocol (MCP)
-- [just-mcp](https://freemcp.space/featured/just-mcp) — mcp server for just
-- [pagecast](https://freemcp.space/featured/pagecast) — Record any browser page as GIF or video via MCP — powered by Playwright + ffmpeg
-- [mac-monitor-mcp](https://freemcp.space/featured/mac-monitor-mcp) — Identifies resource-intensive processes on macOS and suggests performance improvements.
-- [docket](https://freemcp.space/featured/docket) — Local-first, self-hostable coordination workspace for AI coding agents. Shared tasks, claims, sync and MCP integration.
-- [pipepie](https://freemcp.space/featured/pipepie) — Self-hosted encrypted tunnel for webhooks, AI pipelines, and local development. End-to-end Noise encryption, pipeline tracing, web dashboard, MCP server for AI tools.
-- [claude-critical-rules-mcp](https://freemcp.space/featured/claude-critical-rule-2) — MCP server for Claude AI providing automatic enforcement of critical rules - Prevents 96 documented failure patterns
-- [pmpt-cli](https://freemcp.space/featured/pmpt-cli) — Record and share your AI-driven product development journey
-- [devutils-mcp-server](https://freemcp.space/featured/devutils-mcp-server) — An open-source DevUtils MCP Server — a comprehensive developer utilities toolkit for the Docker MCP Catalog. It provides 36 tools across 8 categories that AI assistants can invoke directly.
-- [P-Link-MCP](https://freemcp.space/featured/p-link-mcp) — x402 client implementation (x402-fetch), HTTP 402 server implementation and Model Context Protocol (MCP) for P-Link.io : pay, send and receive money with agents
-- [pylon-mcp](https://freemcp.space/featured/pylon-mcp) — MCP server for Pylon AI — 10 pay-per-request APIs as AI agent tools. Powered by x402 on Base.
-- [pincushion-plugin](https://freemcp.space/featured/pincushion-plugin) — Cursor marketplace plugin for Pincushion — MCP server + slash commands
-- [promethic-mcp](https://freemcp.space/featured/promethic-mcp) — Hosted MCP docs and packaging for Promethic prompt library (Streamable HTTP at mcp.getpromethic.com/v1)
-- [asc-mcp](https://freemcp.space/featured/asc-mcp) — MCP server for App Store Connect — check review status, read reviews, download sales reports from Claude Code, Cursor, or any AI agent. Free tier included.
-- [gin-mcp](https://freemcp.space/featured/gin-mcp) — Enable MCP features for any Gin API with a line of code
-- [agent-droid-bridge](https://freemcp.space/featured/agent-droid-bridge) — Agent Droid Bridge gives AI agents programmatic control over Android devices and emulators via ADB, exposed as an MCP server.
-- [mcp-server-markdown](https://freemcp.space/featured/mcp-server-markdown) — MCP server for markdown — search, extract sections, list headings, find code blocks
-- [jitapi](https://freemcp.space/featured/jitapi) — Just-in-Time API Orchestration for LLMs - An MCP server for dynamic API discovery and execution
-- [mcp-server-scraper](https://freemcp.space/featured/mcp-server-scraper) — MCP server for web scraping — extract clean markdown, links, metadata from any URL
-- [mcp-server-github-actions](https://freemcp.space/featured/mcp-server-github-ac) — MCP server for GitHub Actions — view runs, read logs, re-run jobs, trigger workflows
-- [mcp-server-devutils](https://freemcp.space/featured/mcp-server-devutils) — Zero-auth MCP server with everyday developer utilities: base64, UUID, hash, JWT decode, cron, timestamps, JSON, regex
-- [spring-boot-starter-swagger-mcp](https://freemcp.space/featured/spring-boot-starter) — Turn SpringDoc OpenAPI into production-ready MCP tools for Spring Boot: discovery, validation, workflows, and guardrails.
-- [mcp-server-docker](https://freemcp.space/featured/mcp-server-docker) — MCP server for Docker — manage containers, images, volumes from your IDE
-- [mcp-server-dns](https://freemcp.space/featured/mcp-server-dns) — MCP server for DNS — lookups, reverse DNS, WHOIS, zero auth
-- [hird](https://freemcp.space/featured/hird) — A typed language for LLM agent systems on BEAM: effect-row tracking, auditable tool effects, typed actors, and OTP supervision, queryable by agents over MCP.
-- [mcp-toolkit](https://freemcp.space/featured/mcp-toolkit) — 59 MCP servers for React + TypeScript automation — component scaffolding, CRUD feature factory, WCAG checks, test gen, TS enforcement, render/perf analysis, CRA→Vite migration, legacy analysis. npx-installable.
-- [mcp-server-github-gist](https://freemcp.space/featured/mcp-server-github-gi) — MCP server to create, read, update, list, and search GitHub Gists from your IDE
-- [mcp-server-npm-plus](https://freemcp.space/featured/mcp-server-npm-plus) — MCP server for npm - search, bundle sizes, vulnerabilities, download trends, dependency trees
-- [rhizome-mcp](https://freemcp.space/featured/rhizome-mcp) — Crash-safe task tracking for AI coding agents over MCP: expiring leases, resumable attempts, version-pinned reviews. One Go binary, one SQLite file per project.
 <!-- freemcp:end -->
 
 ---
