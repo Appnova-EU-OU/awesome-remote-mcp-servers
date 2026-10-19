@@ -1,0 +1,17 @@
+{
+  "name": "codetopo",
+  "description": "See your codebase the way an agent sees it. Rust code-graph engine: index any repo, query descendants, blast radius, paths. CLI, HTTP API, and MCP server.",
+  "git_url": "https://github.com/nrupala/codetopo",
+  "author_github": "nrupala",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "codegraph",
+    "codevisualization",
+    "developertools",
+    "geminicliextension"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://codetopo.aimlds.org"
+}
