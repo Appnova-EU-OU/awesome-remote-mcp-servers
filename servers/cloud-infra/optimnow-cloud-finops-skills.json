@@ -1,0 +1,17 @@
+{
+  "name": "cloud-finops-skills",
+  "description": "Cloud FinOps Skill & MCP by OptimNow. FinOps Foundation aligned knowledge for AI agents: cloud cost (AWS/Azure/GCP/OCI), AI inference economics, Kubernetes, data platforms, allocation, chargeback, anomaly management, waste detection, GreenOps. Installs into 12 AI tools, or connect the hosted MCP server by URL. Refreshed weekly.",
+  "git_url": "https://github.com/OptimNow/cloud-finops-skills",
+  "author_github": "OptimNow",
+  "category": "cloud-infra",
+  "tags": [
+    "agentskills",
+    "aicostmanagement",
+    "aws",
+    "azure",
+    "chargeback"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "status": "active",
+  "homepage": "https://www.optimnow.io"
+}
