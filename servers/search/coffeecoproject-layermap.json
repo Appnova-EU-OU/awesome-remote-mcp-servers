@@ -1,0 +1,17 @@
+{
+  "name": "layermap",
+  "description": "LayerMap MCP: a layered map of your codebase for coding agents: callers, callees and the impact of a change, for TypeScript, JavaScript, Go, Python and Java. MCP server, CLI, and plugins for Claude Code and Codex.",
+  "git_url": "https://github.com/coffeecoproject/layermap",
+  "author_github": "coffeecoproject",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "callgraph",
+    "claudecode",
+    "claudecodeplugin",
+    "codegraph"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/layermap"
+}
