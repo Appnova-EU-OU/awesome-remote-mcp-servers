@@ -1,0 +1,17 @@
+{
+  "name": "ictfax-mcp",
+  "description": "MCP server for ICTFax — list and track faxes, upload documents and send faxes over ICTCore REST. By ICT Innovations.",
+  "git_url": "https://github.com/ictinnovations/ictfax-mcp",
+  "author_github": "ictinnovations",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "claude",
+    "fax",
+    "faxserver",
+    "ictcore"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.ictfax.org"
+}
