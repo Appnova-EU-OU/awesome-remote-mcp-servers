@@ -1,0 +1,17 @@
+{
+  "name": "repoguard",
+  "description": "The Architecture Guardian for AI-assisted code. Generate strict .cursorrules and audit PRs.",
+  "git_url": "https://github.com/taylormatematica-beep/repoguard",
+  "author_github": "taylormatematica-beep",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "architecture",
+    "claudecode",
+    "cleanarchitecture",
+    "codequality"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://taylormatematica-beep.github.io/repoguard/"
+}
