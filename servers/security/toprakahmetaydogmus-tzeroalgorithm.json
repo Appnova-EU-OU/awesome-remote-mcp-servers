@@ -1,0 +1,17 @@
+{
+  "name": "TZeroAlgorithm",
+  "description": "AST Codebase Context Engine & 21-Tool MCP Server for AI Coding Agents — Up to 95% Token Reduction & Zero-Leak Security Architecture",
+  "git_url": "https://github.com/toprakahmetaydogmus/TZeroAlgorithm",
+  "author_github": "toprakahmetaydogmus",
+  "category": "security",
+  "tags": [
+    "antigravity",
+    "ast",
+    "claude",
+    "codebaseindexing",
+    "contextwindow"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tzero-indol.vercel.app"
+}
