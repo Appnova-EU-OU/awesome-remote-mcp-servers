@@ -1,0 +1,17 @@
+{
+  "name": "schemagate",
+  "description": "Text-to-SQL access control: schema selection that gives the LLM only the tables the caller is allowed to read. Row-level-security-aware table pruning for LangChain, MCP and any SQL agent. Postgres, Oracle, MySQL, SQL Server. 75% fewer prompt tokens.",
+  "git_url": "https://github.com/ashishsinha1602/schemagate",
+  "author_github": "ashishsinha1602",
+  "category": "databases",
+  "tags": [
+    "accesscontrol",
+    "aiagents",
+    "dataengineering",
+    "database",
+    "langchain"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://ashishsinha1602.github.io/schemagate/"
+}
