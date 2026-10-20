@@ -1,0 +1,12 @@
+{
+  "name": "lldb-mcp",
+  "description": "LLDB MCP server",
+  "git_url": "https://github.com/stass/lldb-mcp",
+  "author_github": "stass",
+  "category": "databases",
+  "tags": [
+    "lldb"
+  ],
+  "license": "BSD-2-Clause",
+  "status": "active"
+}
