@@ -1,0 +1,17 @@
+{
+  "name": "verifyax-mcp",
+  "description": "MCP server and typed SDK for the VerifyAX agent-evaluation platform.",
+  "git_url": "https://github.com/verifyax/verifyax-mcp",
+  "author_github": "verifyax",
+  "category": "ai-agents",
+  "tags": [
+    "agentevaluation",
+    "agenttesting",
+    "aiagents",
+    "aievaluation",
+    "anthropic"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://verifyax.com"
+}
