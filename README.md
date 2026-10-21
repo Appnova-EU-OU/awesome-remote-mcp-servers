@@ -91,6 +91,18 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [sourcerer-mcp](https://freemcp.space/featured/sourcerer-mcp) — MCP for semantic code search & navigation that reduces token waste
+- [ai-toolkit](https://freemcp.space/featured/ai-toolkit) — Toolkit for building AI-driven graph apps on Memgraph, with LangChain, MCP, and agent implementations. 
+- [lldb-mcp](https://freemcp.space/featured/lldb-mcp) — LLDB MCP server
+- [jetbrains-debugger-mcp-plugin](https://freemcp.space/featured/jetbrains-debugger-m) — JetBrains IDE plugin giving coding agents programmatic control of the debugger.
+- [schemagate](https://freemcp.space/featured/schemagate) — Text-to-SQL access control: schema selection that gives the LLM only the tables the caller is allowed to read. Row-level-security-aware table pruning for LangChain, MCP and any SQL agent. Postgres, Oracle, MySQL, SQL Server. 75% fewer prompt tokens.
+- [memcord](https://freemcp.space/featured/memcord) — 🧠 Self-hosted, privacy-first MCP server for long-term AI memory — save, search & summarize Claude/ChatGPT chat history locally. No cloud, no database.
+- [mcp-adr-analysis-server](https://freemcp.space/featured/mcp-adr-analysis-ser) — Your ADRs are lying to you. MCP server with live drift detection, content safety, and decision memory — validates architectural decisions against your actual code.
+- [DotNetMetadataMcpServer](https://freemcp.space/featured/dotnetmetadatamcpser) — A Model Context Protocol (MCP) server that provides detailed type information from .NET projects for AI coding agents.
+- [TZeroAlgorithm](https://freemcp.space/featured/tzeroalgorithm) — AST Codebase Context Engine & 21-Tool MCP Server for AI Coding Agents — Up to 95% Token Reduction & Zero-Leak Security Architecture
+- [pantheon-mcp](https://freemcp.space/featured/pantheon-mcp) — A collection of AI agents
+- [repoguard](https://freemcp.space/featured/repoguard) — The Architecture Guardian for AI-assisted code. Generate strict .cursorrules and audit PRs.
+- [signalint](https://freemcp.space/featured/signalint) — MCP server for compact, cached, loop-aware JavaScript and TypeScript diagnostics
 - [cloud-finops-skills](https://freemcp.space/featured/cloud-finops-skills) — Cloud FinOps Skill & MCP by OptimNow. FinOps Foundation aligned knowledge for AI agents: cloud cost (AWS/Azure/GCP/OCI), AI inference economics, Kubernetes, data platforms, allocation, chargeback, anomaly management, waste detection, GreenOps. Installs into 12 AI tools, or connect the hosted MCP server by URL. Refreshed weekly.
 - [reado](https://freemcp.space/featured/reado) — Inverted code review: a read-first IDE where you comment on the lines that matter and your coding agent (Claude Code, Codex, Cursor, Copilot) resolves them. Free and open source.
 - [repopilot](https://freemcp.space/mykyta-stelmashen/repopilot) — Local, deterministic review of Git changes: weakened tests and CI gates, security boundaries, blast radius. CLI, GitHub Action, MCP server, and coding-agent plugins.
@@ -179,18 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-openapi](https://freemcp.space/featured/mcp-openapi) — OpenAPI specification MCP server.
 - [memi](https://freemcp.space/featured/memi) — The design layer for agentic AI — design context, interface checks, and verification for coding agents.
 - [Rootly-MCP-server](https://freemcp.space/featured/rootly-mcp-server) — Rootly MCP server
-- [selvage](https://freemcp.space/featured/selvage) — LLM-based code review with AST-based context extraction, supporting Claude, GPT, Gemini and other models via OpenRouter.
-- [github-repo-mcp](https://freemcp.space/featured/github-repo-mcp) — Model Context Protocol server for Github Repo // Reading Github Repo
-- [janee](https://freemcp.space/featured/janee) — Secrets management for AI agents via MCP • @janeesecure
-- [mcp-broker](https://freemcp.space/featured/mcp-broker) — Local MCP broker that exposes one compact MCP entry for MCP clients while routing to many configured upstream servers.
-- [reelier](https://freemcp.space/featured/reelier) — Agents make claims. Reelier writes receipts — record an agent's tool-call workflow once, replay it deterministically at 0 tokens, and diff runs to catch drift.
-- [mcp-server-boilerplate](https://freemcp.space/featured/mcp-server-boilerpla) — Production-ready MCP server templates in TypeScript and Python. Quickstart boilerplate for building Model Context Protocol servers.
-- [mcp-code-sanitizer](https://freemcp.space/featured/mcp-code-sanitizer) — Strict AI code reviewer MCP server powered by Groq
-- [retrieval-lens](https://freemcp.space/featured/retrieval-lens) — MCP server that audits RAG retrieval - logs what chunks the model saw before any answer was generated
-- [repo-test-architect](https://freemcp.space/featured/repo-test-architect) — Evidence-first test strategy tooling for real codebases.
-- [mcp-server-circleci](https://freemcp.space/featured/mcp-server-circleci) — [DEPRECATED] This package is no longer maintained. Migrate to CircleCI's hosted MCP server or the CircleCI CLI MCP. See https://circleci.com/docs/guides/toolkit/circleci-mcp-overview/
-- [PhpCodeArcheology](https://freemcp.space/featured/phpcodearcheology) — PHP static analysis for architecture & maintainability — 60+ metrics, complexity analysis, dependency graphs, git churn hotspots, and AI-ready MCP server. Alternative to PHPMetrics.
-- [mindpilot-mcp](https://freemcp.space/featured/mindpilot-mcp) — See through your agent's eyes. Visualize legacy code, architect new systems, understand everything.
 <!-- freemcp:end -->
 
 ---
