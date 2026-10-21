@@ -1,0 +1,16 @@
+{
+  "name": "queue-inspector-mcp",
+  "description": "MCP server for inspecting and operating Redis-backed job queues (Asynq, BullMQ): per-state counts, job detail, retries, dead letters.",
+  "git_url": "https://github.com/Yusufihsangorgel/queue-inspector-mcp",
+  "author_github": "Yusufihsangorgel",
+  "category": "databases",
+  "tags": [
+    "asynq",
+    "bullmq",
+    "golang",
+    "jobqueue",
+    "jobs"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
