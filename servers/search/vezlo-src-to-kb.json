@@ -1,0 +1,16 @@
+{
+  "name": "src-to-kb",
+  "description": "Convert source code to LLM ready knowledge base",
+  "git_url": "https://github.com/vezlo/src-to-kb",
+  "author_github": "vezlo",
+  "category": "search",
+  "tags": [
+    "clitool",
+    "codeanalysis",
+    "codeindexing",
+    "codesearch",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
