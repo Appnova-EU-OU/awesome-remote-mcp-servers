@@ -1,0 +1,16 @@
+{
+  "name": "llm-token-tracker",
+  "description": "Token usage tracker for OpenAI and Claude APIs with MCP support. Pass accurate API costs to your users.",
+  "git_url": "https://github.com/wn01011/llm-token-tracker",
+  "author_github": "wn01011",
+  "category": "security",
+  "tags": [
+    "llm",
+    "token",
+    "tracker",
+    "usage",
+    "openai"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
