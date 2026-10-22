@@ -1,0 +1,15 @@
+{
+  "name": "piston-mcp",
+  "description": "MCP server that allows LLMs to connect to and execute code using Piston",
+  "git_url": "https://github.com/alvii147/piston-mcp",
+  "author_github": "alvii147",
+  "category": "ai-agents",
+  "tags": [
+    "llm",
+    "mcp",
+    "pistonapi",
+    "uv"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
