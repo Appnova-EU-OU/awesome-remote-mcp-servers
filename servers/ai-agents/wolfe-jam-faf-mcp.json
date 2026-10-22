@@ -1,0 +1,17 @@
+{
+  "name": "faf-mcp",
+  "description": "Persistent Project Context for Cursor, IDEs and VS Code — IANA-registered .faf format · 29 tools",
+  "git_url": "https://github.com/Wolfe-Jam/faf-mcp",
+  "author_github": "Wolfe-Jam",
+  "category": "ai-agents",
+  "tags": [
+    "agentsmd",
+    "ai",
+    "aicontext",
+    "claude",
+    "cline"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://faf.one"
+}
