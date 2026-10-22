@@ -1,0 +1,14 @@
+{
+  "name": "jsr-mcp",
+  "description": "Model Context Protocol server for the JSR (JavaScript Registry)",
+  "git_url": "https://github.com/wyattjoh/jsr-mcp",
+  "author_github": "wyattjoh",
+  "category": "developer-tools",
+  "tags": [
+    "jsr",
+    "javascript",
+    "registry"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
