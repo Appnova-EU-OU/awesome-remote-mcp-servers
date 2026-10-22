@@ -1,0 +1,16 @@
+{
+  "name": "omega-brain-mcp",
+  "description": "Standalone MCP server — cross-session memory, 10-gate VERITAS build pipeline, cryptographic audit ledger, Cortex approval gate. Two files, one dependency.",
+  "git_url": "https://github.com/VrtxOmega/omega-brain-mcp",
+  "author_github": "VrtxOmega",
+  "category": "security",
+  "tags": [
+    "ai",
+    "artificialintelligence",
+    "episodicmemory",
+    "genai",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
