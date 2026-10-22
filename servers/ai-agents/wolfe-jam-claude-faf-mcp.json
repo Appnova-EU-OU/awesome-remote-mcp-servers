@@ -1,0 +1,17 @@
+{
+  "name": "claude-faf-mcp",
+  "description": "Persistent Project Context for Claude — IANA-registered .faf format · Core 14 MCP tools (30 with FAF_TOOLS=all) + 2 prompts · MCP Registry #2759",
+  "git_url": "https://github.com/Wolfe-Jam/claude-faf-mcp",
+  "author_github": "Wolfe-Jam",
+  "category": "ai-agents",
+  "tags": [
+    "agentsmd",
+    "ai",
+    "aicontext",
+    "aireadiness",
+    "anthropic"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://faf.one"
+}
