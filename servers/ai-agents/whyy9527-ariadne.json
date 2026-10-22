@@ -1,0 +1,17 @@
+{
+  "name": "ariadne",
+  "description": "Fast local MCP server for deterministic cross-service API-chain discovery across REST, GraphQL, Kafka, TypeScript, and FastAPI.",
+  "git_url": "https://github.com/whyy9527/ariadne",
+  "author_github": "whyy9527",
+  "category": "ai-agents",
+  "tags": [
+    "apollographql",
+    "callgraph",
+    "claudecode",
+    "codeintelligence",
+    "codenavigation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/ariadne-mcp/"
+}
