@@ -1,0 +1,16 @@
+{
+  "name": "mcp-gateway-scan",
+  "description": "Read-only static scanner that scores MCP and agent-gateway repos on RBAC, fail-closed behavior, supply chain, observability, cost and secrets handling.",
+  "git_url": "https://github.com/willianpinho/mcp-gateway-scan",
+  "author_github": "willianpinho",
+  "category": "security",
+  "tags": [
+    "gateway",
+    "scan",
+    "read",
+    "only",
+    "static"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
