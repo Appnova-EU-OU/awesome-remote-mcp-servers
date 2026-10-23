@@ -1,0 +1,17 @@
+{
+  "name": "memcord",
+  "description": "🧠 Self-hosted, privacy-first MCP server for long-term AI memory — save, search & summarize Claude/ChatGPT chat history locally. No cloud, no database.",
+  "git_url": "https://github.com/ukkit/memcord",
+  "author_github": "ukkit",
+  "category": "databases",
+  "tags": [
+    "aiassistant",
+    "aimemory",
+    "antigravity",
+    "chathistory",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/ukkit/memcord/releases"
+}
