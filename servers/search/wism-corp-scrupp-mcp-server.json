@@ -1,0 +1,16 @@
+{
+  "name": "scrupp-mcp-server",
+  "description": "MCP server for Scrupp — export LinkedIn, Sales Navigator and Apollo searches, find decision makers, find and verify work emails",
+  "git_url": "https://github.com/Wism-Corp/scrupp-mcp-server",
+  "author_github": "Wism-Corp",
+  "category": "search",
+  "tags": [
+    "scrupp",
+    "export",
+    "linkedin",
+    "sales",
+    "navigator"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
