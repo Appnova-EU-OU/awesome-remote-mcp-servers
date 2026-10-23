@@ -1,0 +1,17 @@
+{
+  "name": "AgentKit",
+  "description": "Governed MCP server and agent runtime: signed action approvals, typed tool effects and audit logs for Claude Desktop, Cursor and custom agents.",
+  "git_url": "https://github.com/Yacine-ai-tech/AgentKit",
+  "author_github": "Yacine-ai-tech",
+  "category": "ai-agents",
+  "tags": [
+    "agentgovernance",
+    "agents",
+    "aiagents",
+    "anthropic",
+    "claudedesktop"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://agentkit.ysiddo-ai-projects.app"
+}
