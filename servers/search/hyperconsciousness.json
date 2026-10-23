@@ -1,0 +1,16 @@
+{
+  "name": "Hyperconsciousness",
+  "description": "Developer-alpha Rust knowledge store with encrypted, append-only records and MCP access through scoped, expiring grants. Supports knowledge search and retrieval.",
+  "git_url": "https://github.com/louis030195/hyperconsciousness",
+  "author_github": "louis030195",
+  "category": "search",
+  "tags": [
+    "memory",
+    "knowledge",
+    "rust",
+    "encrypted",
+    "local-first"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
