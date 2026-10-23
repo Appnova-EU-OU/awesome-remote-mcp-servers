@@ -1,0 +1,17 @@
+{
+  "name": "AgentNexus",
+  "description": "Continuously verified registry of the APIs, MCP servers and CLIs that AI agents call — live health checks, reliability history, and an anonymous MCP endpoint agents can connect to without a consent screen.",
+  "git_url": "https://github.com/Strategiumfinancepartner/AgentNexus",
+  "author_github": "Strategiumfinancepartner",
+  "category": "security",
+  "tags": [
+    "agentinfrastructure",
+    "agenticai",
+    "aiagents",
+    "apiregistry",
+    "crewai"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agentnexus.app"
+}
