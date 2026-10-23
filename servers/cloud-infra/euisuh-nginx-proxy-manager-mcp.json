@@ -1,0 +1,16 @@
+{
+  "name": "nginx-proxy-manager-mcp",
+  "description": "MCP server for Nginx Proxy Manager: automate proxy hosts, Let's Encrypt certificates, and access lists from Claude or any MCP client.",
+  "git_url": "https://github.com/euisuh/nginx-proxy-manager-mcp",
+  "author_github": "euisuh",
+  "category": "cloud-infra",
+  "tags": [
+    "automation",
+    "claude",
+    "docker",
+    "homeserver",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
