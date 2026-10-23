@@ -1,0 +1,17 @@
+{
+  "name": "Octocrawl",
+  "description": "Octocrawl: readable Markdown and checked fields from public web pages, for AI agents, RAG and research. Failures come back with a reason. Self-host with REST, SDK or MCP.",
+  "git_url": "https://github.com/77777R7/Octocrawl",
+  "author_github": "77777R7",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "crawler",
+    "dataextraction",
+    "firecrawlalternative",
+    "htmltomarkdown"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://octocrawl.dev"
+}
