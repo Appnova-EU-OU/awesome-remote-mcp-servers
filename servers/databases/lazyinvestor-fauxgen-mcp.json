@@ -1,0 +1,17 @@
+{
+  "name": "fauxgen-mcp",
+  "description": "FauxGen MCP — fake identities, addresses & test data for Cursor, Claude and any MCP host",
+  "git_url": "https://github.com/LazyInvestor/fauxgen-mcp",
+  "author_github": "LazyInvestor",
+  "category": "databases",
+  "tags": [
+    "claude",
+    "cursor",
+    "fakedata",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://fauxgen.com/mcp"
+}
