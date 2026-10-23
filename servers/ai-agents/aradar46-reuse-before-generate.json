@@ -1,0 +1,17 @@
+{
+  "name": "reuse-before-generate",
+  "description": "Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold.",
+  "git_url": "https://github.com/aradar46/reuse-before-generate",
+  "author_github": "aradar46",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "claudecode",
+    "codereuse",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/aradar46/reuse-before-generate"
+}
