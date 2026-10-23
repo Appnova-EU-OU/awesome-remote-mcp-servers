@@ -91,6 +91,16 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp_server_ros_2](https://freemcp.space/featured/mcp-server-ros-2) — ROS2 MCP: the MCP server that lets AI agents see, understand and operate ROS 2 robots. MPL-2.0.
+- [claude-faf-mcp](https://freemcp.space/featured/claude-faf-mcp) — Persistent Project Context for Claude — IANA-registered .faf format · Core 14 MCP tools (30 with FAF_TOOLS=all) + 2 prompts · MCP Registry #2759
+- [faf-mcp](https://freemcp.space/featured/faf-mcp) — Persistent Project Context for Cursor, IDEs and VS Code — IANA-registered .faf format · 29 tools
+- [llm-token-tracker](https://freemcp.space/featured/llm-token-tracker) — Token usage tracker for OpenAI and Claude APIs with MCP support. Pass accurate API costs to your users.
+- [omega-brain-mcp](https://freemcp.space/featured/omega-brain-mcp) — Standalone MCP server — cross-session memory, 10-gate VERITAS build pipeline, cryptographic audit ledger, Cortex approval gate. Two files, one dependency.
+- [jsr-mcp](https://freemcp.space/featured/jsr-mcp) — Model Context Protocol server for the JSR (JavaScript Registry)
+- [ariadne](https://freemcp.space/featured/ariadne) — Fast local MCP server for deterministic cross-service API-chain discovery across REST, GraphQL, Kafka, TypeScript, and FastAPI.
+- [hocr_mcp_server](https://freemcp.space/featured/hocr-mcp-server) — Extract handwritten math formulas from uploaded images as LaTeX using a vision-language model, with a Vue frontend.
+- [mcp-gateway-scan](https://freemcp.space/featured/mcp-gateway-scan) — Read-only static scanner that scores MCP and agent-gateway repos on RBAC, fail-closed behavior, supply chain, observability, cost and secrets handling.
+- [clearjson](https://freemcp.space/featured/clearjson) — Large-file-safe JSON MCP server. Format, validate, search, JSONPath query, deep diff, and format conversion (CSV/TSV/YAML/TypeScript). 10 tools, zero dependencies.
 - [humanizer-ru](https://freemcp.space/featured/humanizer-ru) — Правит русский текст после нейросети и сверяет цифры, даты и имена. Навык для Claude Code, Codex, Cursor и Claude.ai
 - [augments-mcp-server](https://freemcp.space/featured/augments-mcp-server-2) — Comprehensive MCP server providing real-time framework documentation access for Claude Code with intelligent caching, multi-source integration, and context-aware assistance.
 - [mcp-trino](https://freemcp.space/featured/mcp-trino) — A high-performance Model Context Protocol (MCP) server for Trino implemented in Go.
@@ -181,16 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [devpulse-mcp](https://freemcp.space/featured/devpulse-mcp) — Zero-config MCP server that gives AI coding assistants a real-time diagnostic snapshot of your dev environment
 - [tactual](https://freemcp.space/featured/tactual) — Screen-reader navigation cost analyzer — models the real effort to discover, reach, and operate interactive web content
 - [dvera-plugin](https://freemcp.space/featured/dvera-plugin) — DVERA agent skills for CT C/C++ verification workflows: project setup, analysis, test generation, coverage, reporting, and regression.
-- [specshield-mcp-server](https://freemcp.space/featured/specshield-mcp-serve) — The API-change deploy gate for AI coding agents (MCP server): is it safe to ship this API change to my consumers? Read-only, over OpenAPI/Pact.
-- [mcp-victorialogs](https://freemcp.space/featured/mcp-victorialogs) — The implementation of Model Context Protocol (MCP) server for VictoriaLogs.
-- [sequa-mcp](https://freemcp.space/featured/sequa-mcp) — Gives AI coding tools context from your entire codebase and docs via Sequa.
-- [shipstores](https://freemcp.space/featured/shipstores) — Ship iOS and Android apps from your AI agent. MCP server for App Store Connect, Google Play Console and Expo EAS.
-- [heap-seance](https://freemcp.space/featured/heap-seance) — MCP server that channels JVM forensics into structured leak verdicts — for Claude Code.
-- [wsapi-mcp](https://freemcp.space/featured/wsapi-mcp) — WSAPI MCP Server
-- [Proxmox-AIops](https://freemcp.space/featured/proxmox-aiops) — Standalone governed Proxmox VE ops — 23 MCP tools with built-in audit/budget/undo/risk-tier harness
-- [askone](https://freemcp.space/phuryn/askone) — MCP server for AskOne live audience Q&A and polls with free AI moderation: let your agent start rooms, launch polls, moderate and answer questions, and draft a FAQ. Hosted or npx askone-mcp. Also AskOne's issue tracker.
-- [elekto-mcp-sql](https://freemcp.space/featured/elekto-mcp-sql) — MCP Server (read-only) for SQL Server schema introspection and data sampling
-- [Queue-AIops](https://freemcp.space/featured/queue-aiops) — Governed AI-ops for redis + rabbitmq: memory-pressure/latency/queue-backlog/connection-churn RCAs, s
 <!-- freemcp:end -->
 
 ---
