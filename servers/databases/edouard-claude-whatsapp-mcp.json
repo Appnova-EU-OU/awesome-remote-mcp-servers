@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-mcp",
+  "description": "Full-featured WhatsApp MCP server: Rust MCP server + Go whatsmeow bridge. 39 tools, resources, prompts, live notifications, multi-account, full-text search, raw media for your agent.",
+  "git_url": "https://github.com/edouard-claude/whatsapp-mcp",
+  "author_github": "edouard-claude",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claude",
+    "golang",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/edouard-claude/whatsapp-mcp"
+}
