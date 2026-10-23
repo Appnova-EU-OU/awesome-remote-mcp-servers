@@ -1,0 +1,16 @@
+{
+  "name": "lagaam",
+  "description": "MCP server that stops an AI agent's Trino or Pinot query before it stalls your shared cluster: priced from the engine's own plan, refused with a fix the agent can act on",
+  "git_url": "https://github.com/lagaam-ai/lagaam",
+  "author_github": "lagaam-ai",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "apachepinot",
+    "dataengineering",
+    "lakehouse",
+    "llm"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
