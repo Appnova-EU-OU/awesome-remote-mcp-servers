@@ -1,0 +1,17 @@
+{
+  "name": "mcpolyglot",
+  "description": "One MCP server for the databases and REST APIs you already have (Postgres, MySQL, SQLite, MongoDB, OpenAPI), with per-table policy, read-only enforcement, redaction and audit.",
+  "git_url": "https://github.com/ishay60/mcpolyglot",
+  "author_github": "ishay60",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "claude",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/ishay60/mcpolyglot#readme"
+}
