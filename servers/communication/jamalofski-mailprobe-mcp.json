@@ -1,0 +1,17 @@
+{
+  "name": "mailprobe-mcp",
+  "description": "Official Claude Code plugin and agent skill for the MailProbe MCP server: an AI assistant verifies email addresses in real time (deliverability, disposable and role-based detection). Hosted in France.",
+  "git_url": "https://github.com/jamalofski/mailprobe-mcp",
+  "author_github": "jamalofski",
+  "category": "communication",
+  "tags": [
+    "agentskills",
+    "claudecodeplugin",
+    "claudeskills",
+    "emailvalidation",
+    "emailverification"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mailprobe.dev/api-docs/#mcp"
+}
