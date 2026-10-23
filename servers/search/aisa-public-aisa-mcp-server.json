@@ -1,0 +1,16 @@
+{
+  "name": "AIsa-mcp-server",
+  "description": "One MCP server in front of 950+ data APIs — SEO and AI visibility, finance, social, web search, sales and agent mail. `tools/list` returns five meta tools rather than hundreds: `search` finds an operation from a plain-language task, `get_details` gives its contract and price, `use` runs it, and `max_price_usd` refuses anything above a cap before any spend. OAuth, nothing to paste. Install: `npx -y @aisa-one/mcp`, or point a remote client straight at `https://mcp.aisa.one/mcp`.",
+  "git_url": "https://github.com/AIsa-public/AIsa-mcp-server",
+  "author_github": "AIsa-public",
+  "category": "search",
+  "tags": [
+    "aisa",
+    "one",
+    "front",
+    "data",
+    "apis"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
