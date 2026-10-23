@@ -1,0 +1,17 @@
+{
+  "name": "ritoko",
+  "description": "Resumable browser, HTTP API and MCP automation for AI agents. Replay CSV/Excel batches, verify results and hold uncertain writes for review.",
+  "git_url": "https://github.com/Swih/ritoko",
+  "author_github": "Swih",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "batchprocessing",
+    "browserautomation",
+    "claudecode",
+    "claudecodeplugin"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ritoko.com"
+}
