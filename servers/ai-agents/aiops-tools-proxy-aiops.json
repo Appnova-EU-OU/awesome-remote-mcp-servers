@@ -1,0 +1,16 @@
+{
+  "name": "Proxy-AIops",
+  "description": "Governed AI-ops for Traefik + Caddy + HAProxy reverse proxies / load balancers: routes, services, up",
+  "git_url": "https://github.com/AIops-tools/Proxy-AIops",
+  "author_github": "AIops-tools",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "caddy",
+    "haproxy",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
