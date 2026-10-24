@@ -1,0 +1,17 @@
+{
+  "name": "impreza-mcp",
+  "description": "MCP server for Impreza Host: deploy custom apps to managed VPSes from your AI editor.",
+  "git_url": "https://github.com/imprezahost/impreza-mcp",
+  "author_github": "imprezahost",
+  "category": "cloud-infra",
+  "tags": [
+    "claude",
+    "cloud",
+    "crypto",
+    "deploy",
+    "hosting"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/imprezahost/impreza-mcp"
+}
