@@ -1,0 +1,16 @@
+{
+  "name": "biolit-mcp",
+  "description": "Citation-grounded biomedical literature review over PubMed, Europe PMC, NCBI Gene and UniProt, with a citation-accuracy benchmark.",
+  "git_url": "https://github.com/sanikacentric/biolit-mcp",
+  "author_github": "sanikacentric",
+  "category": "developer-tools",
+  "tags": [
+    "biolit",
+    "citation",
+    "grounded",
+    "biomedical",
+    "literature"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
