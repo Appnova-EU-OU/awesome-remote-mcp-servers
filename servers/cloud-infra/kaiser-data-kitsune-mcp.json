@@ -1,0 +1,16 @@
+{
+  "name": "kitsune-mcp",
+  "description": "Hot-reload for MCP servers: edit, reload(), call again in the same session. Plus mount any of 130k+ community servers mid-session, Docker-caged.",
+  "git_url": "https://github.com/kaiser-data/kitsune-mcp",
+  "author_github": "kaiser-data",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "claude",
+    "claudecode",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
