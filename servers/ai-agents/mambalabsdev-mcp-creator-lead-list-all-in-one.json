@@ -1,0 +1,17 @@
+{
+  "name": "mcp-creator-lead-list-all-in-one",
+  "description": "Keywords or handles in, a finished influencer lead list with contact details out.",
+  "git_url": "https://github.com/mambalabsdev/mcp-creator-lead-list-all-in-one",
+  "author_github": "mambalabsdev",
+  "category": "ai-agents",
+  "tags": [
+    "creator",
+    "lead",
+    "list",
+    "all",
+    "one"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mambabuilt.com"
+}
