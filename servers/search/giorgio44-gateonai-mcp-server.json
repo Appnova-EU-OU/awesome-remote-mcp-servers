@@ -1,0 +1,17 @@
+{
+  "name": "gateonai-mcp-server",
+  "description": "   MCP server for GateOnAI: search the AI tools listed on GateOnAI, compare them, build AI workflows, and find tools whose providers refer to the GDPR or state EU hosting on their own pages.",
+  "git_url": "https://github.com/giorgio44/gateonai-mcp-server",
+  "author_github": "giorgio44",
+  "category": "search",
+  "tags": [
+    "gateonai",
+    "search",
+    "tools",
+    "listed",
+    "compare"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.gateonai.com/"
+}
