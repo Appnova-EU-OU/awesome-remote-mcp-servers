@@ -1,0 +1,17 @@
+{
+  "name": "shotbox",
+  "description": "Eyes, ears and hands for AI agents on GUI programs: a sealed X11 or Wayland session where an agent (over MCP), a script or CI reads the accessibility tree, takes screenshots, records video and sound, clicks, types and drives gamepads, then checks contrast, Tab order, visual diffs, flicker, input latency and audio dropouts. CLI, Python, Playwright.",
+  "git_url": "https://github.com/mishan/shotbox",
+  "author_github": "mishan",
+  "category": "media",
+  "tags": [
+    "accessibility",
+    "aiagents",
+    "atspi",
+    "computeruse",
+    "gtk"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/shotbox/"
+}
