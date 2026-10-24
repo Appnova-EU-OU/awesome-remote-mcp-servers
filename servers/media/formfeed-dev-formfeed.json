@@ -1,0 +1,17 @@
+{
+  "name": "formfeed",
+  "description": "Formfeed client libraries, CLI, development kit and integrations: PDF and image generation from templates",
+  "git_url": "https://github.com/formfeed-dev/formfeed",
+  "author_github": "formfeed-dev",
+  "category": "media",
+  "tags": [
+    "cli",
+    "documentgeneration",
+    "docx",
+    "formfeed",
+    "handlebars"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://docs.formfeed.dev"
+}
