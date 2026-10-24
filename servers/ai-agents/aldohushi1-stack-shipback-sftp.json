@@ -1,0 +1,17 @@
+{
+  "name": "shipback-sftp",
+  "description": "Deploy to cPanel. Undo in one command.",
+  "git_url": "https://github.com/aldohushi1-stack/shipback-sftp",
+  "author_github": "aldohushi1-stack",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "backup",
+    "claudecode",
+    "cpanel",
+    "deploy"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/aldohushi1-stack/shipback-sftp"
+}
