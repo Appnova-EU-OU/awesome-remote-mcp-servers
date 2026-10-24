@@ -1,0 +1,17 @@
+{
+  "name": "ai-gateway-mcp",
+  "description": "The provider's own price, right inside your chat. Make video, images and voice with 400+ Vercel AI Gateway models (Veo, Kling, Seedance, Nano Banana, GPT Image) from Claude, ChatGPT or any MCP app. Your own copy, your own credits, no markup.",
+  "git_url": "https://github.com/Armulee/ai-gateway-mcp",
+  "author_github": "Armulee",
+  "category": "communication",
+  "tags": [
+    "aigateway",
+    "aisdk",
+    "chatgpt",
+    "claude",
+    "imagegeneration"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ai-gateway-mcp-landing.vercel.app"
+}
