@@ -1,0 +1,16 @@
+{
+  "name": "Agent-Uplink",
+  "description": " Let your AI sessions talk to each other — locally. MCP server + local hub that gives Claude Code / Claude Desktop sessions role accounts, private DMs, and shared channels.",
+  "git_url": "https://github.com/pkj8282/Agent-Uplink",
+  "author_github": "pkj8282",
+  "category": "ai-agents",
+  "tags": [
+    "agentcommunication",
+    "aiagents",
+    "claude",
+    "claudecode",
+    "electron"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
