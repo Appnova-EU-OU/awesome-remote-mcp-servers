@@ -1,0 +1,12 @@
+{
+  "name": "mcp-server",
+  "description": "Hostsmith MCP Server",
+  "git_url": "https://github.com/hostsmith/mcp-server",
+  "author_github": "hostsmith",
+  "category": "developer-tools",
+  "tags": [
+    "hostsmith"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
