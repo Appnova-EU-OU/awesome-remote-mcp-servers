@@ -1,0 +1,16 @@
+{
+  "name": "sqlite-mcp-server",
+  "description": "A lightweight Model Context Protocol (MCP) server for inspecting and querying local SQLite databases safely.",
+  "git_url": "https://github.com/Aderali06/sqlite-mcp-server",
+  "author_github": "Aderali06",
+  "category": "databases",
+  "tags": [
+    "sqlite",
+    "lightweight",
+    "inspecting",
+    "querying",
+    "local"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
