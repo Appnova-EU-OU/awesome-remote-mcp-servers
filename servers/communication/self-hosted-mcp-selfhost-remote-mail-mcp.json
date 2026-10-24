@@ -1,0 +1,16 @@
+{
+  "name": "Selfhost-Remote-Mail-MCP",
+  "description": "Use your own email from Claude, ChatGPT, Codex and other AI apps, on computer and phone. Self-hosted IMAP/SMTP MCP server: no middleman, OPEN SOURCE, encrypted connections and uploads, no tracking, sending only when you say so. Drop a file in the chat to email it, up to 5 mailboxes, add-ons.",
+  "git_url": "https://github.com/Self-hosted-MCP/Selfhost-Remote-Mail-MCP",
+  "author_github": "Self-hosted-MCP",
+  "category": "communication",
+  "tags": [
+    "addon",
+    "agpl30",
+    "aiagents",
+    "claude",
+    "email"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active"
+}
