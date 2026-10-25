@@ -1,0 +1,17 @@
+{
+  "name": "ennodia",
+  "description": "Connects the AI agents you use: your agent hands a task to another and gets the answer back",
+  "git_url": "https://github.com/cherninlab/ennodia",
+  "author_github": "cherninlab",
+  "category": "ai-agents",
+  "tags": [
+    "agentorchestration",
+    "aiagents",
+    "airouting",
+    "clitools",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ennodia.cherninlab.com"
+}
