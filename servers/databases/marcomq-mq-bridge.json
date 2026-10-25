@@ -1,0 +1,17 @@
+{
+  "name": "mq-bridge",
+  "description": "Async Rust library to route messages between Kafka, NATS, MQTT, AMQP, databases and HTTP, with Python and Node bindings",
+  "git_url": "https://github.com/marcomq/mq-bridge",
+  "author_github": "marcomq",
+  "category": "databases",
+  "tags": [
+    "amqp",
+    "cdc",
+    "etl",
+    "kafka",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://marcomq.github.io/mq-bridge/"
+}
