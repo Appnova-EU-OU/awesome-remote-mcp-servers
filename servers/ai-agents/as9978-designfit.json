@@ -1,0 +1,17 @@
+{
+  "name": "designfit",
+  "description": "Validate AI-built front-ends against their Figma design — deterministic token + geometry conformance, not pixels. MCP server + Claude Code skill.",
+  "git_url": "https://github.com/as9978/designfit",
+  "author_github": "as9978",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "designsystem",
+    "designtokens",
+    "figma"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/designfit"
+}
