@@ -1,0 +1,17 @@
+{
+  "name": "agentplaybooks",
+  "description": "Equip once. Run anywhere. Portable AI agents and toolkits—no vendor lock-in.",
+  "git_url": "https://github.com/matebenyovszky/agentplaybooks",
+  "author_github": "matebenyovszky",
+  "category": "ai-agents",
+  "tags": [
+    "agent",
+    "ai",
+    "mcp",
+    "mcpserver",
+    "mcpserverstore"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agentplaybooks.ai/"
+}
