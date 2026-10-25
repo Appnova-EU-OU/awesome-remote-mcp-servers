@@ -91,6 +91,35 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [unitares](https://freemcp.space/featured/unitares) — Accountability infrastructure for long-running AI agents. Self-hosted MCP server: identity, claims and evidence, review, outcomes, and reconstruction across agent runtimes.
+- [ifc-ruhsat](https://freemcp.space/featured/ifc-ruhsat) — Yapı ruhsatı IFC modelini Türkiye dijital proje yönetmeliğine (RG 33331) göre kontrol eder — CLI + MCP + IDS. Checks IFC models against Türkiye's building-permit BIM regulation.
+- [mcp-for-maya](https://freemcp.space/featured/mcp-for-maya) — Maya MCP Server with spatial awareness, camera planning, aesthetic analysis, and scene auditing
+- [ramen](https://freemcp.space/featured/ramen) — Self-hosted, multi-zone MCP server platform for GKE, EKS and AKS. A git repo of Python tools becomes canary-deployed, autoscaled Rust + Python workers with NeMo guardrails per tool, Entra ID / Google Workspace SSO, custom roles, OAuth 2.1, secrets, IP rules and audit. Clients on macOS, Windows and Linux.
+- [caishi](https://freemcp.space/featured/caishi) — 采诗 · 给 AI 用的中文互联网能力包：一条命令读抖音/B站/小红书/公众号/知乎/头条等 33 站（满配 40）| Read the Chinese internet from your AI agent. Read-only, reuses your browser sessions.
+- [formfeed](https://freemcp.space/featured/formfeed) — Formfeed client libraries, CLI, development kit and integrations: PDF and image generation from templates
+- [gaussdb-ro-mcp](https://freemcp.space/featured/gaussdb-ro-mcp) — Read-only MCP server for GaussDB, built for coding agents.
+- [kafka-mcp](https://freemcp.space/featured/kafka-mcp-2) — MCP server that exposes Kafka debugging to an LLM: find messages, measure lag, unblock consumers. Read-only endpoints, previews before writes.
+- [wraps-js](https://freemcp.space/featured/wraps-js) — TypeScript SDKs for AWS SES and SMS, plus an MCP server that lets AI agents send email from your own AWS account
+- [Agent-Uplink](https://freemcp.space/featured/agent-uplink) —  Let your AI sessions talk to each other — locally. MCP server + local hub that gives Claude Code / Claude Desktop sessions role accounts, private DMs, and shared channels.
+- [shipback-sftp](https://freemcp.space/featured/shipback-sftp) — Deploy to cPanel. Undo in one command.
+- [agentgo-mcp](https://freemcp.space/featured/agentgo-mcp) — MCP server for AgentGo, the browser your AI agent drives: compact page outlines, diff-only replies, real input, human approval. MIT.
+- [signdocs-mcp-server](https://freemcp.space/featured/signdocs-mcp-server) — Servidor MCP oficial da SignDocs Brasil: assinatura eletrônica e digital com ICP-Brasil, biometria e OTP direto de agentes de IA. Official MCP server for the SignDocs Brasil e-signature API — signing sessions, envelopes, document verification.
+- [qualien-mcp](https://freemcp.space/featured/qualien-mcp) — A composite MCP gateway that aggregates multiple MCP servers behind one connection — curated for SDET/QE workflows.
+- [The-top-innovation](https://freemcp.space/featured/the-top-innovation) — Lossless context guard for AI coding agents: outlines big files and digests noisy command output, nothing lost.
+- [sqlite-mcp-server](https://freemcp.space/featured/sqlite-mcp-server) — A lightweight Model Context Protocol (MCP) server for inspecting and querying local SQLite databases safely.
+- [mcp-creator-lead-list-all-in-one](https://freemcp.space/featured/mcp-creator-lead-lis) — Keywords or handles in, a finished influencer lead list with contact details out.
+- [Selfhost-Remote-Mail-MCP](https://freemcp.space/featured/selfhost-remote-mail) — Use your own email from Claude, ChatGPT, Codex and other AI apps, on computer and phone. Self-hosted IMAP/SMTP MCP server: no middleman, OPEN SOURCE, encrypted connections and uploads, no tracking, sending only when you say so. Drop a file in the chat to email it, up to 5 mailboxes, add-ons.
+- [groundmail-mcp](https://freemcp.space/featured/groundmail-mcp) — MCP server for Groundmail transactional email: send email, check delivery and set up sending domains from Claude, ChatGPT, Cursor and any MCP client. Hosted with OAuth at mcp.groundmail.dev.
+- [impreza-mcp](https://freemcp.space/featured/impreza-mcp) — MCP server for Impreza Host: deploy custom apps to managed VPSes from your AI editor.
+- [mcp-server](https://freemcp.space/featured/mcp-server-24) — Hostsmith MCP Server
+- [TrueNAS-AIops](https://freemcp.space/featured/truenas-aiops) — Governed TrueNAS SCALE operations — pools, datasets, snapshots, disks, alerts, and services (25 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.
+- [Proxy-AIops](https://freemcp.space/featured/proxy-aiops) — Governed AI-ops for Traefik + Caddy + HAProxy reverse proxies / load balancers: routes, services, up
+- [biolit-mcp](https://freemcp.space/featured/biolit-mcp) — Citation-grounded biomedical literature review over PubMed, Europe PMC, NCBI Gene and UniProt, with a citation-accuracy benchmark.
+- [luw-mcp](https://freemcp.space/featured/luw-mcp) — Official Luw.ai MCP server: AI interior, exterior & landscape design, renders, video and 3D for Claude, Cursor, VS Code and any MCP client. 
+- [canvaskeep-mcp](https://freemcp.space/featured/canvaskeep-mcp) — MCP server for CanvasKeep: let Claude Code, Codex and other AI tools generate Excalidraw diagrams in your workspace
+- [ai-gateway-mcp](https://freemcp.space/featured/ai-gateway-mcp) — The provider's own price, right inside your chat. Make video, images and voice with 400+ Vercel AI Gateway models (Veo, Kling, Seedance, Nano Banana, GPT Image) from Claude, ChatGPT or any MCP app. Your own copy, your own credits, no markup.
+- [kitsune-mcp](https://freemcp.space/featured/kitsune-mcp) — Hot-reload for MCP servers: edit, reload(), call again in the same session. Plus mount any of 130k+ community servers mid-session, Docker-caged.
+- [gateonai-mcp-server](https://freemcp.space/featured/gateonai-mcp-server) —    MCP server for GateOnAI: search the AI tools listed on GateOnAI, compare them, build AI workflows, and find tools whose providers refer to the GDPR or state EU hosting on their own pages.
 - [gmail-mcp](https://freemcp.space/featured/gmail-mcp-2) — Self-hosted, owner-only Gmail MCP connector for multiple accounts over Streamable HTTP and OAuth.
 - [legwork](https://freemcp.space/featured/legwork) — Your AI finds the open-source tool it needs on GitHub. Legwork installs it in a sandbox.
 - [whatsapp-mcp](https://freemcp.space/featured/whatsapp-mcp-2) — Full-featured WhatsApp MCP server: Rust MCP server + Go whatsmeow bridge. 39 tools, resources, prompts, live notifications, multi-account, full-text search, raw media for your agent.
@@ -162,35 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [bestax](https://freemcp.space/featured/bestax) — A fully-typed React component library for the Bulma CSS framework. Build modern UIs quickly with reusable, accessible, and customizable Bulma-based React components.
 - [postbag](https://freemcp.space/featured/postbag) — Two local coding-agent sessions, Claude Code or Codex, write letters to each other through each agent's native input. CLI and MCP tools, stdlib core, no daemon.
 - [ClefMCP](https://freemcp.space/featured/clefmcp) — Local MCP server exposing the Cloudflare Clef-Flash decision model to AI agents — structured decisions with probability outputs, fully offline via llama.cpp.
-- [layermap](https://freemcp.space/featured/layermap) — LayerMap MCP: a layered map of your codebase for coding agents: callers, callees and the impact of a change, for TypeScript, JavaScript, Go, Python and Java. MCP server, CLI, and plugins for Claude Code and Codex.
-- [infrastructure-mcp](https://freemcp.space/featured/infrastructure-mcp) — Give Claude Code, Cursor, and other AI agents safe access to your real infrastructure — without giving them raw SSH access.
-- [slop-chop](https://freemcp.space/featured/slop-chop) — Strip AI tells from text: em-dashes, slop words, and stock phrases, in one deterministic local pass. CLI, GitHub Action, Obsidian plugin, and MCP server.
-- [codetopo](https://freemcp.space/featured/codetopo) — See your codebase the way an agent sees it. Rust code-graph engine: index any repo, query descendants, blast radius, paths. CLI, HTTP API, and MCP server.
-- [ableton-mcp-server](https://freemcp.space/featured/ableton-mcp-server) — Local MCP server for Ableton Live: session inspection, MIDI editing, device control, audio analysis and groove tools via a Python Remote Script.
-- [permark](https://freemcp.space/edelmar/permark) — 🔖 Read what your AI writes. Write what it reads. A free, open-source Markdown app for Windows, macOS and Linux: open any .md as a clean page, keep notes that save themselves, and follow, review and steer what your AI agents write.
-- [pylos-mcp](https://freemcp.space/featured/pylos-mcp) — Email MCP server for Gmail, Outlook and any IMAP mailbox, hardened against prompt injection
-- [dbprint](https://freemcp.space/featured/dbprint) — Portable, git-committed snapshot of a database's structure and column-level data distributions, consumable offline by humans, AI coding agents, and CI.
-- [Tower](https://freemcp.space/featured/tower) — Multiplayer for AI coding agents: collision detection before the edit, messaging, delegation. MCP server for Claude Code, Cursor, Codex.
-- [CDPM](https://freemcp.space/featured/cdpm) — MCP server that lets many Claude Code sessions and subagents share numbered, logged-in Chrome instances over CDP
-- [chrome-dev-mcp](https://freemcp.space/featured/chrome-dev-mcp) — An MCP server for Chrome runtime debugging
-- [huddo-mcp](https://freemcp.space/featured/huddo-mcp) — MCP server for Huddo: a group chat where people and AI agents talk in the same room
-- [sendraven-mcp-server](https://freemcp.space/featured/sendraven-mcp-server) — SendRaven is email infrastructure for AI agents. Send, read replies as threads, run campaigns and automations, with limits on the API key.
-- [remcp](https://freemcp.space/featured/remcp) — Remote MCP access to computers you explicitly pair — files, terminal, desktop UI, browser automation, diagnostics, and documents.
-- [backwork-mcp](https://freemcp.space/featured/backwork-mcp) — Official MCP server for the Backwork healthcare API
-- [illugen-mcp](https://freemcp.space/featured/illugen-mcp) — MCP server for JangaFX IlluGen: let AI agents (Claude, Cursor...) build, edit and render IlluGen node graphs, invisibly.
-- [inam-protocol](https://freemcp.space/featured/inam-protocol) — Verify before your agent pays: x402 payments only reach agents whose wallet and countersigned work history check out. Open receipts + reputation for AI agents.
-- [terse](https://freemcp.space/featured/terse) — Shrinks your AI agent's tool output so it burns fewer tokens, without changing what the agent reads. Lossless by default, no decode step.
-- [MySQL-AIops](https://freemcp.space/featured/mysql-aiops) — Governed AI-ops for MySQL/MariaDB DBA operations: slow-query RCA, InnoDB lock-wait & deadlock analys
-- [mcp-people-finder](https://freemcp.space/featured/mcp-people-finder) — MCP server for the Mamba Labs People Finder & Email Verifier actor on Apify
-- [amocrm-kommo-mcp](https://freemcp.space/featured/amocrm-kommo-mcp) — MCP server for amoCRM / Kommo CRM: leads, contacts, tasks, notes and sales analytics (pipeline report, stale deals, overdue tasks)
-- [honest-gmail-mcp](https://freemcp.space/featured/honest-gmail-mcp) — Local MCP server for Gmail — send/search/label with your data staying between your machine and Google
-- [Network-AIops](https://freemcp.space/featured/network-aiops) — Standalone governed multi-vendor network ops (NAPALM) — 13 MCP tools with audit/budget/undo/risk-tier harness
-- [MinIO-AIops](https://freemcp.space/featured/minio-aiops) — Governed AI-ops for MinIO object storage: capacity & usage RCA, bucket exposure audit, lifecycle/ILM
-- [snapdeploy-mcp](https://freemcp.space/featured/snapdeploy-mcp) — SnapDeploy MCP connector: deploy from Claude Code, Cursor, Codex and Gemini CLI
-- [Container-Host-AIops](https://freemcp.space/featured/container-host-aiops) — Governed AI-ops for Docker + Portainer container hosts — restart-loop/resource/bloat RCA, guarded writes, with audit/budget/undo (preview)
-- [Ceph-AIops](https://freemcp.space/featured/ceph-aiops) — Governed Ceph mgr Dashboard ops: HEALTH_WARN RCA, OSD/PG/pool/RBD/CephFS/RGW, 35 MCP tools (preview)
-- [agenteyes-mcp](https://freemcp.space/featured/agenteyes-mcp) — A Node.js MCP server (stdio transport) exposing agent tools backed by headless Chromium. One tool call returns screenshot PNG + accessibility tree + page text — the "eyes for agents" pitch.
-- [morfiade-mcp](https://freemcp.space/featured/morfiade-mcp) — MCP server for local Google Chrome profiles on Windows — 18 tools over Morfiade's local API
 <!-- freemcp:end -->
 
 ---
