@@ -1,0 +1,17 @@
+{
+  "name": "pubcrawl",
+  "description": "MCP server giving AI assistants verifiable access to PubMed, Europe PMC, US/UK drug labelling, and ClinicalTrials.gov. Built by PharmaTools.AI.",
+  "git_url": "https://github.com/nickjlamb/pubcrawl",
+  "author_github": "nickjlamb",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "bioinformatics",
+    "biomedical",
+    "claudedesktop",
+    "clinicaltrials"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.pharmatools.ai/pubcrawl"
+}
