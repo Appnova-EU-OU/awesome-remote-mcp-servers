@@ -1,0 +1,17 @@
+{
+  "name": "nativekeel",
+  "description": "Health check for React Native and Expo apps: A–E ratings for security, store rules, crashes, upgrades and accessibility. Works with GitHub Actions and SonarQube. npx nativekeel",
+  "git_url": "https://github.com/AlicanAkyol/nativekeel",
+  "author_github": "AlicanAkyol",
+  "category": "security",
+  "tags": [
+    "accessibility",
+    "android",
+    "appstore",
+    "cli",
+    "codequality"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://nativekeel.com"
+}
