@@ -1,0 +1,16 @@
+{
+  "name": "tokentoll",
+  "description": "Catch LLM cost changes in code review. Infracost for LLM spend.",
+  "git_url": "https://github.com/Jwrede/tokentoll",
+  "author_github": "Jwrede",
+  "category": "security",
+  "tags": [
+    "anthropic",
+    "costoptimization",
+    "devtools",
+    "githubaction",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
