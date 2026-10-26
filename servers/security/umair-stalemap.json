@@ -1,0 +1,17 @@
+{
+  "name": "stalemap",
+  "description": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+  "git_url": "https://github.com/Umair/stalemap",
+  "author_github": "Umair",
+  "category": "security",
+  "tags": [
+    "agentsmd",
+    "aiagents",
+    "breakingchanges",
+    "changelog",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://stalemap.com"
+}
