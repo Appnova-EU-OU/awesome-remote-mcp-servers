@@ -91,10 +91,26 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [BeatBrowser](https://freemcp.space/featured/beatbrowser) — Your Chrome, now an agent browser. No browser switch. No login migration. Codex, Claude Code & more. Free & open source.
+- [mq-bridge](https://freemcp.space/featured/mq-bridge) — Async Rust library to route messages between Kafka, NATS, MQTT, AMQP, databases and HTTP, with Python and Node bindings
+- [pixelpact](https://freemcp.space/featured/pixelpact) — Measurement for coding agents building UI: extract a contract from the reference page, check the implementation, get numbers back
+- [SolidWorks-MCP](https://freemcp.space/featured/solidworks-mcp) — MCP server that lets AI agents build, measure and verify parametric parts and assemblies in a running SolidWorks (Windows, COM).
+- [pubcrawl](https://freemcp.space/featured/pubcrawl) — MCP server giving AI assistants verifiable access to PubMed, Europe PMC, US/UK drug labelling, and ClinicalTrials.gov. Built by PharmaTools.AI.
+- [agentplaybooks](https://freemcp.space/featured/agentplaybooks) — Equip once. Run anywhere. Portable AI agents and toolkits—no vendor lock-in.
+- [designfit](https://freemcp.space/featured/designfit) — Validate AI-built front-ends against their Figma design — deterministic token + geometry conformance, not pixels. MCP server + Claude Code skill.
+- [nativekeel](https://freemcp.space/featured/nativekeel) — Health check for React Native and Expo apps: A–E ratings for security, store rules, crashes, upgrades and accessibility. Works with GitHub Actions and SonarQube. npx nativekeel
+- [ennodia](https://freemcp.space/featured/ennodia) — Connects the AI agents you use: your agent hands a task to another and gets the answer back
+- [mapache](https://freemcp.space/featured/mapache) — Open-source mind maps and whiteboard on your computer or your team's server: live collaboration, comments, and a built-in MCP server so your AI agent can build boards with you.
+- [openhuddle](https://freemcp.space/featured/openhuddle) — Multiplayer mode for AI coding agents. Your team's Claude Code, Codex and Cursor agents huddle up: live status, one master prompt, a shared task board, and no stepping on each other's files.
+- [codex-claude-council](https://freemcp.space/featured/codex-claude-council) — Two AIs. One answer. ChatGPT and Claude discuss with each other until they agree, through your own signed-in CLIs: no API keys. Both read your project (never change it) and search the web. Plugin for Claude Code, Codex, Claude Desktop and the ChatGPT app.
+- [qa-orchestrator](https://freemcp.space/featured/qa-orchestrator) — Local MCP server for privacy-aware QA task routing
+- [tokentoll](https://freemcp.space/featured/tokentoll) — Catch LLM cost changes in code review. Infracost for LLM spend.
+- [muninn](https://freemcp.space/featured/muninn) — Code search for AI coding agents over MCP: hybrid retrieval, structural search and shared indexing across Git worktrees.
+- [firefox-devtools-mcp](https://freemcp.space/featured/firefox-devtools-mcp) — Model Context Protocol server for Firefox DevTools - enables AI assistants to inspect and control Firefox browser through WebDriver BiDi
 - [unitares](https://freemcp.space/featured/unitares) — Accountability infrastructure for long-running AI agents. Self-hosted MCP server: identity, claims and evidence, review, outcomes, and reconstruction across agent runtimes.
 - [ifc-ruhsat](https://freemcp.space/featured/ifc-ruhsat) — Yapı ruhsatı IFC modelini Türkiye dijital proje yönetmeliğine (RG 33331) göre kontrol eder — CLI + MCP + IDS. Checks IFC models against Türkiye's building-permit BIM regulation.
 - [mcp-for-maya](https://freemcp.space/featured/mcp-for-maya) — Maya MCP Server with spatial awareness, camera planning, aesthetic analysis, and scene auditing
-- [ramen](https://freemcp.space/featured/ramen) — Self-hosted, multi-zone MCP server platform for GKE, EKS and AKS. A git repo of Python tools becomes canary-deployed, autoscaled Rust + Python workers with NeMo guardrails per tool, Entra ID / Google Workspace SSO, custom roles, OAuth 2.1, secrets, IP rules and audit. Clients on macOS, Windows and Linux.
+- [ramen](https://freemcp.space/bulkguy47/ramen) — Self-hosted, multi-zone MCP server platform for GKE, EKS and AKS. A git repo of Python tools becomes canary-deployed, autoscaled Rust + Python workers with NeMo guardrails per tool, Entra ID / Google Workspace SSO, custom roles, OAuth 2.1, secrets, IP rules and audit. Clients on macOS, Windows and Linux.
 - [caishi](https://freemcp.space/featured/caishi) — 采诗 · 给 AI 用的中文互联网能力包：一条命令读抖音/B站/小红书/公众号/知乎/头条等 33 站（满配 40）| Read the Chinese internet from your AI agent. Read-only, reuses your browser sessions.
 - [formfeed](https://freemcp.space/featured/formfeed) — Formfeed client libraries, CLI, development kit and integrations: PDF and image generation from templates
 - [gaussdb-ro-mcp](https://freemcp.space/featured/gaussdb-ro-mcp) — Read-only MCP server for GaussDB, built for coding agents.
@@ -125,7 +141,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [whatsapp-mcp](https://freemcp.space/featured/whatsapp-mcp-2) — Full-featured WhatsApp MCP server: Rust MCP server + Go whatsmeow bridge. 39 tools, resources, prompts, live notifications, multi-account, full-text search, raw media for your agent.
 - [ascended-browser](https://freemcp.space/featured/ascended-browser) — A real, hardened browser for AI agents (MCP server): verified actions, page reading, dev tools. Works with Claude Code, Codex, opencode.
 - [Octocrawl](https://freemcp.space/featured/octocrawl) — Octocrawl: readable Markdown and checked fields from public web pages, for AI agents, RAG and research. Failures come back with a reason. Self-host with REST, SDK or MCP.
-- [cairn-commons](https://freemcp.space/featured/cairn-commons) — Cairn Commons participation tools: local MCP, agent skills and A2A schemas
+- [cairn-commons](https://freemcp.space/cairncommons/cairn-commons) — Cairn Commons participation tools: local MCP, agent skills and A2A schemas
 - [mcpcost](https://freemcp.space/featured/mcpcost) — Is that MCP server alive, and what does it cost your context window? Daily health and exact token cost of every server in the MCP registry.
 - [mcpolyglot](https://freemcp.space/featured/mcpolyglot) — One MCP server for the databases and REST APIs you already have (Postgres, MySQL, SQLite, MongoDB, OpenAPI), with per-table policy, read-only enforcement, redaction and audit.
 - [swarmmemo](https://freemcp.space/featured/swarmmemo) — Talk with agent swarms. Public rooms, private messages, paid tasks and memory for your AI agent. Post from anywhere: MCP, HTTP, email, Nostr.
@@ -175,22 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ai-toolkit](https://freemcp.space/featured/ai-toolkit) — Toolkit for building AI-driven graph apps on Memgraph, with LangChain, MCP, and agent implementations. 
 - [lldb-mcp](https://freemcp.space/featured/lldb-mcp) — LLDB MCP server
 - [jetbrains-debugger-mcp-plugin](https://freemcp.space/featured/jetbrains-debugger-m) — JetBrains IDE plugin giving coding agents programmatic control of the debugger.
-- [schemagate](https://freemcp.space/featured/schemagate) — Text-to-SQL access control: schema selection that gives the LLM only the tables the caller is allowed to read. Row-level-security-aware table pruning for LangChain, MCP and any SQL agent. Postgres, Oracle, MySQL, SQL Server. 75% fewer prompt tokens.
-- [memcord](https://freemcp.space/featured/memcord) — 🧠 Self-hosted, privacy-first MCP server for long-term AI memory — save, search & summarize Claude/ChatGPT chat history locally. No cloud, no database.
-- [mcp-adr-analysis-server](https://freemcp.space/featured/mcp-adr-analysis-ser) — Your ADRs are lying to you. MCP server with live drift detection, content safety, and decision memory — validates architectural decisions against your actual code.
-- [DotNetMetadataMcpServer](https://freemcp.space/featured/dotnetmetadatamcpser) — A Model Context Protocol (MCP) server that provides detailed type information from .NET projects for AI coding agents.
-- [TZeroAlgorithm](https://freemcp.space/featured/tzeroalgorithm) — AST Codebase Context Engine & 21-Tool MCP Server for AI Coding Agents — Up to 95% Token Reduction & Zero-Leak Security Architecture
-- [pantheon-mcp](https://freemcp.space/featured/pantheon-mcp) — A collection of AI agents
-- [repoguard](https://freemcp.space/featured/repoguard) — The Architecture Guardian for AI-assisted code. Generate strict .cursorrules and audit PRs.
-- [signalint](https://freemcp.space/featured/signalint) — MCP server for compact, cached, loop-aware JavaScript and TypeScript diagnostics
-- [cloud-finops-skills](https://freemcp.space/featured/cloud-finops-skills) — Cloud FinOps Skill & MCP by OptimNow. FinOps Foundation aligned knowledge for AI agents: cloud cost (AWS/Azure/GCP/OCI), AI inference economics, Kubernetes, data platforms, allocation, chargeback, anomaly management, waste detection, GreenOps. Installs into 12 AI tools, or connect the hosted MCP server by URL. Refreshed weekly.
-- [reado](https://freemcp.space/featured/reado) — Inverted code review: a read-first IDE where you comment on the lines that matter and your coding agent (Claude Code, Codex, Cursor, Copilot) resolves them. Free and open source.
-- [repopilot](https://freemcp.space/mykyta-stelmashen/repopilot) — Local, deterministic review of Git changes: weakened tests and CI gates, security boundaries, blast radius. CLI, GitHub Action, MCP server, and coding-agent plugins.
-- [CodeEraser](https://freemcp.space/featured/codeeraser) — An eraser against LLM-induced code & document entropy. Support if you like it!
-- [ictfax-mcp](https://freemcp.space/featured/ictfax-mcp) — MCP server for ICTFax — list and track faxes, upload documents and send faxes over ICTCore REST. By ICT Innovations.
-- [bestax](https://freemcp.space/featured/bestax) — A fully-typed React component library for the Bulma CSS framework. Build modern UIs quickly with reusable, accessible, and customizable Bulma-based React components.
-- [postbag](https://freemcp.space/featured/postbag) — Two local coding-agent sessions, Claude Code or Codex, write letters to each other through each agent's native input. CLI and MCP tools, stdlib core, no daemon.
-- [ClefMCP](https://freemcp.space/featured/clefmcp) — Local MCP server exposing the Cloudflare Clef-Flash decision model to AI agents — structured decisions with probability outputs, fully offline via llama.cpp.
 <!-- freemcp:end -->
 
 ---
