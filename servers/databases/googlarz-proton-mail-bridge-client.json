@@ -1,0 +1,17 @@
+{
+  "name": "proton-mail-bridge-client",
+  "description": "Local-first Proton Mail MCP server and CLI via Proton Bridge. Search, draft, send and organize mail from Claude Desktop, Claude Code or any MCP client. 96 tools, read-only and send-to-self modes.",
+  "git_url": "https://github.com/googlarz/proton-mail-bridge-client",
+  "author_github": "googlarz",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claude",
+    "claudecode",
+    "claudedesktop",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/proton-mail-bridge-client"
+}
