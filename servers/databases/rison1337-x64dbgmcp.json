@@ -1,0 +1,16 @@
+{
+  "name": "x64dbgMCP",
+  "description": "Dynamic x64dbg/x32dbg MCP backend: launch/attach, breakpoints, memory, API/heap traces, OEP/IAT/PE dumps, key recovery, and IDA hash+RVA evidence.",
+  "git_url": "https://github.com/rison1337/x64dbgMCP",
+  "author_github": "rison1337",
+  "category": "databases",
+  "tags": [
+    "binaryanalysis",
+    "debugger",
+    "dynamicanalysis",
+    "idapro",
+    "malwareanalysis"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
