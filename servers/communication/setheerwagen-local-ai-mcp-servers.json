@@ -1,0 +1,16 @@
+{
+  "name": "local-ai-mcp-servers",
+  "description": "Two Model Context Protocol (MCP) servers for self-hosted, local AI: manage and train Ollama/vLLM models, and route questions and tasks to local LLMs through Claude, ChatGPT or local models. Use the compute of your existing hardware, and let the models tap data on your machines when you wire them in.",
+  "git_url": "https://github.com/setheerwagen/local-ai-mcp-servers",
+  "author_github": "setheerwagen",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "chatgpt",
+    "claude",
+    "embeddings",
+    "inference"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
