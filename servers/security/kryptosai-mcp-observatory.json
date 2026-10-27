@@ -1,0 +1,17 @@
+{
+  "name": "mcp-observatory",
+  "description": "Free, MIT-licensed MCP security testing from ClearFrame. Scan, audit, compare, and review locally; continue in the ClearFrame CLI or Mac app.",
+  "git_url": "https://github.com/KryptosAI/mcp-observatory",
+  "author_github": "KryptosAI",
+  "category": "security",
+  "tags": [
+    "agentsecurity",
+    "aiagent",
+    "aisecurity",
+    "aisupplychain",
+    "clearframe"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://clearframecode.com/observatory/?utm_source=mcp-observatory&utm_medium=github&utm_campaign=opensource"
+}
