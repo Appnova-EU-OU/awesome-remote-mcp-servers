@@ -1,0 +1,17 @@
+{
+  "name": "mxprobe",
+  "description": "Email verification for AI agents: send, hold or kill with the reason. CLI, MCP server and hosted API.",
+  "git_url": "https://github.com/andrewchmr/mxprobe",
+  "author_github": "andrewchmr",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "cli",
+    "email",
+    "emailvalidation",
+    "emailverification"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mxprobe.dev"
+}
