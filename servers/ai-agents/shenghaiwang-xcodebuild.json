@@ -1,0 +1,16 @@
+{
+  "name": "xcodebuild",
+  "description": "MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.",
+  "git_url": "https://github.com/ShenghaiWang/xcodebuild",
+  "author_github": "ShenghaiWang",
+  "category": "ai-agents",
+  "tags": [
+    "xcodebuild",
+    "tool",
+    "building",
+    "xcode",
+    "ios"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
