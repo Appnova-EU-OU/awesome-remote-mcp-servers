@@ -91,6 +91,16 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-server-bigquery](https://freemcp.space/featured/mcp-server-bigquery) — A Model Context Protocol server that provides access to BigQuery
+- [mcp-sqlite](https://freemcp.space/featured/mcp-sqlite) — 🐇 Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities
+- [suvadu](https://freemcp.space/featured/suvadu) — Shell history replacement with AI agent tracking and MCP server. Built in Rust, 100% local.
+- [stalemap](https://freemcp.space/featured/stalemap) — Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.
+- [wtfm](https://freemcp.space/featured/wtfm) — WTFM: Write the F***ing Manual. A plugin for your coding agent that writes your user docs, screenshots included.
+- [OpenScreenShot](https://freemcp.space/featured/openscreenshot) — OpenScreenShot is a privacy-first, free, open-source screenshot extension -- zero data leaves your device, no account needed, no telemetry, no third-party services.
+- [proton-mail-bridge-client](https://freemcp.space/featured/proton-mail-bridge-c) — Local-first Proton Mail MCP server and CLI via Proton Bridge. Search, draft, send and organize mail from Claude Desktop, Claude Code or any MCP client. 96 tools, read-only and send-to-self modes.
+- [Devtrack_](https://freemcp.space/shashankraj28/devtrack) — Local-first developer context daemon with six read-only MCP tools for active tickets, commits, pending actions, voice profile, ticket history, and EOD summaries. Ships native MCPB bundles.
+- [x64dbgMCP](https://freemcp.space/featured/x64dbgmcp) — Dynamic x64dbg/x32dbg MCP backend: launch/attach, breakpoints, memory, API/heap traces, OEP/IAT/PE dumps, key recovery, and IDA hash+RVA evidence.
+- [local-ai-mcp-servers](https://freemcp.space/featured/local-ai-mcp-servers) — Two Model Context Protocol (MCP) servers for self-hosted, local AI: manage and train Ollama/vLLM models, and route questions and tasks to local LLMs through Claude, ChatGPT or local models. Use the compute of your existing hardware, and let the models tap data on your machines when you wire them in.
 - [BeatBrowser](https://freemcp.space/featured/beatbrowser) — Your Chrome, now an agent browser. No browser switch. No login migration. Codex, Claude Code & more. Free & open source.
 - [mq-bridge](https://freemcp.space/featured/mq-bridge) — Async Rust library to route messages between Kafka, NATS, MQTT, AMQP, databases and HTTP, with Python and Node bindings
 - [pixelpact](https://freemcp.space/featured/pixelpact) — Measurement for coding agents building UI: extract a contract from the reference page, check the implementation, get numbers back
@@ -102,7 +112,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ennodia](https://freemcp.space/featured/ennodia) — Connects the AI agents you use: your agent hands a task to another and gets the answer back
 - [mapache](https://freemcp.space/featured/mapache) — Open-source mind maps and whiteboard on your computer or your team's server: live collaboration, comments, and a built-in MCP server so your AI agent can build boards with you.
 - [openhuddle](https://freemcp.space/featured/openhuddle) — Multiplayer mode for AI coding agents. Your team's Claude Code, Codex and Cursor agents huddle up: live status, one master prompt, a shared task board, and no stepping on each other's files.
-- [codex-claude-council](https://freemcp.space/featured/codex-claude-council) — Two AIs. One answer. ChatGPT and Claude discuss with each other until they agree, through your own signed-in CLIs: no API keys. Both read your project (never change it) and search the web. Plugin for Claude Code, Codex, Claude Desktop and the ChatGPT app.
+- [codex-claude-council](https://freemcp.space/hamza-aziz-ai/codex-claude-council) — Two AIs. One answer. ChatGPT and Claude discuss with each other until they agree, through your own signed-in CLIs: no API keys. Both read your project (never change it) and search the web. Plugin for Claude Code, Codex, Claude Desktop and the ChatGPT app.
 - [qa-orchestrator](https://freemcp.space/featured/qa-orchestrator) — Local MCP server for privacy-aware QA task routing
 - [tokentoll](https://freemcp.space/featured/tokentoll) — Catch LLM cost changes in code review. Infracost for LLM spend.
 - [muninn](https://freemcp.space/featured/muninn) — Code search for AI coding agents over MCP: hybrid retrieval, structural search and shared indexing across Git worktrees.
@@ -181,16 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-trino](https://freemcp.space/featured/mcp-trino) — A high-performance Model Context Protocol (MCP) server for Trino implemented in Go.
 - [GoSQLX](https://freemcp.space/featured/gosqlx) — Pure-Go SQL parser, formatter, linter and security scanner for 8 dialects. Zero-copy, race-free, with an LSP and MCP server.
 - [src-to-kb](https://freemcp.space/featured/src-to-kb) — Convert source code to LLM ready knowledge base
-- [adaptive-cards-mcp](https://freemcp.space/featured/adaptive-cards-mcp-2) — AI-powered Adaptive Card MCP server — 9 tools for generating, validating, optimizing cards for Teams, Outlook, Copilot, ChatGPT. npm: adaptive-cards-mcp
-- [excel-vision-mcp](https://freemcp.space/featured/excel-vision-mcp) — MCP server that lets AI agents SEE embedded images inside Excel files — full text + image extraction for .xlsx/.xlsm
-- [mcp-prompt-engine](https://freemcp.space/featured/mcp-prompt-engine) — MCP Prompt Engine
-- [Ollama-Omega](https://freemcp.space/featured/ollama-omega) — Sovereign Ollama Bridge — MCP server for local and cloud Ollama models. Generated by Qwen 3.5 397B.
-- [verifyax-mcp](https://freemcp.space/featured/verifyax-mcp) — MCP server and typed SDK for the VerifyAX agent-evaluation platform.
-- [Veris](https://freemcp.space/featured/veris) — Behavioral diff for AI-written code. Your agent changed 40 files — Veris tells it what behavior actually changed and whether any of it was verified. MCP-native, checker-resolved call graph, tamper-evident evidence. Never executes your code. Local-first, MIT.
-- [sourcerer-mcp](https://freemcp.space/featured/sourcerer-mcp) — MCP for semantic code search & navigation that reduces token waste
-- [ai-toolkit](https://freemcp.space/featured/ai-toolkit) — Toolkit for building AI-driven graph apps on Memgraph, with LangChain, MCP, and agent implementations. 
-- [lldb-mcp](https://freemcp.space/featured/lldb-mcp) — LLDB MCP server
-- [jetbrains-debugger-mcp-plugin](https://freemcp.space/featured/jetbrains-debugger-m) — JetBrains IDE plugin giving coding agents programmatic control of the debugger.
 <!-- freemcp:end -->
 
 ---
