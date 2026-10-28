@@ -91,6 +91,15 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-observatory](https://freemcp.space/featured/mcp-observatory-2) — Free, MIT-licensed MCP security testing from ClearFrame. Scan, audit, compare, and review locally; continue in the ClearFrame CLI or Mac app.
+- [jvm-mcp-server](https://freemcp.space/featured/jvm-mcp-server) — This is an implementation project of a JVM-based MCP (Model Context Protocol) server. The project aims to provide a standardized MCP server implementation for the JVM platform, enabling AI models to better interact with the Java ecosystem.
+- [xcodebuild](https://freemcp.space/featured/xcodebuild) — MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
+- [PiloTY](https://freemcp.space/featured/piloty) — PiloTY: AI pilot for PTY operations via MCP - enables AI agents to control interactive terminals like a human
+- [godoc-mcp-server](https://freemcp.space/featured/godoc-mcp-server) — A mcp server provide infomation from pkg.go.dev. For all golang programmers
+- [HarmonyOS-mcp-server](https://freemcp.space/featured/harmonyos-mcp-server) — MCP server for manipulating HarmonyOS next devices.
+- [apifable](https://freemcp.space/featured/apifable) — MCP server that helps AI agents explore OpenAPI specs, search endpoints, and generate TypeScript types.
+- [scriptflow-mcp](https://freemcp.space/featured/scriptflow-mcp) —   Script workflow management via MCP. Converts AI workflows to persistent scripts, reducing tokens & delays while minimizing hallucination risks.
+- [TopicForge](https://freemcp.space/featured/topicforge) — Read-only MCP server for ROS2 and DDS robotics. Let an AI agent inspect topics, DDS participants, QoS mismatches and rosbags. No write path by architecture: it can never command your robot.
 - [mcp-server-bigquery](https://freemcp.space/featured/mcp-server-bigquery) — A Model Context Protocol server that provides access to BigQuery
 - [mcp-sqlite](https://freemcp.space/featured/mcp-sqlite) — 🐇 Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities
 - [suvadu](https://freemcp.space/featured/suvadu) — Shell history replacement with AI agent tracking and MCP server. Built in Rust, 100% local.
@@ -182,15 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [llm-token-tracker](https://freemcp.space/featured/llm-token-tracker) — Token usage tracker for OpenAI and Claude APIs with MCP support. Pass accurate API costs to your users.
 - [omega-brain-mcp](https://freemcp.space/featured/omega-brain-mcp) — Standalone MCP server — cross-session memory, 10-gate VERITAS build pipeline, cryptographic audit ledger, Cortex approval gate. Two files, one dependency.
 - [jsr-mcp](https://freemcp.space/featured/jsr-mcp) — Model Context Protocol server for the JSR (JavaScript Registry)
-- [ariadne](https://freemcp.space/featured/ariadne) — Fast local MCP server for deterministic cross-service API-chain discovery across REST, GraphQL, Kafka, TypeScript, and FastAPI.
-- [hocr_mcp_server](https://freemcp.space/featured/hocr-mcp-server) — Extract handwritten math formulas from uploaded images as LaTeX using a vision-language model, with a Vue frontend.
-- [mcp-gateway-scan](https://freemcp.space/featured/mcp-gateway-scan) — Read-only static scanner that scores MCP and agent-gateway repos on RBAC, fail-closed behavior, supply chain, observability, cost and secrets handling.
-- [clearjson](https://freemcp.space/featured/clearjson) — Large-file-safe JSON MCP server. Format, validate, search, JSONPath query, deep diff, and format conversion (CSV/TSV/YAML/TypeScript). 10 tools, zero dependencies.
-- [humanizer-ru](https://freemcp.space/featured/humanizer-ru) — Правит русский текст после нейросети и сверяет цифры, даты и имена. Навык для Claude Code, Codex, Cursor и Claude.ai
-- [augments-mcp-server](https://freemcp.space/featured/augments-mcp-server-2) — Comprehensive MCP server providing real-time framework documentation access for Claude Code with intelligent caching, multi-source integration, and context-aware assistance.
-- [mcp-trino](https://freemcp.space/featured/mcp-trino) — A high-performance Model Context Protocol (MCP) server for Trino implemented in Go.
-- [GoSQLX](https://freemcp.space/featured/gosqlx) — Pure-Go SQL parser, formatter, linter and security scanner for 8 dialects. Zero-copy, race-free, with an LSP and MCP server.
-- [src-to-kb](https://freemcp.space/featured/src-to-kb) — Convert source code to LLM ready knowledge base
 <!-- freemcp:end -->
 
 ---
