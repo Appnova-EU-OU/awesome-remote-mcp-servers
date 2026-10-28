@@ -1,0 +1,17 @@
+{
+  "name": "codegraph-brain",
+  "description": "Code graph for AI agents: impact analysis and call tracing over MCP (Python, TypeScript). Local, deterministic, SQLite.",
+  "git_url": "https://github.com/zaebee/codegraph-brain",
+  "author_github": "zaebee",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "callgraph",
+    "claudecode",
+    "codegraph",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/codegraph-brain/"
+}
