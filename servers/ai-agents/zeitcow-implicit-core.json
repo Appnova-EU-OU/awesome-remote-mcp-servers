@@ -1,0 +1,17 @@
+{
+  "name": "implicit-core",
+  "description": "Implicit is the experience layer for AI agents. For large agent training/evaluation environments, address experiences and materialize required state on demand. Python package: implicit-ai.",
+  "git_url": "https://github.com/zeitcow/implicit-core",
+  "author_github": "zeitcow",
+  "category": "ai-agents",
+  "tags": [
+    "agentevaluation",
+    "agentinfrastructure",
+    "agenttraining",
+    "aiagents",
+    "environmentvirtualization"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://zeitcow.github.io/implicit-core/"
+}
