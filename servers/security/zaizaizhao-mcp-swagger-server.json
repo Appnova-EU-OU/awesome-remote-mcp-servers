@@ -1,0 +1,16 @@
+{
+  "name": "mcp-swagger-server",
+  "description": "MCP Swagger Server 将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式，让 AI 助手能够理解和调用您的 API。",
+  "git_url": "https://github.com/zaizaizhao/mcp-swagger-server",
+  "author_github": "zaizaizhao",
+  "category": "security",
+  "tags": [
+    "mcp",
+    "mcpserver",
+    "openapi",
+    "openapimcp",
+    "swagger"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
