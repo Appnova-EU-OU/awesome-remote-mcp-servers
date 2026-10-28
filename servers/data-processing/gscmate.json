@@ -1,0 +1,11 @@
+﻿{
+  "name": "GSCmate",
+  "description": "Hosted remote MCP server for Google Search Console. Read-only access to search analytics, sitemap metadata, and URL inspection through per-user Google OAuth 2.1.",
+  "git_url": "https://github.com/Fushey/gscmate-mcp-listing",
+  "author_github": "Fushey",
+  "category": "data-processing",
+  "tags": ["google-search-console", "seo", "analytics", "remote", "oauth"],
+  "homepage": "https://gscmate.com",
+  "license": "Proprietary hosted service",
+  "status": "active"
+}
