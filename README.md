@@ -91,6 +91,15 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [eval-view](https://freemcp.space/featured/eval-view) — Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
+- [llm-router](https://freemcp.space/featured/llm-router) — Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cuts costs 35-80%.
+- [multi-ai-advisor-mcp](https://freemcp.space/featured/multi-ai-advisor-mcp) — council of models for decision
+- [mcp-swagger-server](https://freemcp.space/featured/mcp-swagger-server) — MCP Swagger Server 将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式，让 AI 助手能够理解和调用您的 API。
+- [mcp-typescribe](https://freemcp.space/featured/mcp-typescribe) — An MCP server implementation enabling LLMs to work with new APIs and frameworks
+- [ros-mcp](https://freemcp.space/featured/ros-mcp) — MCP server for ROS to control robots via topics, services, and actions.
+- [dotnet-template-mcp](https://freemcp.space/featured/dotnet-template-mcp) — MCP server wrapping the .NET Template Engine for AI-driven template discovery, inspection, and instantiation
+- [codegraph-brain](https://freemcp.space/zaebee/codegraph-brain) — Code graph for AI agents: impact analysis and call tracing over MCP (Python, TypeScript). Local, deterministic, SQLite.
+- [implicit-core](https://freemcp.space/featured/implicit-core) — Implicit is the experience layer for AI agents. For large agent training/evaluation environments, address experiences and materialize required state on demand. Python package: implicit-ai.
 - [mcp-observatory](https://freemcp.space/featured/mcp-observatory-2) — Free, MIT-licensed MCP security testing from ClearFrame. Scan, audit, compare, and review locally; continue in the ClearFrame CLI or Mac app.
 - [jvm-mcp-server](https://freemcp.space/featured/jvm-mcp-server) — This is an implementation project of a JVM-based MCP (Model Context Protocol) server. The project aims to provide a standardized MCP server implementation for the JVM platform, enabling AI models to better interact with the Java ecosystem.
 - [xcodebuild](https://freemcp.space/featured/xcodebuild) — MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
@@ -132,7 +141,7 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ramen](https://freemcp.space/bulkguy47/ramen) — Self-hosted, multi-zone MCP server platform for GKE, EKS and AKS. A git repo of Python tools becomes canary-deployed, autoscaled Rust + Python workers with NeMo guardrails per tool, Entra ID / Google Workspace SSO, custom roles, OAuth 2.1, secrets, IP rules and audit. Clients on macOS, Windows and Linux.
 - [caishi](https://freemcp.space/featured/caishi) — 采诗 · 给 AI 用的中文互联网能力包：一条命令读抖音/B站/小红书/公众号/知乎/头条等 33 站（满配 40）| Read the Chinese internet from your AI agent. Read-only, reuses your browser sessions.
 - [formfeed](https://freemcp.space/featured/formfeed) — Formfeed client libraries, CLI, development kit and integrations: PDF and image generation from templates
-- [gaussdb-ro-mcp](https://freemcp.space/featured/gaussdb-ro-mcp) — Read-only MCP server for GaussDB, built for coding agents.
+- [gaussdb-ro-mcp](https://freemcp.space/gxc/gaussdb-ro-mcp) — Read-only MCP server for GaussDB, built for coding agents.
 - [kafka-mcp](https://freemcp.space/featured/kafka-mcp-2) — MCP server that exposes Kafka debugging to an LLM: find messages, measure lag, unblock consumers. Read-only endpoints, previews before writes.
 - [wraps-js](https://freemcp.space/featured/wraps-js) — TypeScript SDKs for AWS SES and SMS, plus an MCP server that lets AI agents send email from your own AWS account
 - [Agent-Uplink](https://freemcp.space/featured/agent-uplink) —  Let your AI sessions talk to each other — locally. MCP server + local hub that gives Claude Code / Claude Desktop sessions role accounts, private DMs, and shared channels.
@@ -182,15 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [lauther-js](https://freemcp.space/featured/lauther-js) — Node client and MCP server for Lauther — push notifications and human approvals for anything that can make an HTTP request.
 - [hackerearth-mcp](https://freemcp.space/featured/hackerearth-mcp) — MCP server that executes code in 24 languages on HackerEarth sandboxed cloud servers, so AI assistants run code and see real output instead of predicting it.
 - [amplerun-mcp](https://freemcp.space/featured/amplerun-mcp) — MCP server for AmpleRun: AI agents find, rent and pay for GPUs (USDC on Base, x402), register their own account, and host their owner's GPU.
-- [krds-a11y-mcp](https://freemcp.space/featured/krds-a11y-mcp) — KRDS 컴포넌트를 KWCAG 2.2 접근성 조건과 함께 공급하고, 위반이 남으면 AI의 작업 종료를 막는 MCP 서버
-- [taskbullet-mcp-server](https://freemcp.space/featured/taskbullet-mcp-serve) — MCP server for AI agents to place real human phone calls (structured answers back) and delegate tasks to human virtual assistants via TaskBullet.
-- [suprsonic-mcp](https://freemcp.space/featured/suprsonic-mcp) — Suprsonic MCP server. Gives any AI agent dozens of capabilities through one connection.
-- [mcp_server_ros_2](https://freemcp.space/featured/mcp-server-ros-2) — ROS2 MCP: the MCP server that lets AI agents see, understand and operate ROS 2 robots. MPL-2.0.
-- [claude-faf-mcp](https://freemcp.space/featured/claude-faf-mcp) — Persistent Project Context for Claude — IANA-registered .faf format · Core 14 MCP tools (30 with FAF_TOOLS=all) + 2 prompts · MCP Registry #2759
-- [faf-mcp](https://freemcp.space/featured/faf-mcp) — Persistent Project Context for Cursor, IDEs and VS Code — IANA-registered .faf format · 29 tools
-- [llm-token-tracker](https://freemcp.space/featured/llm-token-tracker) — Token usage tracker for OpenAI and Claude APIs with MCP support. Pass accurate API costs to your users.
-- [omega-brain-mcp](https://freemcp.space/featured/omega-brain-mcp) — Standalone MCP server — cross-session memory, 10-gate VERITAS build pipeline, cryptographic audit ledger, Cortex approval gate. Two files, one dependency.
-- [jsr-mcp](https://freemcp.space/featured/jsr-mcp) — Model Context Protocol server for the JSR (JavaScript Registry)
 <!-- freemcp:end -->
 
 ---
