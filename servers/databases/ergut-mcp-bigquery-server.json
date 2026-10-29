@@ -1,0 +1,16 @@
+{
+  "name": "mcp-bigquery-server",
+  "description": "A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery datasets. Enables Large Language Models (LLMs) to safely query and analyze data through a standardized interface.",
+  "git_url": "https://github.com/ergut/mcp-bigquery-server",
+  "author_github": "ergut",
+  "category": "databases",
+  "tags": [
+    "bigquery",
+    "googlecloud",
+    "mcp",
+    "mcpservers",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
