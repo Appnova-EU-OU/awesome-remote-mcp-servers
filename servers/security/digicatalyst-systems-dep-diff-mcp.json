@@ -1,0 +1,16 @@
+{
+  "name": "dep-diff-mcp",
+  "description": "MCP server that reads dependency changelogs and tells you what's risky in an upgrade.",
+  "git_url": "https://github.com/DigiCatalyst-Systems/dep-diff-mcp",
+  "author_github": "DigiCatalyst-Systems",
+  "category": "security",
+  "tags": [
+    "changelog",
+    "claude",
+    "cursor",
+    "dependabot",
+    "dependencies"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
