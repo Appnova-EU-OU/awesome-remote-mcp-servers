@@ -1,0 +1,16 @@
+{
+  "name": "mcp-zenml",
+  "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
+  "git_url": "https://github.com/zenml-io/mcp-zenml",
+  "author_github": "zenml-io",
+  "category": "ai-agents",
+  "tags": [
+    "llmops",
+    "mcp",
+    "mcpserver",
+    "mlops"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.zenml.io"
+}
