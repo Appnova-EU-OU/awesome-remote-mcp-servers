@@ -1,0 +1,17 @@
+{
+  "name": "codex-claude-council",
+  "description": "Two AIs. One answer. ChatGPT and Claude discuss with each other until they agree, through your own signed-in CLIs: no API keys. Both read your project (never change it) and search the web. Plugin for Claude Code, Codex, Claude Desktop and the ChatGPT app.",
+  "git_url": "https://github.com/hamza-aziz-ai/codex-claude-council",
+  "author_github": "hamza-aziz-ai",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "chatgpt",
+    "claude",
+    "claudecode",
+    "claudecodeplugin"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/codex-claude-council"
+}
