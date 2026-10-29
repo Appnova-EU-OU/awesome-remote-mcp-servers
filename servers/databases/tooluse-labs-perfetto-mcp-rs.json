@@ -1,0 +1,17 @@
+{
+  "name": "perfetto-mcp-rs",
+  "description": "Perfetto trace analysis via MCP — PerfettoSQL queries plus dedicated Chrome tools for scroll jank, page loads, and main-thread hotspots",
+  "git_url": "https://github.com/tooluse-labs/perfetto-mcp-rs",
+  "author_github": "tooluse-labs",
+  "category": "databases",
+  "tags": [
+    "android",
+    "anthropic",
+    "chrome",
+    "chromium",
+    "claudecode"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://glama.ai/mcp/servers/tooluse-labs/perfetto-mcp-rs"
+}
