@@ -1,0 +1,16 @@
+{
+  "name": "vs-token-safer",
+  "description": "Token-saving code search for AI coding agents — TypeScript, JavaScript & Python (zero setup), C#, C++, Go & 30+ more, via a language-server or tree-sitter index instead of grep. Local-only, no IDE. Claude Code plugin + MCP + CLI.",
+  "git_url": "https://github.com/JSungMin/vs-token-safer",
+  "author_github": "JSungMin",
+  "category": "search",
+  "tags": [
+    "clangd",
+    "claudecode",
+    "codesearch",
+    "cpp",
+    "csharp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
