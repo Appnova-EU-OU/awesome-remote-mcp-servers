@@ -1,0 +1,17 @@
+{
+  "name": "graphpilot",
+  "description": "Structural memory for coding agents — index your repo once, query symbols, callers, and call-edges over MCP.",
+  "git_url": "https://github.com/graphpilot-oss/graphpilot",
+  "author_github": "graphpilot-oss",
+  "category": "ai-agents",
+  "tags": [
+    "claudecode",
+    "codeanalysis",
+    "codingagents",
+    "developertools",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/graphpilot-oss/graphpilot"
+}
