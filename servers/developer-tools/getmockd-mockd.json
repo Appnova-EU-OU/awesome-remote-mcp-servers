@@ -1,0 +1,17 @@
+{
+  "name": "mockd",
+  "description": "High-performance, multi-protocol mock server. HTTP, WebSocket, gRPC, MQTT, SSE, GraphQL, SOAP in one binary.",
+  "git_url": "https://github.com/getmockd/mockd",
+  "author_github": "getmockd",
+  "category": "developer-tools",
+  "tags": [
+    "apimocking",
+    "chaosengineering",
+    "cli",
+    "developertools",
+    "golang"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://mockd.io"
+}
