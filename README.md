@@ -91,6 +91,15 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-bigquery-server](https://freemcp.space/featured/mcp-bigquery-server) — A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery datasets. Enables Large Language Models (LLMs) to safely query and analyze data through a standardized interface.
+- [asc-mcp](https://freemcp.space/featured/asc-mcp-2) — MCP server for App Store Connect API - 502 tools for apps, builds, TestFlight, subscriptions, Xcode Cloud, and more from Claude, Cursor, VS Code, or any MCP client
+- [auto-mobile](https://freemcp.space/featured/auto-mobile) — Mobile automation suite of tools including an MCP and libraries for test authoring & execution
+- [mcp-zenml](https://freemcp.space/featured/mcp-zenml) — MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines
+- [perfetto-mcp-rs](https://freemcp.space/featured/perfetto-mcp-rs) — Perfetto trace analysis via MCP — PerfettoSQL queries plus dedicated Chrome tools for scroll jank, page loads, and main-thread hotspots
+- [garmin-documentation-mcp-server](https://freemcp.space/featured/garmin-documentation) — MCP server for Garmin Connect IQ API documentation - complete offline access to SDK 8.2.3
+- [jaeger-mcp](https://freemcp.space/featured/jaeger-mcp) — MCP server for Jaeger — search traces, inspect spans, map service dependencies
+- [dep-diff-mcp](https://freemcp.space/featured/dep-diff-mcp) — MCP server that reads dependency changelogs and tells you what's risky in an upgrade.
+- [drwhome](https://freemcp.space/featured/drwhome) — drwho.me: free DNS, email, TLS and developer tools, and a free MCP server for AI agents
 - [eval-view](https://freemcp.space/featured/eval-view) — Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - [llm-router](https://freemcp.space/featured/llm-router) — Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cuts costs 35-80%.
 - [multi-ai-advisor-mcp](https://freemcp.space/featured/multi-ai-advisor-mcp) — council of models for decision
@@ -182,15 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [shotbox](https://freemcp.space/featured/shotbox) — Eyes, ears and hands for AI agents on GUI programs: a sealed X11 or Wayland session where an agent (over MCP), a script or CI reads the accessibility tree, takes screenshots, records video and sound, clicks, types and drives gamepads, then checks contrast, Tab order, visual diffs, flicker, input latency and audio dropouts. CLI, Python, Playwright.
 - [AgentNexus](https://freemcp.space/featured/agentnexus) — Continuously verified registry of the APIs, MCP servers and CLIs that AI agents call — live health checks, reliability history, and an anonymous MCP endpoint agents can connect to without a consent screen.
 - [agent-stack-directory](https://freemcp.space/featured/agent-stack-director) — MCP server and open dataset for Agent Stack Directory: 54 checked tools for AI agents.
-- [fauxgen-mcp](https://freemcp.space/featured/fauxgen-mcp) — FauxGen MCP — fake identities, addresses & test data for Cursor, Claude and any MCP host
-- [pkg-health-mcp](https://freemcp.space/featured/pkg-health-mcp) — Is this dependency still maintained? MCP server, CLI and GitHub Action that score npm packages, PyPI packages and GitHub repos 0–100 for maintenance health, with an A–F grade and plain-language risks. Works with Claude, Cursor and VS Code.
-- [agentsensor](https://freemcp.space/featured/agentsensor) — Zero-config dev server & browser runtime error sensor for AI coding agents (Claude Code, Codex, Cursor, Antigravity) via MCP.
-- [AgentKit](https://freemcp.space/featured/agentkit) — Governed MCP server and agent runtime: signed action approvals, typed tool effects and audit logs for Claude Desktop, Cursor and custom agents.
-- [lagaam](https://freemcp.space/featured/lagaam) — MCP server that stops an AI agent's Trino or Pinot query before it stalls your shared cluster: priced from the engine's own plan, refused with a fix the agent can act on
-- [scrupp-mcp-server](https://freemcp.space/featured/scrupp-mcp-server) — MCP server for Scrupp — export LinkedIn, Sales Navigator and Apollo searches, find decision makers, find and verify work emails
-- [lauther-js](https://freemcp.space/featured/lauther-js) — Node client and MCP server for Lauther — push notifications and human approvals for anything that can make an HTTP request.
-- [hackerearth-mcp](https://freemcp.space/featured/hackerearth-mcp) — MCP server that executes code in 24 languages on HackerEarth sandboxed cloud servers, so AI assistants run code and see real output instead of predicting it.
-- [amplerun-mcp](https://freemcp.space/featured/amplerun-mcp) — MCP server for AmpleRun: AI agents find, rent and pay for GPUs (USDC on Base, x402), register their own account, and host their owner's GPU.
 <!-- freemcp:end -->
 
 ---
