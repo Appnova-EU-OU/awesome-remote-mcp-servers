@@ -1,0 +1,13 @@
+{
+  "name": "pyATS_MCP",
+  "description": "An MCP Server for pyATS (experimental)",
+  "git_url": "https://github.com/automateyournetwork/pyATS_MCP",
+  "author_github": "automateyournetwork",
+  "category": "developer-tools",
+  "tags": [
+    "pyats",
+    "experimental"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
