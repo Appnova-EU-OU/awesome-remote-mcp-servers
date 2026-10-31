@@ -1,0 +1,17 @@
+{
+  "name": "sigrank-mcp",
+  "description": "SigRank MCP — AI operator evaluation and token cascade efficiency tools. The yield cascade + live leaderboard as MCP tools any agent can call. On-device token scanner + tabbed TUI dashboard. npm i -g sigrank",
+  "git_url": "https://github.com/SunrisesIllNeverSee/sigrank-mcp",
+  "author_github": "SunrisesIllNeverSee",
+  "category": "ai-agents",
+  "tags": [
+    "agenttools",
+    "ai",
+    "aiagents",
+    "anthropic",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://signalaf.com"
+}
