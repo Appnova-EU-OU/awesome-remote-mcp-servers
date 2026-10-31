@@ -1,0 +1,16 @@
+{
+  "name": "hooksense-mcp",
+  "description": "MCP server for HookSense — the webhook & callback layer for AI agents",
+  "git_url": "https://github.com/ozers/hooksense-mcp",
+  "author_github": "ozers",
+  "category": "ai-agents",
+  "tags": [
+    "hooksense",
+    "webhook",
+    "callback",
+    "layer",
+    "agents"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
