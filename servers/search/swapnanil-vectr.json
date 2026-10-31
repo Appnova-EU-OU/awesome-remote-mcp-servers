@@ -1,0 +1,17 @@
+{
+  "name": "vectr",
+  "description": "Semantic codebase search + persistent working memory for AI code editors. Local, zero-config, MCP. No API key.",
+  "git_url": "https://github.com/swapnanil/vectr",
+  "author_github": "swapnanil",
+  "category": "search",
+  "tags": [
+    "aitools",
+    "codesearch",
+    "developertools",
+    "embeddings",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://swapnanilsaha.com/tools/vectr"
+}
