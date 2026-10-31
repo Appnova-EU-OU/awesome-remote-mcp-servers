@@ -1,0 +1,17 @@
+{
+  "name": "rlg",
+  "description": "Near-lock-free structured logging for Rust: a 65,536-slot ring buffer, formatting deferred to a background thread, 14 output formats (JSON, ECS, GELF, OTLP, logfmt…) and native os_log/journald sinks. Plus an OTLP/HTTP exporter, an MCP server for AI agents, Tower middleware, PII redaction, WebAssembly bindings and a jq-style CLI.",
+  "git_url": "https://github.com/sebastienrousseau/rlg",
+  "author_github": "sebastienrousseau",
+  "category": "security",
+  "tags": [
+    "cli",
+    "journald",
+    "jsonlogging",
+    "lockfree",
+    "loganalysis"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://doc.rustlogs.com/"
+}
