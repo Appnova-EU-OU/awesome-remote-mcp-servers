@@ -1,0 +1,16 @@
+{
+  "name": "K8s-AIops",
+  "description": "Standalone governed Kubernetes ops — 15 MCP tools with built-in audit/budget/undo/risk-tier harness",
+  "git_url": "https://github.com/AIops-tools/K8s-AIops",
+  "author_github": "AIops-tools",
+  "category": "cloud-infra",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "containers",
+    "k3s",
+    "kubernetes"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
