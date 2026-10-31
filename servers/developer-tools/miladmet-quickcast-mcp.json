@@ -1,0 +1,16 @@
+{
+  "name": "quickcast-mcp",
+  "description": "QuickCast Screen-to-Action Protocol MCP Server: Automated Bug Reports, Playwright E2E Tests, and SOP Generator from Screen Recordings.",
+  "git_url": "https://github.com/Miladmet/quickcast-mcp",
+  "author_github": "Miladmet",
+  "category": "developer-tools",
+  "tags": [
+    "bugreporting",
+    "claudedesktop",
+    "cursor",
+    "e2etesting",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
