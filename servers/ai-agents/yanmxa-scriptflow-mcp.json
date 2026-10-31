@@ -1,0 +1,16 @@
+{
+  "name": "scriptflow-mcp",
+  "description": "  Script workflow management via MCP. Converts AI workflows to persistent scripts, reducing tokens & delays while minimizing hallucination risks.",
+  "git_url": "https://github.com/yanmxa/scriptflow-mcp",
+  "author_github": "yanmxa",
+  "category": "ai-agents",
+  "tags": [
+    "agenticworkflows",
+    "aioptimization",
+    "mcp",
+    "scriptmanagement",
+    "tokenreduction"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
