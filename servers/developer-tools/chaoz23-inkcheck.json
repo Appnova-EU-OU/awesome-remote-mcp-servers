@@ -1,0 +1,16 @@
+{
+  "name": "inkcheck",
+  "description": "CI for ink stories — compile checks, exhaustive branch playtesting, dead-content detection. MCP server + CLI.",
+  "git_url": "https://github.com/chaoz23/inkcheck",
+  "author_github": "chaoz23",
+  "category": "developer-tools",
+  "tags": [
+    "ci",
+    "ink",
+    "inkle",
+    "interactivefiction",
+    "interactivefictionengine"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
