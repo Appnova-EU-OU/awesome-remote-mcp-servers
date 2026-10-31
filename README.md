@@ -91,6 +91,15 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mockd](https://freemcp.space/featured/mockd) — High-performance, multi-protocol mock server. HTTP, WebSocket, gRPC, MQTT, SSE, GraphQL, SOAP in one binary.
+- [grafema](https://freemcp.space/featured/grafema) — Graph-based static analysis tool
+- [OctoCounts](https://freemcp.space/featured/octocounts) — Count lines of code (SLOC) in any public GitHub repo without cloning: web app, browser extension, CLI, GitHub Action and MCP server, powered by tokei. The SLOC panel GitHub forgot.
+- [graphpilot](https://freemcp.space/featured/graphpilot) — Structural memory for coding agents — index your repo once, query symbols, callers, and call-edges over MCP.
+- [vs-token-safer](https://freemcp.space/featured/vs-token-safer) — Token-saving code search for AI coding agents — TypeScript, JavaScript & Python (zero setup), C#, C++, Go & 30+ more, via a language-server or tree-sitter index instead of grep. Local-only, no IDE. Claude Code plugin + MCP + CLI.
+- [cpp26-adapter](https://freemcp.space/featured/cpp26-adapter) — Claude Code plugin that turns Claude into a C++26 specialist. Standard-first suggestions; compiler-honest verification.
+- [opn-mcp](https://freemcp.space/featured/opn-mcp) — MCP server for opn.onl — shorten links, read analytics & manage links from AI assistants. Works with the hosted service or your self-hosted instance.
+- [mcp-domain-deliverability-checker](https://freemcp.space/featured/mcp-domain-deliverab) — MCP server for the Mamba Labs Domain Deliverability Checker actor: SPF, DKIM, DMARC, MX, blacklist, catch-all, domain age. Clay-ready.
+- [mcp-abacus](https://freemcp.space/featured/mcp-abacus) — High-precision calculator MCP server — goes beyond arithmetic to calculus (derivatives, integrals) and equation solving, all evaluated in fixed-point, IEEE-754, or exact rational mode with every answer labelled exact or inexact.
 - [mcp-bigquery-server](https://freemcp.space/featured/mcp-bigquery-server) — A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery datasets. Enables Large Language Models (LLMs) to safely query and analyze data through a standardized interface.
 - [asc-mcp](https://freemcp.space/featured/asc-mcp-2) — MCP server for App Store Connect API - 502 tools for apps, builds, TestFlight, subscriptions, Xcode Cloud, and more from Claude, Cursor, VS Code, or any MCP client
 - [auto-mobile](https://freemcp.space/featured/auto-mobile) — Mobile automation suite of tools including an MCP and libraries for test authoring & execution
@@ -182,15 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcpcost](https://freemcp.space/featured/mcpcost) — Is that MCP server alive, and what does it cost your context window? Daily health and exact token cost of every server in the MCP registry.
 - [mcpolyglot](https://freemcp.space/featured/mcpolyglot) — One MCP server for the databases and REST APIs you already have (Postgres, MySQL, SQLite, MongoDB, OpenAPI), with per-table policy, read-only enforcement, redaction and audit.
 - [swarmmemo](https://freemcp.space/featured/swarmmemo) — Talk with agent swarms. Public rooms, private messages, paid tasks and memory for your AI agent. Post from anywhere: MCP, HTTP, email, Nostr.
-- [capes](https://freemcp.space/featured/capes) — Superpowers for any AI: a free, self-hosted MCP server (Gmail, Discord, X) with a dashboard. Deploy to your own Vercel in minutes.
-- [opsgate](https://freemcp.space/featured/opsgate) — The safety gate between AI agents and your servers. An MCP server for structured, policy-checked, audited infrastructure operations.
-- [terse](https://freemcp.space/featured/terse-2) — Terse — an AI-native code language: a machine-designed, token-dense format for AI coding agents. Open source, Apache-2.0.
-- [nginx-proxy-manager-mcp](https://freemcp.space/featured/nginx-proxy-manager) — MCP server for Nginx Proxy Manager: automate proxy hosts, Let's Encrypt certificates, and access lists from Claude or any MCP client.
-- [ritoko](https://freemcp.space/featured/ritoko) — Resumable browser, HTTP API and MCP automation for AI agents. Replay CSV/Excel batches, verify results and hold uncertain writes for review.
-- [serato-dj-mcp](https://freemcp.space/featured/serato-dj-mcp) — Ask Claude or any AI assistant about your Serato DJ library: harmonic search by BPM and Camelot key, crate browsing, duplicate and missing-file audits, and new crates built with a preview before anything is written. Local, macOS. Not affiliated with Serato.
-- [shotbox](https://freemcp.space/featured/shotbox) — Eyes, ears and hands for AI agents on GUI programs: a sealed X11 or Wayland session where an agent (over MCP), a script or CI reads the accessibility tree, takes screenshots, records video and sound, clicks, types and drives gamepads, then checks contrast, Tab order, visual diffs, flicker, input latency and audio dropouts. CLI, Python, Playwright.
-- [AgentNexus](https://freemcp.space/featured/agentnexus) — Continuously verified registry of the APIs, MCP servers and CLIs that AI agents call — live health checks, reliability history, and an anonymous MCP endpoint agents can connect to without a consent screen.
-- [agent-stack-directory](https://freemcp.space/featured/agent-stack-director) — MCP server and open dataset for Agent Stack Directory: 54 checked tools for AI agents.
 <!-- freemcp:end -->
 
 ---
