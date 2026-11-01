@@ -1,0 +1,16 @@
+{
+  "name": "jsonfabrica-mcp-server",
+  "description": "Generate realistic, schema-conformant JSON test data (single documents or relational batches) from reusable templates via the JsonFabrica API.",
+  "git_url": "https://github.com/ms-methos/jsonfabrica-mcp-server",
+  "author_github": "ms-methos",
+  "category": "databases",
+  "tags": [
+    "jsonfabrica",
+    "generate",
+    "realistic",
+    "schema",
+    "conformant"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
