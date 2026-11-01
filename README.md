@@ -91,6 +91,15 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [argot](https://freemcp.space/featured/argot) — A statistical code analyzer built from your repository's history.
+- [rlg](https://freemcp.space/featured/rlg) — Near-lock-free structured logging for Rust: a 65,536-slot ring buffer, formatting deferred to a background thread, 14 output formats (JSON, ECS, GELF, OTLP, logfmt…) and native os_log/journald sinks. Plus an OTLP/HTTP exporter, an MCP server for AI agents, Tower middleware, PII redaction, WebAssembly bindings and a jq-style CLI.
+- [synapse-code-mcp](https://freemcp.space/featured/synapse-code-mcp) — Model Context Protocol server for code intelligence. Lets AI assistants explore your codebase on demand — semantic context with dependency graphs, compressed symbol indexes for TypeScript/JavaScript, plus git diffs and ripgrep-powered search across any language.
+- [inkcheck](https://freemcp.space/featured/inkcheck) — CI for ink stories — compile checks, exhaustive branch playtesting, dead-content detection. MCP server + CLI.
+- [vectr](https://freemcp.space/featured/vectr) — Semantic codebase search + persistent working memory for AI code editors. Local, zero-config, MCP. No API key.
+- [hooksense-mcp](https://freemcp.space/featured/hooksense-mcp) — MCP server for HookSense — the webhook & callback layer for AI agents
+- [klanex-mcp](https://freemcp.space/featured/klanex-mcp) — MCP server for klanex — reliable async execution for agent tool calls
+- [imagedimensions-mcp](https://freemcp.space/featured/imagedimensions-mcp) — MCP server that audits images on any web page — natural vs rendered dimensions, oversized-image detection, and format breakdown. Powered by imagedimensions.com.
+- [sigrank-mcp](https://freemcp.space/featured/sigrank-mcp) — SigRank MCP — AI operator evaluation and token cascade efficiency tools. The yield cascade + live leaderboard as MCP tools any agent can call. On-device token scanner + tabbed TUI dashboard. npm i -g sigrank
 - [mockd](https://freemcp.space/featured/mockd) — High-performance, multi-protocol mock server. HTTP, WebSocket, gRPC, MQTT, SSE, GraphQL, SOAP in one binary.
 - [grafema](https://freemcp.space/featured/grafema) — Graph-based static analysis tool
 - [OctoCounts](https://freemcp.space/featured/octocounts) — Count lines of code (SLOC) in any public GitHub repo without cloning: web app, browser extension, CLI, GitHub Action and MCP server, powered by tokei. The SLOC panel GitHub forgot.
@@ -182,15 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [ai-gateway-mcp](https://freemcp.space/featured/ai-gateway-mcp) — The provider's own price, right inside your chat. Make video, images and voice with 400+ Vercel AI Gateway models (Veo, Kling, Seedance, Nano Banana, GPT Image) from Claude, ChatGPT or any MCP app. Your own copy, your own credits, no markup.
 - [kitsune-mcp](https://freemcp.space/featured/kitsune-mcp) — Hot-reload for MCP servers: edit, reload(), call again in the same session. Plus mount any of 130k+ community servers mid-session, Docker-caged.
 - [gateonai-mcp-server](https://freemcp.space/featured/gateonai-mcp-server) —    MCP server for GateOnAI: search the AI tools listed on GateOnAI, compare them, build AI workflows, and find tools whose providers refer to the GDPR or state EU hosting on their own pages.
-- [gmail-mcp](https://freemcp.space/featured/gmail-mcp-2) — Self-hosted, owner-only Gmail MCP connector for multiple accounts over Streamable HTTP and OAuth.
-- [legwork](https://freemcp.space/featured/legwork) — Your AI finds the open-source tool it needs on GitHub. Legwork installs it in a sandbox.
-- [whatsapp-mcp](https://freemcp.space/featured/whatsapp-mcp-2) — Full-featured WhatsApp MCP server: Rust MCP server + Go whatsmeow bridge. 39 tools, resources, prompts, live notifications, multi-account, full-text search, raw media for your agent.
-- [ascended-browser](https://freemcp.space/featured/ascended-browser) — A real, hardened browser for AI agents (MCP server): verified actions, page reading, dev tools. Works with Claude Code, Codex, opencode.
-- [Octocrawl](https://freemcp.space/featured/octocrawl) — Octocrawl: readable Markdown and checked fields from public web pages, for AI agents, RAG and research. Failures come back with a reason. Self-host with REST, SDK or MCP.
-- [cairn-commons](https://freemcp.space/cairncommons/cairn-commons) — Cairn Commons participation tools: local MCP, agent skills and A2A schemas
-- [mcpcost](https://freemcp.space/featured/mcpcost) — Is that MCP server alive, and what does it cost your context window? Daily health and exact token cost of every server in the MCP registry.
-- [mcpolyglot](https://freemcp.space/featured/mcpolyglot) — One MCP server for the databases and REST APIs you already have (Postgres, MySQL, SQLite, MongoDB, OpenAPI), with per-table policy, read-only enforcement, redaction and audit.
-- [swarmmemo](https://freemcp.space/featured/swarmmemo) — Talk with agent swarms. Public rooms, private messages, paid tasks and memory for your AI agent. Post from anywhere: MCP, HTTP, email, Nostr.
 <!-- freemcp:end -->
 
 ---
