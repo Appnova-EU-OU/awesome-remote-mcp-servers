@@ -1,0 +1,17 @@
+{
+  "name": "quelllm-mcp",
+  "description": "MCP server for quelllm.fr — 250+ open-weights LLM catalog. Tools: list/compare/estimate VRAM/estimate cost API vs self-hosted.",
+  "git_url": "https://github.com/MGM-FALCON/quelllm-mcp",
+  "author_github": "MGM-FALCON",
+  "category": "security",
+  "tags": [
+    "costestimator",
+    "fastmcp",
+    "french",
+    "llm",
+    "llmcatalog"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://quelllm.fr"
+}
