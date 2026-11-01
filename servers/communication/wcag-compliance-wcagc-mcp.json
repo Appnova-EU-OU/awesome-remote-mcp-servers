@@ -1,0 +1,17 @@
+{
+  "name": "wcagc-mcp",
+  "description": "MCP server for wcagc — let Claude or ChatGPT run real axe-core accessibility scans (WCAG, EN 301 549, PDF/UA) through your own account.",
+  "git_url": "https://github.com/WCAG-Compliance/wcagc-mcp",
+  "author_github": "WCAG-Compliance",
+  "category": "communication",
+  "tags": [
+    "a11y",
+    "accessibility",
+    "axecore",
+    "en301549",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://wcagc.com/integrations/mcp"
+}
