@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server",
+  "description": "Pin visual feedback on any live web page and send it to Claude Code, Cursor or your AI agent.",
+  "git_url": "https://github.com/Yocoolab/mcp-server",
+  "author_github": "Yocoolab",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codereview",
+    "cursor",
+    "developertools"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
