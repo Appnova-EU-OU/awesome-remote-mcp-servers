@@ -1,0 +1,17 @@
+{
+  "name": "xlide_mcp",
+  "description": "Read, write, analyze and test the VBA inside Excel, Word, PowerPoint and Access files, and edit the document around it. No Office installation needed.",
+  "git_url": "https://github.com/WilliamSmithEdward/xlide_mcp",
+  "author_github": "WilliamSmithEdward",
+  "category": "ai-agents",
+  "tags": [
+    "agenttools",
+    "excel",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/xlide-mcp/"
+}
