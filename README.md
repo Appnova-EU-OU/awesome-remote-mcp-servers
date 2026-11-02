@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [qai-consultant](https://freemcp.space/featured/qai-consultant) — AI-powered QA Architect agent — generates ISTQB/OWASP/IEEE/ISO-grounded Test Strategies, Risk Registers, Effort Estimates & Test Plans via RAG. Cloud-hosted (Mistral API + Pinecone).
+- [diffgate](https://freemcp.space/featured/diffgate) — Triage for AI-generated code review: grades each changed diff line green/yellow/orange by impact, so reviewers spend attention where it matters. High-signal, low-noise (0 false blocks), deterministic — in your coding agent (MCP), editor (VS Code), and CLI/CI.
+- [ariadne](https://freemcp.space/featured/ariadne-2) — ariadne is an MCP (Model Context Protocol) server that provides AI agents with the ability to identify affected tests.
+- [jsonfabrica-mcp-server](https://freemcp.space/featured/jsonfabrica-mcp-serv) — Generate realistic, schema-conformant JSON test data (single documents or relational batches) from reusable templates via the JsonFabrica API.
+- [symfony-agent-mcp](https://freemcp.space/featured/symfony-agent-mcp) — Model Context Protocol server for Symfony applications — read-only introspection of routes, services, entities, controllers, database schema, migrations, composer packages and logs
+- [wcagc-mcp](https://freemcp.space/featured/wcagc-mcp) — MCP server for wcagc — let Claude or ChatGPT run real axe-core accessibility scans (WCAG, EN 301 549, PDF/UA) through your own account.
+- [quelllm-mcp](https://freemcp.space/featured/quelllm-mcp) — MCP server for quelllm.fr — 250+ open-weights LLM catalog. Tools: list/compare/estimate VRAM/estimate cost API vs self-hosted.
+- [packkit-mcp](https://freemcp.space/featured/packkit-mcp) — MCP server for Packkit — scaffold, upgrade & compose fullstack projects in any supported language (JS/TS, Python, Go) as a native AI-agent tool
 - [argot](https://freemcp.space/featured/argot) — A statistical code analyzer built from your repository's history.
 - [rlg](https://freemcp.space/featured/rlg) — Near-lock-free structured logging for Rust: a 65,536-slot ring buffer, formatting deferred to a background thread, 14 output formats (JSON, ECS, GELF, OTLP, logfmt…) and native os_log/journald sinks. Plus an OTLP/HTTP exporter, an MCP server for AI agents, Tower middleware, PII redaction, WebAssembly bindings and a jq-style CLI.
 - [synapse-code-mcp](https://freemcp.space/featured/synapse-code-mcp) — Model Context Protocol server for code intelligence. Lets AI assistants explore your codebase on demand — semantic context with dependency graphs, compressed symbol indexes for TypeScript/JavaScript, plus git diffs and ripgrep-powered search across any language.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [groundmail-mcp](https://freemcp.space/featured/groundmail-mcp) — MCP server for Groundmail transactional email: send email, check delivery and set up sending domains from Claude, ChatGPT, Cursor and any MCP client. Hosted with OAuth at mcp.groundmail.dev.
 - [impreza-mcp](https://freemcp.space/featured/impreza-mcp) — MCP server for Impreza Host: deploy custom apps to managed VPSes from your AI editor.
 - [mcp-server](https://freemcp.space/featured/mcp-server-24) — Hostsmith MCP Server
-- [TrueNAS-AIops](https://freemcp.space/featured/truenas-aiops) — Governed TrueNAS SCALE operations — pools, datasets, snapshots, disks, alerts, and services (25 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.
-- [Proxy-AIops](https://freemcp.space/featured/proxy-aiops) — Governed AI-ops for Traefik + Caddy + HAProxy reverse proxies / load balancers: routes, services, up
-- [biolit-mcp](https://freemcp.space/featured/biolit-mcp) — Citation-grounded biomedical literature review over PubMed, Europe PMC, NCBI Gene and UniProt, with a citation-accuracy benchmark.
-- [luw-mcp](https://freemcp.space/featured/luw-mcp) — Official Luw.ai MCP server: AI interior, exterior & landscape design, renders, video and 3D for Claude, Cursor, VS Code and any MCP client. 
-- [canvaskeep-mcp](https://freemcp.space/featured/canvaskeep-mcp) — MCP server for CanvasKeep: let Claude Code, Codex and other AI tools generate Excalidraw diagrams in your workspace
-- [ai-gateway-mcp](https://freemcp.space/featured/ai-gateway-mcp) — The provider's own price, right inside your chat. Make video, images and voice with 400+ Vercel AI Gateway models (Veo, Kling, Seedance, Nano Banana, GPT Image) from Claude, ChatGPT or any MCP app. Your own copy, your own credits, no markup.
-- [kitsune-mcp](https://freemcp.space/featured/kitsune-mcp) — Hot-reload for MCP servers: edit, reload(), call again in the same session. Plus mount any of 130k+ community servers mid-session, Docker-caged.
-- [gateonai-mcp-server](https://freemcp.space/featured/gateonai-mcp-server) —    MCP server for GateOnAI: search the AI tools listed on GateOnAI, compare them, build AI workflows, and find tools whose providers refer to the GDPR or state EU hosting on their own pages.
 <!-- freemcp:end -->
 
 ---
