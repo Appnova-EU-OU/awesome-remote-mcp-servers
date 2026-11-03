@@ -91,8 +91,16 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-unifi-applications](https://freemcp.space/featured/mcp-unifi-applicatio) — UniFi MCP server that makes the official UniFi API documentation (Network, Protect, Site Manager, InnerSpace) queryable by AI agents — endpoint search, schema drill-down, code examples in 5 languages. Read-only, no controller credentials.
+- [xlide_mcp](https://freemcp.space/featured/xlide-mcp) — Read, write, analyze and test the VBA inside Excel, Word, PowerPoint and Access files, and edit the document around it. No Office installation needed.
+- [workspace-metabolism](https://freemcp.space/featured/workspace-metabolism) — Govern what Claude Code, Codex, Aider and OpenClaw leave in your workspace: one JSON policy file, audit, recyclable clean, rollback, hash-chained audit trail.
+- [mcp-server](https://freemcp.space/featured/mcp-server-25) — Pin visual feedback on any live web page and send it to Claude Code, Cursor or your AI agent.
+- [crapkit](https://freemcp.space/featured/crapkit) — Per-function CRAP scores from complexity and coverage, churn-ranked worklists, and ratchet gates for code changes. CLI, MCP, and GitHub Action.
+- [anyhook-mcp](https://freemcp.space/featured/anyhook-mcp) — MCP server + signature verification for AnyHook, the webhook relay with a keyless quickstart (npx -y anyhook-mcp)
+- [magzdown-agent-tools](https://freemcp.space/featured/magzdown-agent-tools) — Give any AI agent a way to hand humans a typeset document link (Claude Code skill, Cursor rule, MCP server)
+- [sensorium](https://freemcp.space/featured/sensorium) — Record a program run, then let coding agents query the trace over MCP. Python, Rust, TypeScript.
 - [qai-consultant](https://freemcp.space/featured/qai-consultant) — AI-powered QA Architect agent — generates ISTQB/OWASP/IEEE/ISO-grounded Test Strategies, Risk Registers, Effort Estimates & Test Plans via RAG. Cloud-hosted (Mistral API + Pinecone).
-- [diffgate](https://freemcp.space/featured/diffgate) — Triage for AI-generated code review: grades each changed diff line green/yellow/orange by impact, so reviewers spend attention where it matters. High-signal, low-noise (0 false blocks), deterministic — in your coding agent (MCP), editor (VS Code), and CLI/CI.
+- [diffgate](https://freemcp.space/saurabh-acharya/diffgate) — Triage for AI-generated code review: grades each changed diff line green/yellow/orange by impact, so reviewers spend attention where it matters. High-signal, low-noise (0 false blocks), deterministic — in your coding agent (MCP), editor (VS Code), and CLI/CI.
 - [ariadne](https://freemcp.space/featured/ariadne-2) — ariadne is an MCP (Model Context Protocol) server that provides AI agents with the ability to identify affected tests.
 - [jsonfabrica-mcp-server](https://freemcp.space/featured/jsonfabrica-mcp-serv) — Generate realistic, schema-conformant JSON test data (single documents or relational batches) from reusable templates via the JsonFabrica API.
 - [symfony-agent-mcp](https://freemcp.space/featured/symfony-agent-mcp) — Model Context Protocol server for Symfony applications — read-only introspection of routes, services, entities, controllers, database schema, migrations, composer packages and logs
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [shipback-sftp](https://freemcp.space/featured/shipback-sftp) — Deploy to cPanel. Undo in one command.
 - [agentgo-mcp](https://freemcp.space/featured/agentgo-mcp) — MCP server for AgentGo, the browser your AI agent drives: compact page outlines, diff-only replies, real input, human approval. MIT.
 - [signdocs-mcp-server](https://freemcp.space/featured/signdocs-mcp-server) — Servidor MCP oficial da SignDocs Brasil: assinatura eletrônica e digital com ICP-Brasil, biometria e OTP direto de agentes de IA. Official MCP server for the SignDocs Brasil e-signature API — signing sessions, envelopes, document verification.
-- [qualien-mcp](https://freemcp.space/featured/qualien-mcp) — A composite MCP gateway that aggregates multiple MCP servers behind one connection — curated for SDET/QE workflows.
-- [The-top-innovation](https://freemcp.space/featured/the-top-innovation) — Lossless context guard for AI coding agents: outlines big files and digests noisy command output, nothing lost.
-- [sqlite-mcp-server](https://freemcp.space/featured/sqlite-mcp-server) — A lightweight Model Context Protocol (MCP) server for inspecting and querying local SQLite databases safely.
-- [mcp-creator-lead-list-all-in-one](https://freemcp.space/featured/mcp-creator-lead-lis) — Keywords or handles in, a finished influencer lead list with contact details out.
-- [Selfhost-Remote-Mail-MCP](https://freemcp.space/featured/selfhost-remote-mail) — Use your own email from Claude, ChatGPT, Codex and other AI apps, on computer and phone. Self-hosted IMAP/SMTP MCP server: no middleman, OPEN SOURCE, encrypted connections and uploads, no tracking, sending only when you say so. Drop a file in the chat to email it, up to 5 mailboxes, add-ons.
-- [groundmail-mcp](https://freemcp.space/featured/groundmail-mcp) — MCP server for Groundmail transactional email: send email, check delivery and set up sending domains from Claude, ChatGPT, Cursor and any MCP client. Hosted with OAuth at mcp.groundmail.dev.
-- [impreza-mcp](https://freemcp.space/featured/impreza-mcp) — MCP server for Impreza Host: deploy custom apps to managed VPSes from your AI editor.
-- [mcp-server](https://freemcp.space/featured/mcp-server-24) — Hostsmith MCP Server
 <!-- freemcp:end -->
 
 ---
