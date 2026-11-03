@@ -1,0 +1,17 @@
+{
+  "name": "mcp-yango-delivery",
+  "description": "MCP server for the Yango Delivery B2B Express (Claims) API: quote, book and track courier deliveries from an AI app",
+  "git_url": "https://github.com/A1-x-Tech/mcp-yango-delivery",
+  "author_github": "A1-x-Tech",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claude",
+    "codex",
+    "courier",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://t.me/a1_mcp"
+}
