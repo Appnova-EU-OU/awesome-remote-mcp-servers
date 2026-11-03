@@ -1,0 +1,17 @@
+{
+  "name": "mcp-yandex-dostavka",
+  "description": "MCP server for the Yandex Delivery (Dostavka) B2B API: calculate cost, create and track courier, pickup point and parcel locker shipments from an AI app",
+  "git_url": "https://github.com/A1-x-Tech/mcp-yandex-dostavka",
+  "author_github": "A1-x-Tech",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "codex",
+    "courier",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://t.me/a1_mcp"
+}
