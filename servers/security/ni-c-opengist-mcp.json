@@ -1,0 +1,17 @@
+{
+  "name": "opengist-mcp",
+  "description": "MCP server for Opengist, the self-hosted pastebin powered by Git",
+  "git_url": "https://github.com/ni-c/opengist-mcp",
+  "author_github": "ni-c",
+  "category": "security",
+  "tags": [
+    "claude",
+    "gist",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://opengist-mcp.ni-c.de"
+}
