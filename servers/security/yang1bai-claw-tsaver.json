@@ -1,0 +1,15 @@
+{
+  "name": "claw-tsaver",
+  "description": "A token-saving MCP proxy for OpenClaw users. Cuts tool call payloads by 90%+ via lazy expansion.",
+  "git_url": "https://github.com/Yang1Bai/claw-tsaver",
+  "author_github": "Yang1Bai",
+  "category": "security",
+  "tags": [
+    "mcp",
+    "openai",
+    "python",
+    "tokenoptimization"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
