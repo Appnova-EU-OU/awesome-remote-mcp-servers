@@ -1,0 +1,17 @@
+{
+  "name": "royalmail-mcp",
+  "description": "Book, label, track and cancel Royal Mail and Parcelforce shipments from any MCP-compatible AI.",
+  "git_url": "https://github.com/catrinmdonnelly/royalmail-mcp",
+  "author_github": "catrinmdonnelly",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claude",
+    "ecommerce",
+    "logistics",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://parceltoolkit.com/"
+}
