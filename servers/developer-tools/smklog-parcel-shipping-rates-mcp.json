@@ -1,0 +1,17 @@
+{
+  "name": "parcel-shipping-rates-mcp",
+  "description": "MCP server for live USPS, UPS and FedEx rates on a parcel sent from the US: domestic, Canada, UK, Germany, Australia. No scale, no account, no API key.",
+  "git_url": "https://github.com/smklog/parcel-shipping-rates-mcp",
+  "author_github": "smklog",
+  "category": "developer-tools",
+  "tags": [
+    "dhl",
+    "ecommerce",
+    "fedex",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://smklog.com/api"
+}
