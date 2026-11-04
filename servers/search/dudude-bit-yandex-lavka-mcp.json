@@ -1,0 +1,16 @@
+{
+  "name": "yandex-lavka-mcp",
+  "description": "Unofficial MCP server for ordering Yandex Lavka groceries from an AI assistant (search, cart, checkout with confirmation)",
+  "git_url": "https://github.com/Dudude-bit/yandex-lavka-mcp",
+  "author_github": "Dudude-bit",
+  "category": "search",
+  "tags": [
+    "yandex",
+    "lavka",
+    "unofficial",
+    "ordering",
+    "groceries"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
