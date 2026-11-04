@@ -1,0 +1,17 @@
+{
+  "name": "peckish",
+  "description": "Order food and groceries on DoorDash via its CLI (macOS arm64): search stores, compare fee-included totals, build carts; orders need user approval.",
+  "git_url": "https://github.com/CydVilla/peckish",
+  "author_github": "CydVilla",
+  "category": "search",
+  "tags": [
+    "aiagent",
+    "anthropic",
+    "claude",
+    "doordash",
+    "fooddelivery"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://cydvilla.github.io/peckish/"
+}
