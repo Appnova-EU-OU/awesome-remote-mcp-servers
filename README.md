@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [DoorDash-MCP-Server](https://freemcp.space/featured/doordash-mcp-server) — Unofficial DoorDash Delivery integration.
+- [DragonMCP](https://freemcp.space/featured/dragonmcp) — DragonMCP is a Model Context Protocol (MCP) server designed for AI Agents to interact with local life services in Greater China (Mainland China, HKSAR) and Asia.  DragonMCP 是一个专为 AI Agent 设计的 Model Context Protocol (MCP) 服务器，旨在提供中国内地、中国香港及亚洲地区的本地生活服务接口。
+- [fagan](https://freemcp.space/featured/fagan) — Spend tokens on judgment, not typing. An MCP-native autonomous SDLC pipeline: frontier models plan and review, local models implement — engineering discipline on a $20/month budget.
+- [groundwork](https://freemcp.space/featured/groundwork) — Is this document-QA system ready to ship? Deployment-readiness gate for AI document-QA and extraction systems: grounding checks, privacy redaction and cost tracking, built on OpenGATE, Redacta and PubCrawl. CLI and MCP server.
+- [nostrpulse-full](https://freemcp.space/np79857/nostrpulse-full) — Autonomous Payment & Anti-Sybil Trust Layer for AI Agents via Nostr, Cashu eCash (NIP-61), and MCP.
+- [mcp-yango-delivery](https://freemcp.space/featured/mcp-yango-delivery) — MCP server for the Yango Delivery B2B Express (Claims) API: quote, book and track courier deliveries from an AI app
+- [mcp-yandex-dostavka](https://freemcp.space/featured/mcp-yandex-dostavka) — MCP server for the Yandex Delivery (Dostavka) B2B API: calculate cost, create and track courier, pickup point and parcel locker shipments from an AI app
+- [opengist-mcp](https://freemcp.space/featured/opengist-mcp) — MCP server for Opengist, the self-hosted pastebin powered by Git
 - [mcp-unifi-applications](https://freemcp.space/featured/mcp-unifi-applicatio) — UniFi MCP server that makes the official UniFi API documentation (Network, Protect, Site Manager, InnerSpace) queryable by AI agents — endpoint search, schema drill-down, code examples in 5 languages. Read-only, no controller credentials.
 - [xlide_mcp](https://freemcp.space/featured/xlide-mcp) — Read, write, analyze and test the VBA inside Excel, Word, PowerPoint and Access files, and edit the document around it. No Office installation needed.
 - [workspace-metabolism](https://freemcp.space/featured/workspace-metabolism) — Govern what Claude Code, Codex, Aider and OpenClaw leave in your workspace: one JSON policy file, audit, recyclable clean, rollback, hash-chained audit trail.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-for-maya](https://freemcp.space/featured/mcp-for-maya) — Maya MCP Server with spatial awareness, camera planning, aesthetic analysis, and scene auditing
 - [ramen](https://freemcp.space/bulkguy47/ramen) — Self-hosted, multi-zone MCP server platform for GKE, EKS and AKS. A git repo of Python tools becomes canary-deployed, autoscaled Rust + Python workers with NeMo guardrails per tool, Entra ID / Google Workspace SSO, custom roles, OAuth 2.1, secrets, IP rules and audit. Clients on macOS, Windows and Linux.
 - [caishi](https://freemcp.space/featured/caishi) — 采诗 · 给 AI 用的中文互联网能力包：一条命令读抖音/B站/小红书/公众号/知乎/头条等 33 站（满配 40）| Read the Chinese internet from your AI agent. Read-only, reuses your browser sessions.
-- [formfeed](https://freemcp.space/featured/formfeed) — Formfeed client libraries, CLI, development kit and integrations: PDF and image generation from templates
-- [gaussdb-ro-mcp](https://freemcp.space/gxc/gaussdb-ro-mcp) — Read-only MCP server for GaussDB, built for coding agents.
-- [kafka-mcp](https://freemcp.space/featured/kafka-mcp-2) — MCP server that exposes Kafka debugging to an LLM: find messages, measure lag, unblock consumers. Read-only endpoints, previews before writes.
-- [wraps-js](https://freemcp.space/featured/wraps-js) — TypeScript SDKs for AWS SES and SMS, plus an MCP server that lets AI agents send email from your own AWS account
-- [Agent-Uplink](https://freemcp.space/featured/agent-uplink) —  Let your AI sessions talk to each other — locally. MCP server + local hub that gives Claude Code / Claude Desktop sessions role accounts, private DMs, and shared channels.
-- [shipback-sftp](https://freemcp.space/featured/shipback-sftp) — Deploy to cPanel. Undo in one command.
-- [agentgo-mcp](https://freemcp.space/featured/agentgo-mcp) — MCP server for AgentGo, the browser your AI agent drives: compact page outlines, diff-only replies, real input, human approval. MIT.
-- [signdocs-mcp-server](https://freemcp.space/featured/signdocs-mcp-server) — Servidor MCP oficial da SignDocs Brasil: assinatura eletrônica e digital com ICP-Brasil, biometria e OTP direto de agentes de IA. Official MCP server for the SignDocs Brasil e-signature API — signing sessions, envelopes, document verification.
 <!-- freemcp:end -->
 
 ---
