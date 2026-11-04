@@ -1,0 +1,17 @@
+{
+  "name": "warp-agent-mcp",
+  "description": "MCP server for the Warp freight API. Quote, book, and track LTL/FTL shipments from any MCP-compatible AI agent.",
+  "git_url": "https://github.com/warpfreight/warp-agent-mcp",
+  "author_github": "warpfreight",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cursor",
+    "freight",
+    "freightapi"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://wearewarp.com"
+}
