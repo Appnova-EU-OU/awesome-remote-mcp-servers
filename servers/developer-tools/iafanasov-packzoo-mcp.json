@@ -1,0 +1,17 @@
+{
+  "name": "packzoo-mcp",
+  "description": "PackZoo MCP server — compare parcel and letter delivery prices across 60+ carriers in 27 European countries.",
+  "git_url": "https://github.com/IAfanasov/packzoo-mcp",
+  "author_github": "IAfanasov",
+  "category": "developer-tools",
+  "tags": [
+    "packzoo",
+    "compare",
+    "parcel",
+    "letter",
+    "delivery"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://packzoo.com"
+}
