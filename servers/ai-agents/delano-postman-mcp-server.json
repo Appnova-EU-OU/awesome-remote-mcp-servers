@@ -1,0 +1,15 @@
+{
+  "name": "postman-mcp-server",
+  "description": "An MCP server that provides access to Postman.",
+  "git_url": "https://github.com/delano/postman-mcp-server",
+  "author_github": "delano",
+  "category": "ai-agents",
+  "tags": [
+    "anthropic",
+    "claude",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.postman.com/postman/postman-public-workspace/"
+}
