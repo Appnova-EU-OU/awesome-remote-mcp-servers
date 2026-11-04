@@ -1,0 +1,17 @@
+{
+  "name": "CodeEraser",
+  "description": "An eraser against LLM-induced code & document entropy. Support if you like it!",
+  "git_url": "https://github.com/skymanbp/CodeEraser",
+  "author_github": "skymanbp",
+  "category": "ai-agents",
+  "tags": [
+    "aiassisteddevelopment",
+    "claudecode",
+    "clonedetection",
+    "codeduplication",
+    "codeentropy"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://codeeraser.dev"
+}
