@@ -1,0 +1,17 @@
+{
+  "name": "mcpcost",
+  "description": "Is that MCP server alive, and what does it cost your context window? Daily health and exact token cost of every server in the MCP registry.",
+  "git_url": "https://github.com/ondraulehla/mcpcost",
+  "author_github": "ondraulehla",
+  "category": "cloud-infra",
+  "tags": [
+    "claudecode",
+    "cloudflareworkers",
+    "contextwindow",
+    "developertools",
+    "githubaction"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcpcost.ulehla.dev"
+}
