@@ -1,0 +1,17 @@
+{
+  "name": "amendor-mcp",
+  "description": "Connect your coding agent to Amendor. Pulls change requests into your agent so it builds them and opens PRs.",
+  "git_url": "https://github.com/deslay1/amendor-mcp",
+  "author_github": "deslay1",
+  "category": "security",
+  "tags": [
+    "amendor",
+    "connect",
+    "your",
+    "coding",
+    "agent"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://amendor.site"
+}
