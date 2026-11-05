@@ -1,0 +1,16 @@
+{
+  "name": "appstore-release-mcp",
+  "description": "App Store release pilot MCP server — version bump, archive + TestFlight upload, metadata, review submission. The MCP server that actually ships your binary.",
+  "git_url": "https://github.com/rabdulsal/appstore-release-mcp",
+  "author_github": "rabdulsal",
+  "category": "databases",
+  "tags": [
+    "appstore",
+    "release",
+    "app",
+    "store",
+    "pilot"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
