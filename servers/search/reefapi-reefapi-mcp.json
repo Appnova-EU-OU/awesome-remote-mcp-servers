@@ -1,0 +1,16 @@
+{
+  "name": "reefapi/reefapi-mcp",
+  "description": "One MCP for 160+ live web-data APIs — search engines, social (Reddit, TikTok, Threads, Bluesky), e-commerce (Amazon, eBay, AliExpress, Etsy), real estate (Zillow, Redfin), jobs, travel, news, finance and company/people intel. Clean JSON from sites that block scrapers; one key, one shared credit pool, free tier. Remote streamable-http at api.reefapi.com/mcp.",
+  "git_url": "https://github.com/reefapi/reefapi-mcp",
+  "author_github": "reefapi",
+  "category": "search",
+  "tags": [
+    "reefapi",
+    "one",
+    "live",
+    "web",
+    "data"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
