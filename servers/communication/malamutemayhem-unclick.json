@@ -1,0 +1,17 @@
+{
+  "name": "unclick",
+  "description": "The universal remote for AI: one MCP install gives agents 450+ callable endpoints across 60+ integrations, plus persistent cross-session memory. Works with Claude, ChatGPT, Cursor, and any MCP client.",
+  "git_url": "https://github.com/malamutemayhem/unclick",
+  "author_github": "malamutemayhem",
+  "category": "communication",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "aimemory",
+    "claude",
+    "integrations"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://unclick.world"
+}
