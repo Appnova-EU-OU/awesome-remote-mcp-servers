@@ -1,0 +1,17 @@
+{
+  "name": "outsource-mcp",
+  "description": "Give your AI assistant its own AI assistants.",
+  "git_url": "https://github.com/gwbischof/outsource-mcp",
+  "author_github": "gwbischof",
+  "category": "ai-agents",
+  "tags": [
+    "outsource",
+    "give",
+    "your",
+    "assistant",
+    "its"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://gwbischof.notion.site/Give-Your-AI-Assistant-Its-Own-AI-Assistants-Introducing-Outsource-mcp-202cb0b01a9b803499bff8d44cecea4e"
+}
