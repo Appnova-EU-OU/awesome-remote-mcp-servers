@@ -1,0 +1,16 @@
+{
+  "name": "user-feedback-mcp",
+  "description": "Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor.",
+  "git_url": "https://github.com/mrexodia/user-feedback-mcp",
+  "author_github": "mrexodia",
+  "category": "databases",
+  "tags": [
+    "cline",
+    "cursor",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
