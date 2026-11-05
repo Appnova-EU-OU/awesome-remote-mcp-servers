@@ -1,0 +1,17 @@
+{
+  "name": "imagedimensions-mcp",
+  "description": "MCP server that audits images on any web page — natural vs rendered dimensions, oversized-image detection, and format breakdown. Powered by imagedimensions.com.",
+  "git_url": "https://github.com/Bishop81/imagedimensions-mcp",
+  "author_github": "Bishop81",
+  "category": "media",
+  "tags": [
+    "imagedimensions",
+    "audits",
+    "images",
+    "any",
+    "web"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://imagedimensions.com"
+}
