@@ -1,0 +1,17 @@
+{
+  "name": "cognigy-ai-mcp-management-server",
+  "description": "MCP server for Cognigy.AI - 132 tools that let Claude, Cursor & other AI assistants build, configure, test & operate conversational AI agents via the Model Context Protocol.",
+  "git_url": "https://github.com/TsvetanG2/cognigy-ai-mcp-management-server",
+  "author_github": "TsvetanG2",
+  "category": "security",
+  "tags": [
+    "agents",
+    "agentskills",
+    "claude",
+    "claudecode",
+    "claudecodeskill"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.TsvetanG2/cognigy-ai-mcp-management-server"
+}
