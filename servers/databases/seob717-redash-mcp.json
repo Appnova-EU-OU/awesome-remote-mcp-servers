@@ -1,0 +1,17 @@
+{
+  "name": "redash-mcp",
+  "description": "MCP server for querying and managing Redash with Claude AI",
+  "git_url": "https://github.com/seob717/redash-mcp",
+  "author_github": "seob717",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "anthropic",
+    "businessintelligence",
+    "claude",
+    "claudeai"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/redash-mcp"
+}
