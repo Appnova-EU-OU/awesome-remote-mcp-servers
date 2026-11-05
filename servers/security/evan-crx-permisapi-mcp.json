@@ -1,0 +1,17 @@
+{
+  "name": "permisapi-mcp",
+  "description": "MCP server officiel pour PermisAPI (1,2 M+ permis de construire FR 2014-2026, Sitadel open data). 10 outils, pip-installable, stdio transport pour Claude Desktop / Cursor / Windsurf.",
+  "git_url": "https://github.com/Evan-Crx/permisapi-mcp",
+  "author_github": "Evan-Crx",
+  "category": "security",
+  "tags": [
+    "permisapi",
+    "officiel",
+    "pour",
+    "permis",
+    "construire"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://permisapi.fr/mcp"
+}
