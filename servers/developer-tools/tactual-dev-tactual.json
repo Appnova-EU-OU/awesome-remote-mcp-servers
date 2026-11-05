@@ -1,0 +1,17 @@
+{
+  "name": "tactual",
+  "description": "Screen-reader navigation cost analyzer — models the real effort to discover, reach, and operate interactive web content",
+  "git_url": "https://github.com/tactual-dev/tactual",
+  "author_github": "tactual-dev",
+  "category": "developer-tools",
+  "tags": [
+    "a11y",
+    "accessibility",
+    "aria",
+    "assistivetechnology",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://tactual.sh"
+}
