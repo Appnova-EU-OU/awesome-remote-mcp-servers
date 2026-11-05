@@ -1,0 +1,17 @@
+{
+  "name": "sugra-api-mcp",
+  "description": "Sugra MCP: connector between LLM agents and world data. 1,600+ endpoints from 160+ primary sources across 36 data domains. Published in Anthropic's Connectors Directory for Claude. Also listed in OpenAI's Plugins Directory for ChatGPT and Codex. Works with Google Gemini, xAI and any MCP-enabled client.",
+  "git_url": "https://github.com/Sugra-Systems/sugra-api-mcp",
+  "author_github": "Sugra-Systems",
+  "category": "communication",
+  "tags": [
+    "chatgpt",
+    "claude",
+    "claudeconnector",
+    "dataplatform",
+    "intelligenceinfrastructure"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sugra.ai"
+}
