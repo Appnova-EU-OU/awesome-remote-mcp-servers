@@ -1,0 +1,17 @@
+{
+  "name": "plopino-mcp",
+  "description": "MCP server for Plopino — lets an AI agent publish a page, a file, or a folder and hand back a public link.",
+  "git_url": "https://github.com/plopino/plopino-mcp",
+  "author_github": "plopino",
+  "category": "ai-agents",
+  "tags": [
+    "claude",
+    "html",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://plopino.com"
+}
