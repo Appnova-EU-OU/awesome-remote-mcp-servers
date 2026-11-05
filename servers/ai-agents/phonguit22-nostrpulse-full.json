@@ -1,0 +1,17 @@
+{
+  "name": "nostrpulse-full",
+  "description": "Autonomous Payment & Anti-Sybil Trust Layer for AI Agents via Nostr, Cashu eCash (NIP-61), and MCP.",
+  "git_url": "https://github.com/PHONGUIT22/nostrpulse-full",
+  "author_github": "PHONGUIT22",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "cashu",
+    "lightningnetwork",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/nostrpulse-mcp"
+}
