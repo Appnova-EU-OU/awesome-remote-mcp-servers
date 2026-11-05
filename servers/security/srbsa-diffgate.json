@@ -1,0 +1,17 @@
+{
+  "name": "diffgate",
+  "description": "Triage for AI-generated code review: grades each changed diff line green/yellow/orange by impact, so reviewers spend attention where it matters. High-signal, low-noise (0 false blocks), deterministic — in your coding agent (MCP), editor (VS Code), and CLI/CI.",
+  "git_url": "https://github.com/srbsa/diffgate",
+  "author_github": "srbsa",
+  "category": "security",
+  "tags": [
+    "aicodereview",
+    "claudecode",
+    "codereview",
+    "codereviewtool",
+    "codereviewtriage"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/srbsa/diffgate#readme"
+}
