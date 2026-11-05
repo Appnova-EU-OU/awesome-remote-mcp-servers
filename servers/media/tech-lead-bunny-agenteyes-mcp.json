@@ -1,0 +1,16 @@
+{
+  "name": "agenteyes-mcp",
+  "description": "A Node.js MCP server (stdio transport) exposing agent tools backed by headless Chromium. One tool call returns screenshot PNG + accessibility tree + page text — the \"eyes for agents\" pitch.",
+  "git_url": "https://github.com/tech-lead-bunny/agenteyes-mcp",
+  "author_github": "tech-lead-bunny",
+  "category": "media",
+  "tags": [
+    "agenteyes",
+    "node",
+    "stdio",
+    "transport",
+    "exposing"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
