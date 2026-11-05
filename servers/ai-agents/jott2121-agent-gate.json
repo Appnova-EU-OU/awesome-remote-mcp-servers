@@ -1,0 +1,16 @@
+{
+  "name": "agent-gate",
+  "description": "MCP server that adds a fail-closed quality gate and hash-chained receipt ledger to any AI agent workflow.",
+  "git_url": "https://github.com/Jott2121/agent-gate",
+  "author_github": "Jott2121",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "fleetmode",
+    "guardrails",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
