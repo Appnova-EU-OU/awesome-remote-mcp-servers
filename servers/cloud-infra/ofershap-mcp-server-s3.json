@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-s3",
+  "description": "MCP server for AWS S3 — list buckets, browse objects, upload/download, presigned URLs",
+  "git_url": "https://github.com/ofershap/mcp-server-s3",
+  "author_github": "ofershap",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "aws",
+    "claude",
+    "cloud",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
