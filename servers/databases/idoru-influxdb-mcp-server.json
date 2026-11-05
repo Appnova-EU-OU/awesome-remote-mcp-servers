@@ -1,0 +1,13 @@
+{
+  "name": "influxdb-mcp-server",
+  "description": "An MCP Server for querying InfluxDB",
+  "git_url": "https://github.com/idoru/influxdb-mcp-server",
+  "author_github": "idoru",
+  "category": "databases",
+  "tags": [
+    "influxdb",
+    "querying"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
