@@ -1,0 +1,15 @@
+{
+  "name": "simulator-mcp-server",
+  "description": "Control iOS Simulators.",
+  "git_url": "https://github.com/JoshuaRileyDev/simulator-mcp-server",
+  "author_github": "JoshuaRileyDev",
+  "category": "developer-tools",
+  "tags": [
+    "simulator",
+    "control",
+    "ios",
+    "simulators"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
