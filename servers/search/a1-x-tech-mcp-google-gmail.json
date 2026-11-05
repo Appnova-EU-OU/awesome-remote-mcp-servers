@@ -1,0 +1,16 @@
+{
+  "name": "mcp-google-gmail",
+  "description": "MCP server for the Gmail API — search, read and send email, manage drafts, labels and the trash. For Claude, Cursor, Codex and other AI clients.",
+  "git_url": "https://github.com/A1-x-Tech/mcp-google-gmail",
+  "author_github": "A1-x-Tech",
+  "category": "search",
+  "tags": [
+    "google",
+    "gmail",
+    "api",
+    "search",
+    "read"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
