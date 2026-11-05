@@ -1,0 +1,17 @@
+{
+  "name": "selvedge",
+  "description": "Decision provenance for AI-coded codebases: the why, and what was already tried and rejected.",
+  "git_url": "https://github.com/masondelan/selvedge",
+  "author_github": "masondelan",
+  "category": "databases",
+  "tags": [
+    "agenttrace",
+    "aiagentreasoning",
+    "aiagents",
+    "aicodeprovenance",
+    "aicodebasememory"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://selvedge.sh"
+}
