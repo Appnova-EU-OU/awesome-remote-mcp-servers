@@ -1,0 +1,16 @@
+{
+  "name": "saglitzdesign-mcp",
+  "description": "Expert design & marketing knowledge for AI agents — an MCP server for web, iOS, Android & macOS design: UI, UX, SEO, GEO, copywriting, roadmaps & real-world patterns.",
+  "git_url": "https://github.com/HalidSaglam/saglitzdesign-mcp",
+  "author_github": "HalidSaglam",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "design",
+    "designsystem",
+    "geo",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
