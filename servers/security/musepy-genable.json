@@ -1,0 +1,17 @@
+{
+  "name": "genable",
+  "description": "Quality-first AI UI generator for Figma. Multi-protocol: Gemini · Claude · OpenAI-compatible.",
+  "git_url": "https://github.com/musepy/genable",
+  "author_github": "musepy",
+  "category": "security",
+  "tags": [
+    "ai",
+    "claude",
+    "designtools",
+    "figma",
+    "figmaplugin"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.figma.com/community/plugin/1583731690321161934/genable-ai-ui-design-generator-prompt-to-ui-dashboard-landing-page-mobile-app"
+}
