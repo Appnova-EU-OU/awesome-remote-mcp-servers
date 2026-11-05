@@ -1,0 +1,17 @@
+{
+  "name": "lespaceman/agent-web-interface",
+  "description": "Token-efficient browser automation MCP for AI agents, with semantic page snapshots and stable element IDs.",
+  "git_url": "https://github.com/lespaceman/agent-web-interface",
+  "author_github": "lespaceman",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "chromium",
+    "claude",
+    "llmtools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agent-web-interface.com"
+}
