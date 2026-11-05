@@ -1,0 +1,16 @@
+{
+  "name": "aidevelopers2/remoteopenclaw-mcp",
+  "description": "Search 13,870+ MCP servers, 4,384+ agent skills, and plugins from your terminal or AI agent. CLI + MCP server for remoteopenclaw.com",
+  "git_url": "https://github.com/aidevelopers2/remoteopenclaw-mcp",
+  "author_github": "aidevelopers2",
+  "category": "search",
+  "tags": [
+    "aidevelopers",
+    "remoteopenclaw",
+    "search",
+    "servers",
+    "agent"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
