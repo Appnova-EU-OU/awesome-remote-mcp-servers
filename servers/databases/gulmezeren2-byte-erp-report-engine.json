@@ -1,0 +1,16 @@
+{
+  "name": "erp-report-engine",
+  "description": "A provably read-only SQL layer for AI agents (MCP) and weekly reports — over the database behind an ERP (Logo Tiger, Netsis, Mikro). Statement-checking guard, measured against 28 attacks.",
+  "git_url": "https://github.com/gulmezeren2-byte/erp-report-engine",
+  "author_github": "gulmezeren2-byte",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "anomalydetection",
+    "automation",
+    "dax",
+    "erp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
