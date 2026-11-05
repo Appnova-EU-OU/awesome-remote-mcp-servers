@@ -1,0 +1,16 @@
+{
+  "name": "atlassian-browser-mcp",
+  "description": "Browser-backed MCP server wrapping mcp-atlassian with Playwright SSO auth for Atlassian Server/Data Center",
+  "git_url": "https://github.com/GeiserX/atlassian-browser-mcp",
+  "author_github": "GeiserX",
+  "category": "communication",
+  "tags": [
+    "aitools",
+    "atlassian",
+    "automation",
+    "browserauth",
+    "claudecode"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
