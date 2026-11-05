@@ -1,0 +1,16 @@
+{
+  "name": "ikoskela/wisepanel-mcp",
+  "description": "MCP server for Wisepanel multi-agent deliberation platform",
+  "git_url": "https://github.com/ikoskela/wisepanel-mcp",
+  "author_github": "ikoskela",
+  "category": "ai-agents",
+  "tags": [
+    "ikoskela",
+    "wisepanel",
+    "multi",
+    "agent",
+    "deliberation"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
