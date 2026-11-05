@@ -1,0 +1,16 @@
+{
+  "name": "loopsense",
+  "description": "LoopSense is an open-source MCP server that closes the feedback loop for AI coding agents — giving them real-time visibility into CI results, deployments, test outcomes, and file system changes. ",
+  "git_url": "https://github.com/jarvisassistantux/loopsense",
+  "author_github": "jarvisassistantux",
+  "category": "databases",
+  "tags": [
+    "aiagent",
+    "cicd",
+    "claudecode",
+    "developertools",
+    "githubactions"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
