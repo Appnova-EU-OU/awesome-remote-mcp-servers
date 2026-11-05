@@ -1,0 +1,16 @@
+{
+  "name": "SolidWorks-MCP",
+  "description": "MCP server that lets AI agents build, measure and verify parametric parts and assemblies in a running SolidWorks (Windows, COM).",
+  "git_url": "https://github.com/hjbaard/SolidWorks-MCP",
+  "author_github": "hjbaard",
+  "category": "ai-agents",
+  "tags": [
+    "3dprinting",
+    "aiagents",
+    "cad",
+    "claude",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
