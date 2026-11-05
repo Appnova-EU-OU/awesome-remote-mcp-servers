@@ -1,0 +1,17 @@
+{
+  "name": "cpp26-adapter",
+  "description": "Claude Code plugin that turns Claude into a C++26 specialist. Standard-first suggestions; compiler-honest verification.",
+  "git_url": "https://github.com/parasxos/cpp26-adapter",
+  "author_github": "parasxos",
+  "category": "ai-agents",
+  "tags": [
+    "aicodingassistant",
+    "cplusplus",
+    "claudecode",
+    "claudecodeplugin",
+    "codegeneration"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/parasxos/cpp26-adapter"
+}
