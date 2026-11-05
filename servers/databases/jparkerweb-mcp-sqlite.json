@@ -1,0 +1,17 @@
+{
+  "name": "mcp-sqlite",
+  "description": "🐇 Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities",
+  "git_url": "https://github.com/jparkerweb/mcp-sqlite",
+  "author_github": "jparkerweb",
+  "category": "databases",
+  "tags": [
+    "aitooling",
+    "cursor",
+    "database",
+    "development",
+    "equillservice"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/mcp-sqlite"
+}
