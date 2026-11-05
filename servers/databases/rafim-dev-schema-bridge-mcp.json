@@ -1,0 +1,17 @@
+{
+  "name": "schema-bridge-mcp",
+  "description": "Universal schema compiler (SQL/Prisma to Zod, TypeScript, Pydantic) and realistic synthetic mock API data generator for MCP.",
+  "git_url": "https://github.com/rafim-dev/schema-bridge-mcp",
+  "author_github": "rafim-dev",
+  "category": "databases",
+  "tags": [
+    "developertools",
+    "mcp",
+    "mcpserver",
+    "mockdata",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://rafi860.gumroad.com/l/schema-bridge-mcp"
+}
