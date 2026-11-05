@@ -1,0 +1,16 @@
+{
+  "name": "mailflat-sdks",
+  "description": "Official MailFlat SDKs for Python, TypeScript/JavaScript and Java. Real email inboxes your agent or test suite can create from code and read one-time codes from.",
+  "git_url": "https://github.com/MailFlat/mailflat-sdks",
+  "author_github": "MailFlat",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "emailapi",
+    "emailtesting",
+    "java",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
