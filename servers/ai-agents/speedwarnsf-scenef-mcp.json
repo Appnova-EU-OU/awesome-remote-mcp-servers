@@ -1,0 +1,16 @@
+{
+  "name": "scenef-mcp",
+  "description": "SceneF MCP server — verified California and Hawaii movie showtimes, every operating cinema in the covered states, checked twice daily. Remote, no key: https://scenef.com/mcp",
+  "git_url": "https://github.com/speedwarnsf/scenef-mcp",
+  "author_github": "speedwarnsf",
+  "category": "ai-agents",
+  "tags": [
+    "cinema",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "movies"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
