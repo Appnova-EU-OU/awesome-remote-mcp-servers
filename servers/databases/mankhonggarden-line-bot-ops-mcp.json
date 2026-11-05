@@ -1,0 +1,16 @@
+{
+  "name": "line-bot-ops-mcp",
+  "description": "MCP server to operate your own LINE bot: webhook queue health, failed jobs and retries, push, Rich Menu, follower insight.",
+  "git_url": "https://github.com/MankhongGarden/line-bot-ops-mcp",
+  "author_github": "MankhongGarden",
+  "category": "databases",
+  "tags": [
+    "aiagent",
+    "claude",
+    "line",
+    "linebot",
+    "linemessagingapi"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
