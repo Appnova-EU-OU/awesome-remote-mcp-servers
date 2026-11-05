@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-leetcode",
+  "description": "A Model Context Protocol (MCP) server for LeetCode that provides access to problems, user data, and contest information through GraphQL",
+  "git_url": "https://github.com/doggybee/mcp-server-leetcode",
+  "author_github": "doggybee",
+  "category": "databases",
+  "tags": [
+    "leetcode",
+    "provides",
+    "access",
+    "problems",
+    "user"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
