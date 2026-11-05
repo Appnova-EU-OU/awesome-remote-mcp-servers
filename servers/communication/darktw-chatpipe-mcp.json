@@ -1,0 +1,17 @@
+{
+  "name": "chatpipe-mcp",
+  "description": "Publish live web pages from your AI coding agent — instant shareable URLs from your terminal.",
+  "git_url": "https://github.com/darktw/chatpipe-mcp",
+  "author_github": "darktw",
+  "category": "communication",
+  "tags": [
+    "aitools",
+    "chatpipe",
+    "developertools",
+    "htmlpublishing",
+    "livepages"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://chatpipe.net"
+}
