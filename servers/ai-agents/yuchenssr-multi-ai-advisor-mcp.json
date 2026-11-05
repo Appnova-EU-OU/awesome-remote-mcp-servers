@@ -1,0 +1,14 @@
+{
+  "name": "multi-ai-advisor-mcp",
+  "description": "council of models for decision",
+  "git_url": "https://github.com/YuChenSSR/multi-ai-advisor-mcp",
+  "author_github": "YuChenSSR",
+  "category": "ai-agents",
+  "tags": [
+    "aicommunication",
+    "llmcouncil",
+    "ollama"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
