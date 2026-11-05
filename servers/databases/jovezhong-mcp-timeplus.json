@@ -1,0 +1,16 @@
+{
+  "name": "mcp-timeplus",
+  "description": "Execute SQL queries and manage databases seamlessly with Timeplus. Leverage powerful tools to interact with your data, Kafka topics, and Iceberg tables efficiently. Enhance your data workflows with a user-friendly interface and robust backend capabilities.",
+  "git_url": "https://github.com/jovezhong/mcp-timeplus",
+  "author_github": "jovezhong",
+  "category": "databases",
+  "tags": [
+    "clickhouse",
+    "flink",
+    "iceberg",
+    "kafka",
+    "mcpserver"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
