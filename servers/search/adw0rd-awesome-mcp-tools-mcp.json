@@ -1,0 +1,17 @@
+{
+  "name": "adw0rd/awesome-mcp-tools-mcp",
+  "description": "CLI + MCP stdio bridge for the awesome-mcp.tools catalog of 2,000+ MCP servers. Search from terminal or wire into Claude/Cursor/Codex/Cline/Windsurf.",
+  "git_url": "https://github.com/adw0rd/awesome-mcp-tools-mcp",
+  "author_github": "adw0rd",
+  "category": "search",
+  "tags": [
+    "adw",
+    "awesome",
+    "tools",
+    "cli",
+    "stdio"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://awesome-mcp.tools"
+}
