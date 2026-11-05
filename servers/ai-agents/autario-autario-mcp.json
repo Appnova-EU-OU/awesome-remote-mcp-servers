@@ -1,0 +1,16 @@
+{
+  "name": "autario-mcp",
+  "description": "Autario MCP server | Query 2,500+ verified datasets from your AI agent",
+  "git_url": "https://github.com/Autario/autario-mcp",
+  "author_github": "Autario",
+  "category": "ai-agents",
+  "tags": [
+    "autario",
+    "query",
+    "verified",
+    "datasets",
+    "from"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
