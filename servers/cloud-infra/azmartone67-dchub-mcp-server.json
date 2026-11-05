@@ -1,0 +1,17 @@
+{
+  "name": "dchub-mcp-server",
+  "description": "Live data-center, power-grid, energy, interconnection-queue, fiber, natural-gas & M&A intelligence for AI agents — 82 tools, 18,000+ facilities, 300+ markets scored daily (DC Hub Power Index), 1,900+ tracked M&A deals, live grid telemetry across 49 regions. Remote MCP at dchub.cloud/mcp. DCPI & grid analysis CC-BY-4.0.",
+  "git_url": "https://github.com/azmartone67/dchub-mcp-server",
+  "author_github": "azmartone67",
+  "category": "cloud-infra",
+  "tags": [
+    "aitools",
+    "anthropic",
+    "claude",
+    "datacenter",
+    "datacenter"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dchub.cloud/mcp"
+}
