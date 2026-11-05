@@ -1,0 +1,16 @@
+{
+  "name": "promethic-mcp",
+  "description": "Hosted MCP docs and packaging for Promethic prompt library (Streamable HTTP at mcp.getpromethic.com/v1)",
+  "git_url": "https://github.com/soulware-studio/promethic-mcp",
+  "author_github": "soulware-studio",
+  "category": "developer-tools",
+  "tags": [
+    "promethic",
+    "hosted",
+    "docs",
+    "packaging",
+    "prompt"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
