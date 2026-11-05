@@ -1,0 +1,17 @@
+{
+  "name": "crapkit",
+  "description": "Per-function CRAP scores from complexity and coverage, churn-ranked worklists, and ratchet gates for code changes. CLI, MCP, and GitHub Action.",
+  "git_url": "https://github.com/JeanFrancoisGagne/crapkit",
+  "author_github": "JeanFrancoisGagne",
+  "category": "ai-agents",
+  "tags": [
+    "claudecode",
+    "codequality",
+    "coverage",
+    "cyclomaticcomplexity",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://jeanfrancoisgagne.github.io/crapkit/handbook.html"
+}
