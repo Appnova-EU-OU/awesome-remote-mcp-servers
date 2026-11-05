@@ -1,0 +1,16 @@
+{
+  "name": "portveil-mcp",
+  "description": "Portveil MCP server — let AI assistants manage your Portveil VPN network",
+  "git_url": "https://github.com/roybogs/portveil-mcp",
+  "author_github": "roybogs",
+  "category": "ai-agents",
+  "tags": [
+    "portveil",
+    "let",
+    "assistants",
+    "manage",
+    "your"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
