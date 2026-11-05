@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server",
+  "description": "A generic, modular server for implementing the Model Context Protocol (MCP). ",
+  "git_url": "https://github.com/profullstack/mcp-server",
+  "author_github": "profullstack",
+  "category": "developer-tools",
+  "tags": [
+    "mcpserver",
+    "generic",
+    "modular",
+    "implementing"
+  ],
+  "license": "ISC",
+  "status": "active",
+  "homepage": "https://mcp.profullstack.com"
+}
