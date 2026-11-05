@@ -1,0 +1,17 @@
+{
+  "name": "eval-view",
+  "description": "Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.",
+  "git_url": "https://github.com/hidai25/eval-view",
+  "author_github": "hidai25",
+  "category": "security",
+  "tags": [
+    "agentbenchmark",
+    "agentevaluation",
+    "agenticai",
+    "aiagents",
+    "anthropic"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://evalview.com"
+}
