@@ -1,0 +1,17 @@
+{
+  "name": "smtp-mcp",
+  "description": "MCP server that sends mail over SMTP, gated behind an allowlist and a human confirmation",
+  "git_url": "https://github.com/ni-c/smtp-mcp",
+  "author_github": "ni-c",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "email",
+    "llm",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://smtp-mcp.ni-c.de"
+}
