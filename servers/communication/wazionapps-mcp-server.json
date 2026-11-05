@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "WAzion MCP Server - Connect AI agents to WhatsApp via WAzion API. Smart copilot, 24/7 automation, mass marketing.",
+  "git_url": "https://github.com/wazionapps/mcp-server",
+  "author_github": "wazionapps",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "automation",
+    "chatgpt",
+    "claude",
+    "crm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://wazion.com"
+}
