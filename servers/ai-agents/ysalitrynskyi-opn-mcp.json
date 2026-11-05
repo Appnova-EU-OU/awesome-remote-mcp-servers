@@ -1,0 +1,16 @@
+{
+  "name": "opn-mcp",
+  "description": "MCP server for opn.onl — shorten links, read analytics & manage links from AI assistants. Works with the hosted service or your self-hosted instance.",
+  "git_url": "https://github.com/ysalitrynskyi/opn-mcp",
+  "author_github": "ysalitrynskyi",
+  "category": "ai-agents",
+  "tags": [
+    "opn",
+    "onl",
+    "shorten",
+    "links",
+    "read"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
