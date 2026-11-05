@@ -1,0 +1,16 @@
+{
+  "name": "port-keeper-mcp",
+  "description": "Local ledger for development ports — leases a block per project slot, renders env files, resolves service names to URLs, and serves it all over MCP. No daemon, no listener, no secrets.",
+  "git_url": "https://github.com/gridhra/port-keeper-mcp",
+  "author_github": "gridhra",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "developertools",
+    "dotenv",
+    "gitworktree"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
