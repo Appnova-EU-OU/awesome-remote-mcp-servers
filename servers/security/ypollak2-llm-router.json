@@ -1,0 +1,16 @@
+{
+  "name": "llm-router",
+  "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cuts costs 35-80%.",
+  "git_url": "https://github.com/ypollak2/llm-router",
+  "author_github": "ypollak2",
+  "category": "security",
+  "tags": [
+    "airouting",
+    "anthropic",
+    "claude",
+    "claudecode",
+    "costoptimization"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
