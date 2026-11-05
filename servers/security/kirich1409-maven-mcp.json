@@ -1,0 +1,16 @@
+{
+  "name": "maven-mcp",
+  "description": "Maven dependency intelligence MCP server and Claude Code / Grok Build plugin",
+  "git_url": "https://github.com/kirich1409/maven-mcp",
+  "author_github": "kirich1409",
+  "category": "security",
+  "tags": [
+    "maven",
+    "dependency",
+    "intelligence",
+    "claude",
+    "code"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
