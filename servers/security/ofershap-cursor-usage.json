@@ -1,0 +1,16 @@
+{
+  "name": "cursor-usage",
+  "description": "Ask your AI agent about your team's Cursor spending. MCP server + Cursor plugin + Claude Code plugin wrapping the full Cursor Enterprise API.",
+  "git_url": "https://github.com/ofershap/cursor-usage",
+  "author_github": "ofershap",
+  "category": "security",
+  "tags": [
+    "aispending",
+    "cursor",
+    "cursorai",
+    "cursorenterprise",
+    "cursoride"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
