@@ -1,0 +1,17 @@
+{
+  "name": "nowsecure-mcp-server",
+  "description": "MCP server for NowSecure Platform: pull remediation findings and generate clean PDF reports, bypassing the broken UI report renderer.",
+  "git_url": "https://github.com/tatavarthitarun/nowsecure-mcp-server",
+  "author_github": "tatavarthitarun",
+  "category": "security",
+  "tags": [
+    "mcp",
+    "mobilesecurity",
+    "modelcontextprotocol",
+    "nowsecure",
+    "pdf"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/nowsecure-mcp-server"
+}
