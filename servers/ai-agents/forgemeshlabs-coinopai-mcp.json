@@ -1,0 +1,17 @@
+{
+  "name": "forgemeshlabs/coinopai-mcp",
+  "description": "CoinOpAI MCP server for x402-powered crypto market intelligence, trade decision support, automation prompts, and paid agent workflows on Base.",
+  "git_url": "https://github.com/forgemeshlabs/coinopai-mcp",
+  "author_github": "forgemeshlabs",
+  "category": "ai-agents",
+  "tags": [
+    "agentcommerce",
+    "aiagents",
+    "base",
+    "crypto",
+    "forgemesh"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://x402.coinopai.com"
+}
