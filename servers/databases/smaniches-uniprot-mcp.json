@@ -1,0 +1,17 @@
+{
+  "name": "uniprot-mcp",
+  "description": "Auditable UniProt MCP server with per-response SHA-256 provenance, release pinning, verification, and offline replay.",
+  "git_url": "https://github.com/smaniches/uniprot-mcp",
+  "author_github": "smaniches",
+  "category": "databases",
+  "tags": [
+    "alphafold",
+    "bioinformatics",
+    "claude",
+    "claudeai",
+    "claudecode"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/uniprot-mcp-server/"
+}
