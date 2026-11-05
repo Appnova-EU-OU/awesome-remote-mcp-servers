@@ -1,0 +1,16 @@
+{
+  "name": "rijksmuseum-mcp",
+  "description": "Rijksmuseum MCP integration for artwork exploration and analysis",
+  "git_url": "https://github.com/r-huijts/rijksmuseum-mcp",
+  "author_github": "r-huijts",
+  "category": "developer-tools",
+  "tags": [
+    "rijksmuseum",
+    "integration",
+    "artwork",
+    "exploration",
+    "analysis"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
