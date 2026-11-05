@@ -1,0 +1,17 @@
+{
+  "name": "basicdeploy-mcp",
+  "description": "The runtime your AI agent deploys to one MCP call gives a live container with Postgres, S3 storage, and a public URL. Create, deploy, exec, and manage apps.",
+  "git_url": "https://github.com/AkaciaNL/basicdeploy-mcp",
+  "author_github": "AkaciaNL",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claude",
+    "containers",
+    "cursor",
+    "deployment"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://basicdeploy.com"
+}
