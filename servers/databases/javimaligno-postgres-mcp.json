@@ -1,0 +1,16 @@
+{
+  "name": "postgres_mcp",
+  "description": "The only postgress MCP server I have been able to connect to my docker postgres",
+  "git_url": "https://github.com/JaviMaligno/postgres_mcp",
+  "author_github": "JaviMaligno",
+  "category": "databases",
+  "tags": [
+    "postgres",
+    "only",
+    "postgress",
+    "have",
+    "been"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
