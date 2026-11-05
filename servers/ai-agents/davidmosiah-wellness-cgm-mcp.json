@@ -1,0 +1,17 @@
+{
+  "name": "davidmosiah/wellness-cgm-mcp",
+  "description": "Local-first continuous glucose monitor MCP — Dexcom Developer API, FreeStyle Libre via LibreLink Up. Levels-killer, agent-first.",
+  "git_url": "https://github.com/davidmosiah/wellness-cgm-mcp",
+  "author_github": "davidmosiah",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "cgm",
+    "glucose",
+    "healthdata",
+    "localfirst"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/wellness-cgm-mcp"
+}
