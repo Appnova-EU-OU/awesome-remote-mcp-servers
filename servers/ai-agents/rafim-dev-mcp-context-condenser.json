@@ -1,0 +1,17 @@
+{
+  "name": "mcp-context-condenser",
+  "description": "Token-slimming AST code outliner, log compressor & context budget analyzer for AI coding agents (Cursor, Claude, Cline, Antigravity). Slashes token usage & LLM API bills up to 85%.",
+  "git_url": "https://github.com/rafim-dev/mcp-context-condenser",
+  "author_github": "rafim-dev",
+  "category": "ai-agents",
+  "tags": [
+    "ast",
+    "claudedesktop",
+    "contextwindow",
+    "cursor",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://rafi860.gumroad.com/l/mcp-context-condenser"
+}
