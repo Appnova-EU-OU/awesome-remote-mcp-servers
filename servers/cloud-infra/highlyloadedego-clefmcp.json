@@ -1,0 +1,17 @@
+{
+  "name": "ClefMCP",
+  "description": "Local MCP server exposing the Cloudflare Clef-Flash decision model to AI agents — structured decisions with probability outputs, fully offline via llama.cpp.",
+  "git_url": "https://github.com/HighlyLoadedEgo/ClefMCP",
+  "author_github": "HighlyLoadedEgo",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "clef",
+    "decisionmodel",
+    "llamacpp",
+    "localllm"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/clef-mcp"
+}
