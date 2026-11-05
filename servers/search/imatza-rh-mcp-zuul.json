@@ -1,0 +1,17 @@
+{
+  "name": "mcp-zuul",
+  "description": "MCP server for Zuul CI - debug build failures, search logs, manage pipelines, and monitor jobs from Claude, Cursor, or any MCP client",
+  "git_url": "https://github.com/imatza-rh/mcp-zuul",
+  "author_github": "imatza-rh",
+  "category": "search",
+  "tags": [
+    "ansible",
+    "cicd",
+    "devops",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/mcp-zuul/"
+}
