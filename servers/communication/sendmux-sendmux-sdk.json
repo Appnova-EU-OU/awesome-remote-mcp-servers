@@ -1,0 +1,17 @@
+{
+  "name": "sendmux-sdk",
+  "description": "Official monorepo of SDKs, CLI, and MCP servers for Sendmux email APIs across TypeScript, Python, Go, PHP, Rust, and Ruby.",
+  "git_url": "https://github.com/Sendmux/sendmux-sdk",
+  "author_github": "Sendmux",
+  "category": "communication",
+  "tags": [
+    "cli",
+    "clitool",
+    "email",
+    "emailautomation",
+    "emailmarketing"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sendmux.ai/docs/sdks"
+}
