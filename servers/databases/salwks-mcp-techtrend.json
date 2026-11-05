@@ -1,0 +1,16 @@
+{
+  "name": "salwks/mcp-techTrend",
+  "description": "Multi-source academic + code + medical-regulatory trend monitoring (arXiv, PubMed, GitHub, Hugging Face, openFDA 510(k)/Recalls). Newspaper-style briefings, per-domain tuning, sandbox-safe Python launcher.",
+  "git_url": "https://github.com/salwks/mcp-techTrend",
+  "author_github": "salwks",
+  "category": "databases",
+  "tags": [
+    "salwks",
+    "techtrend",
+    "multi",
+    "source",
+    "academic"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
