@@ -1,0 +1,17 @@
+{
+  "name": "pkgdiet",
+  "description": "Dependency policy and MCP server for AI-assisted JavaScript development. Stop AI coding agents from hallucinating deprecated npm packages.",
+  "git_url": "https://github.com/om-tajne/pkgdiet",
+  "author_github": "om-tajne",
+  "category": "security",
+  "tags": [
+    "ai",
+    "aiagent",
+    "aisafety",
+    "aitools",
+    "bundlesize"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/pkgdiet"
+}
