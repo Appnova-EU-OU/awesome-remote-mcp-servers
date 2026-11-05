@@ -1,0 +1,16 @@
+{
+  "name": "x402-mcp",
+  "description": "MCP server bringing 100+ x402-paid APIs to AI agents. Auto-syncs from CDP Bazaar. Stablecoin micropayments via x402 protocol across multi-chain (Base, Solana, Polygon, BNB, EVM). Built for agentic commerce: developer utilities, validators, encoders, generators, M2M payments, autonomous workflows. Works with Claude, Cursor, and any MCP-aware client.",
+  "git_url": "https://github.com/x402node/x402-mcp",
+  "author_github": "x402node",
+  "category": "ai-agents",
+  "tags": [
+    "agentic",
+    "agenticcommerce",
+    "aiagent",
+    "basenetwork",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
