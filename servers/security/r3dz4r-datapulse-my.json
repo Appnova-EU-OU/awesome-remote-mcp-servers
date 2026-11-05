@@ -1,0 +1,17 @@
+{
+  "name": "datapulse-my",
+  "description": "Open-source trust & interoperability layer for Malaysian public data: freshness monitoring, schema validation, and health reports for official datasets.",
+  "git_url": "https://github.com/r3dz4r/datapulse-my",
+  "author_github": "r3dz4r",
+  "category": "security",
+  "tags": [
+    "aiagent",
+    "dataengineering",
+    "dataquality",
+    "dataset",
+    "governmentopendata"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://data-pulse.my"
+}
