@@ -1,0 +1,17 @@
+{
+  "name": "olostep-mcp-server",
+  "description": "MCP server for Olostep — the web scraping, crawling, and search infrastructure used by top AI companies. Gives any MCP-compatible AI agent the ability to scrape, crawl, batch-extract, and search the web in real time.",
+  "git_url": "https://github.com/olostep/olostep-mcp-server",
+  "author_github": "olostep",
+  "category": "search",
+  "tags": [
+    "ai",
+    "aiagent",
+    "datacollection",
+    "llmtools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.olostep.com/integrations/mcp-server"
+}
