@@ -1,0 +1,15 @@
+{
+  "name": "cygnus-ssh-mcp",
+  "description": "MCP server for SSH remote server management",
+  "git_url": "https://github.com/cygnussystems/cygnus-ssh-mcp",
+  "author_github": "cygnussystems",
+  "category": "developer-tools",
+  "tags": [
+    "cygnus",
+    "ssh",
+    "remote",
+    "management"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
