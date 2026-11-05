@@ -1,0 +1,13 @@
+{
+  "name": "mkp",
+  "description": "MKP is a Model Context Protocol (MCP) server for Kubernetes",
+  "git_url": "https://github.com/StacklokLabs/mkp",
+  "author_github": "StacklokLabs",
+  "category": "cloud-infra",
+  "tags": [
+    "mkp",
+    "kubernetes"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
