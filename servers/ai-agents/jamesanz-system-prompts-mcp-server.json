@@ -1,0 +1,17 @@
+{
+  "name": "system-prompts-mcp-server",
+  "description": "Model Context Protocol server exposing system prompt files and summaries.",
+  "git_url": "https://github.com/JamesANZ/system-prompts-mcp-server",
+  "author_github": "JamesANZ",
+  "category": "ai-agents",
+  "tags": [
+    "llms",
+    "mcp",
+    "mcpserver",
+    "prompts",
+    "systemprompts"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://glama.ai/mcp/servers/@JamesANZ/system-prompts-mcp-server"
+}
