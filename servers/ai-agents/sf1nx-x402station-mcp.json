@@ -1,0 +1,17 @@
+{
+  "name": "sF1nX/x402station",
+  "description": "MCP adapter (x402station-mcp on npm) + AgentKit action provider + consumer-side demo agent for x402station — pre-flight oracle for x402 endpoints. Backend (signal logic, ingest pipeline, probe history) stays private.",
+  "git_url": "https://github.com/sF1nX/x402station-mcp",
+  "author_github": "sF1nX",
+  "category": "ai-agents",
+  "tags": [
+    "station",
+    "adapter",
+    "npm",
+    "agentkit",
+    "action"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://x402station.io"
+}
