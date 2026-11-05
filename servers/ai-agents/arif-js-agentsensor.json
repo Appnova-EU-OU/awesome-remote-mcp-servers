@@ -1,0 +1,17 @@
+{
+  "name": "agentsensor",
+  "description": "Zero-config dev server & browser runtime error sensor for AI coding agents (Claude Code, Codex, Cursor, Antigravity) via MCP.",
+  "git_url": "https://github.com/arif-js/agentsensor",
+  "author_github": "arif-js",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "antigravity",
+    "claudecode",
+    "codex",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/agentsensor-mcp"
+}
