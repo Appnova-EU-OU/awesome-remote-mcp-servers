@@ -1,0 +1,16 @@
+{
+  "name": "mcp-gateway",
+  "description": "MCP Gateway - A meta-server for minimal Claude Code tool bloat with progressive disclosure",
+  "git_url": "https://github.com/ViperJuice/mcp-gateway",
+  "author_github": "ViperJuice",
+  "category": "developer-tools",
+  "tags": [
+    "gateway",
+    "meta",
+    "minimal",
+    "claude",
+    "code"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
