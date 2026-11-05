@@ -1,0 +1,16 @@
+{
+  "name": "producthunt-mcp-server",
+  "description": "MCP server for Product Hunt. Interact with trending posts, comments, collections, users, and more.",
+  "git_url": "https://github.com/jaipandya/producthunt-mcp-server",
+  "author_github": "jaipandya",
+  "category": "developer-tools",
+  "tags": [
+    "producthunt",
+    "product",
+    "hunt",
+    "interact",
+    "trending"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
