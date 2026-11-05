@@ -1,0 +1,16 @@
+{
+  "name": "mac-monitor-mcp",
+  "description": "Identifies resource-intensive processes on macOS and suggests performance improvements.",
+  "git_url": "https://github.com/Pratyay/mac-monitor-mcp",
+  "author_github": "Pratyay",
+  "category": "developer-tools",
+  "tags": [
+    "mac",
+    "monitor",
+    "identifies",
+    "resource",
+    "intensive"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
