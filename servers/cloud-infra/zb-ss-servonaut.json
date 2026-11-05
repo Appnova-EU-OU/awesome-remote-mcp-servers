@@ -1,0 +1,16 @@
+{
+  "name": "servonaut",
+  "description": "Manage AWS, Hetzner, OVH, and custom servers from one TUI — with a built-in AI assistant and MCP server",
+  "git_url": "https://github.com/zb-ss/servonaut",
+  "author_github": "zb-ss",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagent",
+    "aws",
+    "cli",
+    "devops",
+    "hetzner"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
