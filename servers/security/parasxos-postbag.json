@@ -1,0 +1,17 @@
+{
+  "name": "postbag",
+  "description": "Two local coding-agent sessions, Claude Code or Codex, write letters to each other through each agent's native input. CLI and MCP tools, stdlib core, no daemon.",
+  "git_url": "https://github.com/parasxos/postbag",
+  "author_github": "parasxos",
+  "category": "security",
+  "tags": [
+    "agentcommunication",
+    "aiagents",
+    "automation",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/postbag/"
+}
