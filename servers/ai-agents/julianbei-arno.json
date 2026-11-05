@@ -1,0 +1,16 @@
+{
+  "name": "arno",
+  "description": "The IDE for agents. An MCP server: read by symbol, edit against a revision, validate with your own build, revert. Go, Java, Scala, TypeScript, Python, Rust, Ruby.",
+  "git_url": "https://github.com/julianbei/arno",
+  "author_github": "julianbei",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codingagents",
+    "developertools",
+    "golang"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
