@@ -1,0 +1,16 @@
+{
+  "name": "fulcradynamics/fulcra-context-mcp",
+  "description": "MCP server for accessing personal health and biometric data including sleep stages, heart rate, HRV, glucose, workouts, calendar, and location via the Fulcra Life API with OAuth2 consent.",
+  "git_url": "https://github.com/fulcradynamics/fulcra-context-mcp",
+  "author_github": "fulcradynamics",
+  "category": "communication",
+  "tags": [
+    "fulcradynamics",
+    "fulcra",
+    "accessing",
+    "personal",
+    "health"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
