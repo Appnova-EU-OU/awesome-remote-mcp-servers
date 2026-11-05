@@ -1,0 +1,16 @@
+{
+  "name": "xray",
+  "description": "XRAY MCP provides progressive code intelligence and navigation capabilities for AI assistants   through structural code analysis using ast-grep",
+  "git_url": "https://github.com/srijanshukla18/xray",
+  "author_github": "srijanshukla18",
+  "category": "ai-agents",
+  "tags": [
+    "xray",
+    "provides",
+    "progressive",
+    "code",
+    "intelligence"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
