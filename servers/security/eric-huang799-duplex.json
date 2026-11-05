@@ -1,0 +1,16 @@
+{
+  "name": "duplex",
+  "description": "One browser shared by a human and an AI: visual for the human, source-level for the AI",
+  "git_url": "https://github.com/Eric-huang799/duplex",
+  "author_github": "Eric-huang799",
+  "category": "security",
+  "tags": [
+    "ai",
+    "aiagent",
+    "browser",
+    "browserautomation",
+    "browsermcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
