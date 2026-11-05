@@ -1,0 +1,17 @@
+{
+  "name": "agent-mq",
+  "description": "Message queue for AI coding assistants. Let your AI agents talk to each other.",
+  "git_url": "https://github.com/bababoi-bibilabu/agent-mq",
+  "author_github": "bababoi-bibilabu",
+  "category": "ai-agents",
+  "tags": [
+    "agentcommunication",
+    "aiagents",
+    "claudecode",
+    "codex",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agent-mq.com"
+}
