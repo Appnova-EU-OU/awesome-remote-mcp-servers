@@ -1,0 +1,17 @@
+{
+  "name": "bestax",
+  "description": "A fully-typed React component library for the Bulma CSS framework. Build modern UIs quickly with reusable, accessible, and customizable Bulma-based React components.",
+  "git_url": "https://github.com/allxsmith/bestax",
+  "author_github": "allxsmith",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "bulma",
+    "bulmacss",
+    "componentlibrary",
+    "designsystem"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://bestax.io/"
+}
