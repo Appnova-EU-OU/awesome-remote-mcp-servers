@@ -1,0 +1,17 @@
+{
+  "name": "shipmail-mcp",
+  "description": "Official Shipmail MCP server for AI-agent custom-domain business email, REST API, and webhooks",
+  "git_url": "https://github.com/jcoulaud/shipmail-mcp",
+  "author_github": "jcoulaud",
+  "category": "communication",
+  "tags": [
+    "agentinbox",
+    "aiagents",
+    "businessemail",
+    "customdomainemail",
+    "email"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://shipmail.to/docs/mcp"
+}
