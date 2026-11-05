@@ -1,0 +1,16 @@
+{
+  "name": "clawaimail",
+  "description": "Email infrastructure for AI agents. Create inboxes on the fly, send and receive real emails, search messages, and manage threads via API. Install with `npx clawaimail-mcp`.",
+  "git_url": "https://github.com/joansongjr/clawaimail",
+  "author_github": "joansongjr",
+  "category": "search",
+  "tags": [
+    "clawaimail",
+    "email",
+    "infrastructure",
+    "agents",
+    "create"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
