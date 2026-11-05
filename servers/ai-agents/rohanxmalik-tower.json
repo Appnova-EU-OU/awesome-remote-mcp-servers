@@ -1,0 +1,17 @@
+{
+  "name": "Tower",
+  "description": "Multiplayer for AI coding agents: collision detection before the edit, messaging, delegation. MCP server for Claude Code, Cursor, Codex.",
+  "git_url": "https://github.com/Rohanxmalik/Tower",
+  "author_github": "Rohanxmalik",
+  "category": "ai-agents",
+  "tags": [
+    "agentcoordination",
+    "agenticcoding",
+    "aiagents",
+    "aicoding",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://rohanxmalik.github.io/Tower/"
+}
