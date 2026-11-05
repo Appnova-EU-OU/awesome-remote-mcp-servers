@@ -1,0 +1,17 @@
+{
+  "name": "svgmaker-mcp",
+  "description": "Model Context Protocol server for SVGMaker - AI-powered SVG generation and editing. Seamlessly integrate SVG creation into AI workflows.",
+  "git_url": "https://github.com/GenWaveLLC/svgmaker-mcp",
+  "author_github": "GenWaveLLC",
+  "category": "ai-agents",
+  "tags": [
+    "svgmaker",
+    "powered",
+    "svg",
+    "generation",
+    "editing"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://svgmaker.io"
+}
