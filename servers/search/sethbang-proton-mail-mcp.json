@@ -1,0 +1,17 @@
+{
+  "name": "proton-mail-mcp",
+  "description": "Unofficial MCP server for Proton Mail (not affiliated with Proton AG) — send, read, search & organize email over SMTP/IMAP",
+  "git_url": "https://github.com/sethbang/proton-mail-mcp",
+  "author_github": "sethbang",
+  "category": "search",
+  "tags": [
+    "email",
+    "emailmcp",
+    "emailmcpserver",
+    "imap",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/proton-mail-mcp"
+}
