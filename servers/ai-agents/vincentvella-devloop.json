@@ -1,0 +1,17 @@
+{
+  "name": "devloop",
+  "description": "Browser control + dev-server logs on one correlated timeline — an MCP server with a headless (stdio) mode and an Electron cockpit. Built for AI agents.",
+  "git_url": "https://github.com/vincentvella/devloop",
+  "author_github": "vincentvella",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "claude",
+    "claudecode",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://devloop.build"
+}
