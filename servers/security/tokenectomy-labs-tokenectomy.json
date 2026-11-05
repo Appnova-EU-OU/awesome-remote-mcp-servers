@@ -1,0 +1,17 @@
+{
+  "name": "Tokenectomy",
+  "description": "Autonomous M2M MCP server that scrubs framework noise & redacts secrets from AI agent error logs before they hit your context window",
+  "git_url": "https://github.com/Tokenectomy-Labs/Tokenectomy",
+  "author_github": "Tokenectomy-Labs",
+  "category": "security",
+  "tags": [
+    "ai",
+    "aidebugging",
+    "claude",
+    "cursor",
+    "debugger"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tokenectomy-labs.github.io/Tokenectomy/"
+}
