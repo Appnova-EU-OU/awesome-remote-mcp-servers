@@ -1,0 +1,17 @@
+{
+  "name": "arch-mcp",
+  "description": "Arch Linux MCP (Model Context Protocol) Server",
+  "git_url": "https://github.com/nihalxkumar/arch-mcp",
+  "author_github": "nihalxkumar",
+  "category": "developer-tools",
+  "tags": [
+    "archlinux",
+    "archlinux",
+    "aur",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://docs.nihalxkumar.dev/arch-mcp/"
+}
