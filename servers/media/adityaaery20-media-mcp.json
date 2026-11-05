@@ -1,0 +1,16 @@
+{
+  "name": "media-mcp",
+  "description": "Local image and video processing: resize, convert, compress, crop, thumbnails, metadata extraction, rotate, flip, filters and ffmpeg-based video operations.",
+  "git_url": "https://github.com/Adityaaery20/media-mcp",
+  "author_github": "Adityaaery20",
+  "category": "media",
+  "tags": [
+    "media",
+    "local",
+    "image",
+    "video",
+    "processing"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
