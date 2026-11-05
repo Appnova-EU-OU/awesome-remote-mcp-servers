@@ -1,0 +1,17 @@
+{
+  "name": "janee",
+  "description": "Secrets management for AI agents via MCP • @janeesecure",
+  "git_url": "https://github.com/rsdouglas/janee",
+  "author_github": "rsdouglas",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "apikeys",
+    "claude",
+    "cursor",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://janee.io"
+}
