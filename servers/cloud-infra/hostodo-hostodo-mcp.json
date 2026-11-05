@@ -1,0 +1,16 @@
+{
+  "name": "hostodo-mcp",
+  "description": "Registry metadata for the hosted Hostodo MCP server",
+  "git_url": "https://github.com/hostodo/hostodo-mcp",
+  "author_github": "hostodo",
+  "category": "cloud-infra",
+  "tags": [
+    "cloudplatforms",
+    "hostodo",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
