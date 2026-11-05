@@ -1,0 +1,17 @@
+{
+  "name": "shiply-mcp",
+  "description": "The production backend for anything an agent builds — not just static hosting. Publish any app in one call, then give it a SQL database, server functions, email, and a custom domain. Flat price, no account. Remote MCP at https://shiply.now/mcp",
+  "git_url": "https://github.com/stevejford/shiply-mcp",
+  "author_github": "stevejford",
+  "category": "databases",
+  "tags": [
+    "shiply",
+    "production",
+    "backend",
+    "anything",
+    "agent"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://shiply.now"
+}
