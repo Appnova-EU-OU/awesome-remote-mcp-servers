@@ -1,0 +1,17 @@
+{
+  "name": "retrieval-lens",
+  "description": "MCP server that audits RAG retrieval - logs what chunks the model saw before any answer was generated",
+  "git_url": "https://github.com/Vbj1808/retrieval-lens",
+  "author_github": "Vbj1808",
+  "category": "ai-agents",
+  "tags": [
+    "audit",
+    "llm",
+    "mcp",
+    "mcpserver",
+    "observability"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://glama.ai/mcp/servers/Vbj1808/retrieval-lens"
+}
