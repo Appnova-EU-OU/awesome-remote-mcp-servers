@@ -1,0 +1,17 @@
+{
+  "name": "wechat-fastbridge",
+  "description": "让 Codex 秒级、低 token、安全地读写 macOS 微信 | Fast, token-efficient WeChat bridge for Codex",
+  "git_url": "https://github.com/huj28-creator/wechat-fastbridge",
+  "author_github": "huj28-creator",
+  "category": "communication",
+  "tags": [
+    "aiagent",
+    "automation",
+    "chinese",
+    "codex",
+    "macos"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/huj28-creator/wechat-fastbridge"
+}
