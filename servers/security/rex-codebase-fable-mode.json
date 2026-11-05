@@ -1,0 +1,16 @@
+{
+  "name": "fable-mode",
+  "description": "Open-source MCP control plane for AI coding agents: mechanical time-locks, evidence-gated proof receipts, red-team remediation, and persistent engineering memory.",
+  "git_url": "https://github.com/REX-codebase/fable-mode",
+  "author_github": "REX-codebase",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "aisafety",
+    "codingagents",
+    "developertools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
