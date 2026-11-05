@@ -1,0 +1,15 @@
+{
+  "name": "mcp-reunion",
+  "description": "MCP server for La Réunion open data",
+  "git_url": "https://github.com/Hug0x0/mcp-reunion",
+  "author_github": "Hug0x0",
+  "category": "security",
+  "tags": [
+    "reunion",
+    "union",
+    "open",
+    "data"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
