@@ -1,0 +1,16 @@
+{
+  "name": "k8s-mcp-server",
+  "description": "Model Context Protocol (MCP) server for debugging, analyzing, and diagnosing Kubernetes clusters directly from AI agents.",
+  "git_url": "https://github.com/akkireddy-challa/k8s-mcp-server",
+  "author_github": "akkireddy-challa",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "devops",
+    "kubernetes",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
