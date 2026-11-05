@@ -1,0 +1,16 @@
+{
+  "name": "mcp-for-maya",
+  "description": "Maya MCP Server with spatial awareness, camera planning, aesthetic analysis, and scene auditing",
+  "git_url": "https://github.com/Xxx91n/mcp-for-maya",
+  "author_github": "Xxx91n",
+  "category": "developer-tools",
+  "tags": [
+    "maya",
+    "spatial",
+    "awareness",
+    "camera",
+    "planning"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
