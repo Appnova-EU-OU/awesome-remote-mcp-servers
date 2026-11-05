@@ -1,0 +1,16 @@
+{
+  "name": "autodesk-inventor-mcp",
+  "description": "Autodesk Inventor MCP server: connect Claude, Cursor or Codex to a live Inventor session (COM). Find sliver faces, test Unwrap, script the Inventor API. Zero dependencies.",
+  "git_url": "https://github.com/effectustasi/autodesk-inventor-mcp",
+  "author_github": "effectustasi",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "autodeskinventor",
+    "cad",
+    "cadautomation",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
