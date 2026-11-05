@@ -1,0 +1,16 @@
+{
+  "name": "photopea-mcp-server",
+  "description": "MCP server for AI-driven image editing with Photopea",
+  "git_url": "https://github.com/attalla1/photopea-mcp-server",
+  "author_github": "attalla1",
+  "category": "media",
+  "tags": [
+    "ai",
+    "claude",
+    "cursor",
+    "imageediting",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
