@@ -1,0 +1,17 @@
+{
+  "name": "mcp-analytics",
+  "description": "The statistical analyst in your AI chat — bring data and a question, own a citable, re-runnable analysis. Four depth tiers, from instant Snapshot to full Deck study. Works in Claude, Cursor, and any MCP client.",
+  "git_url": "https://github.com/embeddedlayers/mcp-analytics",
+  "author_github": "embeddedlayers",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "analytics",
+    "anthropic",
+    "businessintelligence"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcpanalytics.ai"
+}
