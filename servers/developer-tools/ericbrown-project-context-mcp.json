@@ -1,0 +1,16 @@
+{
+  "name": "project-context-mcp",
+  "description": "Give Claude Code instant access to your project's institutional knowledge. Drop docs in .context/, mention them with @, and watch Claude become an expert on your codebase.",
+  "git_url": "https://github.com/ericbrown/project-context-mcp",
+  "author_github": "ericbrown",
+  "category": "developer-tools",
+  "tags": [
+    "project",
+    "give",
+    "claude",
+    "code",
+    "instant"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
