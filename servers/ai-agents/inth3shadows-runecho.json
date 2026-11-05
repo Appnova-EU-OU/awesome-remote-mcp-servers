@@ -1,0 +1,16 @@
+{
+  "name": "runecho",
+  "description": "Stops your AI coding agent from writing calls to functions that don't exist, before the edit lands. Deterministic, no LLM, no API keys.",
+  "git_url": "https://github.com/inth3shadows/runecho",
+  "author_github": "inth3shadows",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "aitooling",
+    "antihallucination",
+    "claudecode",
+    "claudecodeplugin"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
