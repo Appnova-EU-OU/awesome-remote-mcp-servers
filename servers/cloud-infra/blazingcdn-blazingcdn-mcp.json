@@ -1,0 +1,17 @@
+{
+  "name": "BlazingCDN-MCP",
+  "description": "Official MCP server for BlazingCDN - AI agents (Claude, Cursor, Windsurf) manage CDN resources, purge cache, query metrics, domains, Cloud Storage and Video CDN",
+  "git_url": "https://github.com/BlazingCDN/BlazingCDN-MCP",
+  "author_github": "BlazingCDN",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "anycast",
+    "broadcasting",
+    "cache",
+    "cdn"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://blazingcdn.com"
+}
