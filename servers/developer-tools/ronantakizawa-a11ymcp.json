@@ -1,0 +1,16 @@
+{
+  "name": "a11ymcp",
+  "description": "MCP Server for Web Accessibility Testing (10k+ Downloads, #20 on ProductHunt)",
+  "git_url": "https://github.com/ronantakizawa/a11ymcp",
+  "author_github": "ronantakizawa",
+  "category": "developer-tools",
+  "tags": [
+    "a11y",
+    "a11ytesting",
+    "accessibilitytesting",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mseep.ai/app/ronantakizawa-a11ymcp"
+}
