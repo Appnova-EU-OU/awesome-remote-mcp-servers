@@ -1,0 +1,17 @@
+{
+  "name": "memi",
+  "description": "The design layer for agentic AI — design context, interface checks, and verification for coding agents.",
+  "git_url": "https://github.com/sarveshsea/memi",
+  "author_github": "sarveshsea",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "agenticai",
+    "aiagents",
+    "cli",
+    "codexplugin"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://memoire.cv"
+}
