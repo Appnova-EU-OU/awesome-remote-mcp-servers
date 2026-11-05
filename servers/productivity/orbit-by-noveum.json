@@ -1,0 +1,16 @@
+{
+  "name": "Orbit by Noveum",
+  "description": "Manage issues, projects, sprints, docs and files through the hosted Streamable HTTP MCP at https://orbit.noveum.ai/mcp. A free Orbit account and workspace-scoped OAuth consent are required. The repository contains the full application, including its MCP implementation.",
+  "git_url": "https://github.com/Noveum/orbit",
+  "homepage": "https://orbit.noveum.ai/mcp",
+  "author_github": "Noveum",
+  "category": "productivity",
+  "tags": [
+    "project-management",
+    "task-management",
+    "oauth",
+    "streamable-http"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
