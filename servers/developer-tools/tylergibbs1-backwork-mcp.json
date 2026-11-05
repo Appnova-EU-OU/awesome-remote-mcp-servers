@@ -1,0 +1,16 @@
+{
+  "name": "backwork-mcp",
+  "description": "Official MCP server for the Backwork healthcare API",
+  "git_url": "https://github.com/tylergibbs1/backwork-mcp",
+  "author_github": "tylergibbs1",
+  "category": "developer-tools",
+  "tags": [
+    "backwork",
+    "official",
+    "healthcare",
+    "api"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://verity-mcp.vercel.app"
+}
