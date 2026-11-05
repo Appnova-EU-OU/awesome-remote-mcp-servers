@@ -1,0 +1,17 @@
+{
+  "name": "neon-mcp-gateway",
+  "description": "Enterprise Zero-Trust security gateway, token rate-limiter, and secure SSE proxy for Model Context Protocol (MCP) servers.",
+  "git_url": "https://github.com/neoninnovationlab/neon-mcp-gateway",
+  "author_github": "neoninnovationlab",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "gateway",
+    "mcp",
+    "modelcontextprotocol",
+    "zerotrust"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://neoninnovationlab.com"
+}
