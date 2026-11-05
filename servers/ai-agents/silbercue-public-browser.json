@@ -1,0 +1,17 @@
+{
+  "name": "public-browser",
+  "description": "Lets Claude Code and Cursor drive Chrome. Browse your real profile: -30% tokens, -25% cost, -41% tool calls, -34% tool defs, +40% faster. Direct CDP, a11y-tree refs, server-side plan executor. MIT, no paid tier.",
+  "git_url": "https://github.com/Silbercue/public-browser",
+  "author_github": "Silbercue",
+  "category": "ai-agents",
+  "tags": [
+    "agenticai",
+    "aiagent",
+    "browserautomation",
+    "cdp",
+    "chrome"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/public-browser"
+}
