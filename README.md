@@ -195,6 +195,10 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 
 ---
 
+## Finance & Payments
+
+- [lava-mcp / 熔岩 Lava · 消息面热度](https://github.com/dustinliang666-blip/lava-mcp) — Read-only A-share stock & concept-board news-flow heat via remote Streamable HTTP MCP / REST, for quant tools and AI Agent market research. [MCP Streamable HTTP](https://lava.ai-dolphin.com/subscribe/v1/mcp) · [Docs](https://lava.ai-dolphin.com/subscribe/docs) · [Landing](https://lava.ai-dolphin.com/subscribe)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a PR.

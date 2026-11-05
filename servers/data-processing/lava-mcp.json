@@ -1,0 +1,13 @@
+{
+  "name": "lava-mcp / 熔岩 Lava · 消息面热度",
+  "description": "Read-only A-share stock & concept-board news-flow heat via remote Streamable HTTP MCP / REST (https://lava.ai-dolphin.com/subscribe/v1/mcp), for quant tools and AI Agent market research. Docs: https://lava.ai-dolphin.com/subscribe/docs",
+  "git_url": "https://github.com/dustinliang666-blip/lava-mcp",
+  "homepage": "https://lava.ai-dolphin.com/subscribe",
+  "author_github": "dustinliang666-blip",
+  "category": "data-processing",
+  "tags": ["finance", "news", "stocks", "a-share", "mcp"],
+  "license": "MIT",
+  "status": "active"
+}
+
+
