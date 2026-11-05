@@ -1,0 +1,16 @@
+{
+  "name": "rest_api_mcp",
+  "description": "Authenticated calls to any REST API: auto-login, token caching, 2FA/OTP support, Swagger spec fetching and fuzzy endpoint search.",
+  "git_url": "https://github.com/Muhammed-AbdelGhany/rest_api_mcp",
+  "author_github": "Muhammed-AbdelGhany",
+  "category": "search",
+  "tags": [
+    "rest",
+    "api",
+    "authenticated",
+    "calls",
+    "any"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
