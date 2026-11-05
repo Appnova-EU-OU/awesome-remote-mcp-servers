@@ -1,0 +1,17 @@
+{
+  "name": "apple-mail-mcp",
+  "description": "Apple Mail MCP server with full-coverage FTS5 body search. Reliable on large mailboxes where AppleScript-based servers timeout.",
+  "git_url": "https://github.com/imdinu/apple-mail-mcp",
+  "author_github": "imdinu",
+  "category": "search",
+  "tags": [
+    "applemail",
+    "automation",
+    "claude",
+    "email",
+    "fts5"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://imdinu.github.io/apple-mail-mcp/"
+}
