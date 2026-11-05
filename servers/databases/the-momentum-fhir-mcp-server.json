@@ -1,0 +1,16 @@
+{
+  "name": "fhir-mcp-server",
+  "description": "FHIR MCP Server for handling medical data standard.",
+  "git_url": "https://github.com/the-momentum/fhir-mcp-server",
+  "author_github": "the-momentum",
+  "category": "databases",
+  "tags": [
+    "ehr",
+    "fhir",
+    "healthcare",
+    "healthcareapplications",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
