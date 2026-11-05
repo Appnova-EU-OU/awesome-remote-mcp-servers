@@ -1,0 +1,16 @@
+{
+  "name": "aso-audit-mcp",
+  "description": "Open-source Agent Signal Optimization audit MCP for scanning websites, APIs, and product surfaces for AI agent discoverability and readiness signals.",
+  "git_url": "https://github.com/forgemeshlabs/aso-audit-mcp",
+  "author_github": "forgemeshlabs",
+  "category": "security",
+  "tags": [
+    "aso",
+    "audit",
+    "open",
+    "source",
+    "agent"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
