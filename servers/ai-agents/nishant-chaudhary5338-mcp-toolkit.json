@@ -1,0 +1,17 @@
+{
+  "name": "mcp-toolkit",
+  "description": "59 MCP servers for React + TypeScript automation — component scaffolding, CRUD feature factory, WCAG checks, test gen, TS enforcement, render/perf analysis, CRA→Vite migration, legacy analysis. npx-installable.",
+  "git_url": "https://github.com/Nishant-Chaudhary5338/mcp-toolkit",
+  "author_github": "Nishant-Chaudhary5338",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "aitools",
+    "claude",
+    "claudecode",
+    "cline"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/mcp-react-toolkit"
+}
