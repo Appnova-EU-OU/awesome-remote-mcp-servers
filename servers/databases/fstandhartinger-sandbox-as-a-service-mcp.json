@@ -1,0 +1,17 @@
+{
+  "name": "sandbox-as-a-service-mcp",
+  "description": "MCP server for Sandbox as a Service: give an agent a real Linux VM — run commands, move files, expose a preview URL, destroy it.",
+  "git_url": "https://github.com/fstandhartinger/sandbox-as-a-service-mcp",
+  "author_github": "fstandhartinger",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "cloudsandbox",
+    "codeexecution",
+    "codeinterpreter",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sandbox-as-a-service.com"
+}
