@@ -1,0 +1,16 @@
+{
+  "name": "mcp-ipfs",
+  "description": "🪐 MCP IPFS Server ",
+  "git_url": "https://github.com/alexbakers/mcp-ipfs",
+  "author_github": "alexbakers",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "decentralized",
+    "ipfs",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
