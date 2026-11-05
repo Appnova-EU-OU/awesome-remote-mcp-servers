@@ -1,0 +1,17 @@
+{
+  "name": "pixelpact",
+  "description": "Measurement for coding agents building UI: extract a contract from the reference page, check the implementation, get numbers back",
+  "git_url": "https://github.com/jamalkamaladdin/pixelpact",
+  "author_github": "jamalkamaladdin",
+  "category": "ai-agents",
+  "tags": [
+    "agentic",
+    "aiagents",
+    "cli",
+    "codingagents",
+    "contracttesting"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pixelpact.dev"
+}
