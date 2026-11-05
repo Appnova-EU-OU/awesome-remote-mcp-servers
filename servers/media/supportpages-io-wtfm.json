@@ -1,0 +1,17 @@
+{
+  "name": "wtfm",
+  "description": "WTFM: Write the F***ing Manual. A plugin for your coding agent that writes your user docs, screenshots included.",
+  "git_url": "https://github.com/SupportPages-io/wtfm",
+  "author_github": "SupportPages-io",
+  "category": "media",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "cli",
+    "codex",
+    "documentation"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://supportpages.io/wtfm"
+}
