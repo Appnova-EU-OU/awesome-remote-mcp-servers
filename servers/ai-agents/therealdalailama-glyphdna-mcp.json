@@ -1,0 +1,16 @@
+{
+  "name": "glyphdna-mcp",
+  "description": "GlyphDNA MCP adapter: machine-native identity, verifiable meeting rooms, script provenance. Join with one MCP call.",
+  "git_url": "https://github.com/TheRealDalaiLama/glyphdna-mcp",
+  "author_github": "TheRealDalaiLama",
+  "category": "ai-agents",
+  "tags": [
+    "agentidentity",
+    "aiagents",
+    "ed25519",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
