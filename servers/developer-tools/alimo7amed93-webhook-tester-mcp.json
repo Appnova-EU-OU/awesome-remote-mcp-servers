@@ -1,0 +1,16 @@
+{
+  "name": "webhook-tester-mcp",
+  "description": "FastMCP server for managing and testing webhooks via webhook-test.com API",
+  "git_url": "https://github.com/alimo7amed93/webhook-tester-mcp",
+  "author_github": "alimo7amed93",
+  "category": "developer-tools",
+  "tags": [
+    "webhook",
+    "tester",
+    "fastmcp",
+    "managing",
+    "testing"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
