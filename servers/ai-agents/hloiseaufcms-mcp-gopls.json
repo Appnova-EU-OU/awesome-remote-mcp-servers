@@ -1,0 +1,17 @@
+{
+  "name": "mcp-gopls",
+  "description": "Model Context Protocol (MCP) server for Go using gopls – LSP-powered analysis, tests, coverage, and tooling.",
+  "git_url": "https://github.com/hloiseaufcms/mcp-gopls",
+  "author_github": "hloiseaufcms",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "developertools",
+    "go",
+    "golang"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/hloiseau/mcp-gopls/blob/main/docs/usage.md"
+}
