@@ -1,0 +1,16 @@
+{
+  "name": "ejentum-mcp",
+  "description": "MCP server for the Ejentum API. 8 cognitive operations across 4 harnesses (reasoning, code, anti-deception, memory) in dynamic and adaptive modes.",
+  "git_url": "https://github.com/ejentum/ejentum-mcp",
+  "author_github": "ejentum",
+  "category": "ai-agents",
+  "tags": [
+    "agenticai",
+    "aireliability",
+    "anthropic",
+    "antideception",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
