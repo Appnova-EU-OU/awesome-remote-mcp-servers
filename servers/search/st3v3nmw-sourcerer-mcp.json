@@ -1,0 +1,16 @@
+{
+  "name": "sourcerer-mcp",
+  "description": "MCP for semantic code search & navigation that reduces token waste",
+  "git_url": "https://github.com/st3v3nmw/sourcerer-mcp",
+  "author_github": "st3v3nmw",
+  "category": "search",
+  "tags": [
+    "claudecode",
+    "codeanalysis",
+    "codenavigation",
+    "codesearch",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
