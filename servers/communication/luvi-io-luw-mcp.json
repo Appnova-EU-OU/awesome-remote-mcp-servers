@@ -1,0 +1,17 @@
+{
+  "name": "luw-mcp",
+  "description": "Official Luw.ai MCP server: AI interior, exterior & landscape design, renders, video and 3D for Claude, Cursor, VS Code and any MCP client. ",
+  "git_url": "https://github.com/Luvi-io/luw-mcp",
+  "author_github": "Luvi-io",
+  "category": "communication",
+  "tags": [
+    "airendering",
+    "architecture",
+    "chatgpt",
+    "claude",
+    "geminicliextension"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcp.luw.ai/"
+}
