@@ -1,0 +1,16 @@
+{
+  "name": "capes",
+  "description": "Superpowers for any AI: a free, self-hosted MCP server (Gmail, Discord, X) with a dashboard. Deploy to your own Vercel in minutes.",
+  "git_url": "https://github.com/Dipeshpal/capes",
+  "author_github": "Dipeshpal",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cursor",
+    "discord",
+    "fastapi"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
