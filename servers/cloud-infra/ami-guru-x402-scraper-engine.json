@@ -1,0 +1,17 @@
+{
+  "name": "x402-scraper-engine",
+  "description": "HTTP 402 pay-per-call web scraper & Llama-3 digest engine for autonomous AI agents on Base L2. No API keys, no subscriptions.",
+  "git_url": "https://github.com/ami-guru/x402-scraper-engine",
+  "author_github": "ami-guru",
+  "category": "cloud-infra",
+  "tags": [
+    "agentkit",
+    "aiagents",
+    "autonomousagents",
+    "base",
+    "basel2"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://x402-scraper-engine.gejoe-tt.workers.dev"
+}
