@@ -1,0 +1,17 @@
+{
+  "name": "twitterapi-docs-mcp",
+  "description": "TwitterAPI.io MCP server: offline docs (endpoints, pages, blogs) for Claude and other AI assistants.",
+  "git_url": "https://github.com/dorukardahan/twitterapi-docs-mcp",
+  "author_github": "dorukardahan",
+  "category": "ai-agents",
+  "tags": [
+    "apireference",
+    "claude",
+    "documentation",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/twitterapi-io-mcp"
+}
