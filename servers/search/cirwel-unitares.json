@@ -1,0 +1,17 @@
+{
+  "name": "unitares",
+  "description": "Accountability infrastructure for long-running AI agents. Self-hosted MCP server: identity, claims and evidence, review, outcomes, and reconstruction across agent runtimes.",
+  "git_url": "https://github.com/cirwel/unitares",
+  "author_github": "cirwel",
+  "category": "search",
+  "tags": [
+    "agentevaluation",
+    "agentgovernance",
+    "agentidentity",
+    "agentmemory",
+    "agentobservability"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://cirwel.org"
+}
