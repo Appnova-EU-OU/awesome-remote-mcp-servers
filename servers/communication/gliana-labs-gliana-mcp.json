@@ -1,0 +1,17 @@
+{
+  "name": "gliana-mcp",
+  "description": "Pay-per-call access to 90+ AI models (LLM chat, image, video, music, speech) plus utility and data tools — web scraping, screenshots, OCR, face matching, crypto and FX rates. No signup and no API key: HTTP 402 settles each call from your own wallet in USDC on Base, Solana, BNB Chain or Algorand. The tool list is read live from the gateway, so it is never stale. `npx -y gliana-ai-mcp` or remote `https://mcp.glianalabs.com`.",
+  "git_url": "https://github.com/Gliana-Labs/gliana-mcp",
+  "author_github": "Gliana-Labs",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "imagegeneration",
+    "mcp",
+    "modelcontextprotocol",
+    "paypercall"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ai.glianalabs.com"
+}
