@@ -1,0 +1,16 @@
+{
+  "name": "mcp-bytesmith",
+  "description": "Pure-Python MCP server for encoding, hashing, and crypto-primitives — computed for real, locally.",
+  "git_url": "https://github.com/laszlopere/mcp-bytesmith",
+  "author_github": "laszlopere",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "base64",
+    "claude",
+    "cryptography",
+    "encoding"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
