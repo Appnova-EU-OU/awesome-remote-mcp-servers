@@ -1,0 +1,17 @@
+{
+  "name": "cloakbrowser-mcp",
+  "description": "⚡ CloakBrowser MCP server for AI agents: Playwright-powered browsing, clean tool forwarding, Docker support, and multi-session HTTP transport.",
+  "git_url": "https://github.com/swimmwatch/cloakbrowser-mcp",
+  "author_github": "swimmwatch",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "browserautomation",
+    "chromium",
+    "cloakbrowser"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://swimmwatch.github.io/cloakbrowser-mcp/"
+}
