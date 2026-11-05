@@ -1,0 +1,17 @@
+{
+  "name": "noodle-mcp",
+  "description": "Noodle Biomedical Literature Discovery MCP — search papers and traverse citation or semantic literature graphs.",
+  "git_url": "https://github.com/helena-bioinformatics/noodle-mcp",
+  "author_github": "helena-bioinformatics",
+  "category": "search",
+  "tags": [
+    "agentskill",
+    "bioinformatics",
+    "biomedicalliterature",
+    "citationgraph",
+    "mcpserver"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://noodle.helena.bio/integrations"
+}
