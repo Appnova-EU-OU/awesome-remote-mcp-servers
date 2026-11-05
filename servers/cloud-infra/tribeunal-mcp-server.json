@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "MCP server for Tribeunal — 39 tools and 8 Agent Skills that put humans and AI agents on the same jury",
+  "git_url": "https://github.com/tribeunal/mcp-server",
+  "author_github": "tribeunal",
+  "category": "cloud-infra",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "claudecodeplugin",
+    "cloudflareworkers",
+    "geminicliextension"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tribeunal.com/mcp"
+}
