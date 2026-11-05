@@ -1,0 +1,16 @@
+{
+  "name": "wp-cli-mcp",
+  "description": "MCP server that gives AI tools full WordPress management via WP-CLI — 30+ tools for themes, plugins, posts, menus, users, database, and scaffolding",
+  "git_url": "https://github.com/mvtandas/wp-cli-mcp",
+  "author_github": "mvtandas",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "claudecode",
+    "cursor",
+    "gutenberg",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
