@@ -1,0 +1,17 @@
+{
+  "name": "gambot-mcp",
+  "description": "MCP server for the Gambot WhatsApp Business API - send WhatsApp messages & templates, manage CRM, leads & campaigns from Claude, Cursor & any AI agent.",
+  "git_url": "https://github.com/gambot-ai/gambot-mcp",
+  "author_github": "gambot-ai",
+  "category": "communication",
+  "tags": [
+    "aiagent",
+    "chatgpt",
+    "claude",
+    "crm",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://gambot.co.il/developers/"
+}
