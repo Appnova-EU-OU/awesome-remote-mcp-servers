@@ -1,0 +1,16 @@
+{
+  "name": "4everland-hosting-mcp",
+  "description": "An MCP server implementation for 4EVERLAND Hosting enabling instant deployment of AI-generated code to decentralized storage networks like Greenfield, IPFS, and Arweave.",
+  "git_url": "https://github.com/4everland/4everland-hosting-mcp",
+  "author_github": "4everland",
+  "category": "ai-agents",
+  "tags": [
+    "everland",
+    "hosting",
+    "implementation",
+    "enabling",
+    "instant"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
