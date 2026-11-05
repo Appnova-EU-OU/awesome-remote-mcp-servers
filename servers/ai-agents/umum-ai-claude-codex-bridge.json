@@ -1,0 +1,17 @@
+{
+  "name": "claude-codex-bridge",
+  "description": "Use Codex agents from Claude Code with live progress, steering, and session continuation.",
+  "git_url": "https://github.com/umum-ai/claude-codex-bridge",
+  "author_github": "umum-ai",
+  "category": "ai-agents",
+  "tags": [
+    "claude",
+    "codex",
+    "bridge",
+    "use",
+    "agents"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/umum-ai/claude-codex-bridge#readme"
+}
