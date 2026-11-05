@@ -1,0 +1,16 @@
+{
+  "name": "HuaweiAppGalleryMcp",
+  "description": "Huawei AppGallery Connect publishing: upload APK/AAB, update metadata and localizations, submit for review, and manage phased rollouts.",
+  "git_url": "https://github.com/AgiMaulana/HuaweiAppGalleryMcp",
+  "author_github": "AgiMaulana",
+  "category": "databases",
+  "tags": [
+    "huaweiappgallerymcp",
+    "huawei",
+    "appgallery",
+    "connect",
+    "publishing"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
