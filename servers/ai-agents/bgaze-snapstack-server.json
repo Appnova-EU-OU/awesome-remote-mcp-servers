@@ -1,0 +1,16 @@
+{
+  "name": "bgaze/snapstack-server",
+  "description": "Local always-on server for SnapStack: receives browser captures and serves them to any MCP-capable LLM client over MCP (Streamable HTTP +   stdio). Listens on 127.0.0.1 only.",
+  "git_url": "https://github.com/bgaze/snapstack-server",
+  "author_github": "bgaze",
+  "category": "ai-agents",
+  "tags": [
+    "bgaze",
+    "snapstack",
+    "local",
+    "always",
+    "receives"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
