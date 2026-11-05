@@ -1,0 +1,17 @@
+{
+  "name": "qa-probe",
+  "description": "Local QA agent — maps frontend routes to backend APIs, probes every endpoint live, scores pages 0–100, and explains why data is missing. Built for LightShield SIEM. Works with any FastAPI / Express / Next.js app.",
+  "git_url": "https://github.com/LS-SIEM-LLP/qa-probe",
+  "author_github": "LS-SIEM-LLP",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "apitesting",
+    "devtools",
+    "fastapi",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/qa-probe"
+}
