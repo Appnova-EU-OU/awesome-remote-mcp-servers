@@ -1,0 +1,16 @@
+{
+  "name": "VMware-AVI",
+  "description": "AVI (NSX Advanced Load Balancer) management and AKO Kubernetes operations tool",
+  "git_url": "https://github.com/zw008/VMware-AVI",
+  "author_github": "zw008",
+  "category": "cloud-infra",
+  "tags": [
+    "agentskills",
+    "aiskill",
+    "ako",
+    "automation",
+    "avicontroller"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
