@@ -1,0 +1,16 @@
+{
+  "name": "nworks",
+  "description": "Full-featured MCP server and CLI for LINE WORKS (NAVER WORKS) — 26 tools covering messages, calendar, drive, mail, tasks, and boards. Automate with AI agents or scripts.",
+  "git_url": "https://github.com/yjcho9317/nworks",
+  "author_github": "yjcho9317",
+  "category": "communication",
+  "tags": [
+    "agenttools",
+    "aiagent",
+    "automation",
+    "claude",
+    "cli"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
