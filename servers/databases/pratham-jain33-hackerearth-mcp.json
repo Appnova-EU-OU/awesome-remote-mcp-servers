@@ -1,0 +1,17 @@
+{
+  "name": "hackerearth-mcp",
+  "description": "MCP server that executes code in 24 languages on HackerEarth sandboxed cloud servers, so AI assistants run code and see real output instead of predicting it.",
+  "git_url": "https://github.com/pratham-jain33/hackerearth-mcp",
+  "author_github": "pratham-jain33",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "claude",
+    "codeexecution",
+    "hackerearth",
+    "llmtools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/hackerearth-mcp/"
+}
