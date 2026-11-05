@@ -1,0 +1,17 @@
+{
+  "name": "MCPg",
+  "description": "Postgres MCP Server",
+  "git_url": "https://github.com/devopam/MCPg",
+  "author_github": "devopam",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "anthropic",
+    "claude",
+    "claudecode",
+    "database"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://devopam.github.io/MCPg/"
+}
