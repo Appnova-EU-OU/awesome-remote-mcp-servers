@@ -1,0 +1,16 @@
+{
+  "name": "tip-md-x402-mcp-server",
+  "description": "🏆 Hackathon: Transform any AI agent into a payment-enabled agent using x402 + CDP. MCP server for instant crypto tipping with automatic disbursement.",
+  "git_url": "https://github.com/tipdotmd/tip-md-x402-mcp-server",
+  "author_github": "tipdotmd",
+  "category": "ai-agents",
+  "tags": [
+    "tip",
+    "hackathon",
+    "transform",
+    "any",
+    "agent"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
