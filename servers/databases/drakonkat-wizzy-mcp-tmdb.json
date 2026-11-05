@@ -1,0 +1,16 @@
+{
+  "name": "drakonkat/wizzy-mcp-tmdb",
+  "description": "The wizzy-mcp-tmdb project is an MCP (Model Context Protocol) server implemented in JavaScript that provides tools to search and retrieve information from The Movie Database (TMDB). It allows AI clients to access movie, TV show, and person data through a standardized protocol.",
+  "git_url": "https://github.com/drakonkat/wizzy-mcp-tmdb",
+  "author_github": "drakonkat",
+  "category": "databases",
+  "tags": [
+    "drakonkat",
+    "wizzy",
+    "tmdb",
+    "project",
+    "implemented"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
