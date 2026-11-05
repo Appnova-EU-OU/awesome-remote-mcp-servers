@@ -1,0 +1,16 @@
+{
+  "name": "pipedrive-mcp-server",
+  "description": "MCP server for Pipedrive CRM. 155 contract-tested tools, v2-first API, gated destructive ops. Works with Claude Desktop, Claude Code, and any MCP client.",
+  "git_url": "https://github.com/ckalima/pipedrive-mcp-server",
+  "author_github": "ckalima",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "crm",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
