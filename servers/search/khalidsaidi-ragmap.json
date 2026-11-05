@@ -1,0 +1,17 @@
+{
+  "name": "khalidsaidi/ragmap",
+  "description": "RAG MCP Registry Finder (RAGMap): subregistry API + MCP server + Firestore ingestion",
+  "git_url": "https://github.com/khalidsaidi/ragmap",
+  "author_github": "khalidsaidi",
+  "category": "search",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "claude",
+    "cursor",
+    "discovery"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ragmap-api.web.app"
+}
