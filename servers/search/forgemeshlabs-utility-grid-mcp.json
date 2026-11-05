@@ -1,0 +1,16 @@
+{
+  "name": "utility-grid-mcp",
+  "description": "MCP server for discovering and calling 400+ practical APIs through six compact tools, with free catalog search and pay-per-call x402 execution on Base.",
+  "git_url": "https://github.com/forgemeshlabs/utility-grid-mcp",
+  "author_github": "forgemeshlabs",
+  "category": "search",
+  "tags": [
+    "utility",
+    "grid",
+    "discovering",
+    "calling",
+    "practical"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
