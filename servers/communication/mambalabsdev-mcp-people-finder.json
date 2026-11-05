@@ -1,0 +1,17 @@
+{
+  "name": "mcp-people-finder",
+  "description": "MCP server for the Mamba Labs People Finder & Email Verifier actor on Apify",
+  "git_url": "https://github.com/mambalabsdev/mcp-people-finder",
+  "author_github": "mambalabsdev",
+  "category": "communication",
+  "tags": [
+    "people",
+    "finder",
+    "mamba",
+    "labs",
+    "email"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://apify.com/mambalabs/people-finder"
+}
