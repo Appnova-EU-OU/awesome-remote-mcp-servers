@@ -1,0 +1,17 @@
+{
+  "name": "AiDex",
+  "description": "MCP Server for persistent code indexing. Gives AI assistants (Claude, Gemini, Copilot, Cursor) instant access to your codebase. 50x less context than grep.",
+  "git_url": "https://github.com/CSCSoftware/AiDex",
+  "author_github": "CSCSoftware",
+  "category": "databases",
+  "tags": [
+    "aicoding",
+    "claude",
+    "claudecode",
+    "codeindexing",
+    "codesearch"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/aidex-mcp"
+}
