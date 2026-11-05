@@ -1,0 +1,12 @@
+{
+  "name": "just-mcp",
+  "description": "mcp server for just",
+  "git_url": "https://github.com/promptexecution/just-mcp",
+  "author_github": "promptexecution",
+  "category": "developer-tools",
+  "tags": [
+    "just"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
