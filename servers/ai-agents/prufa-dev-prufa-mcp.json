@@ -1,0 +1,16 @@
+{
+  "name": "prufa-mcp",
+  "description": "The QA agent for your vibe-coded app. Apache-2.0 MCP server.",
+  "git_url": "https://github.com/prufa-dev/prufa-mcp",
+  "author_github": "prufa-dev",
+  "category": "ai-agents",
+  "tags": [
+    "prufa",
+    "agent",
+    "your",
+    "vibe",
+    "coded"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
