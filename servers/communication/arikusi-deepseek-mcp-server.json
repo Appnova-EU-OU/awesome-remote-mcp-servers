@@ -1,0 +1,16 @@
+{
+  "name": "deepseek-mcp-server",
+  "description": "MCP server for DeepSeek V4 (v4-flash, v4-pro, 1M context): chat, reasoning, function calling, thinking mode, cost tracking. deepseek-chat/reasoner aliases supported.",
+  "git_url": "https://github.com/arikusi/deepseek-mcp-server",
+  "author_github": "arikusi",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "claudecode",
+    "deepseek",
+    "deepseekv4",
+    "geminicli"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
