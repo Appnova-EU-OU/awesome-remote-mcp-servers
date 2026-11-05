@@ -1,0 +1,16 @@
+{
+  "name": "bitrise-mcp",
+  "description": "MCP Server for the Bitrise API, enabling app management, build operations, artifact management and more.",
+  "git_url": "https://github.com/bitrise-io/bitrise-mcp",
+  "author_github": "bitrise-io",
+  "category": "developer-tools",
+  "tags": [
+    "bitrise",
+    "mcp",
+    "mcpserver",
+    "mcpservers"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://bitrise.io"
+}
