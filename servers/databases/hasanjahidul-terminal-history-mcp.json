@@ -1,0 +1,16 @@
+{
+  "name": "terminal-history-mcp",
+  "description": "Search your shell history (zsh/bash/fish) from Claude/MCP. Local SQLite FTS5. Secret-redacted.",
+  "git_url": "https://github.com/HasanJahidul/terminal-history-mcp",
+  "author_github": "HasanJahidul",
+  "category": "databases",
+  "tags": [
+    "claude",
+    "cli",
+    "fts5",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
