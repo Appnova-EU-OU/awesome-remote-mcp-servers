@@ -1,0 +1,16 @@
+{
+  "name": "mcp-database-server",
+  "description": "Store and load JSON documents from LLM tool use",
+  "git_url": "https://github.com/fireproof-storage/mcp-database-server",
+  "author_github": "fireproof-storage",
+  "category": "databases",
+  "tags": [
+    "database",
+    "store",
+    "load",
+    "json",
+    "documents"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
