@@ -1,0 +1,17 @@
+{
+  "name": "humanizer-ru",
+  "description": "Правит русский текст после нейросети и сверяет цифры, даты и имена. Навык для Claude Code, Codex, Cursor и Claude.ai",
+  "git_url": "https://github.com/Vladimir-Human/humanizer-ru",
+  "author_github": "Vladimir-Human",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aihumanizer",
+    "aiwriting",
+    "claudecode",
+    "claudeskill"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://vladimir-human.github.io/humanizer-ru/"
+}
