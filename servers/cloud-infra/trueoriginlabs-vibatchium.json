@@ -1,0 +1,17 @@
+{
+  "name": "vibatchium",
+  "description": "Stealth browser automation for AI agents — unattended, headless, N parallel persistent logged-in Chromes. One MCP server + CLI, credential vault with TOTP/IMAP 2FA, vision clicking, prompt-injection scanning. Self-hosted, real Chrome. 1,250 tests.",
+  "git_url": "https://github.com/trueoriginlabs/vibatchium",
+  "author_github": "trueoriginlabs",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "antidetection",
+    "browserautomation",
+    "claude",
+    "cli"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/vibatchium/"
+}
