@@ -1,0 +1,16 @@
+{
+  "name": "alkemi-mcp",
+  "description": "A STDIO Model Context Protocol Server that lets MCP Clients query databases using plain-english questions and query exposed API endpoints abstracting data products.",
+  "git_url": "https://github.com/alkemi-ai/alkemi-mcp",
+  "author_github": "alkemi-ai",
+  "category": "databases",
+  "tags": [
+    "alkemi",
+    "stdio",
+    "lets",
+    "clients",
+    "query"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
