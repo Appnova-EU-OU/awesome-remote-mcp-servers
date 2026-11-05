@@ -1,0 +1,17 @@
+{
+  "name": "mapache",
+  "description": "Open-source mind maps and whiteboard on your computer or your team's server: live collaboration, comments, and a built-in MCP server so your AI agent can build boards with you.",
+  "git_url": "https://github.com/Hackeatutiempo/mapache",
+  "author_github": "Hackeatutiempo",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "brainstorming",
+    "claude",
+    "codex",
+    "collaboration"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://hackeatutiempo.com"
+}
