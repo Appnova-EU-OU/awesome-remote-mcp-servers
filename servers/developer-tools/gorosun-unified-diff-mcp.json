@@ -1,0 +1,16 @@
+{
+  "name": "unified-diff-mcp",
+  "description": "Generate and visualize unified diffs as HTML or PNG, with side-by-side and line-by-line views for filesystem dry runs.",
+  "git_url": "https://github.com/gorosun/unified-diff-mcp",
+  "author_github": "gorosun",
+  "category": "developer-tools",
+  "tags": [
+    "unified",
+    "diff",
+    "generate",
+    "visualize",
+    "diffs"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
