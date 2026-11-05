@@ -1,0 +1,16 @@
+{
+  "name": "firefox-devtools-mcp",
+  "description": "Model Context Protocol server for Firefox DevTools - enables AI assistants to inspect and control Firefox browser through WebDriver BiDi",
+  "git_url": "https://github.com/freema/firefox-devtools-mcp",
+  "author_github": "freema",
+  "category": "ai-agents",
+  "tags": [
+    "firefox",
+    "devtools",
+    "enables",
+    "assistants",
+    "inspect"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
