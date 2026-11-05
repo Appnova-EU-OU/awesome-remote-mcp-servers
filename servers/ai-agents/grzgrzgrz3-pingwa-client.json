@@ -1,0 +1,17 @@
+{
+  "name": "pingwa-client",
+  "description": "Text your phone from any agent, script or CI - and tap to reply. Python/CLI/MCP client for   pingwa.",
+  "git_url": "https://github.com/grzgrzgrz3/pingwa-client",
+  "author_github": "grzgrzgrz3",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cli",
+    "humanintheloop",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pingwa.dev"
+}
