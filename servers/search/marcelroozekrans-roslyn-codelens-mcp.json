@@ -1,0 +1,16 @@
+{
+  "name": "roslyn-codelens-mcp",
+  "description": "Roslyn-based MCP server giving AI agents deep semantic understanding of .NET/C# codebases — 67 tools for navigation, call graphs, diagnostics & code fixes, safe refactoring, code-quality auditing, test intelligence, DI graphs, and IL/external-assembly inspection.",
+  "git_url": "https://github.com/MarcelRoozekrans/roslyn-codelens-mcp",
+  "author_github": "MarcelRoozekrans",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codeanalysis",
+    "codeintelligence",
+    "csharp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
