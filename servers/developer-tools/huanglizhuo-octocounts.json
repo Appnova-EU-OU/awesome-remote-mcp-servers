@@ -1,0 +1,17 @@
+{
+  "name": "OctoCounts",
+  "description": "Count lines of code (SLOC) in any public GitHub repo without cloning: web app, browser extension, CLI, GitHub Action and MCP server, powered by tokei. The SLOC panel GitHub forgot.",
+  "git_url": "https://github.com/huanglizhuo/OctoCounts",
+  "author_github": "huanglizhuo",
+  "category": "developer-tools",
+  "tags": [
+    "browserextension",
+    "chromeextension",
+    "codecounter",
+    "codemetrics",
+    "codestatistics"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://octocounts.com/"
+}
