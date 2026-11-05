@@ -1,0 +1,17 @@
+{
+  "name": "infrastructure-mcp",
+  "description": "Give Claude Code, Cursor, and other AI agents safe access to your real infrastructure — without giving them raw SSH access.",
+  "git_url": "https://github.com/radumalica/infrastructure-mcp",
+  "author_github": "radumalica",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "claudecode",
+    "cursor",
+    "cursorai"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/radumalica/infrastructure-mcp/docs/"
+}
