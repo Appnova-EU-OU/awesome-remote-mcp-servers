@@ -1,0 +1,16 @@
+{
+  "name": "mcp-codebase-index",
+  "description": "17 MCP query tools for codebase navigation — functions, classes, imports, dependency graphs, change impact. Zero dependencies. 87% token reduction.",
+  "git_url": "https://github.com/MikeRecognex/mcp-codebase-index",
+  "author_github": "MikeRecognex",
+  "category": "security",
+  "tags": [
+    "aicoding",
+    "astparser",
+    "claudecode",
+    "codeanalysis",
+    "codenavigation"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active"
+}
