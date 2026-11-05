@@ -1,0 +1,17 @@
+{
+  "name": "argot",
+  "description": "A statistical code analyzer built from your repository's history.",
+  "git_url": "https://github.com/get-tmonier/argot",
+  "author_github": "get-tmonier",
+  "category": "ai-agents",
+  "tags": [
+    "agents",
+    "ai",
+    "aicodereview",
+    "aiguardrails",
+    "ci"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://argot.tmonier.com"
+}
