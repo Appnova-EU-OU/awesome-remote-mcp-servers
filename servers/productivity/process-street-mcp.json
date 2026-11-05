@@ -1,0 +1,11 @@
+{
+  "name": "Process Street MCP Server",
+  "description": "Connect AI agents to Process Street workflows, tasks, runs, data sets, and operational records.",
+  "git_url": "https://github.com/process-street/process-street-mcp",
+  "homepage": "https://www.process.st/help/docs/mcp-server/",
+  "author_github": "process-street",
+  "category": "productivity",
+  "tags": ["process-street", "workflow", "tasks", "operations"],
+  "license": "Proprietary",
+  "status": "active"
+}
