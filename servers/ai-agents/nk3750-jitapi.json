@@ -1,0 +1,16 @@
+{
+  "name": "jitapi",
+  "description": "Just-in-Time API Orchestration for LLMs - An MCP server for dynamic API discovery and execution",
+  "git_url": "https://github.com/nk3750/jitapi",
+  "author_github": "nk3750",
+  "category": "ai-agents",
+  "tags": [
+    "jitapi",
+    "just",
+    "time",
+    "api",
+    "orchestration"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
