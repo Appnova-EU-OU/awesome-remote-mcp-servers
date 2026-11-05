@@ -1,0 +1,16 @@
+{
+  "name": "ascended-browser",
+  "description": "A real, hardened browser for AI agents (MCP server): verified actions, page reading, dev tools. Works with Claude Code, Codex, opencode.",
+  "git_url": "https://github.com/AceAtDev/ascended-browser",
+  "author_github": "AceAtDev",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "camoufox",
+    "claudecode",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
