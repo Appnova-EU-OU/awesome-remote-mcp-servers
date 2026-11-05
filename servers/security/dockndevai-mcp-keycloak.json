@@ -1,0 +1,17 @@
+{
+  "name": "mcp-keycloak",
+  "description": "MCP server for Keycloak — multi-realm admin with security modes (read-only/read-write/admin) and access-control flags.",
+  "git_url": "https://github.com/dockndevai/mcp-keycloak",
+  "author_github": "dockndevai",
+  "category": "security",
+  "tags": [
+    "iam",
+    "keycloak",
+    "llm",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dockndevai.github.io/"
+}
