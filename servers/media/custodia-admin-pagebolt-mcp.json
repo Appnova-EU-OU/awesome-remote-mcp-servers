@@ -1,0 +1,16 @@
+{
+  "name": "Custodia-Admin/pagebolt-mcp",
+  "description": "An MCP server to allow AI agents to interact with PageBolt to take screenshots, grab PDFs, and more.",
+  "git_url": "https://github.com/Custodia-Admin/pagebolt-mcp",
+  "author_github": "Custodia-Admin",
+  "category": "media",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "mcp",
+    "mcpserver",
+    "mcpservers"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
