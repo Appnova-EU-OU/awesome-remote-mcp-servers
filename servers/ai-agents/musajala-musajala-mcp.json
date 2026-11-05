@@ -1,0 +1,17 @@
+{
+  "name": "musajala-mcp",
+  "description": "Anthropic Model Context Protocol (MCP) Server for Musajala (مُسَاجَلَة) — Living Collaborative Arabic Poetry Arena",
+  "git_url": "https://github.com/musajala/musajala-mcp",
+  "author_github": "musajala",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "arabicpoetry",
+    "claude",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://musajala.app"
+}
