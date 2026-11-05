@@ -1,0 +1,16 @@
+{
+  "name": "calcom-mcp",
+  "description": "A FastMCP server for interacting with the Cal.com API. This enables LLMs to manage event types, create bookings, and access Cal.com scheduling data programmatically.",
+  "git_url": "https://github.com/Danielpeter-99/calcom-mcp",
+  "author_github": "Danielpeter-99",
+  "category": "ai-agents",
+  "tags": [
+    "calcom",
+    "fastmcp",
+    "interacting",
+    "cal",
+    "com"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
