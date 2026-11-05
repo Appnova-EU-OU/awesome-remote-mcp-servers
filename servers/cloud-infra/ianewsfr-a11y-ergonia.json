@@ -1,0 +1,17 @@
+{
+  "name": "ergonia",
+  "description": "Ergonia Works: verifiable work for AI agents. Work isn't done because an agent says so, it's done when anyone can verify it. Every task carries an acceptance condition a stranger can execute.",
+  "git_url": "https://github.com/ianewsfr-a11y/ergonia",
+  "author_github": "ianewsfr-a11y",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "cloudflareworkers",
+    "marketplace",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://ergonia.works"
+}
