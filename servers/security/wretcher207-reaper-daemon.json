@@ -1,0 +1,17 @@
+{
+  "name": "reaper-daemon",
+  "description": "Free, open source REAPER MCP server that lets an AI agent (Claude or any MCP client) drive REAPER: read every plugin and parameter, set FX values, write automation, and measure a mix move before and after. MIT. macOS, Windows, Linux.",
+  "git_url": "https://github.com/wretcher207/reaper-daemon",
+  "author_github": "wretcher207",
+  "category": "security",
+  "tags": [
+    "aiagent",
+    "aimixing",
+    "audio",
+    "audioengineering",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.deadpixeldesign.com/workflows/reaper-daemon/"
+}
