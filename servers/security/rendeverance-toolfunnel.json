@@ -1,0 +1,16 @@
+{
+  "name": "Rendeverance/toolfunnel",
+  "description": "Zero-dependency MCP gateway - attach, filter, gate, and observe MCP servers through one funnel.",
+  "git_url": "https://github.com/Rendeverance/toolfunnel",
+  "author_github": "Rendeverance",
+  "category": "security",
+  "tags": [
+    "ai",
+    "aitools",
+    "mcp",
+    "mcpclient",
+    "mcpgateway"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
