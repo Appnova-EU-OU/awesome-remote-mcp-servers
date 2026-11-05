@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-dns",
+  "description": "MCP server for DNS — lookups, reverse DNS, WHOIS, zero auth",
+  "git_url": "https://github.com/ofershap/mcp-server-dns",
+  "author_github": "ofershap",
+  "category": "security",
+  "tags": [
+    "ai",
+    "claude",
+    "cursor",
+    "dns",
+    "domain"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
