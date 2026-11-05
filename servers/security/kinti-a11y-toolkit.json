@@ -1,0 +1,17 @@
+{
+  "name": "a11y-toolkit",
+  "description": "MCP server + CLI for WCAG 2.2 accessibility: contrast (pairs & text-over-image), EU accessibility declarations (RD 1112/2018 · Ley 11/2023 · EAA), aria-live monitor. Multilanguage es/en · zero dependencies",
+  "git_url": "https://github.com/kinti/a11y-toolkit",
+  "author_github": "kinti",
+  "category": "security",
+  "tags": [
+    "a11y",
+    "accessibility",
+    "accessibilitychecker",
+    "aiagents",
+    "arialive"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://jquin.net/lab/"
+}
