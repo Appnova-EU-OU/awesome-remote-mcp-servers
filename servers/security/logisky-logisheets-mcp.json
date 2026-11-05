@@ -1,0 +1,16 @@
+{
+  "name": "logisheets-mcp",
+  "description": "give your AI agent a spreadsheet it can actually think in: deterministic Excel-compatible math + structured memory (blocks), real .xlsx out. Open source, self-hostable.",
+  "git_url": "https://github.com/logisky/logisheets-mcp",
+  "author_github": "logisky",
+  "category": "security",
+  "tags": [
+    "agent",
+    "ai",
+    "awesome",
+    "excel",
+    "googlesheets"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
