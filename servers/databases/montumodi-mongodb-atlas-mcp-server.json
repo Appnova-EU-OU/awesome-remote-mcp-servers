@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-atlas-mcp-server",
+  "description": "MCP server for mongodb atlas api. Internally uses mongodb-atlas-api-client",
+  "git_url": "https://github.com/montumodi/mongodb-atlas-mcp-server",
+  "author_github": "montumodi",
+  "category": "databases",
+  "tags": [
+    "llm",
+    "mcp",
+    "mcpserver",
+    "mongo",
+    "mongodbatlas"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
