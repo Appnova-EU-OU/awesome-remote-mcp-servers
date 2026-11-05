@@ -1,0 +1,16 @@
+{
+  "name": "mcp-drill",
+  "description": "Fault injection and reliability scoring for MCP servers",
+  "git_url": "https://github.com/TimurRakhmatullin86/mcp-drill",
+  "author_github": "TimurRakhmatullin86",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "chaosengineering",
+    "cli",
+    "faultinjection"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
