@@ -1,0 +1,17 @@
+{
+  "name": "druid-mcp-server",
+  "description": "A comprehensive Model Context Protocol (MCP) server for Apache Druid that provides extensive tools, resources, and AI-assisted prompts for managing and analyzing Druid clusters. Built with Spring Boot and Spring AI, this server enables seamless integration between AI assistants and Apache Druid through standardized MCP protocol.",
+  "git_url": "https://github.com/iunera/druid-mcp-server",
+  "author_github": "iunera",
+  "category": "ai-agents",
+  "tags": [
+    "aiintegration",
+    "apachedruid",
+    "dataanalytics",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.iunera.com"
+}
