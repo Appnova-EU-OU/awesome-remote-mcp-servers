@@ -1,0 +1,16 @@
+{
+  "name": "mcp-doctor",
+  "description": "Diagnose, secure, and benchmark your MCP servers. Zero-config CLI for Claude Code, Cursor, VS Code, and Windsurf.",
+  "git_url": "https://github.com/realwigu/mcp-doctor",
+  "author_github": "realwigu",
+  "category": "security",
+  "tags": [
+    "claude",
+    "cli",
+    "cursor",
+    "devtools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
