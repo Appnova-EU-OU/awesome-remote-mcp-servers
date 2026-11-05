@@ -1,0 +1,16 @@
+{
+  "name": "domain-mcp",
+  "description": "Manage Dynadot domains, DNS, renewals, and transfers from Claude, Cursor, or any MCP client.",
+  "git_url": "https://github.com/joachimBrindeau/domain-mcp",
+  "author_github": "joachimBrindeau",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "dnsmanagement",
+    "domainautomation",
+    "domainmanagement",
+    "domainregistrar"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
