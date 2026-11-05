@@ -1,0 +1,16 @@
+{
+  "name": "selvage",
+  "description": "LLM-based code review with AST-based context extraction, supporting Claude, GPT, Gemini and other models via OpenRouter.",
+  "git_url": "https://github.com/selvage-lab/selvage",
+  "author_github": "selvage-lab",
+  "category": "security",
+  "tags": [
+    "selvage",
+    "llm",
+    "based",
+    "code",
+    "review"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
