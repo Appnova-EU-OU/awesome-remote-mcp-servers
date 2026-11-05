@@ -1,0 +1,16 @@
+{
+  "name": "VMware-NSX-Security",
+  "description": "VMware NSX DFW microsegmentation and security: distributed firewall, security groups, tags, traceflow, IDPS — MCP tools for AI agents",
+  "git_url": "https://github.com/zw008/VMware-NSX-Security",
+  "author_github": "zw008",
+  "category": "security",
+  "tags": [
+    "agentskills",
+    "aiskill",
+    "claudecode",
+    "codex",
+    "dfw"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
