@@ -1,0 +1,16 @@
+{
+  "name": "Postgres-AIops",
+  "description": "Governed AI-ops for PostgreSQL — slow-query/bloat/lock RCA, indexes, vacuum, replication, with audit/budget/undo/risk-tiers (preview)",
+  "git_url": "https://github.com/AIops-tools/Postgres-AIops",
+  "author_github": "AIops-tools",
+  "category": "databases",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "database",
+    "dba",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
