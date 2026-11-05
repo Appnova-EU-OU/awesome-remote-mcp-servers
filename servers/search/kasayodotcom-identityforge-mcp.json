@@ -1,0 +1,17 @@
+{
+  "name": "identityforge-mcp",
+  "description": "Design systems, brand naming, and domain research for coding agents through MCP and CLI.",
+  "git_url": "https://github.com/KasayoDotCom/identityforge-mcp",
+  "author_github": "KasayoDotCom",
+  "category": "search",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "branding",
+    "claudecode",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://identityforge.io/for-agents"
+}
