@@ -1,0 +1,13 @@
+{
+  "name": "localstack-mcp-server",
+  "description": "MCP Server for LocalStack",
+  "git_url": "https://github.com/localstack/localstack-mcp-server",
+  "author_github": "localstack",
+  "category": "developer-tools",
+  "tags": [
+    "localstack"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@localstack/localstack-mcp-server"
+}
