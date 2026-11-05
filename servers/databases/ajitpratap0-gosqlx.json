@@ -1,0 +1,17 @@
+{
+  "name": "GoSQLX",
+  "description": "Pure-Go SQL parser, formatter, linter and security scanner for 8 dialects. Zero-copy, race-free, with an LSP and MCP server.",
+  "git_url": "https://github.com/ajitpratap0/GoSQLX",
+  "author_github": "ajitpratap0",
+  "category": "databases",
+  "tags": [
+    "ast",
+    "cli",
+    "go",
+    "golang",
+    "lsp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://gosqlx.dev"
+}
