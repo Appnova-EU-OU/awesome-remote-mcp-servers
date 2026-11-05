@@ -1,0 +1,17 @@
+{
+  "name": "agentgo-mcp",
+  "description": "MCP server for AgentGo, the browser your AI agent drives: compact page outlines, diff-only replies, real input, human approval. MIT.",
+  "git_url": "https://github.com/Moha2005269/agentgo-mcp",
+  "author_github": "Moha2005269",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "chromium",
+    "claudecode",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/Moha2005269/agentgo"
+}
