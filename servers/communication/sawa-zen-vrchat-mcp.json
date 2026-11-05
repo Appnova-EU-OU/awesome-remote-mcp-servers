@@ -1,0 +1,16 @@
+{
+  "name": "vrchat-mcp",
+  "description": "This project is a Model Context Protocol (MCP) server for interacting with the VRChat API.",
+  "git_url": "https://github.com/sawa-zen/vrchat-mcp",
+  "author_github": "sawa-zen",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "claude",
+    "cline",
+    "mcp",
+    "vrchat"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
