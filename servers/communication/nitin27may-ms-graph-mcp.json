@@ -1,0 +1,17 @@
+{
+  "name": "ms-graph-mcp",
+  "description": "Microsoft Graph MCP server for AI agents — 85 tools across Outlook mail & calendar, Teams, OneDrive, SharePoint, OneNote, Planner and Entra ID. Delegated OAuth, stdio or Streamable HTTP.",
+  "git_url": "https://github.com/nitin27may/ms-graph-mcp",
+  "author_github": "nitin27may",
+  "category": "communication",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "azure",
+    "claude",
+    "entraid"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://nitinksingh.com/ms-graph-mcp/"
+}
