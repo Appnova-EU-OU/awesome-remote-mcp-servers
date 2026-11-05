@@ -1,0 +1,16 @@
+{
+  "name": "method-crm-mcp",
+  "description": "Production-ready Model Context Protocol (MCP) server for Method CRM API integration. Enables LLMs to interact with Method CRM through 20 comprehensive tools.",
+  "git_url": "https://github.com/avisangle/method-crm-mcp",
+  "author_github": "avisangle",
+  "category": "ai-agents",
+  "tags": [
+    "apiintegration",
+    "fastmcp",
+    "mcp",
+    "methodcrm",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
