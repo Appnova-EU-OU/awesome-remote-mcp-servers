@@ -1,0 +1,17 @@
+{
+  "name": "workspace-metabolism",
+  "description": "Govern what Claude Code, Codex, Aider and OpenClaw leave in your workspace: one JSON policy file, audit, recyclable clean, rollback, hash-chained audit trail.",
+  "git_url": "https://github.com/metabolism-tools/workspace-metabolism",
+  "author_github": "metabolism-tools",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "aigovernance",
+    "audit",
+    "claudecode",
+    "cleanup"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/workspace-metabolism/"
+}
