@@ -1,0 +1,17 @@
+{
+  "name": "bristlecone-logic",
+  "description": "Deterministic guardrails and M2M security rails for autonomous AI agents: pre-socket SSRF defense, zero-overhead JSON repair, and sandboxed AST math verification.",
+  "git_url": "https://github.com/Bristlecone2026/bristlecone-logic",
+  "author_github": "Bristlecone2026",
+  "category": "databases",
+  "tags": [
+    "agenticworkflow",
+    "aiagents",
+    "fastmcp",
+    "guardrails",
+    "jso"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://bristleconelogic.com"
+}
