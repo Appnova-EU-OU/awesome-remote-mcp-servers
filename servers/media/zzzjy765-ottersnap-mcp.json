@@ -1,0 +1,16 @@
+{
+  "name": "ottersnap-mcp",
+  "description": "MCP server for the OtterSnap rendering API — screenshots, PDFs, OG images and page extraction for AI agents.",
+  "git_url": "https://github.com/zzzjy765/ottersnap-mcp",
+  "author_github": "zzzjy765",
+  "category": "media",
+  "tags": [
+    "ottersnap",
+    "rendering",
+    "api",
+    "screenshots",
+    "pdfs"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
