@@ -1,0 +1,17 @@
+{
+  "name": "greencalculus-mcp",
+  "description": "Run the GreenCalculus MCP server over stdio — sourced carbon emission factors and audit-traced calculations an AI can cite.",
+  "git_url": "https://github.com/greencalculus/greencalculus-mcp",
+  "author_github": "greencalculus",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "carbonaccounting",
+    "carbonapi",
+    "carbonfootprint",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://greencalculus.com/developers?ref=github-mcp"
+}
