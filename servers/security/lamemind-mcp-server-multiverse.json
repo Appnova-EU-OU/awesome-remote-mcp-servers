@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-multiverse",
+  "description": "A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.",
+  "git_url": "https://github.com/lamemind/mcp-server-multiverse",
+  "author_github": "lamemind",
+  "category": "security",
+  "tags": [
+    "multiverse",
+    "middleware",
+    "enables",
+    "multiple",
+    "isolated"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
