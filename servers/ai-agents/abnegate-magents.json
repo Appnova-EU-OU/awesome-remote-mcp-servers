@@ -1,0 +1,17 @@
+{
+  "name": "magents",
+  "description": "Shared session bus for Claude Code, Codex, and Cursor",
+  "git_url": "https://github.com/abnegate/magents",
+  "author_github": "abnegate",
+  "category": "ai-agents",
+  "tags": [
+    "magents",
+    "shared",
+    "session",
+    "bus",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://abnegate.github.io/magents/"
+}
