@@ -1,0 +1,17 @@
+{
+  "name": "humanforai-mcp",
+  "description": "MCP server for Human For AI — let your AI agent hire a real human for real-world verification, testing, review, and errands. Free pilot, no auth.",
+  "git_url": "https://github.com/humanforai/humanforai-mcp",
+  "author_github": "humanforai",
+  "category": "security",
+  "tags": [
+    "agents",
+    "aiagents",
+    "automation",
+    "claude",
+    "humanintheloop"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://humanforai.dev"
+}
