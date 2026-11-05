@@ -1,0 +1,16 @@
+{
+  "name": "awesome-ionic-mcp",
+  "description": "An Awesome MCP Server to help building mobile apps in React/Vue/Angular/VanillaJS using Capacitor and Ionic",
+  "git_url": "https://github.com/Tommertom/awesome-ionic-mcp",
+  "author_github": "Tommertom",
+  "category": "developer-tools",
+  "tags": [
+    "awesome",
+    "ionic",
+    "help",
+    "building",
+    "mobile"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
