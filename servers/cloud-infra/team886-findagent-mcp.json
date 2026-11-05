@@ -1,0 +1,17 @@
+{
+  "name": "findagent-mcp",
+  "description": "The MCP server for FindAgent — the vetted, cross-LLM marketplace of doer agents. Hosted remote endpoint: mcp.findagent.cloud/mcp",
+  "git_url": "https://github.com/team886/findagent-mcp",
+  "author_github": "team886",
+  "category": "cloud-infra",
+  "tags": [
+    "agentmarketplace",
+    "aiagents",
+    "crossllm",
+    "findagent",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://findagent.cloud"
+}
