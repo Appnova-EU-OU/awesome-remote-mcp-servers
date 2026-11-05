@@ -1,0 +1,16 @@
+{
+  "name": "inxmail-mcp",
+  "description": "MCP server for the Inxmail Commerce transactional API — events, sendings, bounces, blocklist, blacklist, reactions, and delivery tracking from Claude.",
+  "git_url": "https://github.com/shahabazdev/inxmail-mcp",
+  "author_github": "shahabazdev",
+  "category": "communication",
+  "tags": [
+    "claude",
+    "email",
+    "inxmail",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
