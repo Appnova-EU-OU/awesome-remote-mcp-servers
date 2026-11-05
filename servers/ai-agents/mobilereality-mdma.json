@@ -1,0 +1,16 @@
+{
+  "name": "mdma",
+  "description": "Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps",
+  "git_url": "https://github.com/MobileReality/mdma",
+  "author_github": "MobileReality",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "claudeskill",
+    "generativeui",
+    "interactivemarkdown"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
