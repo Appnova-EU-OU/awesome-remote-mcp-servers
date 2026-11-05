@@ -1,0 +1,16 @@
+{
+  "name": "discp",
+  "description": "The feature-complete Discord MCP Server for AI assistants (Claude, Cursor, Antigravity, OpenCode). 117 native tools, dual user/bot account support, anti-abuse human pacing, dynamic symbol search.",
+  "git_url": "https://github.com/SharimAli/discp",
+  "author_github": "SharimAli",
+  "category": "search",
+  "tags": [
+    "ai",
+    "aiagents",
+    "antigravity",
+    "autonomousagents",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
