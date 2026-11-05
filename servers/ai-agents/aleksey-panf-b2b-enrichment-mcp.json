@@ -1,0 +1,16 @@
+{
+  "name": "b2b-enrichment-mcp",
+  "description": "Unified MCP server combining Hunter.io and Apollo for B2B lead enrichment",
+  "git_url": "https://github.com/Aleksey-Panf/b2b-enrichment-mcp",
+  "author_github": "Aleksey-Panf",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "apolloios",
+    "b2b",
+    "claudecode",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
