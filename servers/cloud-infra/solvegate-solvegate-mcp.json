@@ -1,0 +1,17 @@
+{
+  "name": "solvegate-mcp",
+  "description": "MCP server for Cloudflare Turnstile — inspect a page for Turnstile without an API key, and clear Turnstile and WAF challenges.",
+  "git_url": "https://github.com/SolveGate/solvegate-mcp",
+  "author_github": "SolveGate",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "automation",
+    "captcha",
+    "claude",
+    "cloudflare"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://solvegate.io/docs"
+}
