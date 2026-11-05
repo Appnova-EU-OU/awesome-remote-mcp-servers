@@ -1,0 +1,17 @@
+{
+  "name": "n8n-workflow-tester-safe",
+  "description": "Safe MCP server + CLI for testing, inspecting, and operating n8n workflows with a constrained scope",
+  "git_url": "https://github.com/Souzix76/n8n-workflow-tester-safe",
+  "author_github": "Souzix76",
+  "category": "ai-agents",
+  "tags": [
+    "automation",
+    "mcp",
+    "modelcontextprotocol",
+    "n8n",
+    "typescript"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/hugoscastro-cell/n8n-workflow-tester-safe"
+}
