@@ -1,0 +1,17 @@
+{
+  "name": "icon-composer-mcp",
+  "description": "Apple Icon Composer CLI & MCP server: create and manipulate .icon bundles and images with Liquid Glass rendering",
+  "git_url": "https://github.com/ethbak/icon-composer-mcp",
+  "author_github": "ethbak",
+  "category": "media",
+  "tags": [
+    "anthropic",
+    "appicon",
+    "apple",
+    "bun",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/icon-composer-mcp"
+}
