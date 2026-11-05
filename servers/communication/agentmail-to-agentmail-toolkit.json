@@ -1,0 +1,16 @@
+{
+  "name": "agentmail-toolkit",
+  "description": "An MCP server to create inboxes on the fly to send, receive, and take actions on email. We aren't AI agents for email, but email for AI Agents.",
+  "git_url": "https://github.com/agentmail-to/agentmail-toolkit",
+  "author_github": "agentmail-to",
+  "category": "communication",
+  "tags": [
+    "agentmail",
+    "toolkit",
+    "create",
+    "inboxes",
+    "fly"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
