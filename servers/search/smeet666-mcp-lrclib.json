@@ -1,0 +1,16 @@
+{
+  "name": "mcp-lrclib",
+  "description": "MCP server for LRCLIB: search tracks and fetch plain or time-synced (LRC) lyrics. No API key.",
+  "git_url": "https://github.com/smeet666/mcp-lrclib",
+  "author_github": "smeet666",
+  "category": "search",
+  "tags": [
+    "claude",
+    "lrclib",
+    "lyrics",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
