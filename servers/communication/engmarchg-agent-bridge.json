@@ -1,0 +1,16 @@
+{
+  "name": "agent-bridge",
+  "description": "MCP server that lets Claude and Codex steer each other's chats. Read chats, send steers, control Codex goals for agent orchestration natively.",
+  "git_url": "https://github.com/EngMarchG/agent-bridge",
+  "author_github": "EngMarchG",
+  "category": "communication",
+  "tags": [
+    "agentorchestration",
+    "aiagents",
+    "claude",
+    "claudecode",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
