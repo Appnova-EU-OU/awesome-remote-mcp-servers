@@ -1,0 +1,17 @@
+{
+  "name": "PhpCodeArcheology",
+  "description": "PHP static analysis for architecture & maintainability — 60+ metrics, complexity analysis, dependency graphs, git churn hotspots, and AI-ready MCP server. Alternative to PHPMetrics.",
+  "git_url": "https://github.com/PhpCodeArcheology/PhpCodeArcheology",
+  "author_github": "PhpCodeArcheology",
+  "category": "security",
+  "tags": [
+    "architecture",
+    "ast",
+    "codeanalysis",
+    "codemetrics",
+    "codequality"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://phpcodearcheology.github.io"
+}
