@@ -1,0 +1,17 @@
+{
+  "name": "magzdown-agent-tools",
+  "description": "Give any AI agent a way to hand humans a typeset document link (Claude Code skill, Cursor rule, MCP server)",
+  "git_url": "https://github.com/xarl3z/magzdown-agent-tools",
+  "author_github": "xarl3z",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "cursor",
+    "markdown",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.magzdown.com/docs"
+}
