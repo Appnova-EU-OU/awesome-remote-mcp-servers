@@ -1,0 +1,16 @@
+{
+  "name": "AceDataCloud/MCPSeedream",
+  "description": "MCP server for ByteDance Seedream image generation and editing via Ace Data Cloud.",
+  "git_url": "https://github.com/AceDataCloud/SeedreamMCP",
+  "author_github": "AceDataCloud",
+  "category": "cloud-infra",
+  "tags": [
+    "aiimage",
+    "developertools",
+    "imagegeneration",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
