@@ -1,0 +1,16 @@
+{
+  "name": "wecom-docs-mcp-server",
+  "description": "MCP server for WeCom (Enterprise WeChat) document operations — create, read, edit Docs and Smartsheets. Fills the doc-CRUD gap in the WeCom MCP ecosystem.",
+  "git_url": "https://github.com/Beltran12138/wecom-docs-mcp-server",
+  "author_github": "Beltran12138",
+  "category": "communication",
+  "tags": [
+    "aiagent",
+    "enterprisewechat",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
