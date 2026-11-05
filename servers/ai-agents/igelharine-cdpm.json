@@ -1,0 +1,17 @@
+{
+  "name": "CDPM",
+  "description": "MCP server that lets many Claude Code sessions and subagents share numbered, logged-in Chrome instances over CDP",
+  "git_url": "https://github.com/IGELHARINE/CDPM",
+  "author_github": "IGELHARINE",
+  "category": "ai-agents",
+  "tags": [
+    "browserautomation",
+    "cdp",
+    "chrome",
+    "chromedevtoolsprotocol",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/cdpm-mcp"
+}
