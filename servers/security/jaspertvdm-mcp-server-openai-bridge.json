@@ -1,0 +1,16 @@
+{
+  "name": "jaspertvdm/mcp-server-openai-bridge",
+  "description": "MCP Server - Bridge to OpenAI API. Part of HumoticaOS/SymbAIon ecosystem.",
+  "git_url": "https://github.com/jaspertvdm/mcp-server-openai-bridge",
+  "author_github": "jaspertvdm",
+  "category": "security",
+  "tags": [
+    "jaspertvdm",
+    "openai",
+    "bridge",
+    "api",
+    "part"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
