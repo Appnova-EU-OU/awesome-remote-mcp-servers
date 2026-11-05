@@ -1,0 +1,16 @@
+{
+  "name": "coolify-mcp",
+  "description": "MCP server for Coolify — 64 tools to deploy, diagnose, and manage apps, databases, and services on your self-hosted PaaS. OpenAPI-generated schemas, docs search, secrets masked by default.",
+  "git_url": "https://github.com/frndchagas/coolify-mcp",
+  "author_github": "frndchagas",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "coolify",
+    "deployment",
+    "devops",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
