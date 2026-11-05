@@ -1,0 +1,17 @@
+{
+  "name": "WebReaper",
+  "description": "AI-native web scraper. Single binary with a bundled Claude Code skill. MIT-licensed alternative to Firecrawl.",
+  "git_url": "https://github.com/alex-on-ai/WebReaper",
+  "author_github": "alex-on-ai",
+  "category": "ai-agents",
+  "tags": [
+    "aiagentsautomation",
+    "claudecode",
+    "crawler",
+    "dotnet",
+    "firecrawlalternative"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://webreaper.ai"
+}
