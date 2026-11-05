@@ -1,0 +1,16 @@
+{
+  "name": "VMware-Storage",
+  "description": "VMware vSphere storage management: datastores, iSCSI, vSAN. Domain-focused MCP skill with 11 tools.",
+  "git_url": "https://github.com/zw008/VMware-Storage",
+  "author_github": "zw008",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiskill",
+    "claudecode",
+    "codex",
+    "geminicli"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
