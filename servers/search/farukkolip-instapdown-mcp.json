@@ -1,0 +1,16 @@
+{
+  "name": "instapdown-mcp",
+  "description": "16 Instagram creator tools as an MCP server — Reels/Story/carousel downloaders, engagement audit, hashtag search, Reels hook generator, best-time-to-post and content calendar.",
+  "git_url": "https://github.com/farukkolip/instapdown-mcp",
+  "author_github": "farukkolip",
+  "category": "search",
+  "tags": [
+    "instapdown",
+    "instagram",
+    "creator",
+    "tools",
+    "reels"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
