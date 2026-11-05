@@ -1,0 +1,17 @@
+{
+  "name": "ramen",
+  "description": "Self-hosted, multi-zone MCP server platform for GKE, EKS and AKS. A git repo of Python tools becomes canary-deployed, autoscaled Rust + Python workers with NeMo guardrails per tool, Entra ID / Google Workspace SSO, custom roles, OAuth 2.1, secrets, IP rules and audit. Clients on macOS, Windows and Linux.",
+  "git_url": "https://github.com/bkraad47/ramen",
+  "author_github": "bkraad47",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "aks",
+    "aws",
+    "azure",
+    "crossplatform"
+  ],
+  "license": "BSD-3-Clause",
+  "status": "active",
+  "homepage": "https://bkraad47.github.io/ramen/"
+}
