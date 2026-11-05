@@ -1,0 +1,17 @@
+{
+  "name": "flowbite-mcp",
+  "description": "Convert Figma design to code with the official Flowbite MCP server",
+  "git_url": "https://github.com/themesberg/flowbite-mcp",
+  "author_github": "themesberg",
+  "category": "cloud-infra",
+  "tags": [
+    "cssmcp",
+    "figma",
+    "flowbite",
+    "flowbitemcp",
+    "htmlmcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://flowbite.com/docs/getting-started/mcp/"
+}
