@@ -1,0 +1,12 @@
+{
+  "name": "mcp-aiven",
+  "description": "Model Context Protocol server for Aiven",
+  "git_url": "https://github.com/Aiven-Open/mcp-aiven",
+  "author_github": "Aiven-Open",
+  "category": "ai-agents",
+  "tags": [
+    "aiven"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
