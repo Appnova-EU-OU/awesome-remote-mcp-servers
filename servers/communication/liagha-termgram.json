@@ -1,0 +1,16 @@
+{
+  "name": "termgram",
+  "description": "Telegram in your terminal: MTProto client, MCP server with push notifications, and an SSE stream",
+  "git_url": "https://github.com/liagha/termgram",
+  "author_github": "liagha",
+  "category": "communication",
+  "tags": [
+    "cli",
+    "maintainerswanted",
+    "mcp",
+    "mtproto",
+    "rust"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
