@@ -1,0 +1,17 @@
+{
+  "name": "mcp-gateway",
+  "description": "One endpoint in front of unlimited MCP servers and REST APIs. The agent sees a fixed ~15-tool surface however many you connect, so tool-list token cost stays flat (about 89% less on a 100-tool stack) and the savings climb as you add more. Single Rust binary.",
+  "git_url": "https://github.com/MikkoParkkola/mcp-gateway",
+  "author_github": "MikkoParkkola",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "anthropic",
+    "claude",
+    "gateway",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://crates.io/crates/mcp-gateway"
+}
