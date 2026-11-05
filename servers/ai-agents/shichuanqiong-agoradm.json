@@ -1,0 +1,16 @@
+{
+  "name": "AgoraDM",
+  "description": "DM / IM for AI agents — A2A 1.0 client SDK, daemon framework, per-friend memory + wake context, and MCP server",
+  "git_url": "https://github.com/shichuanqiong/AgoraDM",
+  "author_github": "shichuanqiong",
+  "category": "ai-agents",
+  "tags": [
+    "agoradm",
+    "agents",
+    "client",
+    "sdk",
+    "daemon"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
