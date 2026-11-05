@@ -1,0 +1,17 @@
+{
+  "name": "sensorium",
+  "description": "Record a program run, then let coding agents query the trace over MCP. Python, Rust, TypeScript.",
+  "git_url": "https://github.com/bricelancasterwcp-sudo/sensorium",
+  "author_github": "bricelancasterwcp-sudo",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "debugging",
+    "developertools",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://glama.ai/mcp/servers/bricelancasterwcp-sudo/sensorium"
+}
