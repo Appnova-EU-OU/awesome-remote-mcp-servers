@@ -1,0 +1,17 @@
+{
+  "name": "datacharter",
+  "description": "Your data, explored locally — and your AI agents kept on a leash. A federated data explorer with governed agentic access.",
+  "git_url": "https://github.com/datacharter/datacharter",
+  "author_github": "datacharter",
+  "category": "databases",
+  "tags": [
+    "datacatalog",
+    "datacontracts",
+    "dataengineering",
+    "dataexploration",
+    "datagovernance"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://datacharter.dev"
+}
