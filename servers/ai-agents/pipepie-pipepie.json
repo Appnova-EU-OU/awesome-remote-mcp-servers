@@ -1,0 +1,16 @@
+{
+  "name": "pipepie",
+  "description": "Self-hosted encrypted tunnel for webhooks, AI pipelines, and local development. End-to-end Noise encryption, pipeline tracing, web dashboard, MCP server for AI tools.",
+  "git_url": "https://github.com/pipepie/pipepie",
+  "author_github": "pipepie",
+  "category": "ai-agents",
+  "tags": [
+    "aipipeline",
+    "cli",
+    "developertools",
+    "devtools",
+    "encryption"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active"
+}
