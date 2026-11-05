@@ -1,0 +1,17 @@
+{
+  "name": "ghostlight",
+  "description": "Give compatible AI agents a visible workspace in the Chromium browser you already use. Local-first, with optional policy and audit.",
+  "git_url": "https://github.com/sylin-org/ghostlight",
+  "author_github": "sylin-org",
+  "category": "ai-agents",
+  "tags": [
+    "accesscontrol",
+    "aiagents",
+    "browserautomation",
+    "browserextension",
+    "chromium"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://sylin.org/ghostlight/"
+}
