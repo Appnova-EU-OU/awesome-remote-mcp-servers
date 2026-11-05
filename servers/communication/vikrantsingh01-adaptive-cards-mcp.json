@@ -1,0 +1,17 @@
+{
+  "name": "adaptive-cards-mcp",
+  "description": "AI-powered Adaptive Card MCP server — 9 tools for generating, validating, optimizing cards for Teams, Outlook, Copilot, ChatGPT. npm: adaptive-cards-mcp",
+  "git_url": "https://github.com/VikrantSingh01/adaptive-cards-mcp",
+  "author_github": "VikrantSingh01",
+  "category": "communication",
+  "tags": [
+    "adaptivecard",
+    "adaptivecards",
+    "ai",
+    "botframework",
+    "cardgenerator"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/adaptive-cards-mcp"
+}
