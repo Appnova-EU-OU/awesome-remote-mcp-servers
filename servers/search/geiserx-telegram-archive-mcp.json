@@ -1,0 +1,16 @@
+{
+  "name": "telegram-archive-mcp",
+  "description": "MCP Server for Telegram-Archive — search messages, browse chats, and access archived Telegram history via MCP",
+  "git_url": "https://github.com/GeiserX/telegram-archive-mcp",
+  "author_github": "GeiserX",
+  "category": "search",
+  "tags": [
+    "aitools",
+    "archive",
+    "chatbackup",
+    "chathistory",
+    "docker"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
