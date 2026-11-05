@@ -1,0 +1,12 @@
+{
+  "name": "evipedia-mcp",
+  "description": "MCP Server for evipedia.ai",
+  "git_url": "https://github.com/forever-healthy/evipedia-mcp",
+  "author_github": "forever-healthy",
+  "category": "ai-agents",
+  "tags": [
+    "evipedia"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
