@@ -1,0 +1,16 @@
+{
+  "name": "garmin-documentation-mcp-server",
+  "description": "MCP server for Garmin Connect IQ API documentation - complete offline access to SDK 8.2.3",
+  "git_url": "https://github.com/ztuskes/garmin-documentation-mcp-server",
+  "author_github": "ztuskes",
+  "category": "developer-tools",
+  "tags": [
+    "garmin",
+    "documentation",
+    "connect",
+    "api",
+    "complete"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
