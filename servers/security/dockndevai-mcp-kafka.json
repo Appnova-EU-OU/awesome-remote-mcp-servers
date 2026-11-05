@@ -1,0 +1,17 @@
+{
+  "name": "mcp-kafka",
+  "description": "MCP server for Apache Kafka — monitor & manage clusters, topics, and consumer groups (with lag), with security modes and access-control flags.",
+  "git_url": "https://github.com/dockndevai/mcp-kafka",
+  "author_github": "dockndevai",
+  "category": "security",
+  "tags": [
+    "apachekafka",
+    "kafka",
+    "llm",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dockndevai.github.io/"
+}
