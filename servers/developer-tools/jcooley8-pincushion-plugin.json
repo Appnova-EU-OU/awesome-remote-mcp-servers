@@ -1,0 +1,16 @@
+{
+  "name": "pincushion-plugin",
+  "description": "Cursor marketplace plugin for Pincushion — MCP server + slash commands",
+  "git_url": "https://github.com/jcooley8/pincushion-plugin",
+  "author_github": "jcooley8",
+  "category": "developer-tools",
+  "tags": [
+    "pincushion",
+    "plugin",
+    "cursor",
+    "marketplace",
+    "slash"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
