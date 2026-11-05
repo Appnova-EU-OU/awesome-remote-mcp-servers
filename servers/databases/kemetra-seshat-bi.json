@@ -1,0 +1,17 @@
+{
+  "name": "Seshat-BI",
+  "description": "Agent-first BI readiness system -- profiles sources, governs medallion mappings, and gates Power BI delivery so AI agents cannot self-approve data decisions.",
+  "git_url": "https://github.com/Kemetra/Seshat-BI",
+  "author_github": "Kemetra",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "analyticsengineering",
+    "businessintelligence",
+    "claudecode",
+    "dataengineering"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/seshat-bi/"
+}
