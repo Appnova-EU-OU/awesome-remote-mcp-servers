@@ -1,0 +1,16 @@
+{
+  "name": "agent-droid-bridge",
+  "description": "Agent Droid Bridge gives AI agents programmatic control over Android devices and emulators via ADB, exposed as an MCP server.",
+  "git_url": "https://github.com/Neverlow512/agent-droid-bridge",
+  "author_github": "Neverlow512",
+  "category": "databases",
+  "tags": [
+    "adb",
+    "agenticai",
+    "android",
+    "claudecode",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
