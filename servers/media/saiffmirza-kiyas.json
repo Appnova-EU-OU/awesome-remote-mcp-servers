@@ -1,0 +1,16 @@
+{
+  "name": "kiyas",
+  "description": "MCP server + CLI for AI-powered design fidelity — compare Figma designs or screenshots against rendered UI. 90% mutation recall, zero false positives on a golden eval set. No API keys — uses your Claude Code or Codex subscription.",
+  "git_url": "https://github.com/saiffmirza/kiyas",
+  "author_github": "saiffmirza",
+  "category": "media",
+  "tags": [
+    "ai",
+    "claude",
+    "cli",
+    "designqa",
+    "designsystems"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
