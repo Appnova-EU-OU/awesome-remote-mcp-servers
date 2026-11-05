@@ -1,0 +1,17 @@
+{
+  "name": "qai-consultant",
+  "description": "AI-powered QA Architect agent — generates ISTQB/OWASP/IEEE/ISO-grounded Test Strategies, Risk Registers, Effort Estimates & Test Plans via RAG. Cloud-hosted (Mistral API + Pinecone).",
+  "git_url": "https://github.com/gvasile29/qai-consultant",
+  "author_github": "gvasile29",
+  "category": "search",
+  "tags": [
+    "ai",
+    "effortestimation",
+    "istqb",
+    "langchain",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://quality-ai-consultant.streamlit.app/"
+}
