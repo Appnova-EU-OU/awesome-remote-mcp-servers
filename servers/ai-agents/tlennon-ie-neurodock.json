@@ -1,0 +1,17 @@
+{
+  "name": "neurodock",
+  "description": "A local-first cognitive substrate for neurodivergent professionals. Gives Claude memory, a sense of time, a translator for corporate ambiguity, and a guardrail that refuses to amplify rumination, hyperfocus, or sycophancy. MCP-native. No telemetry. AGPL-3.0-or-later. Self-ID sufficient — no diagnosis gating.",
+  "git_url": "https://github.com/tlennon-ie/neurodock",
+  "author_github": "tlennon-ie",
+  "category": "ai-agents",
+  "tags": [
+    "accessibility",
+    "adhd",
+    "agpl",
+    "anthropic",
+    "audhd"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://neurodock.org/"
+}
