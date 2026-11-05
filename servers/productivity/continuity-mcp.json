@@ -1,0 +1,17 @@
+{
+  "name": "LAHutchins91/continuity-mcp",
+  "description": "Remote MCP story bible for fiction writers. Keeps characters, relationships, world rules, timelines, and approved scenes locked for ChatGPT, Claude, Gemini, Grok, and Cursor via OAuth.",
+  "git_url": "https://github.com/LAHutchins91/continuity-mcp",
+  "homepage": "https://continuitywriter.com",
+  "author_github": "LAHutchins91",
+  "category": "productivity",
+  "tags": [
+    "story-bible",
+    "fiction",
+    "writing",
+    "oauth",
+    "remote"
+  ],
+  "license": "Proprietary",
+  "status": "active"
+}
