@@ -1,0 +1,16 @@
+{
+  "name": "lynxprompt-mcp",
+  "description": "MCP Server for LynxPrompt — browse, search, and manage AI configuration blueprints (AGENTS.md, CLAUDE.md) via MCP",
+  "git_url": "https://github.com/GeiserX/lynxprompt-mcp",
+  "author_github": "GeiserX",
+  "category": "search",
+  "tags": [
+    "agentsmd",
+    "aiconfiguration",
+    "aiprompts",
+    "airules",
+    "aitools"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
