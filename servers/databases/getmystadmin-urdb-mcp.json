@@ -1,0 +1,16 @@
+{
+  "name": "urdb-mcp",
+  "description": "Search URDB's product integrity database for integrity scores, enshittification events, and change tracking across consumer products",
+  "git_url": "https://github.com/GetMystAdmin/urdb-mcp",
+  "author_github": "GetMystAdmin",
+  "category": "databases",
+  "tags": [
+    "urdb",
+    "search",
+    "product",
+    "integrity",
+    "database"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
