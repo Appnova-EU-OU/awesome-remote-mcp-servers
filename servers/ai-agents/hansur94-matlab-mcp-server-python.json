@@ -1,0 +1,17 @@
+{
+  "name": "matlab-mcp-server-python",
+  "description": "MCP server that connects any AI agent to MATLAB — execute code, async jobs, interactive Plotly plots, custom tools, and monitoring dashboard",
+  "git_url": "https://github.com/HanSur94/matlab-mcp-server-python",
+  "author_github": "HanSur94",
+  "category": "ai-agents",
+  "tags": [
+    "agent",
+    "ai",
+    "matlab",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/matlab-mcp-python/"
+}
