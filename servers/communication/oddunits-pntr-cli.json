@@ -1,0 +1,17 @@
+{
+  "name": "pntr-cli",
+  "description": "CLI and MCP server for PNTR — free *.pntr.dev subdomains with DNS, disposable email, and AI-native management",
+  "git_url": "https://github.com/oddunits/pntr-cli",
+  "author_github": "oddunits",
+  "category": "communication",
+  "tags": [
+    "claude",
+    "cloudflare",
+    "cursor",
+    "developertools",
+    "disposableemail"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pntr.dev"
+}
