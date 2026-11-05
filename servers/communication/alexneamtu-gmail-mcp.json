@@ -1,0 +1,16 @@
+{
+  "name": "gmail-mcp",
+  "description": "Self-hosted, owner-only Gmail MCP connector for multiple accounts over Streamable HTTP and OAuth.",
+  "git_url": "https://github.com/alexneamtu/gmail-mcp",
+  "author_github": "alexneamtu",
+  "category": "communication",
+  "tags": [
+    "gmail",
+    "self",
+    "hosted",
+    "owner",
+    "only"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
