@@ -1,0 +1,16 @@
+{
+  "name": "outlook-mcp",
+  "description": "MCP server for tidying a large Outlook / Hotmail mailbox via Microsoft Graph. Bulk moves, folder-tree surgery, inbox rules — no send tool, no permanent delete.",
+  "git_url": "https://github.com/ma2no4413/outlook-mcp",
+  "author_github": "ma2no4413",
+  "category": "communication",
+  "tags": [
+    "claude",
+    "claudecode",
+    "email",
+    "hotmail",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
