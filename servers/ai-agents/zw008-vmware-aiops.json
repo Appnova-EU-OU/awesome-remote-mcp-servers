@@ -1,0 +1,17 @@
+{
+  "name": "VMware-AIops",
+  "description": "VMware vCenter/ESXi AI-powered monitoring and operations. Two skills: vmware-monitor (read-only, safe) and vmware-aiops (full operations) | Claude Code Skill",
+  "git_url": "https://github.com/zw008/VMware-AIops",
+  "author_github": "zw008",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiskill",
+    "aiops",
+    "automation",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://skills.sh/zw008/VMware-AIops"
+}
