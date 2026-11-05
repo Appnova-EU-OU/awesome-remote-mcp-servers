@@ -1,0 +1,17 @@
+{
+  "name": "ollama-handoff",
+  "description": "MCP server that offloads cheap work from your cloud LLM agent to a local Ollama model — summaries, drafts, extractions, first-pass reviews — at zero cloud cost.",
+  "git_url": "https://github.com/Michael-WhiteCapData/ollama-handoff",
+  "author_github": "Michael-WhiteCapData",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "claude",
+    "llm",
+    "localllm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/Michael-WhiteCapData/ollama-handoff"
+}
