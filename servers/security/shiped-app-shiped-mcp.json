@@ -1,0 +1,16 @@
+{
+  "name": "shiped-mcp",
+  "description": "Deploy AI-generated HTML/CSS/JS to an instant public HTTPS URL from any MCP agent (Claude Code, Codex, Cursor, Kiro, Copilot). Remote HTTP MCP endpoint with OAuth 2.1 device-flow login — no API key to mint or store.",
+  "git_url": "https://github.com/shiped-app/shiped-mcp",
+  "author_github": "shiped-app",
+  "category": "security",
+  "tags": [
+    "shiped",
+    "deploy",
+    "generated",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
