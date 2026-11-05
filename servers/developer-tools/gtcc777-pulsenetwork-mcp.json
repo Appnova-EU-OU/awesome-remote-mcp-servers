@@ -1,0 +1,16 @@
+{
+  "name": "GTCC777/pulsenetwork-mcp",
+  "description": "MCP server for PulseNetwork — discover & pay (x402, USDC on Base + Solana) for 66 real-time intelligence APIs. 68 tools, pay-per-query.",
+  "git_url": "https://github.com/GTCC777/pulsenetwork-mcp",
+  "author_github": "GTCC777",
+  "category": "developer-tools",
+  "tags": [
+    "gtcc",
+    "pulsenetwork",
+    "discover",
+    "pay",
+    "usdc"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
