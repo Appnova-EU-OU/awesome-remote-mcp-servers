@@ -1,0 +1,14 @@
+{
+  "name": "memvid-mcp-server",
+  "description": "A Streamable HTTP MCP Server for Memvid",
+  "git_url": "https://github.com/ferrants/memvid-mcp-server",
+  "author_github": "ferrants",
+  "category": "developer-tools",
+  "tags": [
+    "memvid",
+    "streamable",
+    "http"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
