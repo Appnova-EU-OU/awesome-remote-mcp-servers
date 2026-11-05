@@ -1,0 +1,16 @@
+{
+  "name": "browser-buddy",
+  "description": "Let your coding agent read your real, logged-in Chrome: MV3 extension + native host + MCP server (read_active_tab, open_and_read_url). Zero dependencies, MIT.",
+  "git_url": "https://github.com/hahahahahahahahah6/browser-buddy",
+  "author_github": "hahahahahahahahah6",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "chromeextension",
+    "claudecode",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
