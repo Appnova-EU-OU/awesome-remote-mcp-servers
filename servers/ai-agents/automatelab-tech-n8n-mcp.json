@@ -1,0 +1,17 @@
+{
+  "name": "n8n-mcp",
+  "description": "Debugging-first MCP server for n8n. Tools for workflow generation, linting, per-node execution diagnosis, and driving live n8n instances. Built for AI agents.",
+  "git_url": "https://github.com/AutomateLab-tech/n8n-mcp",
+  "author_github": "AutomateLab-tech",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "aiagents",
+    "aitools",
+    "claude",
+    "claudecodeplugin"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://automatelab.tech/products/mcp/n8n-mcp/"
+}
