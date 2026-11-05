@@ -1,0 +1,17 @@
+{
+  "name": "LarryWalkerDEV/mcp-immostage",
+  "description": "MCP Server for AI Virtual Staging — stage rooms, beautify floor plans, classify images, optimize property listings. Built by immostage.ai",
+  "git_url": "https://github.com/LarryWalkerDEV/mcp-immostage",
+  "author_github": "LarryWalkerDEV",
+  "category": "media",
+  "tags": [
+    "aistaging",
+    "immobilien",
+    "mcp",
+    "mcpserver",
+    "proptech"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://immostage.ai"
+}
