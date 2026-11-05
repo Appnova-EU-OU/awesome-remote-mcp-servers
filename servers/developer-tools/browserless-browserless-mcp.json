@@ -1,0 +1,13 @@
+{
+  "name": "browserless-mcp",
+  "description": "Official MCP server for the Browserless.io ",
+  "git_url": "https://github.com/browserless/browserless-mcp",
+  "author_github": "browserless",
+  "category": "developer-tools",
+  "tags": [
+    "browserless",
+    "official"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
