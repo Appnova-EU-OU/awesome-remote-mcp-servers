@@ -1,0 +1,17 @@
+{
+  "name": "mailmcp-dist",
+  "description": "All your mailboxes in ChatGPT and Claude: self-hosted email MCP server (Gmail, Outlook, iCloud, any IMAP/SMTP). Passwords stay yours.",
+  "git_url": "https://github.com/kojott/mailmcp-dist",
+  "author_github": "kojott",
+  "category": "communication",
+  "tags": [
+    "chatgpt",
+    "claude",
+    "email",
+    "imap",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mailmcp.ai"
+}
