@@ -1,0 +1,17 @@
+{
+  "name": "execkit",
+  "description": "Stateful, structured, safe command execution for AI agents - over local shells, SSH, and Docker.",
+  "git_url": "https://github.com/blinkingbit-oss/execkit",
+  "author_github": "blinkingbit-oss",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "docker",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://blinkingbit-oss.github.io/execkit/"
+}
