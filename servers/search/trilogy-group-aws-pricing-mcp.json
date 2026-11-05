@@ -1,0 +1,16 @@
+{
+  "name": "aws-pricing-mcp",
+  "description": "An MCP server that exposes AWS EC2 pricing data with an option to search by CPU, RAM, networking",
+  "git_url": "https://github.com/trilogy-group/aws-pricing-mcp",
+  "author_github": "trilogy-group",
+  "category": "search",
+  "tags": [
+    "aws",
+    "pricing",
+    "exposes",
+    "data",
+    "option"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
