@@ -1,0 +1,17 @@
+{
+  "name": "pbx-mcp",
+  "description": "MCP server for Asterisk and FreeSWITCH. Lets AI assistants inspect channels, SIP registrations, trunk status and dialplan on a live PBX.",
+  "git_url": "https://github.com/ictinnovations/pbx-mcp",
+  "author_github": "ictinnovations",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aiagent",
+    "ami",
+    "anthropic",
+    "asterisk"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ictinnovations.com"
+}
