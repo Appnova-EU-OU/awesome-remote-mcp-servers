@@ -1,0 +1,16 @@
+{
+  "name": "muninn",
+  "description": "Code search for AI coding agents over MCP: hybrid retrieval, structural search and shared indexing across Git worktrees.",
+  "git_url": "https://github.com/kamysh/muninn",
+  "author_github": "kamysh",
+  "category": "databases",
+  "tags": [
+    "codesearch",
+    "developertools",
+    "gitworktree",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
