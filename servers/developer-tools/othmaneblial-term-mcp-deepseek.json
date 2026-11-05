@@ -1,0 +1,16 @@
+{
+  "name": "term_mcp_deepseek",
+  "description": "A MCP‑like server using the DeepSeek API for Terminal",
+  "git_url": "https://github.com/OthmaneBlial/term_mcp_deepseek",
+  "author_github": "OthmaneBlial",
+  "category": "developer-tools",
+  "tags": [
+    "term",
+    "deepseek",
+    "like",
+    "using",
+    "api"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
