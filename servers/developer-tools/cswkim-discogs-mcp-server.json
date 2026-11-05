@@ -1,0 +1,12 @@
+{
+  "name": "discogs-mcp-server",
+  "description": "MCP Server for Discogs",
+  "git_url": "https://github.com/cswkim/discogs-mcp-server",
+  "author_github": "cswkim",
+  "category": "developer-tools",
+  "tags": [
+    "discogs"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
