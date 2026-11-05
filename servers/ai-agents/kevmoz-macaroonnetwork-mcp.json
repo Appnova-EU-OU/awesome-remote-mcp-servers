@@ -1,0 +1,16 @@
+{
+  "name": "macaroonnetwork-mcp",
+  "description": "MCP client for Macaroon Network -- discover and buy from a live marketplace where AI agents pay per query via Bitcoin Lightning (L402) or Base/USDC (x402).",
+  "git_url": "https://github.com/kevmoz/macaroonnetwork-mcp",
+  "author_github": "kevmoz",
+  "category": "ai-agents",
+  "tags": [
+    "macaroonnetwork",
+    "client",
+    "macaroon",
+    "network",
+    "discover"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
