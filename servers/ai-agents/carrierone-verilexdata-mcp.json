@@ -1,0 +1,16 @@
+{
+  "name": "verilexdata-mcp",
+  "description": "MCP server for Verilex Data — query NPI, SEC, PACER, Weather, and OTC datasets from AI agents",
+  "git_url": "https://github.com/carrierone/verilexdata-mcp",
+  "author_github": "carrierone",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "crypto",
+    "dataapi",
+    "defi",
+    "governmentdata"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
