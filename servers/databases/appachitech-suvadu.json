@@ -1,0 +1,17 @@
+{
+  "name": "suvadu",
+  "description": "Shell history replacement with AI agent tracking and MCP server. Built in Rust, 100% local.",
+  "git_url": "https://github.com/AppachiTech/suvadu",
+  "author_github": "AppachiTech",
+  "category": "databases",
+  "tags": [
+    "aiagentmonitoring",
+    "atuin",
+    "bash",
+    "cli",
+    "commandline"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://suvadu.sh"
+}
