@@ -1,0 +1,16 @@
+{
+  "name": "codebeamer-mcp",
+  "description": "Codebeamer ALM: read and write work items, trackers, projects, associations, references, comments and risk management data via the REST API.",
+  "git_url": "https://github.com/3KniGHtcZ/codebeamer-mcp",
+  "author_github": "3KniGHtcZ",
+  "category": "databases",
+  "tags": [
+    "codebeamer",
+    "alm",
+    "read",
+    "write",
+    "work"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
