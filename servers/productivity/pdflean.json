@@ -1,0 +1,20 @@
+{
+  "name": "PDFLean",
+  "description": "PDF tools for AI agents: validate PDF/A and accessibility, verify signatures, extract text and form fields, scan PII, AI summarize/translate, merge, split, compress, Office conversion, OCR, digital signing, redaction, and workflow runs. 17 tools.",
+  "git_url": "https://github.com/epengwang/pdflean-mcp",
+  "homepage": "https://pdflean.com",
+  "author_github": "epengwang",
+  "category": "productivity",
+  "tags": [
+    "pdf",
+    "documents",
+    "ocr",
+    "pdf-a",
+    "accessibility",
+    "signatures",
+    "redaction",
+    "productivity"
+  ],
+  "license": "Proprietary",
+  "status": "active"
+}
