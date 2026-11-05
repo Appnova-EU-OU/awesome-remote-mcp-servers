@@ -1,0 +1,17 @@
+{
+  "name": "agent-stack-directory",
+  "description": "MCP server and open dataset for Agent Stack Directory: 54 checked tools for AI agents.",
+  "git_url": "https://github.com/gmansystems/agent-stack-directory",
+  "author_github": "gmansystems",
+  "category": "security",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "dataset",
+    "directory",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agentstackdirectory.com/mcp/"
+}
