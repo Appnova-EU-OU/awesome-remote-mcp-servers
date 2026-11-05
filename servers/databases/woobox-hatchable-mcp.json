@@ -1,0 +1,16 @@
+{
+  "name": "hatchable-mcp",
+  "description": "Hosted full-stack app platform. Creates a Postgres database, deploys API functions, and serves static sites from any MCP client. OAuth 2.1 + PKCE with DCR; bearer fallback. Free tier.",
+  "git_url": "https://github.com/Woobox/hatchable-mcp",
+  "author_github": "Woobox",
+  "category": "databases",
+  "tags": [
+    "hatchable",
+    "hosted",
+    "full",
+    "stack",
+    "app"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
