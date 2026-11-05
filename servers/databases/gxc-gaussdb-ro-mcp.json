@@ -1,0 +1,16 @@
+{
+  "name": "gaussdb-ro-mcp",
+  "description": "Read-only MCP server for GaussDB, built for coding agents.",
+  "git_url": "https://github.com/gxc/gaussdb-ro-mcp",
+  "author_github": "gxc",
+  "category": "databases",
+  "tags": [
+    "claudecode",
+    "codingagent",
+    "database",
+    "gaussdb",
+    "golang"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
