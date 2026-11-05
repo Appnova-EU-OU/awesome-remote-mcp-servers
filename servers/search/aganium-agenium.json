@@ -1,0 +1,17 @@
+{
+  "name": "Aganium/agenium",
+  "description": "AGENIUM — DNS of the Agent Web. Identity, trust & discovery for AI agents. MCP-compatible. agent:// protocol with mTLS, trust scores & capability search.",
+  "git_url": "https://github.com/Aganium/agenium",
+  "author_github": "Aganium",
+  "category": "search",
+  "tags": [
+    "a2a",
+    "agentdiscovery",
+    "agentprotocol",
+    "agentregistry",
+    "aiagents"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agenium.net"
+}
