@@ -1,0 +1,16 @@
+{
+  "name": "safedb-mcp",
+  "description": "Secure MCP server for safe, read-only DB access by AI agents, with SQL guardrails, table allowlists, PII masking, and audit logs",
+  "git_url": "https://github.com/narekmalk/safedb-mcp",
+  "author_github": "narekmalk",
+  "category": "databases",
+  "tags": [
+    "safedb",
+    "secure",
+    "safe",
+    "read",
+    "only"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
