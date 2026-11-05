@@ -1,0 +1,16 @@
+{
+  "name": "mcp-k8s",
+  "description": "A Kubernetes MCP (Model Control Protocol) server that enables interaction with Kubernetes clusters through MCP tools.",
+  "git_url": "https://github.com/silenceper/mcp-k8s",
+  "author_github": "silenceper",
+  "category": "cloud-infra",
+  "tags": [
+    "debug",
+    "kubernetes",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://silenceper.com/blog/202504/mcp-k8s/"
+}
