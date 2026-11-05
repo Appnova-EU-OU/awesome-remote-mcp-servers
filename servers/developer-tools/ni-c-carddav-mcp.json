@@ -1,0 +1,17 @@
+{
+  "name": "carddav-mcp",
+  "description": "Model Context Protocol (MCP) server for CardDAV address books: contacts, groups and photos",
+  "git_url": "https://github.com/ni-c/carddav-mcp",
+  "author_github": "ni-c",
+  "category": "developer-tools",
+  "tags": [
+    "addressbook",
+    "carddav",
+    "claude",
+    "contacts",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://carddav-mcp.ni-c.de"
+}
