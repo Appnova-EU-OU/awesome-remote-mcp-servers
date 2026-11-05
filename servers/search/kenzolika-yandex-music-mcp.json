@@ -1,0 +1,17 @@
+{
+  "name": "yandex-music-mcp",
+  "description": "Description: Unofficial Yandex Music MCP server for Claude: search, likes, history, My Wave, playlists",
+  "git_url": "https://github.com/kenzolika/yandex-music-mcp",
+  "author_github": "kenzolika",
+  "category": "search",
+  "tags": [
+    "claude",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "python"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "Website: https://pypi.org/project/yandex-music-mcp/"
+}
