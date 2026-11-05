@@ -1,0 +1,16 @@
+{
+  "name": "dibs",
+  "description": "Call dibs on files. Coordination for parallel coding agents — file claims with expiry, enforcement hooks, and git-native lessons. One binary, no server, no database.",
+  "git_url": "https://github.com/polymatx/dibs",
+  "author_github": "polymatx",
+  "category": "databases",
+  "tags": [
+    "agentmemory",
+    "agentorchestration",
+    "aiagents",
+    "claudecode",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
