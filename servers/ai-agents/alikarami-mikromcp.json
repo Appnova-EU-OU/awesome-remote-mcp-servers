@@ -1,0 +1,17 @@
+{
+  "name": "MikroMCP",
+  "description": "Production-grade MCP server for MikroTik RouterOS with secure AI-native network automation.",
+  "git_url": "https://github.com/AliKarami/MikroMCP",
+  "author_github": "AliKarami",
+  "category": "ai-agents",
+  "tags": [
+    "agenticai",
+    "aiagents",
+    "anthropic",
+    "claude",
+    "cursorai"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mikromcp.com/"
+}
