@@ -1,0 +1,16 @@
+{
+  "name": "mcp-icp-fit-scorer",
+  "description": "MCP server for ICP Fit Scorer. Scores a company against your ideal customer profile with weighted signals via Apify. Returns a 0 to 100 score, a tier, and a per-signal breakdown. Clay-ready output.",
+  "git_url": "https://github.com/mambalabsdev/mcp-icp-fit-scorer",
+  "author_github": "mambalabsdev",
+  "category": "ai-agents",
+  "tags": [
+    "icp",
+    "fit",
+    "scorer",
+    "scores",
+    "company"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
