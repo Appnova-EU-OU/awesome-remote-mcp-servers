@@ -1,0 +1,16 @@
+{
+  "name": "aradia-mcp-server",
+  "description": "Turnkey on-premise private Agentic AI systems by [ARADIA](https://aradia.com) on dedicated NVIDIA DGX hardware (Spark, Station, B200) with zero cloud data leakage. Operating since 1991, six tools cover hardware sizing (`query_hardware_specs`), CapEx token ROI payback modeling (`calculate_roi`), autonomous affiliate onboarding to earn 10% bounties (`onboard_partner`), and machine procurement via BTCPay Server (BTC/LN/USDT) or Stripe MPP Fiat (`execute_procurement_order`), plus `track_order_status",
+  "git_url": "https://github.com/ARADIA-systems/aradia-mcp-server",
+  "author_github": "ARADIA-systems",
+  "category": "cloud-infra",
+  "tags": [
+    "aradia",
+    "turnkey",
+    "premise",
+    "private",
+    "agentic"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
