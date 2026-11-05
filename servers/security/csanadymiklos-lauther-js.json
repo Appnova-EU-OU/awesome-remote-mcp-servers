@@ -1,0 +1,17 @@
+{
+  "name": "lauther-js",
+  "description": "Node client and MCP server for Lauther — push notifications and human approvals for anything that can make an HTTP request.",
+  "git_url": "https://github.com/csanadymiklos/lauther-js",
+  "author_github": "csanadymiklos",
+  "category": "security",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "approval",
+    "claude",
+    "humanintheloop"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://lauther.app"
+}
