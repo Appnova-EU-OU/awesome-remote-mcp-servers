@@ -1,0 +1,17 @@
+{
+  "name": "claudecodenavi-mcp",
+  "description": "ClaudeCodeNavi MCP Server - Claude Code knowledge platform & marketplace",
+  "git_url": "https://github.com/saikiyusuke/claudecodenavi-mcp",
+  "author_github": "saikiyusuke",
+  "category": "developer-tools",
+  "tags": [
+    "claudecodenavi",
+    "claude",
+    "code",
+    "knowledge",
+    "platform"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://claudecodenavi.jp"
+}
