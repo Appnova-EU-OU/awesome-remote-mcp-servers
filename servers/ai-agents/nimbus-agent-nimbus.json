@@ -1,0 +1,17 @@
+{
+  "name": "Nimbus",
+  "description": "On-call intelligence for DevOps and platform teams. Local-first AI agent over your tools — HITL-gated, MCP-native, AGPL-3.0.",
+  "git_url": "https://github.com/nimbus-agent/Nimbus",
+  "author_github": "nimbus-agent",
+  "category": "ai-agents",
+  "tags": [
+    "agentic",
+    "agpl30",
+    "aiagents",
+    "bun",
+    "claude"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://nimbus-agent.dev"
+}
