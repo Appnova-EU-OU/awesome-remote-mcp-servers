@@ -1,0 +1,17 @@
+{
+  "name": "mneme",
+  "description": "Architectural drift prevention for the agentic AI SDLC.",
+  "git_url": "https://github.com/MnemeHQ/mneme",
+  "author_github": "MnemeHQ",
+  "category": "ai-agents",
+  "tags": [
+    "adr",
+    "agenticai",
+    "agenticaisdlc",
+    "aiagent",
+    "aiagents"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mnemehq.com"
+}
