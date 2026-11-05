@@ -1,0 +1,16 @@
+{
+  "name": "llm-council",
+  "description": "LLM Council fork with persistence, decision traces, stability fixes, repeatable checks, and MCP integration.",
+  "git_url": "https://github.com/elhamid/llm-council",
+  "author_github": "elhamid",
+  "category": "ai-agents",
+  "tags": [
+    "decisionsupport",
+    "humanintheloop",
+    "llmcouncil",
+    "mcp",
+    "multiagent"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
