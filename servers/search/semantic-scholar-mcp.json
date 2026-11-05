@@ -1,0 +1,17 @@
+{
+  "name": "semantic-scholar-mcp",
+  "description": "Semantic Scholar MCP server for 200M+ academic papers, with 14 tools for paper search, citation graph traversal, author profiles, and recommendations.",
+  "git_url": "https://github.com/smaniches/semantic-scholar-mcp",
+  "author_github": "smaniches",
+  "category": "search",
+  "tags": [
+    "academic-research",
+    "citations",
+    "papers",
+    "semantic-scholar",
+    "search"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://smaniches.github.io/semantic-scholar-mcp/"
+}
