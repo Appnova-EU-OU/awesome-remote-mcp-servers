@@ -1,0 +1,17 @@
+{
+  "name": "wellness-nourish",
+  "description": "Local-first nutrition MCP for Claude/Cursor: USDA food search, barcode + photo, meal logging",
+  "git_url": "https://github.com/davidmosiah/wellness-nourish",
+  "author_github": "davidmosiah",
+  "category": "search",
+  "tags": [
+    "aiagenttools",
+    "aiagents",
+    "anthropic",
+    "barcode",
+    "calorietracker"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://wellness.delx.ai/nutrition"
+}
