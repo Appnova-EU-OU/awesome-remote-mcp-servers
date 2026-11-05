@@ -1,0 +1,17 @@
+{
+  "name": "scala-mcp-server",
+  "description": "MCP server for AI agents — search 250M+ companies via Claude, ChatGPT, Cursor. Free company data API.",
+  "git_url": "https://github.com/Alessandro114/scala-mcp-server",
+  "author_github": "Alessandro114",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "api",
+    "b2bdata",
+    "businessintelligence"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://score.get-scala.com"
+}
