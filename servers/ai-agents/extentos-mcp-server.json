@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "MCP server that lets AI coding agents add smart-glasses capabilities to Android and iOS apps — scaffold, validate, and simulate before touching hardware",
+  "git_url": "https://github.com/extentos/mcp-server",
+  "author_github": "extentos",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "android",
+    "claude",
+    "cursor",
+    "ios"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://extentos.com/docs/mcp-server"
+}
