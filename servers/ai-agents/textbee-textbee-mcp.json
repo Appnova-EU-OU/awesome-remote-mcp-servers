@@ -1,0 +1,17 @@
+{
+  "name": "textbee-mcp",
+  "description": "MCP server for textbee.dev: give your AI agent a phone number",
+  "git_url": "https://github.com/textbee/textbee-mcp",
+  "author_github": "textbee",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://textbee.dev/mcp"
+}
