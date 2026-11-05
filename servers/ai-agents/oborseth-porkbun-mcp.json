@@ -1,0 +1,17 @@
+{
+  "name": "Porkbun-MCP",
+  "description": "Official Porkbun MCP server — exposes the Porkbun v3 API as native tools for Claude Desktop, Cursor, and other AI agents. Idempotency-safe writes, full domain lifecycle.",
+  "git_url": "https://github.com/oborseth/Porkbun-MCP",
+  "author_github": "oborseth",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "claude",
+    "claudedesktop",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://porkbun.com/api/json/v3/documentation"
+}
