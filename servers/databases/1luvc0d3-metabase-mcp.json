@@ -1,0 +1,17 @@
+{
+  "name": "metabase-mcp",
+  "description": "MCP server connecting Claude to Metabase for natural language data analysis, dashboard management, and SQL queries",
+  "git_url": "https://github.com/1luvc0d3/metabase-mcp",
+  "author_github": "1luvc0d3",
+  "category": "databases",
+  "tags": [
+    "anthropic",
+    "claude",
+    "dataanalysis",
+    "mcp",
+    "metabase"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@ai-1luvc0d3/metabase-mcp"
+}
