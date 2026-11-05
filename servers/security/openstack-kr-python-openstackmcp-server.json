@@ -1,0 +1,15 @@
+{
+  "name": "python-openstackmcp-server",
+  "description": "openstack mcp server",
+  "git_url": "https://github.com/openstack-kr/python-openstackmcp-server",
+  "author_github": "openstack-kr",
+  "category": "security",
+  "tags": [
+    "mcpserver",
+    "openstack",
+    "python",
+    "openstackmcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
