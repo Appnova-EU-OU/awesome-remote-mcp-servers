@@ -1,0 +1,17 @@
+{
+  "name": "forcedream-mcp",
+  "description": "MCP server for ForceDream — discover, invoke, and trustlessly verify AI agents with cryptographic proofs.",
+  "git_url": "https://github.com/forcedreamai/forcedream-mcp",
+  "author_github": "forcedreamai",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cryptographicproof",
+    "cryptography",
+    "ed25519"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.forcedream.com"
+}
