@@ -1,0 +1,16 @@
+{
+  "name": "wraps-js",
+  "description": "TypeScript SDKs for AWS SES and SMS, plus an MCP server that lets AI agents send email from your own AWS account",
+  "git_url": "https://github.com/wraps-team/wraps-js",
+  "author_github": "wraps-team",
+  "category": "communication",
+  "tags": [
+    "amazonses",
+    "aws",
+    "awsses",
+    "email",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
