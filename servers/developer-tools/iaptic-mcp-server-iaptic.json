@@ -1,0 +1,13 @@
+{
+  "name": "mcp-server-iaptic",
+  "description": " Model Context Protocol server for interacting with iaptic",
+  "git_url": "https://github.com/iaptic/mcp-server-iaptic",
+  "author_github": "iaptic",
+  "category": "developer-tools",
+  "tags": [
+    "iaptic",
+    "interacting"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
