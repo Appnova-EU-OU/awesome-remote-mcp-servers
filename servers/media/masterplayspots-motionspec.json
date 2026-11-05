@@ -1,0 +1,17 @@
+{
+  "name": "motionspec",
+  "description": "Verifies and compiles reduced-motion-safe, on-budget UI animation for AI-generated web apps: schema-validated specs to deterministic vanilla-GSAP + CSS, WCAG 2.2.2 / 2.3.3 checks. MIT core, keyless MCP server, free web check at motionspec.dev/motion-check. Not Motion.dev/Framer Motion, not the Android/iOS MotionSpec class, not a video generator.",
+  "git_url": "https://github.com/MasterPlayspots/motionspec",
+  "author_github": "MasterPlayspots",
+  "category": "media",
+  "tags": [
+    "a11y",
+    "accessibility",
+    "accessibilitytesting",
+    "animation",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://motionspec.dev"
+}
