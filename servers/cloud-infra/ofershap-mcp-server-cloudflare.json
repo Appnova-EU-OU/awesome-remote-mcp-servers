@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-cloudflare",
+  "description": "MCP server to manage Cloudflare Workers, KV, R2, DNS, and cache from your IDE",
+  "git_url": "https://github.com/ofershap/mcp-server-cloudflare",
+  "author_github": "ofershap",
+  "category": "cloud-infra",
+  "tags": [
+    "cloudflare",
+    "dns",
+    "kv",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
