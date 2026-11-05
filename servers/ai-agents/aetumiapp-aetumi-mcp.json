@@ -1,0 +1,17 @@
+{
+  "name": "aetumi-mcp",
+  "description": "AETumi MCP — install premium, production-ready Three.js/WebGL 3D web components into Claude Code, Cursor & Codex. Premium 3D web you own, from AETumi (aetumi.app).",
+  "git_url": "https://github.com/AETumiApp/aetumi-mcp",
+  "author_github": "AETumiApp",
+  "category": "ai-agents",
+  "tags": [
+    "3dweb",
+    "3dwebsite",
+    "aetumi",
+    "aicoding",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://aetumi.app/mcp/"
+}
