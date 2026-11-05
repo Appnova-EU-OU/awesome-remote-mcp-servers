@@ -1,0 +1,14 @@
+{
+  "name": "openapi-to-mcp",
+  "description": "An MCP server for your API",
+  "git_url": "https://github.com/ouvreboite/openapi-to-mcp",
+  "author_github": "ouvreboite",
+  "category": "security",
+  "tags": [
+    "openapi",
+    "your",
+    "api"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
