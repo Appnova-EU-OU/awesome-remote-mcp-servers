@@ -1,0 +1,16 @@
+{
+  "name": "architecture_viewer",
+  "description": "AI coding session architecture gate — local MCP (av_guard) + CLI diffs vs git HEAD for cross-layer deps. Apache-2.0.",
+  "git_url": "https://github.com/tomyangod/architecture_viewer",
+  "author_github": "tomyangod",
+  "category": "ai-agents",
+  "tags": [
+    "architecture",
+    "viewer",
+    "coding",
+    "session",
+    "gate"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
