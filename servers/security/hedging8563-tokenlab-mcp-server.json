@@ -1,0 +1,17 @@
+{
+  "name": "hedging8563/tokenlab-mcp-server",
+  "description": "OpenAPI-generated MCP server for TokenLab text, image, video, music, 3D, audio, files, embeddings, rerank, translation, and async tasks.",
+  "git_url": "https://github.com/hedging8563/tokenlab-mcp-server",
+  "author_github": "hedging8563",
+  "category": "security",
+  "tags": [
+    "aiapi",
+    "anthropicmessages",
+    "embeddings",
+    "gemini",
+    "imagegeneration"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tokenlab.sh/mcp"
+}
