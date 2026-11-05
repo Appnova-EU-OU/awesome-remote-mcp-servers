@@ -1,0 +1,17 @@
+{
+  "name": "seedfast-mcp",
+  "description": "Public integration surface for the Seedfast MCP server: client configuration, tool reference and a smoke test",
+  "git_url": "https://github.com/seedfast-ai/seedfast-mcp",
+  "author_github": "seedfast-ai",
+  "category": "databases",
+  "tags": [
+    "databaseseeding",
+    "mcp",
+    "modelcontextprotocol",
+    "postgresql",
+    "syntheticdata"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://seedfa.st/docs/mcp-setup-guide"
+}
