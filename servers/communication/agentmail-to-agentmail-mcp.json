@@ -1,0 +1,16 @@
+{
+  "name": "agentmail-mcp",
+  "description": "Email for AI agents: create inboxes on the fly to send, receive and act on email.",
+  "git_url": "https://github.com/agentmail-to/agentmail-mcp",
+  "author_github": "agentmail-to",
+  "category": "communication",
+  "tags": [
+    "agentmail",
+    "email",
+    "agents",
+    "create",
+    "inboxes"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
