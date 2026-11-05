@@ -1,0 +1,16 @@
+{
+  "name": "cairn-commons",
+  "description": "Cairn Commons participation tools: local MCP, agent skills and A2A schemas",
+  "git_url": "https://github.com/cairncommons/cairn-commons",
+  "author_github": "cairncommons",
+  "category": "ai-agents",
+  "tags": [
+    "cairn",
+    "commons",
+    "participation",
+    "tools",
+    "local"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
