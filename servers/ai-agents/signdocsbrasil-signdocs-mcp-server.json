@@ -1,0 +1,16 @@
+{
+  "name": "signdocs-mcp-server",
+  "description": "Servidor MCP oficial da SignDocs Brasil: assinatura eletrônica e digital com ICP-Brasil, biometria e OTP direto de agentes de IA. Official MCP server for the SignDocs Brasil e-signature API — signing sessions, envelopes, document verification.",
+  "git_url": "https://github.com/signdocsbrasil/signdocs-mcp-server",
+  "author_github": "signdocsbrasil",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "assinador",
+    "assinatura",
+    "assinaturadigital",
+    "assinaturaeletronica"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
