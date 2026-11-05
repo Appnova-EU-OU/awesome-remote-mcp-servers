@@ -1,0 +1,16 @@
+{
+  "name": "encode-toolkit",
+  "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and analyze functional genomics experiments",
+  "git_url": "https://github.com/ammawla/encode-toolkit",
+  "author_github": "ammawla",
+  "category": "search",
+  "tags": [
+    "ai",
+    "aiagents",
+    "aibio",
+    "bioinformatics",
+    "bioinformaticstool"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active"
+}
