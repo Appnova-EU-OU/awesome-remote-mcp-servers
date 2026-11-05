@@ -1,0 +1,17 @@
+{
+  "name": "asc-mcp",
+  "description": "MCP server for App Store Connect API - 502 tools for apps, builds, TestFlight, subscriptions, Xcode Cloud, and more from Claude, Cursor, VS Code, or any MCP client",
+  "git_url": "https://github.com/zelentsov-dev/asc-mcp",
+  "author_github": "zelentsov-dev",
+  "category": "cloud-infra",
+  "tags": [
+    "aitools",
+    "appstoreconnect",
+    "claude",
+    "inapppurchase",
+    "ios"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/zelentsov-dev/asc-mcp/releases"
+}
