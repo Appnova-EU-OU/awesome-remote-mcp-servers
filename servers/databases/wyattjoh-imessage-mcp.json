@@ -1,0 +1,16 @@
+{
+  "name": "imessage-mcp",
+  "description": "A Model Context Protocol server for reading iMessage data from macOS.",
+  "git_url": "https://github.com/wyattjoh/imessage-mcp",
+  "author_github": "wyattjoh",
+  "category": "databases",
+  "tags": [
+    "imessage",
+    "reading",
+    "data",
+    "from",
+    "macos"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
