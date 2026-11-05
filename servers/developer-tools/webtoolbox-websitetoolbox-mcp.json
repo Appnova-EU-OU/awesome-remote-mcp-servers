@@ -1,0 +1,16 @@
+{
+  "name": "websitetoolbox-mcp",
+  "description": "MCP server for Website Toolbox forum — exposes Categories, Topics, Posts, Users, and more via the Forum REST API",
+  "git_url": "https://github.com/webtoolbox/websitetoolbox-mcp",
+  "author_github": "webtoolbox",
+  "category": "developer-tools",
+  "tags": [
+    "websitetoolbox",
+    "website",
+    "toolbox",
+    "forum",
+    "exposes"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
