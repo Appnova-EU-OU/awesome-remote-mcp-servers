@@ -1,0 +1,17 @@
+{
+  "name": "desktopinsights-mcp",
+  "description": "MCP server for desktopinsights.com",
+  "git_url": "https://github.com/andrewschreiber/desktopinsights-mcp",
+  "author_github": "andrewschreiber",
+  "category": "developer-tools",
+  "tags": [
+    "desktop",
+    "desktopapp",
+    "electron",
+    "electronjs",
+    "enrichment"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://desktopinsights.com"
+}
