@@ -1,0 +1,17 @@
+{
+  "name": "freshcontext-mcp",
+  "description": "Timestamped web intelligence for AI agents. MCP server with guaranteed freshness envelopes.",
+  "git_url": "https://github.com/PrinceGabriel-lgtm/freshcontext-mcp",
+  "author_github": "PrinceGabriel-lgtm",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "context",
+    "freshness",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/freshcontext-mcp"
+}
