@@ -1,0 +1,17 @@
+{
+  "name": "taskbullet-mcp-server",
+  "description": "MCP server for AI agents to place real human phone calls (structured answers back) and delegate tasks to human virtual assistants via TaskBullet.",
+  "git_url": "https://github.com/GriffMurder/taskbullet-mcp-server",
+  "author_github": "GriffMurder",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "phonecalls"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://taskbullet.com"
+}
