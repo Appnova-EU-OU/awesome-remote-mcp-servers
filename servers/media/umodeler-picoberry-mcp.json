@@ -1,0 +1,16 @@
+{
+  "name": "picoberry-mcp",
+  "description": "PicoBerry MCP server — an AI 3D workspace for games, VR, and beyond. Generate, remesh, texture, and animate 3D assets from any MCP client. Multi-engine, one API.",
+  "git_url": "https://github.com/UModeler/picoberry-mcp",
+  "author_github": "UModeler",
+  "category": "media",
+  "tags": [
+    "3d",
+    "3dgeneration",
+    "ai",
+    "blender",
+    "gameassets"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
