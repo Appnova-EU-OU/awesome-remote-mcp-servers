@@ -1,0 +1,16 @@
+{
+  "name": "jvm-mcp-server",
+  "description": "This is an implementation project of a JVM-based MCP (Model Context Protocol) server. The project aims to provide a standardized MCP server implementation for the JVM platform, enabling AI models to better interact with the Java ecosystem.",
+  "git_url": "https://github.com/xzq-xu/jvm-mcp-server",
+  "author_github": "xzq-xu",
+  "category": "ai-agents",
+  "tags": [
+    "jvm",
+    "implementation",
+    "project",
+    "based",
+    "aims"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
