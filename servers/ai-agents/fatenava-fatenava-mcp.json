@@ -1,0 +1,16 @@
+{
+  "name": "fatenava-mcp",
+  "description": "FateNava MCP — BaZi, Zi Wei Dou Shu & Western Astrology chart casting for AI agents",
+  "git_url": "https://github.com/fatenava/fatenava-mcp",
+  "author_github": "fatenava",
+  "category": "ai-agents",
+  "tags": [
+    "fatenava",
+    "bazi",
+    "wei",
+    "dou",
+    "shu"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
