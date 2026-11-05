@@ -1,0 +1,17 @@
+{
+  "name": "mcpdbwizard-open",
+  "description": "Open source MCP server for Oracle PLSQL, SQL statements and Tables",
+  "git_url": "https://github.com/srmadscience/mcpdbwizard-open",
+  "author_github": "srmadscience",
+  "category": "databases",
+  "tags": [
+    "mcpserver",
+    "mcpservers",
+    "mcptools",
+    "oracle",
+    "oracledatabase"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://mcpdbwizard.com/"
+}
