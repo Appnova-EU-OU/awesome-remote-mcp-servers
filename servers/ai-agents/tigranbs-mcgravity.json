@@ -1,0 +1,16 @@
+{
+  "name": "mcgravity",
+  "description": "Fast TUI that orchestrates AI coding tools (Claude Code, Codex, Gemini) in a plan→execute→review loop. Breaks work into atomic tasks for easier verification and course-correction.",
+  "git_url": "https://github.com/tigranbs/mcgravity",
+  "author_github": "tigranbs",
+  "category": "ai-agents",
+  "tags": [
+    "claude",
+    "claudecode",
+    "codex",
+    "gemini",
+    "vibecoding"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
