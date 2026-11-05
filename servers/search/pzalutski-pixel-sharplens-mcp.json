@@ -1,0 +1,17 @@
+{
+  "name": "sharplens-mcp",
+  "description": "Roslyn-powered MCP server for AI-driven C# semantic analysis, refactoring, and code generation",
+  "git_url": "https://github.com/pzalutski-pixel/sharplens-mcp",
+  "author_github": "pzalutski-pixel",
+  "category": "search",
+  "tags": [
+    "ai",
+    "claudecode",
+    "codeanalysis",
+    "csharp",
+    "dotnet"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.nuget.org/packages/SharpLensMcp"
+}
