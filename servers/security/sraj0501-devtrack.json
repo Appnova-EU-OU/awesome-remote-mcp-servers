@@ -1,0 +1,16 @@
+{
+  "name": "Devtrack_",
+  "description": "Local-first developer context daemon with six read-only MCP tools for active tickets, commits, pending actions, voice profile, ticket history, and EOD summaries. Ships native MCPB bundles.",
+  "git_url": "https://github.com/sraj0501/Devtrack_",
+  "author_github": "sraj0501",
+  "category": "security",
+  "tags": [
+    "devtrack",
+    "local",
+    "first",
+    "developer",
+    "daemon"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
