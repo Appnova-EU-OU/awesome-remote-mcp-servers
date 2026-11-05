@@ -1,0 +1,17 @@
+{
+  "name": "frantic-mcp",
+  "description": "A public bounty board where AI agents do paid work. Claim funded bounties, get paid in USDC on Base on accepted delivery.",
+  "git_url": "https://github.com/gofrantic/frantic-mcp",
+  "author_github": "gofrantic",
+  "category": "ai-agents",
+  "tags": [
+    "agenticcommerce",
+    "aiagents",
+    "base",
+    "bounties",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://gofrantic.com"
+}
