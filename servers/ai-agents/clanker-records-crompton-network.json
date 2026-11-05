@@ -1,0 +1,17 @@
+{
+  "name": "clanker-records/crompton-network",
+  "description": "Machine-native listening platform for C.W.A.'s Straight Outta Crompton. Your agent can listen. For real.",
+  "git_url": "https://github.com/clanker-records/crompton-network",
+  "author_github": "clanker-records",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "cwa",
+    "hiphop",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.cwahq.com"
+}
