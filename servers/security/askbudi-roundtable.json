@@ -1,0 +1,17 @@
+{
+  "name": "roundtable",
+  "description": "Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface",
+  "git_url": "https://github.com/askbudi/roundtable",
+  "author_github": "askbudi",
+  "category": "security",
+  "tags": [
+    "claudecode",
+    "cursor",
+    "geminicli",
+    "mcpserver",
+    "openaicodex"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://askbudi.ai/roundtable"
+}
