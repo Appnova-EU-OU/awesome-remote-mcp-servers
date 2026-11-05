@@ -1,0 +1,16 @@
+{
+  "name": "MinIO-AIops",
+  "description": "Governed AI-ops for MinIO object storage: capacity & usage RCA, bucket exposure audit, lifecycle/ILM",
+  "git_url": "https://github.com/AIops-tools/MinIO-AIops",
+  "author_github": "AIops-tools",
+  "category": "cloud-infra",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "mcp",
+    "minio",
+    "objectstorage"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
