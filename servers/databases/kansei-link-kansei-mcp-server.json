@@ -1,0 +1,17 @@
+{
+  "name": "kansei-link/kansei-mcp-server",
+  "description": "Local-first MCP navigator for AI agents. 11,000+ SaaS services, 200 workflow recipes, 89-97% token savings. Works with Claude Code, Cursor, Cline, Zed, Windsurf.",
+  "git_url": "https://github.com/kansei-link/kansei-mcp-server",
+  "author_github": "kansei-link",
+  "category": "databases",
+  "tags": [
+    "aeo",
+    "agenttools",
+    "aiagent",
+    "claudecode",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@kansei-link/mcp-server"
+}
