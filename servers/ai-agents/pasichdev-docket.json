@@ -1,0 +1,17 @@
+{
+  "name": "docket",
+  "description": "Local-first, self-hostable coordination workspace for AI coding agents. Shared tasks, claims, sync and MCP integration.",
+  "git_url": "https://github.com/pasichDev/docket",
+  "author_github": "pasichDev",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "backlog",
+    "claude",
+    "claudecode",
+    "claudedesktop"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pasichdev.github.io/docket/"
+}
