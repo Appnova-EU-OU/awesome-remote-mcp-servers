@@ -1,0 +1,16 @@
+{
+  "name": "Proxmox-AIops",
+  "description": "Standalone governed Proxmox VE ops — 23 MCP tools with built-in audit/budget/undo/risk-tier harness",
+  "git_url": "https://github.com/AIops-tools/Proxmox-AIops",
+  "author_github": "AIops-tools",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "infrastructure",
+    "mcp",
+    "proxmox"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
