@@ -1,0 +1,16 @@
+{
+  "name": "netops-mcp",
+  "description": "A comprehensive  MCP server that provides access to essential DevOps and networking tools through a standardized interface.",
+  "git_url": "https://github.com/alpadalar/netops-mcp",
+  "author_github": "alpadalar",
+  "category": "developer-tools",
+  "tags": [
+    "netops",
+    "comprehensive",
+    "provides",
+    "access",
+    "essential"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
