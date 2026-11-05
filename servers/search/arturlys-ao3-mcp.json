@@ -1,0 +1,16 @@
+{
+  "name": "ao3-mcp",
+  "description": "MCP server for Archive of Our Own: search fanfiction and have an AI read and rank fics for you",
+  "git_url": "https://github.com/ArturLys/ao3-mcp",
+  "author_github": "ArturLys",
+  "category": "search",
+  "tags": [
+    "aitools",
+    "ao3",
+    "archiveofourown",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
