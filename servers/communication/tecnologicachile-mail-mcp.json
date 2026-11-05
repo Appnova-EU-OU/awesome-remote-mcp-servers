@@ -1,0 +1,17 @@
+{
+  "name": "mail-mcp",
+  "description": "Secure IMAP/SMTP/EWS/Graph API MCP server in Rust — Microsoft 365, Hotmail, Gmail, Zoho, OAuth2, multi-account",
+  "git_url": "https://github.com/tecnologicachile/mail-mcp",
+  "author_github": "tecnologicachile",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "claude",
+    "email",
+    "exchange",
+    "imap"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mail-mcp.tecnologicachile.cl"
+}
