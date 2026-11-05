@@ -1,0 +1,16 @@
+{
+  "name": "kafka-mcp",
+  "description": "MCP server that exposes Kafka debugging to an LLM: find messages, measure lag, unblock consumers. Read-only endpoints, previews before writes.",
+  "git_url": "https://github.com/denizgursoy/kafka-mcp",
+  "author_github": "denizgursoy",
+  "category": "security",
+  "tags": [
+    "ai",
+    "kafka",
+    "mcpserver",
+    "opencode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://denizgursoy.github.io/kafka-mcp/"
+}
