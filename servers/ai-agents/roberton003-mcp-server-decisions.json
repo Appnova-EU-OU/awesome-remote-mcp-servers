@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server-decisions",
+  "description": "Servidor MCP para rastreamento de decisões arquiteturais com validação de predições e outcome gates.",
+  "git_url": "https://github.com/Roberton003/mcp-server-decisions",
+  "author_github": "Roberton003",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "architecture",
+    "decisionmaking",
+    "mcp",
+    "python"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/Roberton003/mcp-server-decisions/wiki"
+}
