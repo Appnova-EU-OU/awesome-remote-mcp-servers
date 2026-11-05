@@ -1,0 +1,17 @@
+{
+  "name": "patchloom",
+  "description": "Structured file edits for AI agents (JSON/YAML/TOML, markdown, AST, dry-run, MCP). Not a generic filesystem MCP.",
+  "git_url": "https://github.com/patchloom/patchloom",
+  "author_github": "patchloom",
+  "category": "ai-agents",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "ast",
+    "automation",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://patchloom.github.io/patchloom/"
+}
