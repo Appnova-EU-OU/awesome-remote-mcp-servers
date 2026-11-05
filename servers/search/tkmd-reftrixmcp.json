@@ -1,0 +1,17 @@
+{
+  "name": "ReftrixMCP",
+  "description": "MCP server with 40 tools for web design analysis — layout extraction, motion detection, quality scoring, accessibility audit, Core Web Vitals, design comparison, and semantic search via Playwright, pgvector, ONNX Runtime, and Ollama.",
+  "git_url": "https://github.com/TKMD/ReftrixMCP",
+  "author_github": "TKMD",
+  "category": "search",
+  "tags": [
+    "accessibility",
+    "claude",
+    "corewebvitals",
+    "designanalysis",
+    "gdpr"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://reftrix.io"
+}
