@@ -1,0 +1,17 @@
+{
+  "name": "fast-mcp-telegram",
+  "description": "Telegram MCP gateway for AI agents: 8 tools, multi-tenant HTTP/stdio, MTProto",
+  "git_url": "https://github.com/leshchenko1979/fast-mcp-telegram",
+  "author_github": "leshchenko1979",
+  "category": "communication",
+  "tags": [
+    "agent",
+    "agenticai",
+    "automation",
+    "claude",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tg-mcp.l1979.ru/setup"
+}
