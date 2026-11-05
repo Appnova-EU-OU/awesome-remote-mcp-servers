@@ -1,0 +1,18 @@
+{
+  "name": "Calorie MCP",
+  "description": "A calorie MCP looks up calories and macros for Claude Code and Cursor from a catalog of 4M+ foods, instead of the model guessing.",
+  "git_url": "https://github.com/Busybody1/busybody-calorie-mcp",
+  "homepage": "https://calorieapi.com/mcp",
+  "author_github": "Busybody1",
+  "category": "productivity",
+  "tags": ["calorie-mcp", "nutrition", "calories", "claude", "cursor"],
+  "env_keys": [
+    {
+      "key": "API_KEY",
+      "kind": "client",
+      "description": "API key sent as the X-API-Key header. Create it in the Calorie API dashboard."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
