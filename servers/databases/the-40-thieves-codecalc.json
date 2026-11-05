@@ -1,0 +1,17 @@
+{
+  "name": "codecalc",
+  "description": "Universal code & logic calculator for AI models: 52 MCP tools across 31 languages. Rust-sandboxed execution with verdicts, sessions, artifacts, exact arithmetic, and verified translation/optimization. No LLM, no gateway, no telemetry: the caller is the model. Apache-2.0.",
+  "git_url": "https://github.com/The-40-Thieves/codecalc",
+  "author_github": "The-40-Thieves",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "calculator",
+    "codeexecution",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/codecalc/"
+}
