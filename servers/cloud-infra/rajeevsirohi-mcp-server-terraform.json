@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-terraform",
+  "description": "Safety-first MCP server for Terraform — plan risk & cost analysis, drift detection, confirmation flows, and provider auth pre-flight for Claude and other AI assistants",
+  "git_url": "https://github.com/RajeevSirohi/mcp-server-terraform",
+  "author_github": "RajeevSirohi",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "claude",
+    "devops",
+    "infrastructureascode",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
