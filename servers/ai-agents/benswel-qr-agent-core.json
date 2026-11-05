@@ -1,0 +1,16 @@
+{
+  "name": "qr-agent-core",
+  "description": "QR-as-a-Service API for AI agents — 34 MCP tools, 11 QR types, dynamic links, scan analytics, webhooks, custom domains. REST API + MCP server.",
+  "git_url": "https://github.com/benswel/qr-agent-core",
+  "author_github": "benswel",
+  "category": "ai-agents",
+  "tags": [
+    "agent",
+    "core",
+    "service",
+    "api",
+    "agents"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
