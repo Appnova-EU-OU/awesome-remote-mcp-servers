@@ -1,0 +1,16 @@
+{
+  "name": "mcp-code-runner",
+  "description": "Run code in multiple programming languages locally via Docker.",
+  "git_url": "https://github.com/axliupore/mcp-code-runner",
+  "author_github": "axliupore",
+  "category": "cloud-infra",
+  "tags": [
+    "code",
+    "runner",
+    "run",
+    "multiple",
+    "programming"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
