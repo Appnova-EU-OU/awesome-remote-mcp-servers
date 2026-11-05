@@ -1,0 +1,17 @@
+{
+  "name": "drop2run-cli",
+  "description": "Source for the drop2run CLI and MCP server — publish a static site or an agent's output to an HTTPS link, no git and no build config.",
+  "git_url": "https://github.com/Drop-to-run/drop2run-cli",
+  "author_github": "Drop-to-run",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cli",
+    "cloudflare",
+    "deploy"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dropto.run"
+}
