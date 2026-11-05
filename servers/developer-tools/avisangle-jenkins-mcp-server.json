@@ -1,0 +1,16 @@
+{
+  "name": "jenkins-mcp-server",
+  "description": "An MCP server for interacting with a Jenkins server. Allows you to trigger jobs, check build statuses, and manage your Jenkins instance through MCP.",
+  "git_url": "https://github.com/avisangle/jenkins-mcp-server",
+  "author_github": "avisangle",
+  "category": "developer-tools",
+  "tags": [
+    "claude",
+    "claudecode",
+    "jenkins",
+    "jenkinsmcp",
+    "jenkinsmcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
