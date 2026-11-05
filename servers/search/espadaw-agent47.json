@@ -1,0 +1,16 @@
+{
+  "name": "espadaw/Agent47",
+  "description": "Unified job search for AI agents. MCP server integrating x402, RentAHuman, Virtuals, and more into a single interface for finding work and comparing prices across the agent economy.",
+  "git_url": "https://github.com/espadaw/Agent47",
+  "author_github": "espadaw",
+  "category": "search",
+  "tags": [
+    "espadaw",
+    "agent",
+    "unified",
+    "job",
+    "search"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
