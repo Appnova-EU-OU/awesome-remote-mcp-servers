@@ -1,0 +1,16 @@
+{
+  "name": "SmartDB_MCP",
+  "description": "Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB,DM8,Oracle,not only provides basic database connection such as OAuth 2.0 authentication , health checks, SQL optimization, and index health detection",
+  "git_url": "https://github.com/wenb1n-dev/SmartDB_MCP",
+  "author_github": "wenb1n-dev",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "dameng8",
+    "dify",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
