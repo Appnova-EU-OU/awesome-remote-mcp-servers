@@ -1,0 +1,17 @@
+{
+  "name": "awarse-mcp",
+  "description": "Model Context Protocol (MCP) server for automated test heal, Playwright orchestration, and AI-assisted QA workflows.",
+  "git_url": "https://github.com/awarselabs/awarse-mcp",
+  "author_github": "awarselabs",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "glama",
+    "mcp",
+    "modelcontextprotocol",
+    "playwright"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://awarselabs.com"
+}
