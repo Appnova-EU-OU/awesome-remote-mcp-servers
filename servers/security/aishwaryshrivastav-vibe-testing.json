@@ -1,0 +1,17 @@
+{
+  "name": "vibe-testing",
+  "description": "Code-aware browser testing agent — 13 MCP tools for AI editors (Claude Code, Cursor, Windsurf). Reads your codebase, opens Playwright, tests everything, reports with screenshots.",
+  "git_url": "https://github.com/AishwaryShrivastav/vibe-testing",
+  "author_github": "AishwaryShrivastav",
+  "category": "security",
+  "tags": [
+    "aiagent",
+    "aitesting",
+    "aitools",
+    "browsertesting",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://aishwaryshrivastav.github.io/vibe-testing/"
+}
