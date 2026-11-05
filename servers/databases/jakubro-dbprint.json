@@ -1,0 +1,17 @@
+{
+  "name": "dbprint",
+  "description": "Portable, git-committed snapshot of a database's structure and column-level data distributions, consumable offline by humans, AI coding agents, and CI.",
+  "git_url": "https://github.com/jakubro/dbprint",
+  "author_github": "jakubro",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "dataprofiling",
+    "database",
+    "duckdb",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://jakubro.github.io/dbprint/"
+}
