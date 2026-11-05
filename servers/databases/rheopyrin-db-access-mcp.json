@@ -1,0 +1,17 @@
+{
+  "name": "db-access-mcp",
+  "description": "MCP server for querying Postgres/MySQL/Redshift/SQL Server via SSH & AWS SSM tunnels, with Vault/AWS secret providers.",
+  "git_url": "https://github.com/Rheopyrin/db-access-mcp",
+  "author_github": "Rheopyrin",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "awssecretsmanager",
+    "awsssm",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/@rheopyrin/db-access-mcp"
+}
