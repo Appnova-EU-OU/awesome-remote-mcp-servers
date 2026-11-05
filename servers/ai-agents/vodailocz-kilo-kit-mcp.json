@@ -1,0 +1,17 @@
+{
+  "name": "kilo-kit-mcp",
+  "description": "An MCP server for safer coding agents: skill routing, C4 workflow gates, memory checks, and verification before completion.",
+  "git_url": "https://github.com/VoDaiLocz/kilo-kit-mcp",
+  "author_github": "VoDaiLocz",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "agenticworkflow",
+    "aiagent",
+    "aiworkflows",
+    "claudecode"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://glama.ai/mcp/servers/VoDaiLocz/kilo-kit-mcp/"
+}
