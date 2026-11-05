@@ -1,0 +1,17 @@
+{
+  "name": "validate",
+  "description": "Deterministic validation for AI-generated artifacts: JSON Schema, OpenAPI response, SQL. Typed verdicts with fix hints. Metered API + MCP.",
+  "git_url": "https://github.com/machinegrade/validate",
+  "author_github": "machinegrade",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "jsonschema",
+    "mcp",
+    "mcpserver",
+    "openapi"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://api.machinegrade.dev"
+}
