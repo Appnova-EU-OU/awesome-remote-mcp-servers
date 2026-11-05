@@ -1,0 +1,17 @@
+{
+  "name": "docguard",
+  "description": "Audit and enforce canonical project documentation for AI-assisted development. Detect drift, validate specs, and brief agents. Part of the Guard family with TestGuard and WebSec Validator.",
+  "git_url": "https://github.com/raccioly/docguard",
+  "author_github": "raccioly",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aiagents",
+    "cdd",
+    "cli",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/docguard-cli"
+}
