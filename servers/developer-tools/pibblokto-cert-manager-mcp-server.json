@@ -1,0 +1,13 @@
+{
+  "name": "cert-manager-mcp-server",
+  "description": "MCP Server for cert-manager",
+  "git_url": "https://github.com/pibblokto/cert-manager-mcp-server",
+  "author_github": "pibblokto",
+  "category": "developer-tools",
+  "tags": [
+    "cert",
+    "manager"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
