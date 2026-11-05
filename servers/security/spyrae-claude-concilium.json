@@ -1,0 +1,16 @@
+{
+  "name": "claude-concilium",
+  "description": "Multi-agent AI consultation framework for Claude Code via MCP — get second opinions from OpenAI, Gemini, Qwen, DeepSeek",
+  "git_url": "https://github.com/spyrae/claude-concilium",
+  "author_github": "spyrae",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codereview",
+    "developertools",
+    "gemini"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
