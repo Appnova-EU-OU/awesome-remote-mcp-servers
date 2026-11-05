@@ -1,0 +1,16 @@
+{
+  "name": "cloudcostsmcp",
+  "description": "Anchor AI FinOps to real, live cloud pricing — open source MCP server for AWS, GCP, and Azure",
+  "git_url": "https://github.com/x7even/cloudcostsmcp",
+  "author_github": "x7even",
+  "category": "cloud-infra",
+  "tags": [
+    "aitools",
+    "aws",
+    "azure",
+    "cloudpricing",
+    "cloudcost"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
