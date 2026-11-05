@@ -1,0 +1,17 @@
+{
+  "name": "resharper-cli-mcp",
+  "description": "MCP server wrapping JetBrains' ReSharper CLI for headless C# inspection and code cleanup for coding agents. Unofficial, not affiliated with JetBrains.",
+  "git_url": "https://github.com/andypgray/resharper-cli-mcp",
+  "author_github": "andypgray",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "csharp",
+    "dotnet",
+    "dotnettool"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.nuget.org/packages/Zphil.ReSharperCli/"
+}
