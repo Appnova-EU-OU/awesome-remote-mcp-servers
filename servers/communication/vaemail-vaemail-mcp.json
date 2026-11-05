@@ -1,0 +1,17 @@
+{
+  "name": "vaemail-mcp",
+  "description": "MCP server and CLI for VaEmail, email infrastructure for AI agents. Zero dependencies.",
+  "git_url": "https://github.com/vaemail/vaemail-mcp",
+  "author_github": "vaemail",
+  "category": "communication",
+  "tags": [
+    "vaemail",
+    "cli",
+    "email",
+    "infrastructure",
+    "agents"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://vaemail.fr/agents"
+}
