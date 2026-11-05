@@ -1,0 +1,16 @@
+{
+  "name": "mcp-code-sanitizer",
+  "description": "Strict AI code reviewer MCP server powered by Groq",
+  "git_url": "https://github.com/notasandy/mcp-code-sanitizer",
+  "author_github": "notasandy",
+  "category": "security",
+  "tags": [
+    "aicodereview",
+    "claudecode",
+    "codereview",
+    "cursor",
+    "groq"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
