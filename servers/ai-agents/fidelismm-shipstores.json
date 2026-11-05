@@ -1,0 +1,16 @@
+{
+  "name": "shipstores",
+  "description": "Ship iOS and Android apps from your AI agent. MCP server for App Store Connect, Google Play Console and Expo EAS.",
+  "git_url": "https://github.com/FidelisMM/shipstores",
+  "author_github": "FidelisMM",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "android",
+    "appstoreconnect",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
