@@ -1,0 +1,17 @@
+{
+  "name": "vineverse-mcp",
+  "description": "stdio bridge to the hosted VineVerse MCP server - the Bible as a knowledge graph",
+  "git_url": "https://github.com/DataCraftsmanAU/vineverse-mcp",
+  "author_github": "DataCraftsmanAU",
+  "category": "developer-tools",
+  "tags": [
+    "vineverse",
+    "stdio",
+    "bridge",
+    "hosted",
+    "bible"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://vineverse.bible/mcp"
+}
