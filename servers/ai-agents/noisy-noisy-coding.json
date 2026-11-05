@@ -1,0 +1,17 @@
+{
+  "name": "noisy-coding",
+  "description": "Talk to Claude Code instead of typing: a voice daemon + dashboard that records you, transcribes, routes to your agent sessions, and speaks the replies back - with per-voice avatars, push-to-talk hotkeys, and a live conversation HUD",
+  "git_url": "https://github.com/noisy/noisy-coding",
+  "author_github": "noisy",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "speechtotext",
+    "texttospeech",
+    "voice"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://NoisyStudio.ai"
+}
