@@ -1,0 +1,16 @@
+{
+  "name": "docweave-mcp",
+  "description": "Open-source MCP server for Docweave — generate_pdf + read_pdf tools for AI agents (Claude, Cursor, …).",
+  "git_url": "https://github.com/NicolasMartalog/docweave-mcp",
+  "author_github": "NicolasMartalog",
+  "category": "security",
+  "tags": [
+    "docweave",
+    "open",
+    "source",
+    "generate",
+    "pdf"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
