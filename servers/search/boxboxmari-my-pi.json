@@ -1,0 +1,16 @@
+{
+  "name": "my-pi",
+  "description": "Local-first MCP runtime for coding agents with bounded filesystem access, safe writes, AST search, LSP navigation, and Git tooling.",
+  "git_url": "https://github.com/BoxBoxmari/my-pi",
+  "author_github": "BoxBoxmari",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "changeruntime",
+    "codeintelligence",
+    "codingagents",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
