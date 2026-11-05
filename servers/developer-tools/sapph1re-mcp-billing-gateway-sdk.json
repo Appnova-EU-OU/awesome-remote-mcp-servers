@@ -1,0 +1,16 @@
+{
+  "name": "mcp-billing-gateway-sdk",
+  "description": "Client SDK and docs for MCP Billing Gateway — add Stripe + x402 billing to any MCP server",
+  "git_url": "https://github.com/sapph1re/mcp-billing-gateway-sdk",
+  "author_github": "sapph1re",
+  "category": "developer-tools",
+  "tags": [
+    "billing",
+    "gateway",
+    "sdk",
+    "client",
+    "docs"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
