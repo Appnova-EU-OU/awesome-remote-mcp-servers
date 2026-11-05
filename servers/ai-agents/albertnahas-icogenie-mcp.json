@@ -1,0 +1,16 @@
+{
+  "name": "albertnahas/icogenie-mcp",
+  "description": "MCP server for IcoGenie - Enable AI agents to generate SVG icons programmatically",
+  "git_url": "https://github.com/albertnahas/icogenie-mcp",
+  "author_github": "albertnahas",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "anthropic",
+    "claude",
+    "icogenie",
+    "icongeneration"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
