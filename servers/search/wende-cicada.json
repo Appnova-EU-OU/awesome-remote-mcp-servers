@@ -1,0 +1,17 @@
+{
+  "name": "cicada",
+  "description": "AI Coders search blindly. Be their guide.",
+  "git_url": "https://github.com/wende/cicada",
+  "author_github": "wende",
+  "category": "search",
+  "tags": [
+    "ai",
+    "codeintelligence",
+    "codesearch",
+    "devtools",
+    "elixir"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://cicada-mcp.vercel.app/"
+}
