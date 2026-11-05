@@ -1,0 +1,16 @@
+{
+  "name": "dynatrace-managed-mcp",
+  "description": "An MCP server for self-hosted Dynatrace Managed platform",
+  "git_url": "https://github.com/dynatrace-oss/dynatrace-managed-mcp",
+  "author_github": "dynatrace-oss",
+  "category": "developer-tools",
+  "tags": [
+    "dynatrace",
+    "managed",
+    "mcp",
+    "mcpserver",
+    "monitoring"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
