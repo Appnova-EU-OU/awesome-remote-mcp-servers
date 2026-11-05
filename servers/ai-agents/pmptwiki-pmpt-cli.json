@@ -1,0 +1,17 @@
+{
+  "name": "pmpt-cli",
+  "description": "Record and share your AI-driven product development journey",
+  "git_url": "https://github.com/pmptwiki/pmpt-cli",
+  "author_github": "pmptwiki",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "cli",
+    "developertools",
+    "mcp",
+    "promptengineering"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pmptwiki.com"
+}
