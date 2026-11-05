@@ -1,0 +1,16 @@
+{
+  "name": "hocr_mcp_server",
+  "description": "Extract handwritten math formulas from uploaded images as LaTeX using a vision-language model, with a Vue frontend.",
+  "git_url": "https://github.com/Wooonster/hocr_mcp_server",
+  "author_github": "Wooonster",
+  "category": "media",
+  "tags": [
+    "hocr",
+    "extract",
+    "handwritten",
+    "math",
+    "formulas"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
