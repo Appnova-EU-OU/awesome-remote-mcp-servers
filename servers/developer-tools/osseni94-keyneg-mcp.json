@@ -1,0 +1,13 @@
+{
+  "name": "keyneg-mcp",
+  "description": "Keyneg connector",
+  "git_url": "https://github.com/Osseni94/keyneg-mcp",
+  "author_github": "Osseni94",
+  "category": "developer-tools",
+  "tags": [
+    "keyneg",
+    "connector"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
