@@ -1,0 +1,16 @@
+{
+  "name": "mcp-domain-deliverability-checker",
+  "description": "MCP server for the Mamba Labs Domain Deliverability Checker actor: SPF, DKIM, DMARC, MX, blacklist, catch-all, domain age. Clay-ready.",
+  "git_url": "https://github.com/mambalabsdev/mcp-domain-deliverability-checker",
+  "author_github": "mambalabsdev",
+  "category": "ai-agents",
+  "tags": [
+    "domain",
+    "deliverability",
+    "checker",
+    "mamba",
+    "labs"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
