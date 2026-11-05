@@ -1,0 +1,16 @@
+{
+  "name": "glm-mcp",
+  "description": "GLM (Zhipu/Z.ai) as a cheap, full-capability subagent for the Claude Code app — works on a subscription Claude (no API key for the main agent), auto-routes between Opus and GLM, file-editing agent with diff/dry-run/git-revert, one-command npx install.",
+  "git_url": "https://github.com/djerok/glm-mcp",
+  "author_github": "djerok",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "claudecode",
+    "glm",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
