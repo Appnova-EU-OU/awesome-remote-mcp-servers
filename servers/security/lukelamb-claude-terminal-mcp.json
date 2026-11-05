@@ -1,0 +1,17 @@
+{
+  "name": "claude-terminal-mcp",
+  "description": "Terminal, filesystem, and background-job tools for Claude Desktop on Linux. Zero-dependency MCP extension, MIT-licensed.",
+  "git_url": "https://github.com/LukeLamb/claude-terminal-mcp",
+  "author_github": "LukeLamb",
+  "category": "security",
+  "tags": [
+    "anthropic",
+    "bash",
+    "claude",
+    "claudedesktop",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/LukeLamb/claude-terminal-mcp/releases/latest"
+}
