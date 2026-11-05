@@ -1,0 +1,16 @@
+{
+  "name": "ai-toolkit",
+  "description": "Toolkit for building AI-driven graph apps on Memgraph, with LangChain, MCP, and agent implementations. ",
+  "git_url": "https://github.com/memgraph/ai-toolkit",
+  "author_github": "memgraph",
+  "category": "ai-agents",
+  "tags": [
+    "toolkit",
+    "building",
+    "driven",
+    "graph",
+    "apps"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
