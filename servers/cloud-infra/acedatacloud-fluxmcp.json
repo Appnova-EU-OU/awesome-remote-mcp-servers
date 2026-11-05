@@ -1,0 +1,16 @@
+{
+  "name": "AceDataCloud/MCPFlux",
+  "description": "MCP server for Flux AI image generation and editing via Ace Data Cloud.",
+  "git_url": "https://github.com/AceDataCloud/FluxMCP",
+  "author_github": "AceDataCloud",
+  "category": "cloud-infra",
+  "tags": [
+    "aiimage",
+    "developertools",
+    "fluxapi",
+    "imagegeneration",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
