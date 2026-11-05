@@ -1,0 +1,16 @@
+{
+  "name": "adr-mcp-setup",
+  "description": "Generates Architecture Decision Records from Claude Code conversations, with quality review, duplicate detection, a dependency graph and stale ADR alerts.",
+  "git_url": "https://github.com/wooxogh/adr-mcp-setup",
+  "author_github": "wooxogh",
+  "category": "security",
+  "tags": [
+    "adr",
+    "setup",
+    "generates",
+    "architecture",
+    "decision"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
