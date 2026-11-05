@@ -1,0 +1,17 @@
+{
+  "name": "whichlib",
+  "description": "The dependency picker for coding agents: an MCP server that recommends, compares and scores GitHub repos with a verdict. npx -y whichlib",
+  "git_url": "https://github.com/josifb/whichlib",
+  "author_github": "josifb",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "cursor",
+    "dependencies",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/whichlib"
+}
