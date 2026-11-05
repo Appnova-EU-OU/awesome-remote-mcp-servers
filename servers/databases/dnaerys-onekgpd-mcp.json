@@ -1,0 +1,17 @@
+{
+  "name": "dnaerys/onekgpd-mcp",
+  "description": "1000 Genomes Project Dataset MCP Server",
+  "git_url": "https://github.com/dnaerys/onekgpd-mcp",
+  "author_github": "dnaerys",
+  "category": "databases",
+  "tags": [
+    "dnaerys",
+    "onekgpd",
+    "genomes",
+    "project",
+    "dataset"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://dnaerys.org"
+}
