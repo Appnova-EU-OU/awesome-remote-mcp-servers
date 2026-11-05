@@ -1,0 +1,12 @@
+{
+  "name": "wsapi-mcp",
+  "description": "WSAPI MCP Server",
+  "git_url": "https://github.com/wsapi-chat/wsapi-mcp",
+  "author_github": "wsapi-chat",
+  "category": "developer-tools",
+  "tags": [
+    "wsapi"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
