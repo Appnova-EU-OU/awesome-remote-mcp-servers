@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [postman-mcp-server](https://freemcp.space/featured/postman-mcp-server) — An MCP server that provides access to Postman.
+- [yandex-lavka-mcp](https://freemcp.space/featured/yandex-lavka-mcp) — Unofficial MCP server for ordering Yandex Lavka groceries from an AI assistant (search, cart, checkout with confirmation)
+- [warp-agent-mcp](https://freemcp.space/featured/warp-agent-mcp) — MCP server for the Warp freight API. Quote, book, and track LTL/FTL shipments from any MCP-compatible AI agent.
+- [royalmail-mcp](https://freemcp.space/featured/royalmail-mcp) — Book, label, track and cancel Royal Mail and Parcelforce shipments from any MCP-compatible AI.
+- [claw-tsaver](https://freemcp.space/featured/claw-tsaver) — A token-saving MCP proxy for OpenClaw users. Cuts tool call payloads by 90%+ via lazy expansion.
+- [parcel-shipping-rates-mcp](https://freemcp.space/featured/parcel-shipping-rate) — MCP server for live USPS, UPS and FedEx rates on a parcel sent from the US: domestic, Canada, UK, Germany, Australia. No scale, no account, no API key.
+- [packzoo-mcp](https://freemcp.space/featured/packzoo-mcp) — PackZoo MCP server — compare parcel and letter delivery prices across 60+ carriers in 27 European countries.
+- [peckish](https://freemcp.space/featured/peckish) — Order food and groceries on DoorDash via its CLI (macOS arm64): search stores, compare fee-included totals, build carts; orders need user approval.
 - [DoorDash-MCP-Server](https://freemcp.space/featured/doordash-mcp-server) — Unofficial DoorDash Delivery integration.
 - [DragonMCP](https://freemcp.space/featured/dragonmcp) — DragonMCP is a Model Context Protocol (MCP) server designed for AI Agents to interact with local life services in Greater China (Mainland China, HKSAR) and Asia.  DragonMCP 是一个专为 AI Agent 设计的 Model Context Protocol (MCP) 服务器，旨在提供中国内地、中国香港及亚洲地区的本地生活服务接口。
 - [fagan](https://freemcp.space/featured/fagan) — Spend tokens on judgment, not typing. An MCP-native autonomous SDLC pipeline: frontier models plan and review, local models implement — engineering discipline on a $20/month budget.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [openhuddle](https://freemcp.space/featured/openhuddle) — Multiplayer mode for AI coding agents. Your team's Claude Code, Codex and Cursor agents huddle up: live status, one master prompt, a shared task board, and no stepping on each other's files.
 - [codex-claude-council](https://freemcp.space/hamza-aziz-ai/codex-claude-council) — Two AIs. One answer. ChatGPT and Claude discuss with each other until they agree, through your own signed-in CLIs: no API keys. Both read your project (never change it) and search the web. Plugin for Claude Code, Codex, Claude Desktop and the ChatGPT app.
 - [qa-orchestrator](https://freemcp.space/featured/qa-orchestrator) — Local MCP server for privacy-aware QA task routing
-- [tokentoll](https://freemcp.space/featured/tokentoll) — Catch LLM cost changes in code review. Infracost for LLM spend.
-- [muninn](https://freemcp.space/featured/muninn) — Code search for AI coding agents over MCP: hybrid retrieval, structural search and shared indexing across Git worktrees.
-- [firefox-devtools-mcp](https://freemcp.space/featured/firefox-devtools-mcp) — Model Context Protocol server for Firefox DevTools - enables AI assistants to inspect and control Firefox browser through WebDriver BiDi
-- [unitares](https://freemcp.space/featured/unitares) — Accountability infrastructure for long-running AI agents. Self-hosted MCP server: identity, claims and evidence, review, outcomes, and reconstruction across agent runtimes.
-- [ifc-ruhsat](https://freemcp.space/featured/ifc-ruhsat) — Yapı ruhsatı IFC modelini Türkiye dijital proje yönetmeliğine (RG 33331) göre kontrol eder — CLI + MCP + IDS. Checks IFC models against Türkiye's building-permit BIM regulation.
-- [mcp-for-maya](https://freemcp.space/featured/mcp-for-maya) — Maya MCP Server with spatial awareness, camera planning, aesthetic analysis, and scene auditing
-- [ramen](https://freemcp.space/bulkguy47/ramen) — Self-hosted, multi-zone MCP server platform for GKE, EKS and AKS. A git repo of Python tools becomes canary-deployed, autoscaled Rust + Python workers with NeMo guardrails per tool, Entra ID / Google Workspace SSO, custom roles, OAuth 2.1, secrets, IP rules and audit. Clients on macOS, Windows and Linux.
-- [caishi](https://freemcp.space/featured/caishi) — 采诗 · 给 AI 用的中文互联网能力包：一条命令读抖音/B站/小红书/公众号/知乎/头条等 33 站（满配 40）| Read the Chinese internet from your AI agent. Read-only, reuses your browser sessions.
 <!-- freemcp:end -->
 
 ---
