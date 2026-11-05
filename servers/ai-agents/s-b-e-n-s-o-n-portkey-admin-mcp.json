@@ -1,0 +1,16 @@
+{
+  "name": "portkey-admin-mcp",
+  "description": "Full Portkey Admin API MCP server",
+  "git_url": "https://github.com/s-b-e-n-s-o-n/portkey-admin-mcp",
+  "author_github": "s-b-e-n-s-o-n",
+  "category": "ai-agents",
+  "tags": [
+    "adminapi",
+    "aigateway",
+    "llm",
+    "llmops",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
