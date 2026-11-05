@@ -1,0 +1,16 @@
+{
+  "name": "sendgrid-mcp-secure",
+  "description": "Security-first MCP server for SendGrid — recipient allowlists, send caps, review-mode, audit log, no silent BCC. Hardened against the postmark-mcp incident class.",
+  "git_url": "https://github.com/Choppaaahh/sendgrid-mcp-secure",
+  "author_github": "Choppaaahh",
+  "category": "communication",
+  "tags": [
+    "aisafety",
+    "email",
+    "emailsecurity",
+    "llmsecurity",
+    "llmtools"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
