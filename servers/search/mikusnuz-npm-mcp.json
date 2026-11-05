@@ -1,0 +1,16 @@
+{
+  "name": "npm-mcp",
+  "description": "MCP server for npm package management — 32 tools for publish, install, audit, search, security & more",
+  "git_url": "https://github.com/mikusnuz/npm-mcp",
+  "author_github": "mikusnuz",
+  "category": "search",
+  "tags": [
+    "aitools",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
