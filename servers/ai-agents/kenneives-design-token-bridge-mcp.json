@@ -1,0 +1,16 @@
+{
+  "name": "design-token-bridge-mcp",
+  "description": "MCP server that translates design tokens between platforms — Tailwind, Figma, CSS to Material 3, SwiftUI, and CSS Variables. Built for the v0 → Figma → Claude Code pipeline.",
+  "git_url": "https://github.com/kenneives/design-token-bridge-mcp",
+  "author_github": "kenneives",
+  "category": "ai-agents",
+  "tags": [
+    "agentavowverify171910032496604",
+    "claudecode",
+    "cssvariables",
+    "designtokens",
+    "figma"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
