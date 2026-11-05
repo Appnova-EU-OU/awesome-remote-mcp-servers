@@ -1,0 +1,16 @@
+{
+  "name": "Network-AIops",
+  "description": "Standalone governed multi-vendor network ops (NAPALM) — 13 MCP tools with audit/budget/undo/risk-tier harness",
+  "git_url": "https://github.com/AIops-tools/Network-AIops",
+  "author_github": "AIops-tools",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "cisco",
+    "mcp",
+    "napalm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
