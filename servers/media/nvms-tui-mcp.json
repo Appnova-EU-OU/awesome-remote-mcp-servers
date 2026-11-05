@@ -1,0 +1,16 @@
+{
+  "name": "tui-mcp",
+  "description": "What Chrome DevTools MCP is for the browser, tui-mcp is for the terminal. Launch, screenshot, and interact with any TUI app.",
+  "git_url": "https://github.com/nvms/tui-mcp",
+  "author_github": "nvms",
+  "category": "media",
+  "tags": [
+    "tui",
+    "what",
+    "chrome",
+    "devtools",
+    "browser"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
