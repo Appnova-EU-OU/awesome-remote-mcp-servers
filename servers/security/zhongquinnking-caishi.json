@@ -1,0 +1,16 @@
+{
+  "name": "caishi",
+  "description": "采诗 · 给 AI 用的中文互联网能力包：一条命令读抖音/B站/小红书/公众号/知乎/头条等 33 站（满配 40）| Read the Chinese internet from your AI agent. Read-only, reuses your browser sessions.",
+  "git_url": "https://github.com/ZhongQuinnKing/caishi",
+  "author_github": "ZhongQuinnKing",
+  "category": "security",
+  "tags": [
+    "aiagent",
+    "bilibili",
+    "chineseinternet",
+    "claudecode",
+    "douyin"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
