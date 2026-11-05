@@ -1,0 +1,17 @@
+{
+  "name": "suprsonic-mcp",
+  "description": "Suprsonic MCP server. Gives any AI agent dozens of capabilities through one connection.",
+  "git_url": "https://github.com/O-mega-Enterprise/suprsonic-mcp",
+  "author_github": "O-mega-Enterprise",
+  "category": "search",
+  "tags": [
+    "aiagent",
+    "mcp",
+    "modelcontextprotocol",
+    "search",
+    "suprsonic"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://suprsonic.ai"
+}
