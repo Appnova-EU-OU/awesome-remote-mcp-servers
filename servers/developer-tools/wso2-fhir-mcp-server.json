@@ -1,0 +1,16 @@
+{
+  "name": "fhir-mcp-server",
+  "description": "FHIR MCP Server – helping you expose any FHIR Server or API as a MCP Server.",
+  "git_url": "https://github.com/wso2/fhir-mcp-server",
+  "author_github": "wso2",
+  "category": "developer-tools",
+  "tags": [
+    "fhir",
+    "healthcare",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
