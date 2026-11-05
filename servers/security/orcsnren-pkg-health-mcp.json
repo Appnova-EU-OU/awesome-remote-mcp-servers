@@ -1,0 +1,17 @@
+{
+  "name": "pkg-health-mcp",
+  "description": "Is this dependency still maintained? MCP server, CLI and GitHub Action that score npm packages, PyPI packages and GitHub repos 0–100 for maintenance health, with an A–F grade and plain-language risks. Works with Claude, Cursor and VS Code.",
+  "git_url": "https://github.com/orcsnren/pkg-health-mcp",
+  "author_github": "orcsnren",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "busfactor",
+    "claude",
+    "cli",
+    "cursor"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/pkg-health-mcp"
+}
