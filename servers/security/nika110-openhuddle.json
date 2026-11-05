@@ -1,0 +1,17 @@
+{
+  "name": "openhuddle",
+  "description": "Multiplayer mode for AI coding agents. Your team's Claude Code, Codex and Cursor agents huddle up: live status, one master prompt, a shared task board, and no stepping on each other's files.",
+  "git_url": "https://github.com/nika110/openhuddle",
+  "author_github": "nika110",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codex",
+    "collaboration",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://92-5-77-35.sslip.io"
+}
