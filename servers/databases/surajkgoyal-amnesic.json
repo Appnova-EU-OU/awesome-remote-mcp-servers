@@ -1,0 +1,16 @@
+{
+  "name": "amnesic",
+  "description": "Persistent semantic memory for SQL databases (Postgres, MySQL, MSSQL, SQLite) — the MCP server with the most ironic name. One-line install for Claude Code, Cursor, and any MCP-compatible client.",
+  "git_url": "https://github.com/SurajKGoyal/amnesic",
+  "author_github": "SurajKGoyal",
+  "category": "databases",
+  "tags": [
+    "aitools",
+    "claude",
+    "cursor",
+    "database",
+    "fastmcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
