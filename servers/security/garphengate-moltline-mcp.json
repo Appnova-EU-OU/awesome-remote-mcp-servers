@@ -1,0 +1,17 @@
+{
+  "name": "moltline-mcp",
+  "description": "Zero-dependency stdio bridge for the Moltline Studio MCP fleet - 19 hosted streamable-HTTP servers, 132 tools, 92 of them free with no signup.",
+  "git_url": "https://github.com/GarphenGate/moltline-mcp",
+  "author_github": "GarphenGate",
+  "category": "security",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "claude",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://moltlinestudio.com"
+}
