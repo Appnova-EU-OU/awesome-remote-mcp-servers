@@ -1,0 +1,16 @@
+{
+  "name": "agent-utils-mcp",
+  "description": "Utility tools with x402 micropayments: JSON validation, base64, hashing, UUIDs, regex testing, Markdown and datetime conversion, cron parsing and JWT decoding.",
+  "git_url": "https://github.com/aparajithn/agent-utils-mcp",
+  "author_github": "aparajithn",
+  "category": "security",
+  "tags": [
+    "agent",
+    "utils",
+    "utility",
+    "tools",
+    "micropayments"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
