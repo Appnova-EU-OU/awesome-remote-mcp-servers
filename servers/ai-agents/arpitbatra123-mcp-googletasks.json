@@ -1,0 +1,16 @@
+{
+  "name": "mcp-googletasks",
+  "description": "This Model Context Protocol (MCP) server provides a bridge between LLMs and Google Tasks, allowing you to manage your task lists and tasks directly through Claude.",
+  "git_url": "https://github.com/arpitbatra123/mcp-googletasks",
+  "author_github": "arpitbatra123",
+  "category": "ai-agents",
+  "tags": [
+    "googletasks",
+    "provides",
+    "bridge",
+    "between",
+    "llms"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
