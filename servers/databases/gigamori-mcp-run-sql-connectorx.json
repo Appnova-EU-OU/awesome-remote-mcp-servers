@@ -1,0 +1,16 @@
+{
+  "name": "mcp-run-sql-connectorx",
+  "description": "An MCP server that executes SQL via ConnectorX and streams (using Arrow RecordBatch) the result to CSV or Parquet. Supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Amazon Redshift, Google BigQuery",
+  "git_url": "https://github.com/gigamori/mcp-run-sql-connectorx",
+  "author_github": "gigamori",
+  "category": "databases",
+  "tags": [
+    "run",
+    "sql",
+    "connectorx",
+    "executes",
+    "via"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
