@@ -1,0 +1,17 @@
+{
+  "name": "ChatSpatial",
+  "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+  "git_url": "https://github.com/cafferychen777/ChatSpatial",
+  "author_github": "cafferychen777",
+  "category": "communication",
+  "tags": [
+    "agenticai",
+    "bioinformatics",
+    "cellcommunication",
+    "claudedesktop",
+    "computationalbiology"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://docs.cafferyang.com/"
+}
