@@ -1,0 +1,16 @@
+{
+  "name": "clearjson",
+  "description": "Large-file-safe JSON MCP server. Format, validate, search, JSONPath query, deep diff, and format conversion (CSV/TSV/YAML/TypeScript). 10 tools, zero dependencies.",
+  "git_url": "https://github.com/wayknow/clearjson",
+  "author_github": "wayknow",
+  "category": "search",
+  "tags": [
+    "clearjson",
+    "large",
+    "file",
+    "safe",
+    "json"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
