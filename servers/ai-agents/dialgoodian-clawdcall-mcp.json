@@ -1,0 +1,16 @@
+{
+  "name": "clawdcall-mcp",
+  "description": "Let AI agents place consent-based outbound phone calls and retrieve transcripts, summaries, and outcomes. Use the hosted Streamable HTTP server or install with `npx -y clawdcall-mcp`.",
+  "git_url": "https://github.com/dialgoodian/clawdcall-mcp",
+  "author_github": "dialgoodian",
+  "category": "ai-agents",
+  "tags": [
+    "clawdcall",
+    "let",
+    "agents",
+    "place",
+    "consent"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
