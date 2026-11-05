@@ -1,0 +1,17 @@
+{
+  "name": "openhire",
+  "description": "Agent-native job protocol over public ATS APIs — remote AI/Infra jobs for your MCP client. Your résumé never transits the server.",
+  "git_url": "https://github.com/gzchenhao/openhire",
+  "author_github": "gzchenhao",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "ashby",
+    "ats",
+    "claude",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/openhire/"
+}
