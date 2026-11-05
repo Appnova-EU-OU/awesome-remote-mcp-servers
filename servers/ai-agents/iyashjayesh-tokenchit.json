@@ -1,0 +1,17 @@
+{
+  "name": "tokenchit",
+  "description": "Read your local AI coding agent logs and render a stat card into your repo.",
+  "git_url": "https://github.com/iyashjayesh/tokenchit",
+  "author_github": "iyashjayesh",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claudecode",
+    "cli",
+    "developertools",
+    "typescript"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tokenchit.app"
+}
