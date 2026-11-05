@@ -1,0 +1,17 @@
+{
+  "name": "verificate-mcp-quickstart",
+  "description": "Take your vibe-coded MVP all the way to production — 17 reality gates + frontier-model review with veto power on every AI-written change. Hosted MCP; free to try, no signup.",
+  "git_url": "https://github.com/VerificateAI/verificate-mcp-quickstart",
+  "author_github": "VerificateAI",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aicodereview",
+    "claude",
+    "codequality",
+    "codereview"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://verificate.ai"
+}
