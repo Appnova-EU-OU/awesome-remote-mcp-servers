@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-markdown",
+  "description": "MCP server for markdown — search, extract sections, list headings, find code blocks",
+  "git_url": "https://github.com/ofershap/mcp-server-markdown",
+  "author_github": "ofershap",
+  "category": "search",
+  "tags": [
+    "ai",
+    "claude",
+    "cursor",
+    "docs",
+    "documentation"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
