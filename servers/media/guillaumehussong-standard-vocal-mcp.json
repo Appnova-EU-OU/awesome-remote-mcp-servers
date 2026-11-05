@@ -1,0 +1,16 @@
+{
+  "name": "standard-vocal-mcp",
+  "description": "Voice Agent Factory MCP — deploy, eval, and audit phone agents built on Vapi. Vertical templates, self-testing agents, audio forensics, prompt versioning, CI regression gates.",
+  "git_url": "https://github.com/guillaumehussong/standard-vocal-mcp",
+  "author_github": "guillaumehussong",
+  "category": "media",
+  "tags": [
+    "standard",
+    "vocal",
+    "voice",
+    "agent",
+    "factory"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
