@@ -1,0 +1,17 @@
+{
+  "name": "mcp-openapi",
+  "description": "OpenAPI specification MCP server.",
+  "git_url": "https://github.com/ReAPI-com/mcp-openapi",
+  "author_github": "ReAPI-com",
+  "category": "security",
+  "tags": [
+    "cline",
+    "cursor",
+    "mcpserver",
+    "openapi",
+    "swagger"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://reapi.com"
+}
