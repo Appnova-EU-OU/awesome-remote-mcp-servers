@@ -1,0 +1,16 @@
+{
+  "name": "gget-mcp",
+  "description": "Bioinformatic MCP server that wraps the most useful functions of the gget library",
+  "git_url": "https://github.com/longevity-genie/gget-mcp",
+  "author_github": "longevity-genie",
+  "category": "developer-tools",
+  "tags": [
+    "gget",
+    "bioinformatic",
+    "wraps",
+    "most",
+    "useful"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
