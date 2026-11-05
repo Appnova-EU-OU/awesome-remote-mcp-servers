@@ -1,0 +1,17 @@
+{
+  "name": "mcpqueen",
+  "description": "👑 The evidence layer for MCP — every registry server probed live, graded with verbatim evidence, plus Trust Receipts. Itself an MCP server at mcpqueen.com/mcp (7 tools, no auth).",
+  "git_url": "https://github.com/mcpqueen/mcpqueen",
+  "author_github": "mcpqueen",
+  "category": "security",
+  "tags": [
+    "agenttools",
+    "mcp",
+    "mcpregistry",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcpqueen.com"
+}
