@@ -1,0 +1,17 @@
+{
+  "name": "Spaceship MCP",
+  "description": "MCP server for the Spaceship API — manage domains, DNS, contacts & marketplace listings via AI",
+  "git_url": "https://github.com/bartwaardenburg/spaceship-mcp",
+  "author_github": "bartwaardenburg",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claude",
+    "dns",
+    "domainmanagement",
+    "domains"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/spaceship-mcp"
+}
