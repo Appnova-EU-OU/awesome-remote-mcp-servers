@@ -1,0 +1,17 @@
+{
+  "name": "Veris",
+  "description": "Behavioral diff for AI-written code. Your agent changed 40 files — Veris tells it what behavior actually changed and whether any of it was verified. MCP-native, checker-resolved call graph, tamper-evident evidence. Never executes your code. Local-first, MIT.",
+  "git_url": "https://github.com/vighriday/Veris",
+  "author_github": "vighriday",
+  "category": "ai-agents",
+  "tags": [
+    "agenticai",
+    "aiagents",
+    "aicodereview",
+    "aisafety",
+    "behavioralgraph"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/veris-core"
+}
