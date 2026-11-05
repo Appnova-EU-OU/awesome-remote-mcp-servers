@@ -1,0 +1,16 @@
+{
+  "name": "alibabacloud-tablestore-mcp-server",
+  "description": "MCP service for Tablestore, features include adding documents, semantic search for documents based on vectors and scalars, RAG-friendly, and serverless.",
+  "git_url": "https://github.com/aliyun/alibabacloud-tablestore-mcp-server",
+  "author_github": "aliyun",
+  "category": "search",
+  "tags": [
+    "alibabacloud",
+    "tablestore",
+    "service",
+    "features",
+    "include"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
