@@ -1,0 +1,17 @@
+{
+  "name": "sysknife",
+  "description": "Your sysadmin co-pilot — an AI that administers Linux through typed, approval-gated, Ed25519-audited actions instead of shell strings. Reference implementation of the LACS standard.",
+  "git_url": "https://github.com/lacs-project/sysknife",
+  "author_github": "lacs-project",
+  "category": "security",
+  "tags": [
+    "agenticai",
+    "aiagents",
+    "aisafety",
+    "auditlog",
+    "automation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://lacs-project.github.io/sysknife/"
+}
