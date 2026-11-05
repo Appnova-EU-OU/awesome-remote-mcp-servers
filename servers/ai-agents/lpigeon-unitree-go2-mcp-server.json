@@ -1,0 +1,17 @@
+{
+  "name": "unitree-go2-mcp-server",
+  "description": "The Unitree Go2 MCP Server is a server built on the MCP that enables users to control the Unitree Go2 robot using natural language commands interpreted by a LLM.",
+  "git_url": "https://github.com/lpigeon/unitree-go2-mcp-server",
+  "author_github": "lpigeon",
+  "category": "ai-agents",
+  "tags": [
+    "go2",
+    "go2mcpserver",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/lpigeon/unitree-go2-mcp-server"
+}
