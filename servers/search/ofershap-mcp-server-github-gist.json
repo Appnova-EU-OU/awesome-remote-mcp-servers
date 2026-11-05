@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-github-gist",
+  "description": "MCP server to create, read, update, list, and search GitHub Gists from your IDE",
+  "git_url": "https://github.com/ofershap/mcp-server-github-gist",
+  "author_github": "ofershap",
+  "category": "search",
+  "tags": [
+    "aitools",
+    "gist",
+    "github",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
