@@ -1,0 +1,17 @@
+{
+  "name": "groundmail-mcp",
+  "description": "MCP server for Groundmail transactional email: send email, check delivery and set up sending domains from Claude, ChatGPT, Cursor and any MCP client. Hosted with OAuth at mcp.groundmail.dev.",
+  "git_url": "https://github.com/Groundmail/groundmail-mcp",
+  "author_github": "Groundmail",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "chatgpt",
+    "claude",
+    "claudecode",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://docs.groundmail.dev/ai/mcp"
+}
