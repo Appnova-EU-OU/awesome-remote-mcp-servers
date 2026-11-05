@@ -1,0 +1,16 @@
+{
+  "name": "mcp-imslp",
+  "description": "MCP server for IMSLP, the Petrucci Music Library. Read works, scores and recordings. No API key required.",
+  "git_url": "https://github.com/smeet666/mcp-imslp",
+  "author_github": "smeet666",
+  "category": "ai-agents",
+  "tags": [
+    "classicalmusic",
+    "claude",
+    "imslp",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
