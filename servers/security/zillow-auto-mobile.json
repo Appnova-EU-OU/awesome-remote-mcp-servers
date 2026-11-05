@@ -1,0 +1,16 @@
+{
+  "name": "auto-mobile",
+  "description": "Mobile automation suite of tools including an MCP and libraries for test authoring & execution",
+  "git_url": "https://github.com/zillow/auto-mobile",
+  "author_github": "zillow",
+  "category": "security",
+  "tags": [
+    "auto",
+    "mobile",
+    "automation",
+    "suite",
+    "tools"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
