@@ -1,0 +1,16 @@
+{
+  "name": "MySQL-AIops",
+  "description": "Governed AI-ops for MySQL/MariaDB DBA operations: slow-query RCA, InnoDB lock-wait & deadlock analys",
+  "git_url": "https://github.com/AIops-tools/MySQL-AIops",
+  "author_github": "AIops-tools",
+  "category": "databases",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "database",
+    "mariadb",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
