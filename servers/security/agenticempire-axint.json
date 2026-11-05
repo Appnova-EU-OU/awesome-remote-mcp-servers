@@ -1,0 +1,17 @@
+{
+  "name": "axint",
+  "description": "Proof and repair for Apple coding agents. Validate Swift, run Xcode evidence, repair failures, and generate inspectable Apple-native capabilities.",
+  "git_url": "https://github.com/agenticempire/axint",
+  "author_github": "agenticempire",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "appintents",
+    "apple",
+    "appleintelligence",
+    "codegeneration"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://axint.ai"
+}
