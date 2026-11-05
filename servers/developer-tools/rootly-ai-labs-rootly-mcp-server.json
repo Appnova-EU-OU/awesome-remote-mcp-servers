@@ -1,0 +1,13 @@
+{
+  "name": "Rootly-MCP-server",
+  "description": "Rootly MCP server",
+  "git_url": "https://github.com/Rootly-AI-Labs/Rootly-MCP-server",
+  "author_github": "Rootly-AI-Labs",
+  "category": "developer-tools",
+  "tags": [
+    "rootly"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://rootly.com/ai-labs"
+}
