@@ -1,0 +1,17 @@
+{
+  "name": "excel-vision-mcp",
+  "description": "MCP server that lets AI agents SEE embedded images inside Excel files — full text + image extraction for .xlsx/.xlsm",
+  "git_url": "https://github.com/VOYAGER-Inc/excel-vision-mcp",
+  "author_github": "VOYAGER-Inc",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "claude",
+    "excel",
+    "imageextraction",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/excel-vision-mcp/"
+}
