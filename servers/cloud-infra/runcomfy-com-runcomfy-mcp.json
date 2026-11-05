@@ -1,0 +1,17 @@
+{
+  "name": "runcomfy-mcp",
+  "description": "Remote MCP for RunComfy: ComfyUI deployments, hosted models, LoRA training. 31 tools.",
+  "git_url": "https://github.com/runcomfy-com/runcomfy-mcp",
+  "author_github": "runcomfy-com",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "comfyui",
+    "gpu",
+    "imagegeneration",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.runcomfy.com"
+}
