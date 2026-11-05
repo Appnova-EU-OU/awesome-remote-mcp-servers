@@ -1,0 +1,16 @@
+{
+  "name": "synapse-code-mcp",
+  "description": "Model Context Protocol server for code intelligence. Lets AI assistants explore your codebase on demand — semantic context with dependency graphs, compressed symbol indexes for TypeScript/JavaScript, plus git diffs and ripgrep-powered search across any language.",
+  "git_url": "https://github.com/Eltortilla1/synapse-code-mcp",
+  "author_github": "Eltortilla1",
+  "category": "search",
+  "tags": [
+    "synapse",
+    "code",
+    "intelligence",
+    "lets",
+    "assistants"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
