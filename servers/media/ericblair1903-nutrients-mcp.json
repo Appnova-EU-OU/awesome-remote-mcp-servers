@@ -1,0 +1,17 @@
+{
+  "name": "nutrients-mcp",
+  "description": "MCP server giving AI assistants food image & text nutrition analysis — calories, macros, vitamins, minerals, allergens. Powered by TastyAPI.",
+  "git_url": "https://github.com/ericblair1903/nutrients-mcp",
+  "author_github": "ericblair1903",
+  "category": "media",
+  "tags": [
+    "ai",
+    "calories",
+    "claude",
+    "computervision",
+    "food"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tastyapi.com"
+}
