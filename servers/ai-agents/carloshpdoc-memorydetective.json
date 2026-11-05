@@ -1,0 +1,17 @@
+{
+  "name": "memorydetective",
+  "description": "MCP server for iOS leak hunting and performance investigation. 28 MCP tools, 34-pattern retain-cycle classifier with Swift fixTemplate snippets, compareTracesByPattern for CI gating, SourceKit-LSP source bridging. Reads .memgraph and .trace files; macOS only.",
+  "git_url": "https://github.com/carloshpdoc/memorydetective",
+  "author_github": "carloshpdoc",
+  "category": "ai-agents",
+  "tags": [
+    "claudecode",
+    "combine",
+    "instruments",
+    "ios",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/memorydetective"
+}
