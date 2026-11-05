@@ -1,0 +1,16 @@
+{
+  "name": "bugsnag-mcp",
+  "description": "A Model Context Protocol (MCP) server for interacting with Bugsnag. This server allows LLM tools like Cursor and Claude to investigate and resolve issues in Bugsnag.",
+  "git_url": "https://github.com/tgeselle/bugsnag-mcp",
+  "author_github": "tgeselle",
+  "category": "ai-agents",
+  "tags": [
+    "bugsnag",
+    "interacting",
+    "allows",
+    "llm",
+    "tools"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
