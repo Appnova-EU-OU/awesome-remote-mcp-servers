@@ -1,0 +1,16 @@
+{
+  "name": "ai-dev-analytics",
+  "description": "An open-source AI coding observability layer. Silently tracks vibe coding sessions via MCP and codifies AI deviations into project rules. 100% local.",
+  "git_url": "https://github.com/LWTlong/ai-dev-analytics",
+  "author_github": "LWTlong",
+  "category": "security",
+  "tags": [
+    "dev",
+    "analytics",
+    "open",
+    "source",
+    "coding"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
