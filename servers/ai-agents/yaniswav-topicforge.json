@@ -1,0 +1,17 @@
+{
+  "name": "TopicForge",
+  "description": "Read-only MCP server for ROS2 and DDS robotics. Let an AI agent inspect topics, DDS participants, QoS mismatches and rosbags. No write path by architecture: it can never command your robot.",
+  "git_url": "https://github.com/yaniswav/TopicForge",
+  "author_github": "yaniswav",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cyclonedds",
+    "dds",
+    "fastdds"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/yaniswav/TopicForge#readme"
+}
