@@ -1,0 +1,16 @@
+{
+  "name": "dotnet-template-mcp",
+  "description": "MCP server wrapping the .NET Template Engine for AI-driven template discovery, inspection, and instantiation",
+  "git_url": "https://github.com/YuliiaKovalova/dotnet-template-mcp",
+  "author_github": "YuliiaKovalova",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "copilot",
+    "dotnet",
+    "dotnetnew",
+    "dotnettool"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
