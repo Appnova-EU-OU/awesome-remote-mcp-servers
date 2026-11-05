@@ -1,0 +1,14 @@
+{
+  "name": "opengenes-mcp",
+  "description": "MCP for the open-genes",
+  "git_url": "https://github.com/longevity-genie/opengenes-mcp",
+  "author_github": "longevity-genie",
+  "category": "security",
+  "tags": [
+    "opengenes",
+    "open",
+    "genes"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
