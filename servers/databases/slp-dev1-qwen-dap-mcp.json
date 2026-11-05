@@ -1,0 +1,17 @@
+{
+  "name": "qwen-dap-mcp",
+  "description": "Autonomous native crash debugging for Qwen Code via DAP → MCP. CodeLLDB, crash dumps, runtime evidence and agentic verification.",
+  "git_url": "https://github.com/SLP-DEV1/qwen-dap-mcp",
+  "author_github": "SLP-DEV1",
+  "category": "databases",
+  "tags": [
+    "agentic",
+    "codelldb",
+    "codingagent",
+    "dap",
+    "debugger"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/SLP-DEV1/qwen-dap-mcp/releases/latest"
+}
