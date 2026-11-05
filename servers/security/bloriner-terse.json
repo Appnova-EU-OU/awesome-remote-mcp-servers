@@ -1,0 +1,16 @@
+{
+  "name": "terse",
+  "description": "Terse — an AI-native code language: a machine-designed, token-dense format for AI coding agents. Open source, Apache-2.0.",
+  "git_url": "https://github.com/bloriner/terse",
+  "author_github": "bloriner",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "codingagents",
+    "interpreter",
+    "llm",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
