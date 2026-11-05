@@ -1,0 +1,17 @@
+{
+  "name": "opsgate",
+  "description": "The safety gate between AI agents and your servers. An MCP server for structured, policy-checked, audited infrastructure operations.",
+  "git_url": "https://github.com/polymatx/opsgate",
+  "author_github": "polymatx",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "aiops",
+    "auditlog",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://polymatx.dev/blog/posts/opsgate-ai-agents-without-a-shell/"
+}
