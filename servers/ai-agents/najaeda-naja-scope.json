@@ -1,0 +1,17 @@
+{
+  "name": "naja-scope",
+  "description": "MCP server for AI agents to explore SystemVerilog/Verilog netlists: trace connectivity, walk hierarchy, jump to source - without pasting RTL into context. Built on najaeda.",
+  "git_url": "https://github.com/najaeda/naja-scope",
+  "author_github": "najaeda",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "eda",
+    "mcp",
+    "mcpserver",
+    "netlist"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/naja-scope"
+}
