@@ -1,0 +1,16 @@
+{
+  "name": "transcriptor-mcp",
+  "description": "An MCP server (stdio + HTTP/SSE) that fetches video transcripts/subtitles via yt-dlp, with pagination for large responses. Supports YouTube, Twitter/X, Instagram, TikTok, Twitch, Vimeo, Facebook, Bilibili, VK, Dailymotion. Whisper fallback — transcribes audio when subtitles are unavailable (local or OpenAI API). Works with Cursor and other MCP host",
+  "git_url": "https://github.com/samson-art/transcriptor-mcp",
+  "author_github": "samson-art",
+  "category": "cloud-infra",
+  "tags": [
+    "claudecode",
+    "cursor",
+    "docker",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
