@@ -1,0 +1,16 @@
+{
+  "name": "PiloTY",
+  "description": "PiloTY: AI pilot for PTY operations via MCP - enables AI agents to control interactive terminals like a human",
+  "git_url": "https://github.com/yiwenlu66/PiloTY",
+  "author_github": "yiwenlu66",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "automation",
+    "cli",
+    "interactive",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
