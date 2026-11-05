@@ -1,0 +1,16 @@
+{
+  "name": "aspnetcore-debugger-mcp",
+  "description": "MCP server that lets AI agents (Claude, Cursor) debug your .NET / ASP.NET Core app",
+  "git_url": "https://github.com/magna-nz/aspnetcore-debugger-mcp",
+  "author_github": "magna-nz",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "aiagent",
+    "aspnetcore",
+    "csharp",
+    "debug"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
