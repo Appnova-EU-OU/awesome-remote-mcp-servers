@@ -1,0 +1,17 @@
+{
+  "name": "revit-model-mcp",
+  "description": "MCP server for live Autodesk Revit models: query, aggregate and inspect by default, act only behind opt-in gates",
+  "git_url": "https://github.com/sharafutdinovdi/revit-model-mcp",
+  "author_github": "sharafutdinovdi",
+  "category": "developer-tools",
+  "tags": [
+    "bim",
+    "claude",
+    "dotnet",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sharafutdinovdi.github.io/revit-model-mcp/"
+}
