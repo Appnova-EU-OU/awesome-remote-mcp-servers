@@ -1,0 +1,13 @@
+{
+  "name": "esp-rainmaker-mcp",
+  "description": "ESP RainMaker MCP server",
+  "git_url": "https://github.com/espressif/esp-rainmaker-mcp",
+  "author_github": "espressif",
+  "category": "ai-agents",
+  "tags": [
+    "esp",
+    "rainmaker"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
