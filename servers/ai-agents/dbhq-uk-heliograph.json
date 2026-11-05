@@ -1,0 +1,17 @@
+{
+  "name": "heliograph",
+  "description": "Remote, captured, auditable execution on a machine you cannot log into. Control CLI, relay and transports around the heliograph method.",
+  "git_url": "https://github.com/dbhq-uk/heliograph",
+  "author_github": "dbhq-uk",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "airgapped",
+    "claude",
+    "claudecode",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://heliograph.dbhq.uk"
+}
