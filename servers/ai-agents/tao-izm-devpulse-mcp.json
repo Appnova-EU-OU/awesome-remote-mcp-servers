@@ -1,0 +1,17 @@
+{
+  "name": "devpulse-mcp",
+  "description": "Zero-config MCP server that gives AI coding assistants a real-time diagnostic snapshot of your dev environment",
+  "git_url": "https://github.com/tao-izm/devpulse-mcp",
+  "author_github": "tao-izm",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claude",
+    "developertools",
+    "mcp",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/devpulse-mcp"
+}
