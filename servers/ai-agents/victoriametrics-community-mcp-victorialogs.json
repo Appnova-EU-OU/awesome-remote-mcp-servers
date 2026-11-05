@@ -1,0 +1,17 @@
+{
+  "name": "mcp-victorialogs",
+  "description": "The implementation of Model Context Protocol (MCP) server for VictoriaLogs.",
+  "git_url": "https://github.com/VictoriaMetrics-Community/mcp-victorialogs",
+  "author_github": "VictoriaMetrics-Community",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "logging",
+    "logs",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://victoriametrics.com/"
+}
