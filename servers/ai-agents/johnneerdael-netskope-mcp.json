@@ -1,0 +1,17 @@
+{
+  "name": "netskope-mcp",
+  "description": "An MCP to give access to all Netskope Private Access components within a Netskope Private Access environments including detailed setup information and LLM examples on usage.",
+  "git_url": "https://github.com/johnneerdael/netskope-mcp",
+  "author_github": "johnneerdael",
+  "category": "ai-agents",
+  "tags": [
+    "netskope",
+    "give",
+    "access",
+    "all",
+    "private"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://johnneerdael.github.io/privateaccess-mcp/"
+}
