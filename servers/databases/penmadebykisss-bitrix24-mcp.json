@@ -1,0 +1,16 @@
+{
+  "name": "bitrix24-mcp",
+  "description": "MCP server for Bitrix24 CRM: deals, leads, contacts, tasks, timeline and sales analytics for Claude and Cursor",
+  "git_url": "https://github.com/penmadebykisss/bitrix24-mcp",
+  "author_github": "penmadebykisss",
+  "category": "databases",
+  "tags": [
+    "bitrix",
+    "crm",
+    "deals",
+    "leads",
+    "contacts"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
