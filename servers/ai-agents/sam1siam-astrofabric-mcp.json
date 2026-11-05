@@ -1,0 +1,15 @@
+{
+  "name": "astrofabric-mcp",
+  "description": "Agentic AI for business intelligence over MCP: company and contact discovery, verification, enrichment, business signals and governed delivery.",
+  "git_url": "https://github.com/sam1siam/astrofabric-mcp",
+  "author_github": "sam1siam",
+  "category": "ai-agents",
+  "tags": [
+    "businessintelligence",
+    "dataenrichment",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.astrofabric.ai/docs"
+}
