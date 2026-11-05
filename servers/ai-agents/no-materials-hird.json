@@ -1,0 +1,16 @@
+{
+  "name": "hird",
+  "description": "A typed language for LLM agent systems on BEAM: effect-row tracking, auditable tool effects, typed actors, and OTP supervision, queryable by agents over MCP.",
+  "git_url": "https://github.com/no-materials/hird",
+  "author_github": "no-materials",
+  "category": "ai-agents",
+  "tags": [
+    "actormodel",
+    "aiagents",
+    "algebraiceffects",
+    "beam",
+    "compiler"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
