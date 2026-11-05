@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server-couchbase",
+  "description": "Model Context Protocol server for Couchbase - connect AI agents and LLMs like Claude, Cursor, and Copilot to Couchbase/Capella",
+  "git_url": "https://github.com/Couchbase-Ecosystem/mcp-server-couchbase",
+  "author_github": "Couchbase-Ecosystem",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "capella",
+    "claude",
+    "couchbase",
+    "cursor"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://docs.couchbase.com/mcp-server/get-started/overview.html"
+}
