@@ -1,0 +1,17 @@
+{
+  "name": "reachpad-mcp",
+  "description": "MCP server for reachpad: lets Claude, Codex and other coding agents build full-stack apps in persistent workspaces and share them by link, without a separate deployment.",
+  "git_url": "https://github.com/Reachpad/reachpad-mcp",
+  "author_github": "Reachpad",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "developerenvironments",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://reachpad.dev"
+}
