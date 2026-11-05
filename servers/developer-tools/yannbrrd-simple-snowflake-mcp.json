@@ -1,0 +1,16 @@
+{
+  "name": "simple_snowflake_mcp",
+  "description": "Simple Snowflake MCP server that works behind a corporate proxy. Read and write (optional) operations",
+  "git_url": "https://github.com/YannBrrd/simple_snowflake_mcp",
+  "author_github": "YannBrrd",
+  "category": "developer-tools",
+  "tags": [
+    "simple",
+    "snowflake",
+    "works",
+    "behind",
+    "corporate"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
