@@ -1,0 +1,17 @@
+{
+  "name": "site-shot-mcp",
+  "description": "Official Site-Shot MCP server — let Claude, Cursor, and other AI agents capture website screenshots: full-page, ad & cookie-banner removal, device emulation.",
+  "git_url": "https://github.com/site-shot/site-shot-mcp",
+  "author_github": "site-shot",
+  "category": "media",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cursor",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.site-shot.com/ai-agents/"
+}
