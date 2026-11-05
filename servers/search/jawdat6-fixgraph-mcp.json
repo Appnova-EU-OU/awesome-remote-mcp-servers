@@ -1,0 +1,16 @@
+{
+  "name": "fixgraph-mcp",
+  "description": "Search and contribute to a community-verified knowledge base of engineering issues and fixes, with trust scores and fix verification.",
+  "git_url": "https://github.com/jawdat6/fixgraph-mcp",
+  "author_github": "jawdat6",
+  "category": "search",
+  "tags": [
+    "fixgraph",
+    "search",
+    "contribute",
+    "community",
+    "verified"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
