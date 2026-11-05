@@ -1,0 +1,16 @@
+{
+  "name": "didlogic_mcp",
+  "description": "An MCP server for [DIDLogic](https://didlogic.com). Adds functionality to manage SIP endpoints, numbers and destinations.",
+  "git_url": "https://github.com/UserAd/didlogic_mcp",
+  "author_github": "UserAd",
+  "category": "developer-tools",
+  "tags": [
+    "didlogic",
+    "https",
+    "com",
+    "adds",
+    "functionality"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
