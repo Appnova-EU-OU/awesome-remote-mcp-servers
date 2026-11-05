@@ -1,0 +1,17 @@
+{
+  "name": "liveblocks-mcp-server",
+  "description": "MCP server for Liveblocks.",
+  "git_url": "https://github.com/liveblocks/liveblocks-mcp-server",
+  "author_github": "liveblocks",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aiagents",
+    "aicopilot",
+    "collaboration",
+    "commentingsystem"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://liveblocks.io/docs/tools/mcp-server"
+}
