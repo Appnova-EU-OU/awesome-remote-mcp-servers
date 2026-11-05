@@ -1,0 +1,16 @@
+{
+  "name": "apifable",
+  "description": "MCP server that helps AI agents explore OpenAPI specs, search endpoints, and generate TypeScript types.",
+  "git_url": "https://github.com/ycs77/apifable",
+  "author_github": "ycs77",
+  "category": "search",
+  "tags": [
+    "api",
+    "claudecode",
+    "mcp",
+    "mcpserver",
+    "openapi"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
