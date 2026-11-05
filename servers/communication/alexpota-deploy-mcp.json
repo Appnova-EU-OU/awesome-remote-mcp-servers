@@ -1,0 +1,17 @@
+{
+  "name": "deploy-mcp",
+  "description": "Universal deployment tracker for AI assistants - check deployment status without leaving your AI chat",
+  "git_url": "https://github.com/alexpota/deploy-mcp",
+  "author_github": "alexpota",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "cicd",
+    "claude",
+    "cloudflaredeployment",
+    "cloudflarepages"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://deploy-mcp.io"
+}
