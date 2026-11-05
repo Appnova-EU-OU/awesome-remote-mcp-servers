@@ -1,0 +1,17 @@
+{
+  "name": "zulipmcp",
+  "description": "Run AI agents in Zulip as @mentionable bots — or wire into any MCP client.",
+  "git_url": "https://github.com/windborne/zulipmcp",
+  "author_github": "windborne",
+  "category": "ai-agents",
+  "tags": [
+    "zulipmcp",
+    "run",
+    "agents",
+    "zulip",
+    "mentionable"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://windbornesystems.com/"
+}
