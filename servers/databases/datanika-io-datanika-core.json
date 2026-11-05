@@ -1,0 +1,17 @@
+{
+  "name": "datanika-core",
+  "description": "Your entire data pipeline. One platform",
+  "git_url": "https://github.com/datanika-io/datanika-core",
+  "author_github": "datanika-io",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "airbytealternative",
+    "dataengineering",
+    "dataintegration",
+    "datapipeline"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://datanika.io"
+}
