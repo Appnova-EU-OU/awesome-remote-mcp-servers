@@ -1,0 +1,16 @@
+{
+  "name": "when",
+  "description": "Six tools. One install. The WhenLabs developer toolkit.",
+  "git_url": "https://github.com/WhenLabs-org/when",
+  "author_github": "WhenLabs-org",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "claudecode",
+    "cli",
+    "developertools",
+    "devex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
