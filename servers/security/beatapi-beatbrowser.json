@@ -1,0 +1,17 @@
+{
+  "name": "BeatBrowser",
+  "description": "Your Chrome, now an agent browser. No browser switch. No login migration. Codex, Claude Code & more. Free & open source.",
+  "git_url": "https://github.com/BeatAPI/BeatBrowser",
+  "author_github": "BeatAPI",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "chromeextension",
+    "claudecode",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://beatapi.io/browser"
+}
