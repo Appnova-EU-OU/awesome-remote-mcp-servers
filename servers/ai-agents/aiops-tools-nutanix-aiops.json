@@ -1,0 +1,16 @@
+{
+  "name": "Nutanix-AIops",
+  "description": "Governed Nutanix Prism Central v4 ops: clusters/VMs/storage/DR/LCM, ETag-safe, 47 MCP tools (preview)",
+  "git_url": "https://github.com/AIops-tools/Nutanix-AIops",
+  "author_github": "AIops-tools",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "governance",
+    "mcp",
+    "nutanix"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
