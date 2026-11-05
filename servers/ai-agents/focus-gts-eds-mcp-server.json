@@ -1,0 +1,16 @@
+{
+  "name": "eds-mcp-server",
+  "description": "MCP server for Adobe Edge Delivery Services — 20 tools for AI agents to preview, publish, read content, query metrics, and manage EDS sites",
+  "git_url": "https://github.com/Focus-GTS/eds-mcp-server",
+  "author_github": "Focus-GTS",
+  "category": "ai-agents",
+  "tags": [
+    "adobe",
+    "aem",
+    "aitools",
+    "claudecode",
+    "cursor"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
