@@ -1,0 +1,17 @@
+{
+  "name": "mnemiq",
+  "description": "Open-source text-to-SQL engine you tune and measure on your own database",
+  "git_url": "https://github.com/agenticfabriq/mnemiq",
+  "author_github": "agenticfabriq",
+  "category": "databases",
+  "tags": [
+    "dataagents",
+    "database",
+    "databricks",
+    "duckdb",
+    "llm"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.agenticfabriq.com/mnemiq"
+}
