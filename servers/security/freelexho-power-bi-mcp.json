@@ -1,0 +1,16 @@
+{
+  "name": "power-bi-mcp",
+  "description": "Power BI MCP server with device code auth, enhanced refresh (table-level polling with retry), refresh diagnostics with root-cause error catalog, DAX queries with RLS simulation, PBIP source locating, and scheduled refresh reports.",
+  "git_url": "https://github.com/FreelexHo/power-bi-mcp",
+  "author_github": "FreelexHo",
+  "category": "security",
+  "tags": [
+    "power",
+    "device",
+    "code",
+    "auth",
+    "enhanced"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
