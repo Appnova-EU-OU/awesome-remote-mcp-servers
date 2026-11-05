@@ -1,0 +1,16 @@
+{
+  "name": "XavierFabregat/spotify-mcp",
+  "description": "Control Spotify by talking to your AI — MCP server for Claude, Cursor, and any MCP client",
+  "git_url": "https://github.com/XavierFabregat/spotify-mcp",
+  "author_github": "XavierFabregat",
+  "category": "media",
+  "tags": [
+    "ai",
+    "claude",
+    "cursor",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
