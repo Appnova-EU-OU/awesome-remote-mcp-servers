@@ -1,0 +1,16 @@
+{
+  "name": "spring-nacos-mcp",
+  "description": "Project-aware, read-only Nacos MCP server for Spring Cloud repos: auto-discovers every environment from your application/bootstrap configs. 面向 Spring Cloud 项目的零配置只读 Nacos MCP server",
+  "git_url": "https://github.com/kestiny18/spring-nacos-mcp",
+  "author_github": "kestiny18",
+  "category": "cloud-infra",
+  "tags": [
+    "mcp",
+    "modelcontextprotocol",
+    "nacos",
+    "springcloud",
+    "springcloudalibaba"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
