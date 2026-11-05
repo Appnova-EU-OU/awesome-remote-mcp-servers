@@ -1,0 +1,16 @@
+{
+  "name": "jetbrains-debugger-mcp-plugin",
+  "description": "JetBrains IDE plugin giving coding agents programmatic control of the debugger.",
+  "git_url": "https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin",
+  "author_github": "hechtcarmel",
+  "category": "ai-agents",
+  "tags": [
+    "jetbrains",
+    "debugger",
+    "plugin",
+    "ide",
+    "giving"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
