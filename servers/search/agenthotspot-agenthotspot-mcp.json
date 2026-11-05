@@ -1,0 +1,16 @@
+{
+  "name": "AgentHotspot",
+  "description": "🔍 MCP server to search 6,000+ AI agent MCP connectors from AgentHotspot.com Marketplace",
+  "git_url": "https://github.com/AgentHotspot/agenthotspot-mcp",
+  "author_github": "AgentHotspot",
+  "category": "search",
+  "tags": [
+    "agenthotspot",
+    "search",
+    "agent",
+    "connectors",
+    "from"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
