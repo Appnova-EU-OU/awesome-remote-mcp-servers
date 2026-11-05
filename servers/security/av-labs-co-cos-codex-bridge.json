@@ -1,0 +1,16 @@
+{
+  "name": "cos-codex-bridge",
+  "description": "Local MCP for Chief of Staff agents to run Codex and Claude Code CLI project sessions with scoped access and durable receipts.",
+  "git_url": "https://github.com/AV-Labs-Co/cos-codex-bridge",
+  "author_github": "AV-Labs-Co",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "automation",
+    "chiefofstaff",
+    "claudecode",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
