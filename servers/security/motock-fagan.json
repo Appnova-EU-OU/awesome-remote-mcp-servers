@@ -1,0 +1,17 @@
+{
+  "name": "fagan",
+  "description": "Spend tokens on judgment, not typing. An MCP-native autonomous SDLC pipeline: frontier models plan and review, local models implement — engineering discipline on a $20/month budget.",
+  "git_url": "https://github.com/motock/fagan",
+  "author_github": "motock",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "autonomousagents",
+    "claudecode",
+    "codereview",
+    "developertools"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://github.com/motock/fagan/blob/master/docs/DEMO.md"
+}
