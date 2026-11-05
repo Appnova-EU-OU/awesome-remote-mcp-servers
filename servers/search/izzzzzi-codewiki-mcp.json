@@ -1,0 +1,16 @@
+{
+  "name": "codewiki-mcp",
+  "description": "MCP server for codewiki.google — search, fetch docs, and ask questions about any open-source repo",
+  "git_url": "https://github.com/izzzzzi/codewiki-mcp",
+  "author_github": "izzzzzi",
+  "category": "search",
+  "tags": [
+    "ai",
+    "codewiki",
+    "documentation",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
