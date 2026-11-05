@@ -1,0 +1,17 @@
+{
+  "name": "codelattice",
+  "description": "面向 AI 编程的本地代码图谱分析工具",
+  "git_url": "https://github.com/aiulms/codelattice",
+  "author_github": "aiulms",
+  "category": "ai-agents",
+  "tags": [
+    "cangjie",
+    "codeanalysis",
+    "codegraph",
+    "developertools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/aiulms/codelattice"
+}
