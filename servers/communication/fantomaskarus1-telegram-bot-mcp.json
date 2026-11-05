@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot-mcp",
+  "description": "Full-featured Telegram Bot API MCP server with 174 tools for Claude Code and AI agents",
+  "git_url": "https://github.com/FantomaSkaRus1/telegram-bot-mcp",
+  "author_github": "FantomaSkaRus1",
+  "category": "communication",
+  "tags": [
+    "telegram",
+    "bot",
+    "full",
+    "featured",
+    "api"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
