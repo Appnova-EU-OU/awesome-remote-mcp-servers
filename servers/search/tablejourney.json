@@ -1,0 +1,18 @@
+{
+  "name": "TableJourney",
+  "description": "Hosted remote MCP server (https://tablejourney.com/mcp, streamable HTTP, no auth) for food travel: where to eat in 222 cities, signature dishes, itineraries and 1,480 food festivals with the dates of each next edition. Every place carries the source it was checked against.",
+  "git_url": "https://github.com/lewismvaughan/tablejourney-mcp",
+  "homepage": "https://tablejourney.com/agents/",
+  "author_github": "lewismvaughan",
+  "category": "search",
+  "tags": [
+    "travel",
+    "food",
+    "restaurants",
+    "festivals",
+    "events",
+    "remote"
+  ],
+  "license": "CC0-1.0",
+  "status": "active"
+}
