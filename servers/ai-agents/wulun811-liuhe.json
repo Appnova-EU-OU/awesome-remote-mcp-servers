@@ -1,0 +1,15 @@
+{
+  "name": "LiuHe",
+  "description": "LLM-native code toolkit: Rust multi-language parser (tree-sitter) + 44 MCP tools for atomic editing, impact analysis, reference tracing and deterministic zero-LLM code quality gates. Built for the handless, eyeless, memoryless LLM.",
+  "git_url": "https://github.com/wulun811/LiuHe",
+  "author_github": "wulun811",
+  "category": "ai-agents",
+  "tags": [
+    "clitools",
+    "dshplugin",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://wulun811.github.io/LiuHe"
+}
