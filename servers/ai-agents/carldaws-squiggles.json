@@ -1,0 +1,15 @@
+{
+  "name": "squiggles",
+  "description": "MCP server that lets your coding agent see the squiggles — LSP diagnostics, navigation, refactoring, and each server's custom superpowers",
+  "git_url": "https://github.com/carldaws/squiggles",
+  "author_github": "carldaws",
+  "category": "ai-agents",
+  "tags": [
+    "lsp",
+    "mcp",
+    "mcpserver",
+    "typescript"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
