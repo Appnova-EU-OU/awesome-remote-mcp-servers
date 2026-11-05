@@ -1,0 +1,17 @@
+{
+  "name": "archprint",
+  "description": "Infers architecture rules from your TypeScript repo's real import graph, gates each on statistical evidence, and emits them into the tools you already use (ESLint, dependency-cruiser, ts-arch). Turns the boundaries your code already follows into enforcement, so architecture drift gets caught, not just documented.",
+  "git_url": "https://github.com/Tommkruix/archprint",
+  "author_github": "Tommkruix",
+  "category": "security",
+  "tags": [
+    "aicodingagents",
+    "architecturerules",
+    "ast",
+    "cli",
+    "codequality"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tommkruix.github.io/archprint/"
+}
