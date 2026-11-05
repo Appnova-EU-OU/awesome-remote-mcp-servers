@@ -1,0 +1,17 @@
+{
+  "name": "gridproof",
+  "description": "Spacing & grid QA for AI-generated UIs, in the agent loop. MCP server that audits computed geometry and returns fix hints.",
+  "git_url": "https://github.com/gridproof/gridproof",
+  "author_github": "gridproof",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "aiagentsmcp",
+    "claude",
+    "claudecode",
+    "designqa"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/gridproof"
+}
