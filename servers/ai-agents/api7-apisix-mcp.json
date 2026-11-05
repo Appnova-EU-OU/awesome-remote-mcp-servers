@@ -1,0 +1,16 @@
+{
+  "name": "apisix-mcp",
+  "description": "APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API.",
+  "git_url": "https://github.com/api7/apisix-mcp",
+  "author_github": "api7",
+  "category": "ai-agents",
+  "tags": [
+    "apimanagement",
+    "apisix",
+    "mcp",
+    "mcpserver",
+    "typescript"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
