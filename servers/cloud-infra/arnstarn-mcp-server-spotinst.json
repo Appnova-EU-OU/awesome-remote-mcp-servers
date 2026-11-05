@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-spotinst",
+  "description": "MCP server for Spot.io (Spotinst) API - Ocean clusters, VNGs, Elastigroups, costs, right-sizing across AWS and Azure",
+  "git_url": "https://github.com/arnstarn/mcp-server-spotinst",
+  "author_github": "arnstarn",
+  "category": "cloud-infra",
+  "tags": [
+    "spotinst",
+    "spot",
+    "api",
+    "ocean",
+    "clusters"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
