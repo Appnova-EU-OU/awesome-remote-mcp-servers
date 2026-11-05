@@ -1,0 +1,14 @@
+{
+  "name": "Claude-MCP-Read-Email-Attachments",
+  "description": "Local MCP server for Claude Desktop to read Outlook emails/bodies/attachments and send local files as attachments.",
+  "git_url": "https://github.com/Zacccck/Claude-MCP-Read-Email-Attachments",
+  "author_github": "Zacccck",
+  "category": "communication",
+  "tags": [
+    "claudemcp",
+    "claudemcpserver",
+    "mcpemailattachments"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
