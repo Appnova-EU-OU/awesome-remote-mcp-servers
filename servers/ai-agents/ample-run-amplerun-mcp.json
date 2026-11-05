@@ -1,0 +1,17 @@
+{
+  "name": "amplerun-mcp",
+  "description": "MCP server for AmpleRun: AI agents find, rent and pay for GPUs (USDC on Base, x402), register their own account, and host their owner's GPU.",
+  "git_url": "https://github.com/ample-run/amplerun-mcp",
+  "author_github": "ample-run",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "gpu",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://amplerun.com/docs/agents"
+}
