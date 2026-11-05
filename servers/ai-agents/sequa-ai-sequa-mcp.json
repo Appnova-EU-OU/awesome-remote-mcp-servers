@@ -1,0 +1,16 @@
+{
+  "name": "sequa-mcp",
+  "description": "Gives AI coding tools context from your entire codebase and docs via Sequa.",
+  "git_url": "https://github.com/sequa-ai/sequa-mcp",
+  "author_github": "sequa-ai",
+  "category": "ai-agents",
+  "tags": [
+    "sequa",
+    "gives",
+    "coding",
+    "tools",
+    "from"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
