@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-circleci",
+  "description": "[DEPRECATED] This package is no longer maintained. Migrate to CircleCI's hosted MCP server or the CircleCI CLI MCP. See https://circleci.com/docs/guides/toolkit/circleci-mcp-overview/",
+  "git_url": "https://github.com/CircleCI-Public/mcp-server-circleci",
+  "author_github": "CircleCI-Public",
+  "category": "ai-agents",
+  "tags": [
+    "mcpserver",
+    "modelcontextprotocol",
+    "circleci",
+    "deprecated",
+    "package"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
