@@ -1,0 +1,16 @@
+{
+  "name": "Ceph-AIops",
+  "description": "Governed Ceph mgr Dashboard ops: HEALTH_WARN RCA, OSD/PG/pool/RBD/CephFS/RGW, 35 MCP tools (preview)",
+  "git_url": "https://github.com/AIops-tools/Ceph-AIops",
+  "author_github": "AIops-tools",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "ceph",
+    "governance",
+    "infrastructure"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
