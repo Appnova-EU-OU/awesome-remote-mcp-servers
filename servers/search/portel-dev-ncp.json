@@ -1,0 +1,17 @@
+{
+  "name": "ncp",
+  "description": "Natural Context Provider (NCP). Your MCPs, supercharged. Find any tool instantly, load on demand, run on schedule, ready for any   client. Smart loading saves tokens and energy.",
+  "git_url": "https://github.com/portel-dev/ncp",
+  "author_github": "portel-dev",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "claude",
+    "claudedesktop",
+    "gemini",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://portel-dev.github.io/ncp/"
+}
