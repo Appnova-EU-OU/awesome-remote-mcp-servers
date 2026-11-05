@@ -1,0 +1,16 @@
+{
+  "name": "MastadoonPrime/sylex-search",
+  "description": "Universal search engine for AI agents. Discover products, services, and businesses across every category via MCP.",
+  "git_url": "https://github.com/MastadoonPrime/sylex-search",
+  "author_github": "MastadoonPrime",
+  "category": "search",
+  "tags": [
+    "mastadoonprime",
+    "sylex",
+    "search",
+    "universal",
+    "engine"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active"
+}
