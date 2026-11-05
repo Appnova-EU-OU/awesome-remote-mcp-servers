@@ -1,0 +1,16 @@
+{
+  "name": "DragonMCP",
+  "description": "DragonMCP is a Model Context Protocol (MCP) server designed for AI Agents to interact with local life services in Greater China (Mainland China, HKSAR) and Asia.  DragonMCP 是一个专为 AI Agent 设计的 Model Context Protocol (MCP) 服务器，旨在提供中国内地、中国香港及亚洲地区的本地生活服务接口。",
+  "git_url": "https://github.com/arthurpanhku/DragonMCP",
+  "author_github": "arthurpanhku",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "asia",
+    "greatchina",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
