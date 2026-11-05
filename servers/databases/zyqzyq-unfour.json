@@ -1,0 +1,17 @@
+{
+  "name": "Unfour",
+  "description": "Local-first backend troubleshooting workspace for tracing failures across API, SSH, and databases, with MCP-assisted runtime evidence.",
+  "git_url": "https://github.com/zyqzyq/Unfour",
+  "author_github": "zyqzyq",
+  "category": "databases",
+  "tags": [
+    "apiclient",
+    "localfirst",
+    "mcp",
+    "rust",
+    "ssh"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://unfour.dev"
+}
