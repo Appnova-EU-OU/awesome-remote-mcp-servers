@@ -1,0 +1,17 @@
+{
+  "name": "MCPEmails",
+  "description": "Hosted email MCP server for AI agents. Connect Gmail, Fastmail, iCloud, or IMAP to Claude, ChatGPT, Cursor, and any MCP client.",
+  "git_url": "https://github.com/Albretsen/MCPEmails",
+  "author_github": "Albretsen",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "claude",
+    "email",
+    "gmail",
+    "imap"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://mcpemails.com"
+}
