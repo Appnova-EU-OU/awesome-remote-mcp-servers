@@ -1,0 +1,17 @@
+{
+  "name": "etincel",
+  "description": "Find the AI tells in your prose. Deterministic, local, runs in CI. MCP server + CLI + Action.",
+  "git_url": "https://github.com/AIStoryHub/etincel",
+  "author_github": "AIStoryHub",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aitells",
+    "aitools",
+    "aiwriting",
+    "aiwritingdetection"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://etincel.ai"
+}
