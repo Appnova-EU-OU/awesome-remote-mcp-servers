@@ -1,0 +1,17 @@
+{
+  "name": "caldav-mcp",
+  "description": "MCP server for CalDAV calendars: events, tasks and journals over the open standard",
+  "git_url": "https://github.com/ni-c/caldav-mcp",
+  "author_github": "ni-c",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "caldav",
+    "calendar",
+    "icalendar",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://caldav-mcp.ni-c.de"
+}
