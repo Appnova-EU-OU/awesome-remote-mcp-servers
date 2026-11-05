@@ -1,0 +1,16 @@
+{
+  "name": "mcp-browser-kit",
+  "description": "An MCP Server that enables AI assistants to interact with your local browsers.",
+  "git_url": "https://github.com/ndthanhdev/mcp-browser-kit",
+  "author_github": "ndthanhdev",
+  "category": "ai-agents",
+  "tags": [
+    "browser",
+    "kit",
+    "enables",
+    "assistants",
+    "interact"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
