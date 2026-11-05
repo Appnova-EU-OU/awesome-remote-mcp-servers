@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "Official MCP server for M00N Report: let an AI assistant author test cases, plan manual executions, cut releases and read project health over 50+ tools.",
+  "git_url": "https://github.com/m00nreport/mcp-server",
+  "author_github": "m00nreport",
+  "category": "security",
+  "tags": [
+    "ai",
+    "claude",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://m00nreport.com/documentation/mcp/quick-start"
+}
