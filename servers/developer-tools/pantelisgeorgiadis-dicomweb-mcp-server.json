@@ -1,0 +1,14 @@
+{
+  "name": "PantelisGeorgiadis/dicomweb-mcp-server",
+  "description": "DICOMweb Model Context Protocol (MCP) server implementation",
+  "git_url": "https://github.com/PantelisGeorgiadis/dicomweb-mcp-server",
+  "author_github": "PantelisGeorgiadis",
+  "category": "developer-tools",
+  "tags": [
+    "dicom",
+    "dicomweb",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
