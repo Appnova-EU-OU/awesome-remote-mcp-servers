@@ -1,0 +1,17 @@
+{
+  "name": "elicitly",
+  "description": "Elicitly Free Edition — human-in-the-loop for prompts and Agent Skills over MCP elicitation. Local MCP server (npx -y elicitly) + embeddable toolkit (@elicitly/tools).",
+  "git_url": "https://github.com/elicitly/elicitly",
+  "author_github": "elicitly",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "elicitation",
+    "humanintheloop",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.elicitly.ai"
+}
