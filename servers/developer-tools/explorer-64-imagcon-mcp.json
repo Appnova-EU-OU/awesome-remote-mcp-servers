@@ -1,0 +1,16 @@
+{
+  "name": "imagcon-mcp",
+  "description": "MCP server for Imagcon — generate deployment-ready PWA, iOS, and Android app icon sets from a text description",
+  "git_url": "https://github.com/Explorer-64/imagcon-mcp",
+  "author_github": "Explorer-64",
+  "category": "developer-tools",
+  "tags": [
+    "imagcon",
+    "generate",
+    "deployment",
+    "ready",
+    "pwa"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
