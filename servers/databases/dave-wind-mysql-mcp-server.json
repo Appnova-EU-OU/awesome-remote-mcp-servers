@@ -1,0 +1,13 @@
+{
+  "name": "mysql-mcp-server",
+  "description": "mcp model-context-protocol mysql cursor n8n",
+  "git_url": "https://github.com/dave-wind/mysql-mcp-server",
+  "author_github": "dave-wind",
+  "category": "databases",
+  "tags": [
+    "mysql",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
