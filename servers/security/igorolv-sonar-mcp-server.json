@@ -1,0 +1,16 @@
+{
+  "name": "sonar-mcp-server",
+  "description": "Read-only MCP server for self-hosted SonarQube Community Build 26.4+: lets AI agents (Claude Code, Cursor, Copilot) read issues, security hotspots, rules and code snippets to fix findings locally",
+  "git_url": "https://github.com/igorolv/sonar-mcp-server",
+  "author_github": "igorolv",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codequality",
+    "cursor",
+    "java"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
