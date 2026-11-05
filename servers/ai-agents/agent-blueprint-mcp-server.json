@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server",
+  "description": "MCP server for Agent Blueprint — connect AI agents to your blueprints, business cases, and implementation plans",
+  "git_url": "https://github.com/agent-blueprint/mcp-server",
+  "author_github": "agent-blueprint",
+  "category": "ai-agents",
+  "tags": [
+    "agentblueprint",
+    "agentskills",
+    "ai",
+    "cli",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agentblueprint.ai/developers"
+}
