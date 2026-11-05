@@ -1,0 +1,16 @@
+{
+  "name": "git-context-mcp",
+  "description": "MCP server that answers why code exists - git blame, PR descriptions, and linked issues",
+  "git_url": "https://github.com/muhannad-hash/git-context-mcp",
+  "author_github": "muhannad-hash",
+  "category": "developer-tools",
+  "tags": [
+    "git",
+    "answers",
+    "why",
+    "code",
+    "exists"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
