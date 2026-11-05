@@ -1,0 +1,16 @@
+{
+  "name": "multi_mcp",
+  "description": "Multi-Model chat, code review and analysis MCP Server for Claude Code",
+  "git_url": "https://github.com/religa/multi_mcp",
+  "author_github": "religa",
+  "category": "communication",
+  "tags": [
+    "agents",
+    "ai",
+    "aiagents",
+    "aiagentscli",
+    "aicodereview"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
