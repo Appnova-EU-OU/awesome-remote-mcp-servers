@@ -1,0 +1,16 @@
+{
+  "name": "snaprender-integrations",
+  "description": "Official integrations for SnapRender Screenshot API — MCP server, SDKs, OpenClaw, ChatGPT Actions, Postman",
+  "git_url": "https://github.com/User0856/snaprender-integrations",
+  "author_github": "User0856",
+  "category": "communication",
+  "tags": [
+    "aiagent",
+    "autogen",
+    "autogenextension",
+    "crewai",
+    "crewaitool"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
