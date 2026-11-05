@@ -1,0 +1,16 @@
+{
+  "name": "postgres-mcp-hardened",
+  "description": "Secure read-only PostgreSQL MCP server in Rust — a hardened alternative to the deprecated @modelcontextprotocol/server-postgres.",
+  "git_url": "https://github.com/Eszetael/postgres-mcp-hardened",
+  "author_github": "Eszetael",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "auditlog",
+    "claude",
+    "cursor",
+    "database"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
