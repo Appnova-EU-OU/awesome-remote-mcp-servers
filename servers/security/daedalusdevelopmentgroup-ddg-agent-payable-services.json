@@ -1,0 +1,16 @@
+{
+  "name": "ddg-agent-payable-services",
+  "description": "Pay-per-call x402 gateway for AI agents — MCP server + OpenAI-compatible API for agent tools, market data, RPC, and MCP security audits. Pay in USDC on Base, no account.",
+  "git_url": "https://github.com/daedalusdevelopmentgroup/ddg-agent-payable-services",
+  "author_github": "daedalusdevelopmentgroup",
+  "category": "security",
+  "tags": [
+    "agentcommerce",
+    "agentpayments",
+    "aiagents",
+    "base",
+    "llmgateway"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
