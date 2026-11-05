@@ -1,0 +1,17 @@
+{
+  "name": "hono-telescope",
+  "description": "Laravel Telescope-style debugging for Hono — plus an MCP server so your AI agent can read the app's live requests, exceptions and queries",
+  "git_url": "https://github.com/jubstaaa/hono-telescope",
+  "author_github": "jubstaaa",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "bun",
+    "debugging",
+    "hono",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://hono-telescope.ilkerbalcilar.com/telescope"
+}
