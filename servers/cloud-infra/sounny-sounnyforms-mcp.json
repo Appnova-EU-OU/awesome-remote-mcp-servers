@@ -1,0 +1,17 @@
+{
+  "name": "sounnyforms-mcp",
+  "description": "Official Model Context Protocol (MCP) Server for SounnyForms — Zero-API-Key Form Processing, Lead Triage & Code Generation for AI Agents",
+  "git_url": "https://github.com/sounny/sounnyforms-mcp",
+  "author_github": "sounny",
+  "category": "cloud-infra",
+  "tags": [
+    "antigravity",
+    "claudedesktop",
+    "contactform",
+    "cursor",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://forms.sounny.com"
+}
