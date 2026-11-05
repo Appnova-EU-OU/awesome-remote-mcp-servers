@@ -1,0 +1,16 @@
+{
+  "name": "munim",
+  "description": "A multi-account MCP server for people who look after other people's infrastructure. Built with the Strands Agents SDK.",
+  "git_url": "https://github.com/vishalsg42/munim",
+  "author_github": "vishalsg42",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "aws",
+    "mcp",
+    "multiaccount",
+    "oauth"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
