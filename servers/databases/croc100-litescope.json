@@ -1,0 +1,17 @@
+{
+  "name": "Litescope",
+  "description": "The operations toolchain for production SQLite — diff, migrate, monitor, and run staged migrations across an entire fleet of Turso & Cloudflare D1 databases.",
+  "git_url": "https://github.com/croc100/Litescope",
+  "author_github": "croc100",
+  "category": "databases",
+  "tags": [
+    "cli",
+    "cloudflared1",
+    "database",
+    "databasemigration",
+    "databasetools"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://litescope.crode.net"
+}
