@@ -1,0 +1,17 @@
+{
+  "name": "releases",
+  "description": "Download mirror for the Proofpane MCP daemon. Source stays in the private codebase; this exists so browsers (Chrome Safe Browsing, Edge SmartScreen) trust the download.",
+  "git_url": "https://github.com/Proofpane/releases",
+  "author_github": "Proofpane",
+  "category": "developer-tools",
+  "tags": [
+    "releases",
+    "download",
+    "mirror",
+    "proofpane",
+    "daemon"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://proofpane.com/install"
+}
