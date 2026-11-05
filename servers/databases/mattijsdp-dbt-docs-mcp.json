@@ -1,0 +1,14 @@
+{
+  "name": "dbt-docs-mcp",
+  "description": "MCP (model context protocol) server for interacting with dbt Docs",
+  "git_url": "https://github.com/mattijsdp/dbt-docs-mcp",
+  "author_github": "mattijsdp",
+  "category": "databases",
+  "tags": [
+    "dbt",
+    "docs",
+    "interacting"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
