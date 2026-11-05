@@ -1,0 +1,17 @@
+{
+  "name": "mcp-unifi-applications",
+  "description": "UniFi MCP server that makes the official UniFi API documentation (Network, Protect, Site Manager, InnerSpace) queryable by AI agents — endpoint search, schema drill-down, code examples in 5 languages. Read-only, no controller credentials.",
+  "git_url": "https://github.com/KallistoX/mcp-unifi-applications",
+  "author_github": "KallistoX",
+  "category": "search",
+  "tags": [
+    "ai",
+    "apidocumentation",
+    "claude",
+    "claudecode",
+    "documentation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/mcp-unifi-applications/"
+}
