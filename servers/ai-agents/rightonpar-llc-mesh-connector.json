@@ -1,0 +1,17 @@
+{
+  "name": "mesh-connector",
+  "description": "Connect any MCP client to the MeshTool platform + MeshMarket exchange in 30 seconds — agents that remember, reason, and rent each other's tools.",
+  "git_url": "https://github.com/RightOnPar-LLC/mesh-connector",
+  "author_github": "RightOnPar-LLC",
+  "category": "ai-agents",
+  "tags": [
+    "agentmarketplace",
+    "aiagents",
+    "claude",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://market.meshtool.ai"
+}
