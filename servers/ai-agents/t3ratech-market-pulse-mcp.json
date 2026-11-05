@@ -1,0 +1,17 @@
+{
+  "name": "market-pulse-mcp",
+  "description": "MCP server for T3rnel Market Pulse: evidence-graded agent-work lanes, should-I-bid advice, live agent jobs, hash-chained evidence ledger. Free without a key.",
+  "git_url": "https://github.com/t3ratech/market-pulse-mcp",
+  "author_github": "t3ratech",
+  "category": "ai-agents",
+  "tags": [
+    "agentjobs",
+    "aiagents",
+    "bounties",
+    "claudecode",
+    "claudeskill"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://market-pulse.t3ratech.co.zw"
+}
