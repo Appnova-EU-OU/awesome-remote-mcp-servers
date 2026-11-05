@@ -1,0 +1,16 @@
+{
+  "name": "metmuseum-mcp",
+  "description": "Met Museum MCP integration to discover the art collection at The Metropolitan Museum of Art in New York",
+  "git_url": "https://github.com/mikechao/metmuseum-mcp",
+  "author_github": "mikechao",
+  "category": "developer-tools",
+  "tags": [
+    "art",
+    "mcpapp",
+    "mcpapps",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
