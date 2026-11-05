@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server-vibes-coded",
+  "description": "26-tool MCP server for agent security, scanner consensus, x402 reliability, and Vibes-Coded's 344-resource commerce catalog.",
+  "git_url": "https://github.com/doteyeso-ops/mcp-server-vibes-coded",
+  "author_github": "doteyeso-ops",
+  "category": "security",
+  "tags": [
+    "agentsecurity",
+    "agentskills",
+    "aiagents",
+    "fastmcp",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://vibes-coded-mcp-production.up.railway.app"
+}
