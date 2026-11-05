@@ -1,0 +1,18 @@
+{
+  "name": "YG3 Marketing MCP",
+  "description": "Marketing operations MCP with 200+ tools for content, SEO, outbound, LinkedIn, and paid ads. Agents provision a sandbox workspace with one POST (no signup); humans connect via OAuth.",
+  "git_url": "https://github.com/YG3-ai/yg3-mcp",
+  "author_github": "YG3-ai",
+  "category": "productivity",
+  "tags": ["marketing", "seo", "content", "mcp", "remote", "agent-provisioning"],
+  "homepage": "https://www.yg3.ai/for-agents",
+  "license": "MIT",
+  "status": "active",
+  "env_keys": [
+    {
+      "key": "Authorization",
+      "kind": "client",
+      "description": "Bearer workspace token from POST https://agency.yg3.ai/api/v1/workspaces, or OAuth session for humans."
+    }
+  ]
+}
