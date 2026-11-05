@@ -1,0 +1,17 @@
+{
+  "name": "preflight",
+  "description": "✈️ 24-tool MCP server for Claude Code: preflight checks for your prompts, cross-service context, session history search with LanceDB vectors, correction pattern learning, cost estimation",
+  "git_url": "https://github.com/preflight-dev/preflight",
+  "author_github": "preflight-dev",
+  "category": "databases",
+  "tags": [
+    "aicoding",
+    "aitools",
+    "anthropic",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/preflight-dev"
+}
