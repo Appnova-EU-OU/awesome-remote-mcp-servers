@@ -1,0 +1,17 @@
+{
+  "name": "mysql-legacy-mcp",
+  "description": "MCP server for legacy MySQL 5.0–5.6: schema inspection and SELECT by default, with opt-in INSERT/UPDATE/DELETE/DDL. Live-verified against MySQL 5.0–8.0.",
+  "git_url": "https://github.com/Rufflet/mysql-legacy-mcp",
+  "author_github": "Rufflet",
+  "category": "databases",
+  "tags": [
+    "claude",
+    "databasemigration",
+    "legacydatabase",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/mysql-legacy-mcp"
+}
