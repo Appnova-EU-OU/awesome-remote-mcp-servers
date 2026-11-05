@@ -1,0 +1,16 @@
+{
+  "name": "mcp-openshift",
+  "description": "Safe-by-default MCP server for OpenShift / Kubernetes — projects, pods, logs, deployments, routes and more, with username/password (local IdP) or token auth.",
+  "git_url": "https://github.com/dockndevai/mcp-openshift",
+  "author_github": "dockndevai",
+  "category": "cloud-infra",
+  "tags": [
+    "ai",
+    "devops",
+    "k8s",
+    "kubernetes",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
