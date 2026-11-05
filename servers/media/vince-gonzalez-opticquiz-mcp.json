@@ -1,0 +1,16 @@
+{
+  "name": "opticquiz-mcp",
+  "description": "Two MCP servers for color-vision accessibility: check whether a palette or image is colorblind-safe, and see it recolored as protan/deutan/tritan. Machado 2009 + CIEDE2000, published method. Local stdio.",
+  "git_url": "https://github.com/vince-gonzalez/opticquiz-mcp",
+  "author_github": "vince-gonzalez",
+  "category": "media",
+  "tags": [
+    "a11y",
+    "accessibility",
+    "claude",
+    "colorvision",
+    "colorblind"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
