@@ -1,0 +1,16 @@
+{
+  "name": "stacksfinder-mcp",
+  "description": "MCP server for StacksFinder - deterministic tech stack recommendations for LLM clients",
+  "git_url": "https://github.com/hoklims/stacksfinder-mcp",
+  "author_github": "hoklims",
+  "category": "ai-agents",
+  "tags": [
+    "developertools",
+    "mcp",
+    "modelcontextprotocol",
+    "softwarearchitecture",
+    "techstack"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
