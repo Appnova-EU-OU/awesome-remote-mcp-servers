@@ -1,0 +1,17 @@
+{
+  "name": "dev-error-explainers",
+  "description": "Paste a developer error, get the real cause and the fix. Offline, zero-dependency explainers for CORS, ESM/CJS, npm ERESOLVE, ChunkLoadError, Postgres/Supabase DATABASE_URL and Next.js build errors.",
+  "git_url": "https://github.com/mahdibrr/dev-error-explainers",
+  "author_github": "mahdibrr",
+  "category": "databases",
+  "tags": [
+    "chunkloaderror",
+    "cli",
+    "commonjs",
+    "cors",
+    "debugging"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.iloveblogs.blog/tools"
+}
