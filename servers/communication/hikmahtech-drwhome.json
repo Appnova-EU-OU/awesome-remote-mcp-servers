@@ -1,0 +1,17 @@
+{
+  "name": "drwhome",
+  "description": "drwho.me: free DNS, email, TLS and developer tools, and a free MCP server for AI agents",
+  "git_url": "https://github.com/hikmahtech/drwhome",
+  "author_github": "hikmahtech",
+  "category": "communication",
+  "tags": [
+    "developertools",
+    "dmarc",
+    "dns",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://drwho.me"
+}
