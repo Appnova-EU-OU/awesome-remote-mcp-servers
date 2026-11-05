@@ -1,0 +1,17 @@
+{
+  "name": "repopilot",
+  "description": "Local, deterministic review of Git changes: weakened tests and CI gates, security boundaries, blast radius. CLI, GitHub Action, MCP server, and coding-agent plugins.",
+  "git_url": "https://github.com/MykytaStel/repopilot",
+  "author_github": "MykytaStel",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "claudecodeplugin",
+    "cli",
+    "codereview"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/MykytaStel/repopilot#readme"
+}
