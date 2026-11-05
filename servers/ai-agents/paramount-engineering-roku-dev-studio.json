@@ -1,0 +1,17 @@
+{
+  "name": "roku-dev-studio",
+  "description": "Cross-platform Electron desktop studio for Roku developers: remote control, device queries, sideload, telnet console, RALE/App Connector, BrightScript Fiddle, JSON Action Scripts, an `rds` CLI, an MCP server for AI agents, and an internet relay.",
+  "git_url": "https://github.com/paramount-engineering/roku-dev-studio",
+  "author_github": "paramount-engineering",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "brightscript",
+    "developertools",
+    "ecp",
+    "electron"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://paramount-engineering.github.io/roku-dev-studio/"
+}
