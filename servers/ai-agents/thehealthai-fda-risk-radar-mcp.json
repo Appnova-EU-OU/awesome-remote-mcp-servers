@@ -1,0 +1,16 @@
+{
+  "name": "fda-risk-radar-mcp",
+  "description": "Constat — FDA & NHTSA regulatory-risk MCP server for AI agents. 14 tools: recalls, adverse events, warning letters, 483s, 510(k) predicate chains, reimbursement, vehicle safety. com.healthai/radar on the official MCP registry. Hosted at constat.dev/api/mcp.",
+  "git_url": "https://github.com/thehealthai/fda-risk-radar-mcp",
+  "author_github": "thehealthai",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "fda",
+    "healthcare",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
