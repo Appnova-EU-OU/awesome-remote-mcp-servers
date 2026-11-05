@@ -1,0 +1,16 @@
+{
+  "name": "mcp-tmux",
+  "description": "A comprehensive, universal MCP server for driving tmux (local and over SSH).",
+  "git_url": "https://github.com/laszlopere/mcp-tmux",
+  "author_github": "laszlopere",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claude",
+    "devtools",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
