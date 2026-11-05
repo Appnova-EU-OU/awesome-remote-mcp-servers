@@ -1,0 +1,16 @@
+{
+  "name": "mcp-google-chat",
+  "description": "MCP server for the Google Chat API — list and search spaces, read and send messages, work with threads, reactions, attachments and memberships. For Claude, Cursor, Codex and other AI clients.",
+  "git_url": "https://github.com/A1-x-Tech/mcp-google-chat",
+  "author_github": "A1-x-Tech",
+  "category": "search",
+  "tags": [
+    "google",
+    "chat",
+    "api",
+    "list",
+    "search"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
