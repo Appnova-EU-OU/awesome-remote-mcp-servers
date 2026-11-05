@@ -1,0 +1,16 @@
+{
+  "name": "RestCsvMcpServer",
+  "description": "MCP Server for RestCSV, Generated using MCPGen",
+  "git_url": "https://github.com/JordanDalton/RestCsvMcpServer",
+  "author_github": "JordanDalton",
+  "category": "databases",
+  "tags": [
+    "restcsvmcpserver",
+    "restcsv",
+    "generated",
+    "using",
+    "mcpgen"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
