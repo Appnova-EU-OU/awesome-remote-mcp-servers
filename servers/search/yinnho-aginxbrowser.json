@@ -1,0 +1,17 @@
+{
+  "name": "aginxbrowser",
+  "description": "The browser built for AI agents — fetch live pages as markdown, render JS/SPAs with built-in V8, take screenshots without Chromium, meta-search 5 engines, and drive interactive login sessions. One Rust binary, stealth TLS fingerprints, MCP native for Claude Code & Cursor. Headless browser alternative to Puppeteer/Playwright.",
+  "git_url": "https://github.com/yinnho/aginxbrowser",
+  "author_github": "yinnho",
+  "category": "search",
+  "tags": [
+    "agentbrowser",
+    "aiagents",
+    "antidetect",
+    "antibot",
+    "browserautomation"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://browser.aginx.net"
+}
