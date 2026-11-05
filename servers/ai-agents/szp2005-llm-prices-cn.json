@@ -1,0 +1,16 @@
+{
+  "name": "llm-prices-cn",
+  "description": "Daily-verified LLM API pricing dataset (44+ models, CN & global) with a hosted MCP server for live price queries and token cost estimation.",
+  "git_url": "https://github.com/szp2005/llm-prices-cn",
+  "author_github": "szp2005",
+  "category": "ai-agents",
+  "tags": [
+    "llm",
+    "prices",
+    "daily",
+    "verified",
+    "api"
+  ],
+  "license": "CC-BY-4.0",
+  "status": "active"
+}
