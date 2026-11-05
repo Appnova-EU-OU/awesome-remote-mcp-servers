@@ -1,0 +1,14 @@
+{
+  "name": "fmsg-mcp",
+  "description": "MCP server for fmsg: send and receive federated messages from any AI agent via a deployed fmsg Web API",
+  "git_url": "https://github.com/markmnl/fmsg-mcp",
+  "author_github": "markmnl",
+  "category": "ai-agents",
+  "tags": [
+    "fmsg",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
