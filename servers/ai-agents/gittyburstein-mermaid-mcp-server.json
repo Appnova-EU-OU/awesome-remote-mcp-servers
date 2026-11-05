@@ -1,0 +1,16 @@
+{
+  "name": "mermaid-mcp-server",
+  "description": "MCP server for generating Mermaid diagrams from projects (local/GitHub) and rendering via Kroki.",
+  "git_url": "https://github.com/GittyBurstein/mermaid-mcp-server",
+  "author_github": "GittyBurstein",
+  "category": "ai-agents",
+  "tags": [
+    "mermaid",
+    "generating",
+    "diagrams",
+    "from",
+    "projects"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
