@@ -1,0 +1,14 @@
+{
+  "name": "pantheon-mcp",
+  "description": "A collection of AI agents",
+  "git_url": "https://github.com/valado/pantheon-mcp",
+  "author_github": "valado",
+  "category": "ai-agents",
+  "tags": [
+    "pantheon",
+    "collection",
+    "agents"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
