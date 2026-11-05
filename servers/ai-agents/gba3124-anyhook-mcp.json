@@ -1,0 +1,17 @@
+{
+  "name": "anyhook-mcp",
+  "description": "MCP server + signature verification for AnyHook, the webhook relay with a keyless quickstart (npx -y anyhook-mcp)",
+  "git_url": "https://github.com/gba3124/anyhook-mcp",
+  "author_github": "gba3124",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "developertools",
+    "githubwebhooks",
+    "hmac"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://anyhook.net"
+}
