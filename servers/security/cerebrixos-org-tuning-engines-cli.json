@@ -1,0 +1,16 @@
+{
+  "name": "tuning-engines-cli",
+  "description": "CLI & MCP server for Tuning Engines — fine-tune LLMs on code repositories",
+  "git_url": "https://github.com/cerebrixos-org/tuning-engines-cli",
+  "author_github": "cerebrixos-org",
+  "category": "security",
+  "tags": [
+    "ai",
+    "cli",
+    "dshplugin",
+    "finetuning",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
