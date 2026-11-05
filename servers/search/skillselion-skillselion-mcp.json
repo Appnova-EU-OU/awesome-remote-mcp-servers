@@ -1,0 +1,17 @@
+{
+  "name": "skillselion-mcp",
+  "description": "MCP server to search Skillselion's curated directory of Claude Code skills, MCP servers & plugin marketplaces, ranked by installs and GitHub stars.",
+  "git_url": "https://github.com/skillselion/skillselion-mcp",
+  "author_github": "skillselion",
+  "category": "search",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "aitools",
+    "anthropic",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://skillselion.com"
+}
