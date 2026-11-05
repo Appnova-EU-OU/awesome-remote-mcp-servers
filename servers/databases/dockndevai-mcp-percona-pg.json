@@ -1,0 +1,17 @@
+{
+  "name": "mcp-percona-pg",
+  "description": "MCP server for the Percona Operator for PostgreSQL — manage PostgreSQL + PgBouncer, pooling, backups/PITR, and DR with safe-by-default security flags.",
+  "git_url": "https://github.com/dockndevai/mcp-percona-pg",
+  "author_github": "dockndevai",
+  "category": "databases",
+  "tags": [
+    "devops",
+    "kubernetes",
+    "mcp",
+    "modelcontextprotocol",
+    "percona"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dockndevai.github.io/"
+}
