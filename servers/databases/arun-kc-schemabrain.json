@@ -1,0 +1,17 @@
+{
+  "name": "schemabrain",
+  "description": "The trust and intelligence layer between AI agents and your database. Read-only by architecture, semantic knowledge graph + audit log, MCP-native.",
+  "git_url": "https://github.com/Arun-kc/schemabrain",
+  "author_github": "Arun-kc",
+  "category": "databases",
+  "tags": [
+    "agenttools",
+    "agenttrust",
+    "agenticai",
+    "aiagents",
+    "aisecurity"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.schemabrain.dev"
+}
