@@ -1,0 +1,17 @@
+{
+  "name": "depwire",
+  "description": "The missing context layer for AI-assisted refactoring",
+  "git_url": "https://github.com/depwire/depwire",
+  "author_github": "depwire",
+  "category": "security",
+  "tags": [
+    "aicodingassistant",
+    "arcdiagram",
+    "cli",
+    "codeanalysis",
+    "deadcode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://depwire.dev/"
+}
