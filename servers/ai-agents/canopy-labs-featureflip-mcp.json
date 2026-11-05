@@ -1,0 +1,17 @@
+{
+  "name": "featureflip-mcp",
+  "description": "MCP server for Featureflip — manage feature flags from AI agents and editors (read-only mirror)",
+  "git_url": "https://github.com/canopy-labs/featureflip-mcp",
+  "author_github": "canopy-labs",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cursor",
+    "featureflags",
+    "featuremanagement"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://featureflip.io/docs/integrations/mcp/"
+}
