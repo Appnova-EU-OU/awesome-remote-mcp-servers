@@ -1,0 +1,14 @@
+{
+  "name": "aiskillstore",
+  "description": "Agent-first skill marketplace with USK open standard \u2014 MCP server for AI agent skill discovery",
+  "git_url": "https://github.com/garasegae/aiskillstore",
+  "author_github": "garasegae",
+  "category": "security",
+  "tags": [
+    "agent",
+    "skill",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
