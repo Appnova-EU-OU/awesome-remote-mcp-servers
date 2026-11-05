@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-npm-plus",
+  "description": "MCP server for npm - search, bundle sizes, vulnerabilities, download trends, dependency trees",
+  "git_url": "https://github.com/ofershap/mcp-server-npm-plus",
+  "author_github": "ofershap",
+  "category": "search",
+  "tags": [
+    "ai",
+    "bundlesize",
+    "claude",
+    "cursor",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
