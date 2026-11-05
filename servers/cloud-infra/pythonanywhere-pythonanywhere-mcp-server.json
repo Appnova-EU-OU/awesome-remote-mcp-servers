@@ -1,0 +1,15 @@
+{
+  "name": "pythonanywhere-mcp-server",
+  "description": "MCP server implementation for PythonAnywhere cloud platform.",
+  "git_url": "https://github.com/pythonanywhere/pythonanywhere-mcp-server",
+  "author_github": "pythonanywhere",
+  "category": "cloud-infra",
+  "tags": [
+    "pythonanywhere",
+    "implementation",
+    "cloud",
+    "platform"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
