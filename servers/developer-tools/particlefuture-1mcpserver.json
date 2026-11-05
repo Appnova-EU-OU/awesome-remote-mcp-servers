@@ -1,0 +1,16 @@
+{
+  "name": "1mcpserver",
+  "description": "MCP of MCPs. Automatic discovery and configure MCP servers on your local machine.",
+  "git_url": "https://github.com/particlefuture/1mcpserver",
+  "author_github": "particlefuture",
+  "category": "developer-tools",
+  "tags": [
+    "mcpserver",
+    "mcps",
+    "automatic",
+    "discovery",
+    "configure"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
