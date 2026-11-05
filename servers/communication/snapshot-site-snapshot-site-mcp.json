@@ -1,0 +1,17 @@
+{
+  "name": "snapshot-site-mcp",
+  "description": "Let Claude, ChatGPT, and other MCP clients capture, compare, and analyze any web page — hosted with OAuth, or local over stdio.",
+  "git_url": "https://github.com/snapshot-site/snapshot-site-mcp",
+  "author_github": "snapshot-site",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "claude",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://snapshot-site.com/mcp-server"
+}
