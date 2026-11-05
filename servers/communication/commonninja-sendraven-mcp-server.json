@@ -1,0 +1,17 @@
+{
+  "name": "sendraven-mcp-server",
+  "description": "SendRaven is email infrastructure for AI agents. Send, read replies as threads, run campaigns and automations, with limits on the API key.",
+  "git_url": "https://github.com/CommonNinja/sendraven-mcp-server",
+  "author_github": "CommonNinja",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "email",
+    "emailapi",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sendraven.ai"
+}
