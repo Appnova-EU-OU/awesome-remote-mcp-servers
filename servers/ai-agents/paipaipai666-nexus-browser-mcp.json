@@ -1,0 +1,17 @@
+{
+  "name": "nexus-browser-mcp",
+  "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / 事件驱动确定性快照的浏览器操控 MCP 服务器",
+  "git_url": "https://github.com/paipaipai666/nexus-browser-mcp",
+  "author_github": "paipaipai666",
+  "category": "ai-agents",
+  "tags": [
+    "accessibilitytree",
+    "agent",
+    "aiagent",
+    "browser",
+    "browserautomation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/nexus-browser-mcp/"
+}
