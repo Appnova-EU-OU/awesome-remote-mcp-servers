@@ -1,0 +1,16 @@
+{
+  "name": "networklytics-mcp",
+  "description": "YouTube comment social network analysis (SNA): influencer centrality ranking, community detection (Louvain), sentiment analysis, and public JSON API for AI agents",
+  "git_url": "https://github.com/Leekangbum/networklytics-mcp",
+  "author_github": "Leekangbum",
+  "category": "media",
+  "tags": [
+    "networklytics",
+    "youtube",
+    "comment",
+    "social",
+    "network"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
