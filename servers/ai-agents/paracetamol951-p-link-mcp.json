@@ -1,0 +1,17 @@
+{
+  "name": "P-Link-MCP",
+  "description": "x402 client implementation (x402-fetch), HTTP 402 server implementation and Model Context Protocol (MCP) for P-Link.io : pay, send and receive money with agents",
+  "git_url": "https://github.com/paracetamol951/P-Link-MCP",
+  "author_github": "paracetamol951",
+  "category": "ai-agents",
+  "tags": [
+    "402",
+    "api",
+    "mcp",
+    "modelcontextprotocol",
+    "payment"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://p-link.io"
+}
