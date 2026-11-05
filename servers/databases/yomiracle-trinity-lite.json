@@ -1,0 +1,17 @@
+{
+  "name": "trinity-lite",
+  "description": "Local AgentOps for cross-vendor CLI coding agents: route work, recover state, and accept only with evidence.",
+  "git_url": "https://github.com/Yomiracle/trinity-lite",
+  "author_github": "Yomiracle",
+  "category": "databases",
+  "tags": [
+    "agentorchestration",
+    "agentops",
+    "aiagent",
+    "aicoding",
+    "aitools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://yomiracle.github.io/trinity-lite/"
+}
