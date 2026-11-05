@@ -1,0 +1,17 @@
+{
+  "name": "proton-safe-mcp",
+  "description": "Draft-only Proton Mail MCP server with attachment support and out-of-band human approval.",
+  "git_url": "https://github.com/fbossiere/proton-safe-mcp",
+  "author_github": "fbossiere",
+  "category": "communication",
+  "tags": [
+    "email",
+    "fastmcp",
+    "humanintheloop",
+    "imap",
+    "linux"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://fbossiere.github.io/proton-safe-mcp/"
+}
