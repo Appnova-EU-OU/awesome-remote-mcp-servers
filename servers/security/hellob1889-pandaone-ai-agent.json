@@ -1,0 +1,17 @@
+{
+  "name": "Pandaone-AI-Agent",
+  "description": "Pandaone Guard — Free open-source MCP server for AI code audit. L1-L6 defense (file lock + audit log + pre-commit hooks) for Claude/Cursor/Trae. Local stdio, no API key, MIT.",
+  "git_url": "https://github.com/hellob1889/Pandaone-AI-Agent",
+  "author_github": "hellob1889",
+  "category": "security",
+  "tags": [
+    "aiagent",
+    "aisafety",
+    "claude",
+    "clitool",
+    "codeaudit"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://hellob1889.github.io/Pandaone-AI-Agent/"
+}
