@@ -1,0 +1,16 @@
+{
+  "name": "ntfy-mcp",
+  "description": "The MCP server that keeps you informed by sending the notification on phone using ntfy",
+  "git_url": "https://github.com/teddyzxcv/ntfy-mcp",
+  "author_github": "teddyzxcv",
+  "category": "developer-tools",
+  "tags": [
+    "ntfy",
+    "keeps",
+    "you",
+    "informed",
+    "sending"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
