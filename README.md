@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [otakit](https://freemcp.space/featured/otakit) — Push updates directly to your Capacitor app without app store reviews.
+- [mcp-architect](https://freemcp.space/featured/mcp-architect) — Give any AI assistant real architectural understanding of a codebase — local, private, zero-config MCP serve
+- [Unfour](https://freemcp.space/featured/unfour) — Local-first backend troubleshooting workspace for tracing failures across API, SSH, and databases, with MCP-assisted runtime evidence.
+- [qa-probe](https://freemcp.space/featured/qa-probe) — Local QA agent — maps frontend routes to backend APIs, probes every endpoint live, scores pages 0–100, and explains why data is missing. Built for LightShield SIEM. Works with any FastAPI / Express / Next.js app.
+- [amendor-mcp](https://freemcp.space/featured/amendor-mcp) — Connect your coding agent to Amendor. Pulls change requests into your agent so it builds them and opens PRs.
+- [codemagic-mcp](https://freemcp.space/featured/codemagic-mcp) — Build, sign, and publish iOS & Android apps through AI agents — Codemagic CI/CD + App Store Connect + Google Play
+- [mcp-laya](https://freemcp.space/featured/mcp-laya) — Fast, local, non-autoregressive System-1 decision engine as MCP tools — typed decisions (classify / score / yes-no) over text, email, tickets or JSON in 100+ languages, with calibrated confidence and no text generation, so nothing to hallucinate. Offloads routing/triage/gating judgment calls from the main model; runs on-device, offline by default. `pipx install mcp-laya`
+- [proxykit-mcp](https://freemcp.space/featured/proxykit-mcp) — MCP server for ProxyKit — drive a local HTTP(S) debugging proxy from Claude, Cursor, and any MCP host.
 - [postman-mcp-server](https://freemcp.space/featured/postman-mcp-server) — An MCP server that provides access to Postman.
 - [yandex-lavka-mcp](https://freemcp.space/featured/yandex-lavka-mcp) — Unofficial MCP server for ordering Yandex Lavka groceries from an AI assistant (search, cart, checkout with confirmation)
 - [warp-agent-mcp](https://freemcp.space/featured/warp-agent-mcp) — MCP server for the Warp freight API. Quote, book, and track LTL/FTL shipments from any MCP-compatible AI agent.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [pixelpact](https://freemcp.space/featured/pixelpact) — Measurement for coding agents building UI: extract a contract from the reference page, check the implementation, get numbers back
 - [SolidWorks-MCP](https://freemcp.space/featured/solidworks-mcp) — MCP server that lets AI agents build, measure and verify parametric parts and assemblies in a running SolidWorks (Windows, COM).
 - [pubcrawl](https://freemcp.space/featured/pubcrawl) — MCP server giving AI assistants verifiable access to PubMed, Europe PMC, US/UK drug labelling, and ClinicalTrials.gov. Built by PharmaTools.AI.
-- [agentplaybooks](https://freemcp.space/featured/agentplaybooks) — Equip once. Run anywhere. Portable AI agents and toolkits—no vendor lock-in.
-- [designfit](https://freemcp.space/featured/designfit) — Validate AI-built front-ends against their Figma design — deterministic token + geometry conformance, not pixels. MCP server + Claude Code skill.
-- [nativekeel](https://freemcp.space/featured/nativekeel) — Health check for React Native and Expo apps: A–E ratings for security, store rules, crashes, upgrades and accessibility. Works with GitHub Actions and SonarQube. npx nativekeel
-- [ennodia](https://freemcp.space/featured/ennodia) — Connects the AI agents you use: your agent hands a task to another and gets the answer back
-- [mapache](https://freemcp.space/featured/mapache) — Open-source mind maps and whiteboard on your computer or your team's server: live collaboration, comments, and a built-in MCP server so your AI agent can build boards with you.
-- [openhuddle](https://freemcp.space/featured/openhuddle) — Multiplayer mode for AI coding agents. Your team's Claude Code, Codex and Cursor agents huddle up: live status, one master prompt, a shared task board, and no stepping on each other's files.
-- [codex-claude-council](https://freemcp.space/hamza-aziz-ai/codex-claude-council) — Two AIs. One answer. ChatGPT and Claude discuss with each other until they agree, through your own signed-in CLIs: no API keys. Both read your project (never change it) and search the web. Plugin for Claude Code, Codex, Claude Desktop and the ChatGPT app.
-- [qa-orchestrator](https://freemcp.space/featured/qa-orchestrator) — Local MCP server for privacy-aware QA task routing
 <!-- freemcp:end -->
 
 ---
