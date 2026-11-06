@@ -1,0 +1,17 @@
+{
+  "name": "mailwarden",
+  "description": "A reliable, native Gmail MCP server with full mailbox control — including snooze.",
+  "git_url": "https://github.com/csitte/mailwarden",
+  "author_github": "csitte",
+  "category": "communication",
+  "tags": [
+    "claude",
+    "email",
+    "gmail",
+    "google",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/mailwarden"
+}
