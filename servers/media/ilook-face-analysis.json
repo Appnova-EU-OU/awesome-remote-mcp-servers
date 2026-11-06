@@ -1,0 +1,11 @@
+{
+  "name": "iLook Face Analysis",
+  "description": "Privacy-first face analysis of one user-provided photo over a hosted Streamable HTTP endpoint (https://www.ilook.fit/mcp): face-shape context, symmetry signals, proportions, Golden Ratio phi context, and hairstyle and colour direction. Free, no API key. Does not identify people or make medical decisions.",
+  "git_url": "https://github.com/harshul1404/ilook-mcp",
+  "homepage": "https://www.ilook.fit/",
+  "author_github": "harshul1404",
+  "category": "media",
+  "tags": ["face-analysis", "image", "computer-vision", "remote", "streamable-http"],
+  "license": "MIT",
+  "status": "active"
+}
