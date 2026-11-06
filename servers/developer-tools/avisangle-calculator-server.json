@@ -1,0 +1,16 @@
+{
+  "name": "calculator-server",
+  "description": "A comprehensive Go-based MCP server for mathematical computations with 13+ tools",
+  "git_url": "https://github.com/avisangle/calculator-server",
+  "author_github": "avisangle",
+  "category": "developer-tools",
+  "tags": [
+    "calculator",
+    "calculatormcp",
+    "mcp",
+    "mcpcalculator",
+    "mcpcalculatorserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
