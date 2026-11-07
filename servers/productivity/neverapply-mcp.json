@@ -1,0 +1,17 @@
+{
+  "name": "NeverApply",
+  "description": "AI job-search agent: search and match jobs, tailor resumes, answer screening questions, and apply with your approval. Remote server at https://neverapply.co/mcp (Streamable HTTP, OAuth 2.1 with PKCE and dynamic client registration).",
+  "git_url": "https://github.com/kasovy/neverapply-mcp",
+  "author_github": "kasovy",
+  "category": "productivity",
+  "tags": [
+    "jobs",
+    "career",
+    "job-search",
+    "resume",
+    "remote"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://neverapply.co/features/mcp"
+}
