@@ -1,0 +1,17 @@
+{
+  "name": "resend-email-mcp",
+  "description": "The most complete MCP server for the Resend email API — full API coverage plus a unique debug/diagnostics layer.",
+  "git_url": "https://github.com/helbertparanhos/resend-email-mcp",
+  "author_github": "helbertparanhos",
+  "category": "communication",
+  "tags": [
+    "claude",
+    "claudecode",
+    "cursor",
+    "deliverability",
+    "email"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/resend-email-mcp"
+}
