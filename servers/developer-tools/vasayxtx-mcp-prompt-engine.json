@@ -1,0 +1,16 @@
+{
+  "name": "mcp-prompt-engine",
+  "description": "MCP Prompt Engine",
+  "git_url": "https://github.com/vasayxtx/mcp-prompt-engine",
+  "author_github": "vasayxtx",
+  "category": "developer-tools",
+  "tags": [
+    "go",
+    "gotemplate",
+    "golang",
+    "mcp",
+    "mcpprompt"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
