@@ -1,0 +1,16 @@
+{
+  "name": "math-mcp-learning-server",
+  "description": "Educational MCP server with math operations, matrix algebra, data visualization, and persistent workspace",
+  "git_url": "https://github.com/clouatre-labs/math-mcp-learning-server",
+  "author_github": "clouatre-labs",
+  "category": "databases",
+  "tags": [
+    "calculator",
+    "educational",
+    "fastmcp",
+    "fastmcp3",
+    "mathematics"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
