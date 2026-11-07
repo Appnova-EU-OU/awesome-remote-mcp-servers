@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [kaggle-mcp](https://freemcp.space/featured/kaggle-mcp-2) — MCP server for Kaggle
+- [fermat-mcp](https://freemcp.space/featured/fermat-mcp) — 🚀 Fermat MCP: The Ultimate Math Engine - Unifying SymPy, NumPy & Matplotlib in one powerful server! Perfect for devs & researchers. 
+- [mathlas](https://freemcp.space/featured/mathlas) — Airtight math tools an AI uses over MCP — 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.
+- [calculator-server](https://freemcp.space/featured/calculator-server) — A comprehensive Go-based MCP server for mathematical computations with 13+ tools
+- [stella-mcp](https://freemcp.space/featured/stella-mcp) — MCP server for Stella
+- [dataloupe](https://freemcp.space/featured/dataloupe) — Offline data explorer + MCP server: turn CSV/Parquet/Excel into ONE self-contained interactive HTML file, or let your AI assistant query local data — nothing leaves your machine.
+- [mathmethods-mcp](https://freemcp.space/featured/mathmethods-mcp) — MCP server for numerical methods and dynamic systems: root finding, integration, ODEs, Monte Carlo, 1D/2D dynamical systems, and combat models.
+- [decisionmatrix-mcp](https://freemcp.space/featured/decisionmatrix-mcp) — Deterministic multi-criteria decision analysis (MCDA) for AI agents over MCP — score, rank & explain options against weighted criteria. Weighted-sum, weighted-product, TOPSIS. Exact decimals. Live remote server + self-host.
 - [otakit](https://freemcp.space/featured/otakit) — Push updates directly to your Capacitor app without app store reviews.
 - [mcp-architect](https://freemcp.space/featured/mcp-architect) — Give any AI assistant real architectural understanding of a codebase — local, private, zero-config MCP serve
 - [Unfour](https://freemcp.space/featured/unfour) — Local-first backend troubleshooting workspace for tracing failures across API, SSH, and databases, with MCP-assisted runtime evidence.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [wtfm](https://freemcp.space/featured/wtfm) — WTFM: Write the F***ing Manual. A plugin for your coding agent that writes your user docs, screenshots included.
 - [OpenScreenShot](https://freemcp.space/featured/openscreenshot) — OpenScreenShot is a privacy-first, free, open-source screenshot extension -- zero data leaves your device, no account needed, no telemetry, no third-party services.
 - [proton-mail-bridge-client](https://freemcp.space/featured/proton-mail-bridge-c) — Local-first Proton Mail MCP server and CLI via Proton Bridge. Search, draft, send and organize mail from Claude Desktop, Claude Code or any MCP client. 96 tools, read-only and send-to-self modes.
-- [Devtrack_](https://freemcp.space/shashankraj28/devtrack) — Local-first developer context daemon with six read-only MCP tools for active tickets, commits, pending actions, voice profile, ticket history, and EOD summaries. Ships native MCPB bundles.
-- [x64dbgMCP](https://freemcp.space/featured/x64dbgmcp) — Dynamic x64dbg/x32dbg MCP backend: launch/attach, breakpoints, memory, API/heap traces, OEP/IAT/PE dumps, key recovery, and IDA hash+RVA evidence.
-- [local-ai-mcp-servers](https://freemcp.space/featured/local-ai-mcp-servers) — Two Model Context Protocol (MCP) servers for self-hosted, local AI: manage and train Ollama/vLLM models, and route questions and tasks to local LLMs through Claude, ChatGPT or local models. Use the compute of your existing hardware, and let the models tap data on your machines when you wire them in.
-- [BeatBrowser](https://freemcp.space/featured/beatbrowser) — Your Chrome, now an agent browser. No browser switch. No login migration. Codex, Claude Code & more. Free & open source.
-- [mq-bridge](https://freemcp.space/featured/mq-bridge) — Async Rust library to route messages between Kafka, NATS, MQTT, AMQP, databases and HTTP, with Python and Node bindings
-- [pixelpact](https://freemcp.space/featured/pixelpact) — Measurement for coding agents building UI: extract a contract from the reference page, check the implementation, get numbers back
-- [SolidWorks-MCP](https://freemcp.space/featured/solidworks-mcp) — MCP server that lets AI agents build, measure and verify parametric parts and assemblies in a running SolidWorks (Windows, COM).
-- [pubcrawl](https://freemcp.space/featured/pubcrawl) — MCP server giving AI assistants verifiable access to PubMed, Europe PMC, US/UK drug labelling, and ClinicalTrials.gov. Built by PharmaTools.AI.
 <!-- freemcp:end -->
 
 ---
