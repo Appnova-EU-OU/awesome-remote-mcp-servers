@@ -1,0 +1,16 @@
+{
+  "name": "neurocode",
+  "description": "In-memory Code Property Graph context slicer for local models (Ollama, Cursor, Claude Desktop): extracts sub-1,200 token reachability closures for autonomous repository bug repair on consumer edge hardware (4GB–8GB VRAM) without cloud API dependency.",
+  "git_url": "https://github.com/Arkz-Deepak/neurocode",
+  "author_github": "Arkz-Deepak",
+  "category": "cloud-infra",
+  "tags": [
+    "neurocode",
+    "memory",
+    "code",
+    "property",
+    "graph"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
