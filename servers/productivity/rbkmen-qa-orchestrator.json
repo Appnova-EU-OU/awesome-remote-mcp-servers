@@ -1,0 +1,16 @@
+{
+  "name": "qa-orchestrator",
+  "description": "Local MCP server for privacy-aware QA task routing",
+  "git_url": "https://github.com/Rbkmen/qa-orchestrator",
+  "author_github": "Rbkmen",
+  "category": "productivity",
+  "tags": [
+    "orchestrator",
+    "local",
+    "privacy",
+    "aware",
+    "task"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
