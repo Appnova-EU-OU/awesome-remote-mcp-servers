@@ -1,0 +1,13 @@
+{
+  "name": "jupyter-notebook-mcp",
+  "description": "A Model Context Protocol (MCP) for Jupyter Notebook",
+  "git_url": "https://github.com/jjsantos01/jupyter-notebook-mcp",
+  "author_github": "jjsantos01",
+  "category": "productivity",
+  "tags": [
+    "jupyter",
+    "notebook"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
