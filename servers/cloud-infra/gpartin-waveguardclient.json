@@ -1,0 +1,16 @@
+{
+  "name": "WaveGuardClient",
+  "description": "Python SDK for WaveGuard  physics-based anomaly detection API. One call. Any data.",
+  "git_url": "https://github.com/gpartin/WaveGuardClient",
+  "author_github": "gpartin",
+  "category": "cloud-infra",
+  "tags": [
+    "anomalydetection",
+    "azuremigration",
+    "gpu",
+    "machinelearning",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
