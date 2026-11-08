@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [website-downloader](https://freemcp.space/featured/website-downloader) — MCP server to download entire websites
+- [chronulus-mcp](https://freemcp.space/featured/chronulus-mcp) — MCP Server for Chronulus AI Forecasting and Prediction Agents
+- [growthbook-mcp](https://freemcp.space/featured/growthbook-mcp) — Official GrowthBook MCP server for creating flags, getting experiments, and more.
+- [networkx-mcp-server](https://freemcp.space/featured/networkx-mcp-server) — 🕸️ First NetworkX MCP server for graph analysis in AI conversations | Community & Enterprise editions | Graph algorithms • Network analysis • MCP integration
+- [math-mcp-learning-server](https://freemcp.space/featured/math-mcp-learning-se) — Educational MCP server with math operations, matrix algebra, data visualization, and persistent workspace
+- [llm-advisor-mcp](https://freemcp.space/featured/llm-advisor-mcp) — Real-time LLM and VLM comparison with benchmarks, prices and personalized recommendations from multiple data sources.
+- [filter-mcp-server](https://freemcp.space/featured/filter-mcp-server) — MCP server comparing approximate filters (Bloom, Counting Bloom, Cuckoo, SuRF). Listed in awesome-mcp-servers.
+- [neurocode](https://freemcp.space/featured/neurocode) — In-memory Code Property Graph context slicer for local models (Ollama, Cursor, Claude Desktop): extracts sub-1,200 token reachability closures for autonomous repository bug repair on consumer edge hardware (4GB–8GB VRAM) without cloud API dependency.
 - [kaggle-mcp](https://freemcp.space/featured/kaggle-mcp-2) — MCP server for Kaggle
 - [fermat-mcp](https://freemcp.space/featured/fermat-mcp) — 🚀 Fermat MCP: The Ultimate Math Engine - Unifying SymPy, NumPy & Matplotlib in one powerful server! Perfect for devs & researchers. 
 - [mathlas](https://freemcp.space/featured/mathlas) — Airtight math tools an AI uses over MCP — 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [HarmonyOS-mcp-server](https://freemcp.space/featured/harmonyos-mcp-server) — MCP server for manipulating HarmonyOS next devices.
 - [apifable](https://freemcp.space/featured/apifable) — MCP server that helps AI agents explore OpenAPI specs, search endpoints, and generate TypeScript types.
 - [scriptflow-mcp](https://freemcp.space/featured/scriptflow-mcp) —   Script workflow management via MCP. Converts AI workflows to persistent scripts, reducing tokens & delays while minimizing hallucination risks.
-- [TopicForge](https://freemcp.space/featured/topicforge) — Read-only MCP server for ROS2 and DDS robotics. Let an AI agent inspect topics, DDS participants, QoS mismatches and rosbags. No write path by architecture: it can never command your robot.
-- [mcp-server-bigquery](https://freemcp.space/featured/mcp-server-bigquery) — A Model Context Protocol server that provides access to BigQuery
-- [mcp-sqlite](https://freemcp.space/featured/mcp-sqlite) — 🐇 Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities
-- [suvadu](https://freemcp.space/featured/suvadu) — Shell history replacement with AI agent tracking and MCP server. Built in Rust, 100% local.
-- [stalemap](https://freemcp.space/featured/stalemap) — Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.
-- [wtfm](https://freemcp.space/featured/wtfm) — WTFM: Write the F***ing Manual. A plugin for your coding agent that writes your user docs, screenshots included.
-- [OpenScreenShot](https://freemcp.space/featured/openscreenshot) — OpenScreenShot is a privacy-first, free, open-source screenshot extension -- zero data leaves your device, no account needed, no telemetry, no third-party services.
-- [proton-mail-bridge-client](https://freemcp.space/featured/proton-mail-bridge-c) — Local-first Proton Mail MCP server and CLI via Proton Bridge. Search, draft, send and organize mail from Claude Desktop, Claude Code or any MCP client. 96 tools, read-only and send-to-self modes.
 <!-- freemcp:end -->
 
 ---
