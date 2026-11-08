@@ -1,0 +1,16 @@
+{
+  "name": "cortexcloud-mcp",
+  "description": "x402 pay-per-call MCP server — 22 AI/data/RPC tools, USDC on Base, no API keys",
+  "git_url": "https://github.com/jonahthan433/cortexcloud-mcp",
+  "author_github": "jonahthan433",
+  "category": "cloud-infra",
+  "tags": [
+    "cortexcloud",
+    "pay",
+    "per",
+    "call",
+    "data"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
