@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [jupyter-notebook-mcp](https://freemcp.space/featured/jupyter-notebook-mcp) — A Model Context Protocol (MCP) for Jupyter Notebook
+- [label-studio-mcp-server](https://freemcp.space/featured/label-studio-mcp-ser) — Create, manage and automate Label Studio projects, tasks and predictions for data labeling workflows.
+- [WaveGuardClient](https://freemcp.space/featured/waveguardclient) — Python SDK for WaveGuard  physics-based anomaly detection API. One call. Any data.
+- [data-profiler-mcp](https://freemcp.space/featured/data-profiler-mcp) — MCP server that profiles tabular data files (CSV, Parquet, Excel, JSON) for LLM agents like Claude.
+- [rigor](https://freemcp.space/featured/rigor) — Verified statistical inference for AI agents -- classical and non-parametric hypothesis testing, correlation/regression, effect sizes, power/sample-size, multiple-comparisons correction, a test-recommendation helper, and a batch pairwise-comparison tool, as a CLI and an MCP server
+- [gnomon-mcp](https://freemcp.space/featured/gnomon-mcp) — Deterministic date, math and unit tools: time snapshots, calendar math with natural-language parsing, expression evaluation and Pint-based unit conversion.
+- [cortexcloud-mcp](https://freemcp.space/featured/cortexcloud-mcp) — x402 pay-per-call MCP server — 22 AI/data/RPC tools, USDC on Base, no API keys
+- [polymath-megablaster-mcp](https://freemcp.space/featured/polymath-megablaster) — Local MCP toolkit giving AI agents deterministic calculation instead of guessing: 15 free tools for exact math, dates, unit conversion, hashing, networking. 100% local, no network calls, no API keys, no telemetry.
 - [website-downloader](https://freemcp.space/featured/website-downloader) — MCP server to download entire websites
 - [chronulus-mcp](https://freemcp.space/featured/chronulus-mcp) — MCP Server for Chronulus AI Forecasting and Prediction Agents
 - [growthbook-mcp](https://freemcp.space/featured/growthbook-mcp) — Official GrowthBook MCP server for creating flags, getting experiments, and more.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [dotnet-template-mcp](https://freemcp.space/featured/dotnet-template-mcp) — MCP server wrapping the .NET Template Engine for AI-driven template discovery, inspection, and instantiation
 - [codegraph-brain](https://freemcp.space/zaebee/codegraph-brain) — Code graph for AI agents: impact analysis and call tracing over MCP (Python, TypeScript). Local, deterministic, SQLite.
 - [implicit-core](https://freemcp.space/featured/implicit-core) — Implicit is the experience layer for AI agents. For large agent training/evaluation environments, address experiences and materialize required state on demand. Python package: implicit-ai.
-- [mcp-observatory](https://freemcp.space/featured/mcp-observatory-2) — Free, MIT-licensed MCP security testing from ClearFrame. Scan, audit, compare, and review locally; continue in the ClearFrame CLI or Mac app.
-- [jvm-mcp-server](https://freemcp.space/featured/jvm-mcp-server) — This is an implementation project of a JVM-based MCP (Model Context Protocol) server. The project aims to provide a standardized MCP server implementation for the JVM platform, enabling AI models to better interact with the Java ecosystem.
-- [xcodebuild](https://freemcp.space/featured/xcodebuild) — MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
-- [PiloTY](https://freemcp.space/featured/piloty) — PiloTY: AI pilot for PTY operations via MCP - enables AI agents to control interactive terminals like a human
-- [godoc-mcp-server](https://freemcp.space/featured/godoc-mcp-server) — A mcp server provide infomation from pkg.go.dev. For all golang programmers
-- [HarmonyOS-mcp-server](https://freemcp.space/featured/harmonyos-mcp-server) — MCP server for manipulating HarmonyOS next devices.
-- [apifable](https://freemcp.space/featured/apifable) — MCP server that helps AI agents explore OpenAPI specs, search endpoints, and generate TypeScript types.
-- [scriptflow-mcp](https://freemcp.space/featured/scriptflow-mcp) —   Script workflow management via MCP. Converts AI workflows to persistent scripts, reducing tokens & delays while minimizing hallucination risks.
 <!-- freemcp:end -->
 
 ---
