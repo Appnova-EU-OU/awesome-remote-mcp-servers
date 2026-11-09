@@ -1,0 +1,16 @@
+{
+  "name": "optuna-mcp",
+  "description": "The Optuna MCP Server is a Model Context Protocol (MCP) server to interact with Optuna APIs.",
+  "git_url": "https://github.com/optuna/optuna-mcp",
+  "author_github": "optuna",
+  "category": "ai-agents",
+  "tags": [
+    "hyperparameteroptimization",
+    "llm",
+    "mcp",
+    "mcpserver",
+    "optimization"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
