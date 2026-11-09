@@ -1,0 +1,16 @@
+{
+  "name": "kaggle-mcp-server",
+  "description": "This project provides an MCP (Model Context Protocol) server for interacting with Kaggle competitions from Claude Desktop (or any MCP-compatible client)",
+  "git_url": "https://github.com/KrishnaPramodParupudi/kaggle-mcp-server",
+  "author_github": "KrishnaPramodParupudi",
+  "category": "developer-tools",
+  "tags": [
+    "kaggle",
+    "project",
+    "provides",
+    "interacting",
+    "competitions"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
