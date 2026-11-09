@@ -1,0 +1,16 @@
+{
+  "name": "MCPR",
+  "description": " MCPR enables AI agents to participate in interactive R sessions for professional analysis workflows.",
+  "git_url": "https://github.com/phisanti/MCPR",
+  "author_github": "phisanti",
+  "category": "ai-agents",
+  "tags": [
+    "dataanalysis",
+    "mcp",
+    "mcpserver",
+    "r"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "status": "active",
+  "homepage": "https://phisanti.github.io/MCPR/"
+}
