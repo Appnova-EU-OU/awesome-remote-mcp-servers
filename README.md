@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [optuna-mcp](https://freemcp.space/featured/optuna-mcp) — The Optuna MCP Server is a Model Context Protocol (MCP) server to interact with Optuna APIs.
+- [MCPR](https://freemcp.space/featured/mcpr) —  MCPR enables AI agents to participate in interactive R sessions for professional analysis workflows.
+- [oraclaw](https://freemcp.space/featured/oraclaw) — Deterministic decision-intelligence MCP server for AI agents — 17 tools (bandits/LinUCB, HiGHS LP/MIP, PageRank, Monte Carlo, CMA-ES, conformal). Sub-25ms. Zero LLM cost. 11 free, no key. Listed on the MCP Registry & Glama.
+- [code-guardian](https://freemcp.space/featured/code-guardian) — Code Guardian Studio – AI-powered code refactor engine for large repositories, built on Claude Code + MCP.
+- [mcp-turboquant](https://freemcp.space/featured/mcp-turboquant) — MCP server for LLM quantization. Compress any model to GGUF/GPTQ/AWQ in one tool call. First MCP server for model compression.
+- [kaggle-mcp-server](https://freemcp.space/featured/kaggle-mcp-server) — This project provides an MCP (Model Context Protocol) server for interacting with Kaggle competitions from Claude Desktop (or any MCP-compatible client)
+- [mcp-compress](https://freemcp.space/featured/mcp-compress) — First MCP server for data compression. 60x compression on docs, 30x on SQL, 20x on logs. Zero dependencies. Lossless. Auto-picks best algorithm. 7 tools for any AI agent.
+- [ephemeris-mcp](https://freemcp.space/featured/ephemeris-mcp) — MCP server for time-series foundation model (TSFM) forecasting: probabilistic forecasts from Chronos-2, TimesFM 2.5, Toto 2, TiRex-2 and IBM Granite models, or an accuracy-weighted ensemble.
 - [jupyter-notebook-mcp](https://freemcp.space/featured/jupyter-notebook-mcp) — A Model Context Protocol (MCP) for Jupyter Notebook
 - [label-studio-mcp-server](https://freemcp.space/featured/label-studio-mcp-ser) — Create, manage and automate Label Studio projects, tasks and predictions for data labeling workflows.
 - [WaveGuardClient](https://freemcp.space/featured/waveguardclient) — Python SDK for WaveGuard  physics-based anomaly detection API. One call. Any data.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [dep-diff-mcp](https://freemcp.space/featured/dep-diff-mcp) — MCP server that reads dependency changelogs and tells you what's risky in an upgrade.
 - [drwhome](https://freemcp.space/featured/drwhome) — drwho.me: free DNS, email, TLS and developer tools, and a free MCP server for AI agents
 - [eval-view](https://freemcp.space/featured/eval-view) — Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
-- [llm-router](https://freemcp.space/featured/llm-router) — Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cuts costs 35-80%.
-- [multi-ai-advisor-mcp](https://freemcp.space/featured/multi-ai-advisor-mcp) — council of models for decision
-- [mcp-swagger-server](https://freemcp.space/featured/mcp-swagger-server) — MCP Swagger Server 将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式，让 AI 助手能够理解和调用您的 API。
-- [mcp-typescribe](https://freemcp.space/featured/mcp-typescribe) — An MCP server implementation enabling LLMs to work with new APIs and frameworks
-- [ros-mcp](https://freemcp.space/featured/ros-mcp) — MCP server for ROS to control robots via topics, services, and actions.
-- [dotnet-template-mcp](https://freemcp.space/featured/dotnet-template-mcp) — MCP server wrapping the .NET Template Engine for AI-driven template discovery, inspection, and instantiation
-- [codegraph-brain](https://freemcp.space/zaebee/codegraph-brain) — Code graph for AI agents: impact analysis and call tracing over MCP (Python, TypeScript). Local, deterministic, SQLite.
-- [implicit-core](https://freemcp.space/featured/implicit-core) — Implicit is the experience layer for AI agents. For large agent training/evaluation environments, address experiences and materialize required state on demand. Python package: implicit-ai.
 <!-- freemcp:end -->
 
 ---
