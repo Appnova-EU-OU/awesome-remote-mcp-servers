@@ -1,0 +1,16 @@
+{
+  "name": "mcp-dashboards",
+  "description": "Turn your data into interactive dashboards inside any AI client - MCP Apps powered",
+  "git_url": "https://github.com/KyuRish/mcp-dashboards",
+  "author_github": "KyuRish",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "charting",
+    "chartjs",
+    "charts",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
