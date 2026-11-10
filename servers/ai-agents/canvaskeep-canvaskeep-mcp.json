@@ -1,0 +1,17 @@
+{
+  "name": "canvaskeep-mcp",
+  "description": "MCP server for CanvasKeep: let Claude Code, Codex and other AI tools generate Excalidraw diagrams in your workspace",
+  "git_url": "https://github.com/CanvasKeep/canvaskeep-mcp",
+  "author_github": "CanvasKeep",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "claude",
+    "diagrams",
+    "excalidraw",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://canvaskeep.com"
+}
