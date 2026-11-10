@@ -1,0 +1,17 @@
+{
+  "name": "jevx-mcp",
+  "description": "MCP server for Jevx (jevx.org): run Jev AI typed decisions from any MCP client",
+  "git_url": "https://github.com/hanshs474/jevx-mcp",
+  "author_github": "hanshs474",
+  "category": "ai-agents",
+  "tags": [
+    "aidecisions",
+    "jevai",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://jevx.org?utm_source=github"
+}
