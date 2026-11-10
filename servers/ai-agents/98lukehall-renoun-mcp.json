@@ -1,0 +1,16 @@
+{
+  "name": "renoun-mcp",
+  "description": "Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence patterns across 17 channels without analyzing content. MCP server + REST API.",
+  "git_url": "https://github.com/98lukehall/renoun-mcp",
+  "author_github": "98lukehall",
+  "category": "ai-agents",
+  "tags": [
+    "renoun",
+    "structural",
+    "observability",
+    "conversations",
+    "detects"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
