@@ -1,0 +1,17 @@
+{
+  "name": "gen-image-mcp",
+  "description": "Local MCP for OpenAI-compatible and Gemini image generation, editing, and automatic model fallback",
+  "git_url": "https://github.com/yuluo688/gen-image-mcp",
+  "author_github": "yuluo688",
+  "category": "security",
+  "tags": [
+    "claudecode",
+    "cursor",
+    "gemini",
+    "imageediting",
+    "imagegeneration"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/yuluo688/gen-image-mcp#readme"
+}
