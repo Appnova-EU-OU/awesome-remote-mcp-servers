@@ -1,0 +1,16 @@
+{
+  "name": "ply-visualizer",
+  "description": "Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.",
+  "git_url": "https://github.com/kleinicke/ply-visualizer",
+  "author_github": "kleinicke",
+  "category": "cloud-infra",
+  "tags": [
+    "3dvisualization",
+    "colmap",
+    "depthestimation",
+    "mcp",
+    "mcpapps"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
