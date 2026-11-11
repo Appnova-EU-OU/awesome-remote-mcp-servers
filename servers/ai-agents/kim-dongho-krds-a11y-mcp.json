@@ -1,0 +1,16 @@
+{
+  "name": "krds-a11y-mcp",
+  "description": "KRDS 컴포넌트를 KWCAG 2.2 접근성 조건과 함께 공급하고, 위반이 남으면 AI의 작업 종료를 막는 MCP 서버",
+  "git_url": "https://github.com/kim-dongho/krds-a11y-mcp",
+  "author_github": "kim-dongho",
+  "category": "ai-agents",
+  "tags": [
+    "a11y",
+    "accessibillity",
+    "axecore",
+    "claudecode",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
