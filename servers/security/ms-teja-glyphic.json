@@ -1,0 +1,17 @@
+{
+  "name": "Glyphic",
+  "description": "Glyphic is an open source diagram engine that lets AI agents generate production-quality diagrams from structured JSON, without SVG, Mermaid, or a browser.",
+  "git_url": "https://github.com/MS-Teja/Glyphic",
+  "author_github": "MS-Teja",
+  "category": "security",
+  "tags": [
+    "diagramgenerator",
+    "mcpserver",
+    "glyphic",
+    "open",
+    "source"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://glyphic.web.app"
+}
