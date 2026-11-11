@@ -1,0 +1,16 @@
+{
+  "name": "heap-seance",
+  "description": "MCP server that channels JVM forensics into structured leak verdicts — for Claude Code.",
+  "git_url": "https://github.com/SegfaultSorcerer/heap-seance",
+  "author_github": "SegfaultSorcerer",
+  "category": "developer-tools",
+  "tags": [
+    "heap",
+    "seance",
+    "channels",
+    "jvm",
+    "forensics"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
