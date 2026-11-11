@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-server-weaviate](https://freemcp.space/featured/mcp-server-weaviate) — MCP (Model Context Protocol) server for Weaviate
+- [mcp-dashboards](https://freemcp.space/featured/mcp-dashboards) — Turn your data into interactive dashboards inside any AI client - MCP Apps powered
+- [ply-visualizer](https://freemcp.space/featured/ply-visualizer) — Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
+- [charted](https://freemcp.space/featured/charted) — Zero-dependency Python SVG chart generator. Generate beautiful, customisable charts in SVG from Python data structures. Inspired by mermaid.js.
+- [axiom-advanced-math-mcp](https://freemcp.space/featured/axiom-advanced-math) — Exact symbolic math for LLMs: integrals, equations, matrices, and claim verification via Giac/Xcas. MCP server + CLI.
+- [renoun-mcp](https://freemcp.space/featured/renoun-mcp) — Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence patterns across 17 channels without analyzing content. MCP server + REST API.
+- [mcp-gnu-units](https://freemcp.space/featured/mcp-gnu-units) — Unit converter for AI agents, powered by the GNU units database — convert 3000+ units of measurement, evaluate compound unit expressions, reduce to SI base units, dimensional analysis. Offline, deterministic.
+- [jevx-mcp](https://freemcp.space/featured/jevx-mcp) — MCP server for Jevx (jevx.org): run Jev AI typed decisions from any MCP client
 - [optuna-mcp](https://freemcp.space/featured/optuna-mcp) — The Optuna MCP Server is a Model Context Protocol (MCP) server to interact with Optuna APIs.
 - [MCPR](https://freemcp.space/featured/mcpr) —  MCPR enables AI agents to participate in interactive R sessions for professional analysis workflows.
 - [oraclaw](https://freemcp.space/featured/oraclaw) — Deterministic decision-intelligence MCP server for AI agents — 17 tools (bandits/LinUCB, HiGHS LP/MIP, PageRank, Monte Carlo, CMA-ES, conformal). Sub-25ms. Zero LLM cost. 11 free, no key. Listed on the MCP Registry & Glama.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-abacus](https://freemcp.space/featured/mcp-abacus) — High-precision calculator MCP server — goes beyond arithmetic to calculus (derivatives, integrals) and equation solving, all evaluated in fixed-point, IEEE-754, or exact rational mode with every answer labelled exact or inexact.
 - [mcp-bigquery-server](https://freemcp.space/featured/mcp-bigquery-server) — A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery datasets. Enables Large Language Models (LLMs) to safely query and analyze data through a standardized interface.
 - [asc-mcp](https://freemcp.space/featured/asc-mcp-2) — MCP server for App Store Connect API - 502 tools for apps, builds, TestFlight, subscriptions, Xcode Cloud, and more from Claude, Cursor, VS Code, or any MCP client
-- [auto-mobile](https://freemcp.space/featured/auto-mobile) — Mobile automation suite of tools including an MCP and libraries for test authoring & execution
-- [mcp-zenml](https://freemcp.space/featured/mcp-zenml) — MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines
-- [perfetto-mcp-rs](https://freemcp.space/featured/perfetto-mcp-rs) — Perfetto trace analysis via MCP — PerfettoSQL queries plus dedicated Chrome tools for scroll jank, page loads, and main-thread hotspots
-- [garmin-documentation-mcp-server](https://freemcp.space/featured/garmin-documentation) — MCP server for Garmin Connect IQ API documentation - complete offline access to SDK 8.2.3
-- [jaeger-mcp](https://freemcp.space/featured/jaeger-mcp) — MCP server for Jaeger — search traces, inspect spans, map service dependencies
-- [dep-diff-mcp](https://freemcp.space/featured/dep-diff-mcp) — MCP server that reads dependency changelogs and tells you what's risky in an upgrade.
-- [drwhome](https://freemcp.space/featured/drwhome) — drwho.me: free DNS, email, TLS and developer tools, and a free MCP server for AI agents
-- [eval-view](https://freemcp.space/featured/eval-view) — Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 <!-- freemcp:end -->
 
 ---
