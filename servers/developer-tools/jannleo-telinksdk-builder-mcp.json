@@ -1,0 +1,16 @@
+{
+  "name": "telinksdk-builder-mcp",
+  "description": "Build Telink and other embedded SDKs (Eclipse headless, Make or generic) via natural language, with automatic build pattern detection.",
+  "git_url": "https://github.com/JannLeo/telinksdk-builder-mcp",
+  "author_github": "JannLeo",
+  "category": "developer-tools",
+  "tags": [
+    "telinksdk",
+    "builder",
+    "build",
+    "telink",
+    "other"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
