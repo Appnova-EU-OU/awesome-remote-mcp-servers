@@ -1,0 +1,17 @@
+{
+  "name": "drawspec",
+  "description": "Declarative diagram spec → clean, themeable SVG. JSON with no coordinates, so an LLM can write it correctly.",
+  "git_url": "https://github.com/nuncaeslupus/drawspec",
+  "author_github": "nuncaeslupus",
+  "category": "cloud-infra",
+  "tags": [
+    "agenticworkflow",
+    "agents",
+    "aiagents",
+    "claudecode",
+    "datavisualization"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://nuncaeslupus.github.io/drawspec/"
+}
