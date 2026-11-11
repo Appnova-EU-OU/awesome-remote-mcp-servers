@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-atlassian-bitbucket",
+  "description": "Node.js/TypeScript MCP server for Atlassian Bitbucket. Enables AI systems (LLMs) to interact with workspaces, repositories, and pull requests via tools (list, get, comment, search). Connects AI directly to version control workflows through the standard MCP interface.",
+  "git_url": "https://github.com/aashari/mcp-server-atlassian-bitbucket",
+  "author_github": "aashari",
+  "category": "search",
+  "tags": [
+    "ai",
+    "aiconnector",
+    "aiintegration",
+    "anthropic",
+    "atlassian"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
