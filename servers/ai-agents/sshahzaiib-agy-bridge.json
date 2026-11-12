@@ -1,0 +1,17 @@
+{
+  "name": "agy-bridge",
+  "description": "MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI (agy) — purpose-built tools, model routing with fallback, session continuity, and output truncation to save Claude's context and tokens.",
+  "git_url": "https://github.com/sshahzaiib/agy-bridge",
+  "author_github": "sshahzaiib",
+  "category": "ai-agents",
+  "tags": [
+    "agy",
+    "aiagents",
+    "antigravitycli",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://shahzaibakram.dev/blog/agy-bridge-delegating-claude-code-heavy-work-to-gemini"
+}
