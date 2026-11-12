@@ -1,0 +1,16 @@
+{
+  "name": "opcua-mcp",
+  "description": "An MCP server that connects to OPC UA-enabled industrial systems.",
+  "git_url": "https://github.com/kukapay/opcua-mcp",
+  "author_github": "kukapay",
+  "category": "developer-tools",
+  "tags": [
+    "opcua",
+    "connects",
+    "opc",
+    "enabled",
+    "industrial"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
