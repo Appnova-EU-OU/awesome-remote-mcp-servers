@@ -1,0 +1,17 @@
+{
+  "name": "smolmux",
+  "description": "C11 device multiplexer: share serial UART / GDB SWD across humans, scripts, and AI agents (MCP). MIT.",
+  "git_url": "https://github.com/magnusmalm/smolmux",
+  "author_github": "magnusmalm",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "c11",
+    "cortexm",
+    "embedded",
+    "gdb"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/magnusmalm/smolmux"
+}
