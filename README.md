@@ -91,6 +91,18 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Comparador Luz Gas](https://freemcp.space/nuncaeslupus/comparador-luz-gas) — **El comparador oficial de tarifas de luz y gas de la CNMC, como librería, CLI y servidor MCP.**
+- [Numerador Facturas](https://freemcp.space/nuncaeslupus/numerador-facturas) — **Numera facturas PDF en lote desde el navegador.** Estampa un número correlativo (`F-0001`, `F-0002`…) en **todas las páginas** de cada factura y te devuelve un ZIP listo para entregar. Todo ocurre del lado del cliente: **los PDFs nunca salen de tu equipo.**
+- [Doc Control](https://freemcp.space/nuncaeslupus/doc-control) — **Lets AI agents edit Word documents as tracked changes the writer can accept or reject.**
+- [Drawspec](https://freemcp.space/nuncaeslupus/drawspec) — **Diagrams from a JSON description — no coordinates, so nothing to misplace.** You say what the diagram *means*: the boxes, the arrows, the labels, and a role for each. drawspec decides every position, size, route and colour, and draws a clean SVG, PNG or plain-text diagram.
+- [mcp-server-atlassian-bitbucket](https://freemcp.space/featured/mcp-server-atlassian-3) — Node.js/TypeScript MCP server for Atlassian Bitbucket. Enables AI systems (LLMs) to interact with workspaces, repositories, and pull requests via tools (list, get, comment, search). Connects AI directly to version control workflows through the standard MCP interface.
+- [csvglow](https://freemcp.space/featured/csvglow) — Generate beautiful interactive HTML dashboards from CSV/Excel files
+- [Glyphic](https://freemcp.space/featured/glyphic) — Glyphic is an open source diagram engine that lets AI agents generate production-quality diagrams from structured JSON, without SVG, Mermaid, or a browser.
+- [matter-controller-mcp](https://freemcp.space/featured/matter-controller-mc) — An MCP server for Matter Controller, enabling AI agents to control and interact with Matter devices.
+- [cli](https://freemcp.space/featured/cli) — cli & mcp-server package for Push To Display
+- [telinksdk-builder-mcp](https://freemcp.space/featured/telinksdk-builder-mc) — Build Telink and other embedded SDKs (Eclipse headless, Make or generic) via natural language, with automatic build pattern detection.
+- [chartlink-agents](https://freemcp.space/featured/chartlink-agents) — chartlink for agents: Claude Code plugin, MCP bridge and listing kit for charts with live-updating embeds
+- [drawspec](https://freemcp.space/featured/drawspec) — Declarative diagram spec → clean, themeable SVG. JSON with no coordinates, so an LLM can write it correctly.
 - [mcp-server-weaviate](https://freemcp.space/featured/mcp-server-weaviate) — MCP (Model Context Protocol) server for Weaviate
 - [mcp-dashboards](https://freemcp.space/featured/mcp-dashboards) — Turn your data into interactive dashboards inside any AI client - MCP Apps powered
 - [ply-visualizer](https://freemcp.space/featured/ply-visualizer) — Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
@@ -179,18 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [hooksense-mcp](https://freemcp.space/featured/hooksense-mcp) — MCP server for HookSense — the webhook & callback layer for AI agents
 - [klanex-mcp](https://freemcp.space/featured/klanex-mcp) — MCP server for klanex — reliable async execution for agent tool calls
 - [imagedimensions-mcp](https://freemcp.space/featured/imagedimensions-mcp) — MCP server that audits images on any web page — natural vs rendered dimensions, oversized-image detection, and format breakdown. Powered by imagedimensions.com.
-- [sigrank-mcp](https://freemcp.space/featured/sigrank-mcp) — SigRank MCP — AI operator evaluation and token cascade efficiency tools. The yield cascade + live leaderboard as MCP tools any agent can call. On-device token scanner + tabbed TUI dashboard. npm i -g sigrank
-- [mockd](https://freemcp.space/featured/mockd) — High-performance, multi-protocol mock server. HTTP, WebSocket, gRPC, MQTT, SSE, GraphQL, SOAP in one binary.
-- [grafema](https://freemcp.space/featured/grafema) — Graph-based static analysis tool
-- [OctoCounts](https://freemcp.space/featured/octocounts) — Count lines of code (SLOC) in any public GitHub repo without cloning: web app, browser extension, CLI, GitHub Action and MCP server, powered by tokei. The SLOC panel GitHub forgot.
-- [graphpilot](https://freemcp.space/featured/graphpilot) — Structural memory for coding agents — index your repo once, query symbols, callers, and call-edges over MCP.
-- [vs-token-safer](https://freemcp.space/featured/vs-token-safer) — Token-saving code search for AI coding agents — TypeScript, JavaScript & Python (zero setup), C#, C++, Go & 30+ more, via a language-server or tree-sitter index instead of grep. Local-only, no IDE. Claude Code plugin + MCP + CLI.
-- [cpp26-adapter](https://freemcp.space/featured/cpp26-adapter) — Claude Code plugin that turns Claude into a C++26 specialist. Standard-first suggestions; compiler-honest verification.
-- [opn-mcp](https://freemcp.space/featured/opn-mcp) — MCP server for opn.onl — shorten links, read analytics & manage links from AI assistants. Works with the hosted service or your self-hosted instance.
-- [mcp-domain-deliverability-checker](https://freemcp.space/featured/mcp-domain-deliverab) — MCP server for the Mamba Labs Domain Deliverability Checker actor: SPF, DKIM, DMARC, MX, blacklist, catch-all, domain age. Clay-ready.
-- [mcp-abacus](https://freemcp.space/featured/mcp-abacus) — High-precision calculator MCP server — goes beyond arithmetic to calculus (derivatives, integrals) and equation solving, all evaluated in fixed-point, IEEE-754, or exact rational mode with every answer labelled exact or inexact.
-- [mcp-bigquery-server](https://freemcp.space/featured/mcp-bigquery-server) — A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery datasets. Enables Large Language Models (LLMs) to safely query and analyze data through a standardized interface.
-- [asc-mcp](https://freemcp.space/featured/asc-mcp-2) — MCP server for App Store Connect API - 502 tools for apps, builds, TestFlight, subscriptions, Xcode Cloud, and more from Claude, Cursor, VS Code, or any MCP client
 <!-- freemcp:end -->
 
 ---
