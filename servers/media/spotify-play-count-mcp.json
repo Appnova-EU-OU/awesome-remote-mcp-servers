@@ -1,0 +1,24 @@
+{
+  "name": "Spotify Play Count MCP",
+  "description": "Spotify play counts for any track, album, artist or playlist link, plus artist monthly listeners, followers, world rank and top cities. No Spotify login. Tool calls run an Apify Actor billed to your own Apify account ($0.002 per track row).",
+  "git_url": "https://github.com/GeminiGeorge22/spotify-play-count-mcp",
+  "homepage": "https://apify.com/publicrecords/spotify-play-count-scraper",
+  "author_github": "GeminiGeorge22",
+  "category": "media",
+  "tags": [
+    "spotify",
+    "music",
+    "streaming",
+    "analytics",
+    "apify"
+  ],
+  "env_keys": [
+    {
+      "key": "APIFY_TOKEN",
+      "kind": "required",
+      "description": "Apify API token; tool calls run the Apify Actor on your account (tools/list works without it)"
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
