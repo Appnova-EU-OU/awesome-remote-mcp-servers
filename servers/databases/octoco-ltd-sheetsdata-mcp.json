@@ -1,0 +1,12 @@
+{
+  "name": "sheetsdata-mcp",
+  "description": "sheetsdata-mcp",
+  "git_url": "https://github.com/octoco-ltd/sheetsdata-mcp",
+  "author_github": "octoco-ltd",
+  "category": "databases",
+  "tags": [
+    "sheetsdata"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
