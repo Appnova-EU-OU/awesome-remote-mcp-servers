@@ -1,0 +1,17 @@
+{
+  "name": "platformio.mcp",
+  "description": "MCP server that lets AI coding agents drive PlatformIO: build, flash, serial monitor, tests, crash decoding, size reports",
+  "git_url": "https://github.com/powerdragonfire/platformio.mcp",
+  "author_github": "powerdragonfire",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "embedded",
+    "esp32",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/platformio.mcp/"
+}
