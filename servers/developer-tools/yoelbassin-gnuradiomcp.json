@@ -1,0 +1,14 @@
+{
+  "name": "gnuradioMCP",
+  "description": "MCP server for GNU Radio",
+  "git_url": "https://github.com/yoelbassin/gnuradioMCP",
+  "author_github": "yoelbassin",
+  "category": "developer-tools",
+  "tags": [
+    "gnuradiomcp",
+    "gnu",
+    "radio"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
