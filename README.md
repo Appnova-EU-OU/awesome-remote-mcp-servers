@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [serial-mcp-server](https://freemcp.space/featured/serial-mcp-server) — Rust MCP server and CLI for serial/UART devices, with JSON macro automation and agent skills for repeatable timed workflows.
+- [opcua-mcp](https://freemcp.space/featured/opcua-mcp) — An MCP server that connects to OPC UA-enabled industrial systems.
+- [modbus-mcp](https://freemcp.space/featured/modbus-mcp) — An MCP server that standardizes and contextualizes industrial Modbus data.
+- [ByteAsk-Embedded-MCP](https://freemcp.space/featured/byteask-embedded-mcp) — The open-source MCP server behind ByteAsk Embedded Docs: a source-grounded, page-cited evidence-retrieval server for coding agents (Claude Code, Codex, Cursor) that write firmware / driver / protocol code and need exact facts.
+- [redcon](https://freemcp.space/featured/redcon) — Context budgeting layer for coding agents: selects, compresses, caches and budgets repository context. Public benchmark (context-eval), MCP. Open source.
+- [openbaud](https://freemcp.space/featured/openbaud) — Turn serial devices into reusable, auditable tools for coding agents — discover, decode, visualize, capture, and replay.
+- [obsbot-mcp](https://freemcp.space/featured/obsbot-mcp) — Cross-platform MCP server for OBSBOT Tiny 2 (UVC) camera control
+- [smolmux](https://freemcp.space/featured/smolmux) — C11 device multiplexer: share serial UART / GDB SWD across humans, scripts, and AI agents (MCP). MIT.
 - [Comparador Luz Gas](https://freemcp.space/nuncaeslupus/comparador-luz-gas) — **El comparador oficial de tarifas de luz y gas de la CNMC, como librería, CLI y servidor MCP.**
 - [Numerador Facturas](https://freemcp.space/nuncaeslupus/numerador-facturas) — **Numera facturas PDF en lote desde el navegador.** Estampa un número correlativo (`F-0001`, `F-0002`…) en **todas las páginas** de cada factura y te devuelve un ZIP listo para entregar. Todo ocurre del lado del cliente: **los PDFs nunca salen de tu equipo.**
 - [Doc Control](https://freemcp.space/nuncaeslupus/doc-control) — **Lets AI agents edit Word documents as tracked changes the writer can accept or reject.**
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [wcagc-mcp](https://freemcp.space/featured/wcagc-mcp) — MCP server for wcagc — let Claude or ChatGPT run real axe-core accessibility scans (WCAG, EN 301 549, PDF/UA) through your own account.
 - [quelllm-mcp](https://freemcp.space/featured/quelllm-mcp) — MCP server for quelllm.fr — 250+ open-weights LLM catalog. Tools: list/compare/estimate VRAM/estimate cost API vs self-hosted.
 - [packkit-mcp](https://freemcp.space/featured/packkit-mcp) — MCP server for Packkit — scaffold, upgrade & compose fullstack projects in any supported language (JS/TS, Python, Go) as a native AI-agent tool
-- [argot](https://freemcp.space/featured/argot) — A statistical code analyzer built from your repository's history.
-- [rlg](https://freemcp.space/featured/rlg) — Near-lock-free structured logging for Rust: a 65,536-slot ring buffer, formatting deferred to a background thread, 14 output formats (JSON, ECS, GELF, OTLP, logfmt…) and native os_log/journald sinks. Plus an OTLP/HTTP exporter, an MCP server for AI agents, Tower middleware, PII redaction, WebAssembly bindings and a jq-style CLI.
-- [synapse-code-mcp](https://freemcp.space/featured/synapse-code-mcp) — Model Context Protocol server for code intelligence. Lets AI assistants explore your codebase on demand — semantic context with dependency graphs, compressed symbol indexes for TypeScript/JavaScript, plus git diffs and ripgrep-powered search across any language.
-- [inkcheck](https://freemcp.space/featured/inkcheck) — CI for ink stories — compile checks, exhaustive branch playtesting, dead-content detection. MCP server + CLI.
-- [vectr](https://freemcp.space/featured/vectr) — Semantic codebase search + persistent working memory for AI code editors. Local, zero-config, MCP. No API key.
-- [hooksense-mcp](https://freemcp.space/featured/hooksense-mcp) — MCP server for HookSense — the webhook & callback layer for AI agents
-- [klanex-mcp](https://freemcp.space/featured/klanex-mcp) — MCP server for klanex — reliable async execution for agent tool calls
-- [imagedimensions-mcp](https://freemcp.space/featured/imagedimensions-mcp) — MCP server that audits images on any web page — natural vs rendered dimensions, oversized-image detection, and format breakdown. Powered by imagedimensions.com.
 <!-- freemcp:end -->
 
 ---
