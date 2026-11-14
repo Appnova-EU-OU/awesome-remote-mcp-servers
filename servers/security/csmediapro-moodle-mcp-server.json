@@ -1,0 +1,17 @@
+{
+  "name": "moodle-mcp-server",
+  "description": "Open-source MCP server that connects AI agents to Moodle LMS data through Moodle Web Services.",
+  "git_url": "https://github.com/csmediapro/moodle-mcp-server",
+  "author_github": "csmediapro",
+  "category": "security",
+  "tags": [
+    "agenticquerylayer",
+    "ai",
+    "education",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active",
+  "homepage": "https://csmediapro.com/products/moodle-mcp-server"
+}
