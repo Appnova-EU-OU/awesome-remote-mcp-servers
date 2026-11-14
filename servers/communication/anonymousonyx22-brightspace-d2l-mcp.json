@@ -1,0 +1,17 @@
+{
+  "name": "brightspace-d2l-mcp",
+  "description": "Brightspace D2L MCP server for Claude, ChatGPT, Cursor and Copilot. Knows what you already handed in, so it only tells you what is actually left. Due dates, grades and course files at any school with normal SSO sign-in.",
+  "git_url": "https://github.com/AnonymousOnyx22/brightspace-d2l-mcp",
+  "author_github": "AnonymousOnyx22",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "brightspace",
+    "brightspacemcp",
+    "chatgpt",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://brightspace-mcp.netlify.app"
+}
