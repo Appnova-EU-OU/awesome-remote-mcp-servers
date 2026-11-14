@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [gnuradioMCP](https://freemcp.space/featured/gnuradiomcp) — MCP server for GNU Radio
+- [mcp-server-kicad](https://freemcp.space/featured/mcp-server-kicad) — Maintenance mode: security and KiCad compatibility fixes only (see README for why). KiCad MCP server: 100+ Model Context Protocol tools that let an AI assistant do schematic capture and PCB layout, run ERC and DRC, and export Gerbers, BOM and 3D models.
+- [sheetsdata-mcp](https://freemcp.space/featured/sheetsdata-mcp) — sheetsdata-mcp
+- [misterclaw](https://freemcp.space/featured/misterclaw) — 👾🦀 MiSTerClaw — MCP Remote Control for MiSTer-FPGA
+- [fw-context-mcp](https://freemcp.space/featured/fw-context-mcp) — C/C++ semantic index for AI coding assistants — powered by your compile_commands.json. Query the program your compiler actually builds, not just the source files.
+- [platformio.mcp](https://freemcp.space/featured/platformio-mcp) — MCP server that lets AI coding agents drive PlatformIO: build, flash, serial monitor, tests, crash decoding, size reports
+- [ugs-mcp](https://freemcp.space/featured/ugs-mcp) — MCP server for controlling CNC machines via Universal GCode Sender
+- [stm32-gdb-mcp](https://freemcp.space/302875837/stm32-gdb-mcp) — MCP server that lets AI agents debug STM32 firmware on real hardware (GDB + OpenOCD/ST-Link/J-Link): HardFault triage, FreeRTOS, SWO/RTT, decoded structured results.
 - [serial-mcp-server](https://freemcp.space/featured/serial-mcp-server) — Rust MCP server and CLI for serial/UART devices, with JSON macro automation and agent skills for repeatable timed workflows.
 - [opcua-mcp](https://freemcp.space/featured/opcua-mcp) — An MCP server that connects to OPC UA-enabled industrial systems.
 - [modbus-mcp](https://freemcp.space/featured/modbus-mcp) — An MCP server that standardizes and contextualizes industrial Modbus data.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [anyhook-mcp](https://freemcp.space/featured/anyhook-mcp) — MCP server + signature verification for AnyHook, the webhook relay with a keyless quickstart (npx -y anyhook-mcp)
 - [magzdown-agent-tools](https://freemcp.space/featured/magzdown-agent-tools) — Give any AI agent a way to hand humans a typeset document link (Claude Code skill, Cursor rule, MCP server)
 - [sensorium](https://freemcp.space/featured/sensorium) — Record a program run, then let coding agents query the trace over MCP. Python, Rust, TypeScript.
-- [qai-consultant](https://freemcp.space/featured/qai-consultant) — AI-powered QA Architect agent — generates ISTQB/OWASP/IEEE/ISO-grounded Test Strategies, Risk Registers, Effort Estimates & Test Plans via RAG. Cloud-hosted (Mistral API + Pinecone).
-- [diffgate](https://freemcp.space/saurabh-acharya/diffgate) — Triage for AI-generated code review: grades each changed diff line green/yellow/orange by impact, so reviewers spend attention where it matters. High-signal, low-noise (0 false blocks), deterministic — in your coding agent (MCP), editor (VS Code), and CLI/CI.
-- [ariadne](https://freemcp.space/featured/ariadne-2) — ariadne is an MCP (Model Context Protocol) server that provides AI agents with the ability to identify affected tests.
-- [jsonfabrica-mcp-server](https://freemcp.space/featured/jsonfabrica-mcp-serv) — Generate realistic, schema-conformant JSON test data (single documents or relational batches) from reusable templates via the JsonFabrica API.
-- [symfony-agent-mcp](https://freemcp.space/featured/symfony-agent-mcp) — Model Context Protocol server for Symfony applications — read-only introspection of routes, services, entities, controllers, database schema, migrations, composer packages and logs
-- [wcagc-mcp](https://freemcp.space/featured/wcagc-mcp) — MCP server for wcagc — let Claude or ChatGPT run real axe-core accessibility scans (WCAG, EN 301 549, PDF/UA) through your own account.
-- [quelllm-mcp](https://freemcp.space/featured/quelllm-mcp) — MCP server for quelllm.fr — 250+ open-weights LLM catalog. Tools: list/compare/estimate VRAM/estimate cost API vs self-hosted.
-- [packkit-mcp](https://freemcp.space/featured/packkit-mcp) — MCP server for Packkit — scaffold, upgrade & compose fullstack projects in any supported language (JS/TS, Python, Go) as a native AI-agent tool
 <!-- freemcp:end -->
 
 ---
