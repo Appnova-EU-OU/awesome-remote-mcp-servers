@@ -1,0 +1,16 @@
+{
+  "name": "ent1-mcp",
+  "description": "Serveur MCP (Model Context Protocol) en Rust pour l'ENT ONE / Edifice : messagerie avec les enseignants, carnet de liaison, cahier de texte, actualités… depuis Claude ou ChatGPT.",
+  "git_url": "https://github.com/edouard-claude/ent1-mcp",
+  "author_github": "edouard-claude",
+  "category": "communication",
+  "tags": [
+    "chatgpt",
+    "claude",
+    "ecole",
+    "edifice",
+    "education"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
