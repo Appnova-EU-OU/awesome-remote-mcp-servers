@@ -1,0 +1,17 @@
+{
+  "name": "mcp-vtenext",
+  "description": "MCP server for VTENext CRM: exposes the WebService API as tools for Claude and other MCP clients",
+  "git_url": "https://github.com/Castaldo-Solutions/mcp-vtenext",
+  "author_github": "Castaldo-Solutions",
+  "category": "developer-tools",
+  "tags": [
+    "vtenext",
+    "crm",
+    "exposes",
+    "webservice",
+    "api"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.castaldosolutions.it/articles/blog/mcp-server-vtenext-crm-claude"
+}
