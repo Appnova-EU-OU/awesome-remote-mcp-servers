@@ -1,0 +1,17 @@
+{
+  "name": "canvas-mcp",
+  "description": "Local-first Canvas LMS MCP server. Stdio transport, ~125 lines of Python.",
+  "git_url": "https://github.com/admin978/canvas-mcp",
+  "author_github": "admin978",
+  "category": "developer-tools",
+  "tags": [
+    "canvaslms",
+    "claude",
+    "claudecode",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.agente404.com"
+}
