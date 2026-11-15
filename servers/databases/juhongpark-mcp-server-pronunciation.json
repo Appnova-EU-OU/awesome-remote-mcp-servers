@@ -1,0 +1,16 @@
+{
+  "name": "mcp-server-pronunciation",
+  "description": "Local MCP voice coach with English pronunciation, grammar, and fluency feedback.",
+  "git_url": "https://github.com/JuhongPark/mcp-server-pronunciation",
+  "author_github": "JuhongPark",
+  "category": "databases",
+  "tags": [
+    "englishlearning",
+    "languagelearning",
+    "mcp",
+    "modelcontextprotocol",
+    "pronunciation"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
