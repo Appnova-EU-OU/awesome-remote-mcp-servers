@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [esp-mcp](https://freemcp.space/featured/esp-mcp) — Centralize ESP32 related commands and simplify getting started with seamless, LLM-driven interaction and help.
+- [usb-rea](https://freemcp.space/featured/usb-rea) — Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
+- [campus-cli](https://freemcp.space/featured/campus-cli) — CLI no oficial para UPC Aula Virtual (Blackboard Learn) — terminal + MCP para Claude
+- [brightspace-d2l-mcp](https://freemcp.space/featured/brightspace-d2l-mcp) — Brightspace D2L MCP server for Claude, ChatGPT, Cursor and Copilot. Knows what you already handed in, so it only tells you what is actually left. Due dates, grades and course files at any school with normal SSO sign-in.
+- [canvas-mcp](https://freemcp.space/featured/canvas-mcp) — Local-first Canvas LMS MCP server. Stdio transport, ~125 lines of Python.
+- [moodle-mcp-server](https://freemcp.space/featured/moodle-mcp-server) — Open-source MCP server that connects AI agents to Moodle LMS data through Moodle Web Services.
+- [ent1-mcp](https://freemcp.space/featured/ent1-mcp) — Serveur MCP (Model Context Protocol) en Rust pour l'ENT ONE / Edifice : messagerie avec les enseignants, carnet de liaison, cahier de texte, actualités… depuis Claude ou ChatGPT.
+- [servomotor-mcp](https://freemcp.space/featured/servomotor-mcp) — Drive Gearotons M17 open-source servomotors from natural language (MCP server).
 - [gnuradioMCP](https://freemcp.space/featured/gnuradiomcp) — MCP server for GNU Radio
 - [mcp-server-kicad](https://freemcp.space/featured/mcp-server-kicad) — Maintenance mode: security and KiCad compatibility fixes only (see README for why). KiCad MCP server: 100+ Model Context Protocol tools that let an AI assistant do schematic capture and PCB layout, run ERC and DRC, and export Gerbers, BOM and 3D models.
 - [sheetsdata-mcp](https://freemcp.space/featured/sheetsdata-mcp) — sheetsdata-mcp
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-yango-delivery](https://freemcp.space/featured/mcp-yango-delivery) — MCP server for the Yango Delivery B2B Express (Claims) API: quote, book and track courier deliveries from an AI app
 - [mcp-yandex-dostavka](https://freemcp.space/featured/mcp-yandex-dostavka) — MCP server for the Yandex Delivery (Dostavka) B2B API: calculate cost, create and track courier, pickup point and parcel locker shipments from an AI app
 - [opengist-mcp](https://freemcp.space/featured/opengist-mcp) — MCP server for Opengist, the self-hosted pastebin powered by Git
-- [mcp-unifi-applications](https://freemcp.space/featured/mcp-unifi-applicatio) — UniFi MCP server that makes the official UniFi API documentation (Network, Protect, Site Manager, InnerSpace) queryable by AI agents — endpoint search, schema drill-down, code examples in 5 languages. Read-only, no controller credentials.
-- [xlide_mcp](https://freemcp.space/featured/xlide-mcp) — Read, write, analyze and test the VBA inside Excel, Word, PowerPoint and Access files, and edit the document around it. No Office installation needed.
-- [workspace-metabolism](https://freemcp.space/featured/workspace-metabolism) — Govern what Claude Code, Codex, Aider and OpenClaw leave in your workspace: one JSON policy file, audit, recyclable clean, rollback, hash-chained audit trail.
-- [mcp-server](https://freemcp.space/featured/mcp-server-25) — Pin visual feedback on any live web page and send it to Claude Code, Cursor or your AI agent.
-- [crapkit](https://freemcp.space/featured/crapkit) — Per-function CRAP scores from complexity and coverage, churn-ranked worklists, and ratchet gates for code changes. CLI, MCP, and GitHub Action.
-- [anyhook-mcp](https://freemcp.space/featured/anyhook-mcp) — MCP server + signature verification for AnyHook, the webhook relay with a keyless quickstart (npx -y anyhook-mcp)
-- [magzdown-agent-tools](https://freemcp.space/featured/magzdown-agent-tools) — Give any AI agent a way to hand humans a typeset document link (Claude Code skill, Cursor rule, MCP server)
-- [sensorium](https://freemcp.space/featured/sensorium) — Record a program run, then let coding agents query the trace over MCP. Python, Rust, TypeScript.
 <!-- freemcp:end -->
 
 ---
