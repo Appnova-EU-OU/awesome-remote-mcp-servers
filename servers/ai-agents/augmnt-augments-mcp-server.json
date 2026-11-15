@@ -1,0 +1,17 @@
+{
+  "name": "augments-mcp-server",
+  "description": "Comprehensive MCP server providing real-time framework documentation access for Claude Code with intelligent caching, multi-source integration, and context-aware assistance.",
+  "git_url": "https://github.com/augmnt/augments-mcp-server",
+  "author_github": "augmnt",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "async",
+    "caching",
+    "claudecode",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://augments.dev"
+}
