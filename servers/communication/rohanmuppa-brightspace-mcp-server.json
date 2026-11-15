@@ -1,0 +1,17 @@
+{
+  "name": "brightspace-mcp-server",
+  "description": "MCP server for Brightspace (D2L). Works with any school.",
+  "git_url": "https://github.com/RohanMuppa/brightspace-mcp-server",
+  "author_github": "RohanMuppa",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "assignments",
+    "brightspace",
+    "brightspaceapi",
+    "chatgpt"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/brightspace-mcp-server"
+}
