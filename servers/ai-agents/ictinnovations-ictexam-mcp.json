@@ -1,0 +1,17 @@
+{
+  "name": "ictexam-mcp",
+  "description": "MCP server for ICTExam — read exams, gradebooks and item analysis; parse papers with AI and publish exams. By ICT Innovations.",
+  "git_url": "https://github.com/ictinnovations/ictexam-mcp",
+  "author_github": "ictinnovations",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "assessment",
+    "claude",
+    "edtech",
+    "ictexam"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.ictlms.net"
+}
