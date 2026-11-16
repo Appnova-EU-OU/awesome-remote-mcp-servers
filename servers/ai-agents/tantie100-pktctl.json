@@ -1,0 +1,16 @@
+{
+  "name": "pktctl",
+  "description": "The MCP server that puts Cisco Packet Tracer under your AI agent's control. Native PTMP, 72 tools, one static binary.",
+  "git_url": "https://github.com/TantiE100/pktctl",
+  "author_github": "TantiE100",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "ccna",
+    "cisco",
+    "ciscopackettracer",
+    "claude"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
