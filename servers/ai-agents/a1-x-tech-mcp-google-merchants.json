@@ -1,0 +1,17 @@
+{
+  "name": "mcp-google-merchants",
+  "description": "MCP server for Google Merchant Center (Merchant API): diagnose disapproved products, manage product data, feeds and promotions, read performance reports",
+  "git_url": "https://github.com/A1-x-Tech/mcp-google-merchants",
+  "author_github": "A1-x-Tech",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cursor",
+    "ecommerce",
+    "googleapi"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://t.me/a1_mcp"
+}
