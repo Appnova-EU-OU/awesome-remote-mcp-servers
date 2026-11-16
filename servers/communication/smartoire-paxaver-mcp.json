@@ -1,0 +1,16 @@
+{
+  "name": "paxaver-mcp",
+  "description": "Paxaver school community platform: student lunch ordering with allergy and dietary checks, wallets, school calendars, volunteering, memberships and payments.",
+  "git_url": "https://github.com/Smartoire/paxaver-mcp",
+  "author_github": "Smartoire",
+  "category": "communication",
+  "tags": [
+    "paxaver",
+    "school",
+    "community",
+    "platform",
+    "student"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
