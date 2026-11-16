@@ -1,0 +1,16 @@
+{
+  "name": "gptzero-mcp",
+  "description": "Detect AI-generated text via the GPTZero API, with confidence scores, probability breakdowns and French and Spanish support.",
+  "git_url": "https://github.com/louis030195/gptzero-mcp",
+  "author_github": "louis030195",
+  "category": "ai-agents",
+  "tags": [
+    "gptzero",
+    "detect",
+    "generated",
+    "text",
+    "via"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
