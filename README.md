@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [brightspace-mcp-server](https://freemcp.space/featured/brightspace-mcp-serv) — MCP server for Brightspace (D2L). Works with any school.
+- [pronounce](https://freemcp.space/featured/pronounce) — 🔊 Hear how developers actually pronounce kubectl, nginx, GIF & 1,900+ tech terms. Sourced dictionary + CLI + VS Code + GitHub Action + MCP + Agent Skill.
+- [ictexam-mcp](https://freemcp.space/featured/ictexam-mcp) — MCP server for ICTExam — read exams, gradebooks and item analysis; parse papers with AI and publish exams. By ICT Innovations.
+- [scorm-mcp-server](https://freemcp.space/featured/scorm-mcp-server) — Turn HTML, Claude Design bundles or mobile-learning exports into LMS-ready SCORM 2004/1.2 packages — and validate any SCORM zip. Offline, tracked, MIT.
+- [learn-shell](https://freemcp.space/featured/learn-shell) — An agent-native teaching OS — a classroom that remembers, for you and your AI. MCP server + self-hosted web app.
+- [mcp-server-pronunciation](https://freemcp.space/featured/mcp-server-pronuncia) — Local MCP voice coach with English pronunciation, grammar, and fluency feedback.
+- [voice-coach-mcp](https://freemcp.space/featured/voice-coach-mcp) — Local voice coach: records the mic and measures singing pitch accuracy (cents, vibrato, MIDI melody), phoneme-level English pronunciation and public-speaking pace, pauses and filler words, with a coaching skill and progress log.
+- [geogebra-mcp](https://freemcp.space/featured/geogebra-mcp) — MCP server that lets AI (Claude, Cursor…) draw, check and fix plane-geometry figures live on GeoGebra Calculator
 - [esp-mcp](https://freemcp.space/featured/esp-mcp) — Centralize ESP32 related commands and simplify getting started with seamless, LLM-driven interaction and help.
 - [usb-rea](https://freemcp.space/featured/usb-rea) — Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
 - [campus-cli](https://freemcp.space/featured/campus-cli) — CLI no oficial para UPC Aula Virtual (Blackboard Learn) — terminal + MCP para Claude
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [parcel-shipping-rates-mcp](https://freemcp.space/featured/parcel-shipping-rate) — MCP server for live USPS, UPS and FedEx rates on a parcel sent from the US: domestic, Canada, UK, Germany, Australia. No scale, no account, no API key.
 - [packzoo-mcp](https://freemcp.space/featured/packzoo-mcp) — PackZoo MCP server — compare parcel and letter delivery prices across 60+ carriers in 27 European countries.
 - [peckish](https://freemcp.space/featured/peckish) — Order food and groceries on DoorDash via its CLI (macOS arm64): search stores, compare fee-included totals, build carts; orders need user approval.
-- [DoorDash-MCP-Server](https://freemcp.space/featured/doordash-mcp-server) — Unofficial DoorDash Delivery integration.
-- [DragonMCP](https://freemcp.space/featured/dragonmcp) — DragonMCP is a Model Context Protocol (MCP) server designed for AI Agents to interact with local life services in Greater China (Mainland China, HKSAR) and Asia.  DragonMCP 是一个专为 AI Agent 设计的 Model Context Protocol (MCP) 服务器，旨在提供中国内地、中国香港及亚洲地区的本地生活服务接口。
-- [fagan](https://freemcp.space/featured/fagan) — Spend tokens on judgment, not typing. An MCP-native autonomous SDLC pipeline: frontier models plan and review, local models implement — engineering discipline on a $20/month budget.
-- [groundwork](https://freemcp.space/featured/groundwork) — Is this document-QA system ready to ship? Deployment-readiness gate for AI document-QA and extraction systems: grounding checks, privacy redaction and cost tracking, built on OpenGATE, Redacta and PubCrawl. CLI and MCP server.
-- [nostrpulse-full](https://freemcp.space/np79857/nostrpulse-full) — Autonomous Payment & Anti-Sybil Trust Layer for AI Agents via Nostr, Cashu eCash (NIP-61), and MCP.
-- [mcp-yango-delivery](https://freemcp.space/featured/mcp-yango-delivery) — MCP server for the Yango Delivery B2B Express (Claims) API: quote, book and track courier deliveries from an AI app
-- [mcp-yandex-dostavka](https://freemcp.space/featured/mcp-yandex-dostavka) — MCP server for the Yandex Delivery (Dostavka) B2B API: calculate cost, create and track courier, pickup point and parcel locker shipments from an AI app
-- [opengist-mcp](https://freemcp.space/featured/opengist-mcp) — MCP server for Opengist, the self-hosted pastebin powered by Git
 <!-- freemcp:end -->
 
 ---
