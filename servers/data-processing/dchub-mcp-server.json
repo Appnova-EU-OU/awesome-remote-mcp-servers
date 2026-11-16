@@ -1,6 +1,6 @@
 {
-  "name": "DC Hub MCP Server",
-  "description": "DC Hub is the live data layer for data-center site selection and the power, grid and energy infrastructure behind it. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. 94 tools, free to start. Hosted endpoint: https://dchub.cloud/mcp",
+  "name": "DC Hub",
+  "description": "DC Hub is the orchestration layer for data center and energy intelligence: start with execute_plan. It also publishes the Data Center Power Index (DCPI), a daily score of where data centers can get grid power across 300+ markets. 96 tools. Hosted endpoint: https://dchub.cloud/mcp. DCHUB_API_KEY is optional.",
   "git_url": "https://github.com/azmartone67/dchub-mcp-server",
   "homepage": "https://dchub.cloud/mcp",
   "author_github": "azmartone67",
