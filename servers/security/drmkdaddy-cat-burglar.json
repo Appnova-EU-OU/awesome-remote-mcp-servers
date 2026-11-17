@@ -1,0 +1,16 @@
+{
+  "name": "cat-burglar",
+  "description": "A stealth browser MCP for agents: three engines, diff observations, site memory, a human CAPTCHA handoff, and a benchmark harness.",
+  "git_url": "https://github.com/DrMkdaddy/cat-burglar",
+  "author_github": "DrMkdaddy",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "benchmark",
+    "browserautomation",
+    "browsermcp",
+    "captchahandoff"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
