@@ -1,0 +1,16 @@
+{
+  "name": "verify-atom",
+  "description": "Give AI agents cryptographically signed proof of web observations: Ed25519-signed proof packets (HTTP status, page title, body SHA-256, DNS, TLS) for any public URL. Install: `uvx verify-atom-mcp`.",
+  "git_url": "https://github.com/asherengos/verify-atom",
+  "author_github": "asherengos",
+  "category": "ai-agents",
+  "tags": [
+    "verify",
+    "atom",
+    "give",
+    "agents",
+    "cryptographically"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
