@@ -1,0 +1,17 @@
+{
+  "name": "softglaze-claude-plugin",
+  "description": "SoftGlaze Browser plugin for Claude Code and Cowork: isolated browser profiles, proxies and macros, with your approval for every change.",
+  "git_url": "https://github.com/softglazee/softglaze-claude-plugin",
+  "author_github": "softglazee",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "antidetect",
+    "antidetectbrowser",
+    "browserautomation",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://browser.softglaze.com/features/ai-agents"
+}
