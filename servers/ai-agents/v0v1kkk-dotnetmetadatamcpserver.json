@@ -1,0 +1,16 @@
+{
+  "name": "DotNetMetadataMcpServer",
+  "description": "A Model Context Protocol (MCP) server that provides detailed type information from .NET projects for AI coding agents.",
+  "git_url": "https://github.com/V0v1kkk/DotNetMetadataMcpServer",
+  "author_github": "V0v1kkk",
+  "category": "ai-agents",
+  "tags": [
+    "dotnetmetadatamcpserver",
+    "provides",
+    "detailed",
+    "type",
+    "information"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
