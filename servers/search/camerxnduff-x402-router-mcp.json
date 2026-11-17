@@ -1,0 +1,17 @@
+{
+  "name": "x402-router-mcp",
+  "description": "MCP server + free API for x402 Router: search and route to ~21k live, reliability-scored x402 pay-per-call endpoints (Base, Solana, USDC)",
+  "git_url": "https://github.com/camerxnduff/x402-router-mcp",
+  "author_github": "camerxnduff",
+  "category": "search",
+  "tags": [
+    "agentpayments",
+    "aiagents",
+    "base",
+    "discovery",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dashboard-production-4344.up.railway.app"
+}
