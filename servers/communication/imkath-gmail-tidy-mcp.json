@@ -1,0 +1,16 @@
+{
+  "name": "gmail-tidy-mcp",
+  "description": "MCP server that reads and organizes several Gmail accounts (labels, filters, archiving, drafts) and can never send or delete mail.",
+  "git_url": "https://github.com/imkath/gmail-tidy-mcp",
+  "author_github": "imkath",
+  "category": "communication",
+  "tags": [
+    "email",
+    "gmail",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
