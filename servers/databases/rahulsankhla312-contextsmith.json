@@ -1,0 +1,16 @@
+{
+  "name": "contextsmith",
+  "description": "Give your coding agent the right code, not more code. Local context engine for Claude Code, Cursor & Codex: code graph + hybrid search + embeddings + git history, packed into a token budget. Held-out SWE-bench: right file in 4k tokens 92% vs 29% for search + whole files. MIT, no API keys.",
+  "git_url": "https://github.com/RahulSankhla312/contextsmith",
+  "author_github": "RahulSankhla312",
+  "category": "databases",
+  "tags": [
+    "claudecode",
+    "codesearch",
+    "codingagents",
+    "contextengineering",
+    "embeddings"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
