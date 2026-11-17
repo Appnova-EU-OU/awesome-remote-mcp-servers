@@ -1,0 +1,17 @@
+{
+  "name": "dagon-mcp",
+  "description": "MCP server for Dagon Inference: uncensored LLMs, pay with Solana USDC",
+  "git_url": "https://github.com/inkwell-finance/dagon-mcp",
+  "author_github": "inkwell-finance",
+  "category": "ai-agents",
+  "tags": [
+    "llm",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "solana"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://inference.dagon.so"
+}
