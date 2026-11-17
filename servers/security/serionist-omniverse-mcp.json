@@ -1,0 +1,17 @@
+{
+  "name": "omniverse-mcp",
+  "description": "MCP server + Kit extension that lets AI assistants drive NVIDIA Omniverse apps (Isaac Sim, USD Composer): inspect and edit USD scenes, capture viewports with segmentation, control robots, physics and recordings.",
+  "git_url": "https://github.com/serionist/omniverse-mcp",
+  "author_github": "serionist",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "isaacsim",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/omniverse-mcp/"
+}
