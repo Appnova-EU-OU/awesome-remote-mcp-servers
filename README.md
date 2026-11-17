@@ -91,6 +91,14 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [SignsofAI](https://freemcp.space/featured/signsofai) — A free, privacy-first tool that flags the tells of AI-generated writing, overused vocabulary, rhetorical crutches, robotic sentence rhythm and, for every finding, tells you how to fix it.
+- [amazon-mcp](https://freemcp.space/featured/amazon-mcp) — Amazon MCP server by HasData: keyword search, product details, seller profiles and seller catalogues, as JSON.
+- [walmart-mcp](https://freemcp.space/featured/walmart-mcp) — MCP server for Walmart: keyword and category search, product pages with the buy box and other sellers, and the review feed with its filter block. 1,000 free credits every month.
+- [pktctl](https://freemcp.space/featured/pktctl) — The MCP server that puts Cisco Packet Tracer under your AI agent's control. Native PTMP, 72 tools, one static binary.
+- [mcp-yandex-merchants](https://freemcp.space/featured/mcp-yandex-merchants) — MCP server for Yandex Merchants (Yandex Tovary): change prices, discounts and product visibility without re-uploading the YML feed
+- [mcp-google-merchants](https://freemcp.space/featured/mcp-google-merchants) — MCP server for Google Merchant Center (Merchant API): diagnose disapproved products, manage product data, feeds and promotions, read performance reports
+- [shopscout-mcp](https://freemcp.space/featured/shopscout-mcp) — Let your agent shop and compare: Shopify catalog search, offer ranking and shipping-plan comparison, $0.01 USDC per call via x402 on Base.
+- [paxaver-mcp](https://freemcp.space/featured/paxaver-mcp) — Paxaver school community platform: student lunch ordering with allergy and dietary checks, wallets, school calendars, volunteering, memberships and payments.
 - [brightspace-mcp-server](https://freemcp.space/featured/brightspace-mcp-serv) — MCP server for Brightspace (D2L). Works with any school.
 - [pronounce](https://freemcp.space/featured/pronounce) — 🔊 Hear how developers actually pronounce kubectl, nginx, GIF & 1,900+ tech terms. Sourced dictionary + CLI + VS Code + GitHub Action + MCP + Agent Skill.
 - [ictexam-mcp](https://freemcp.space/featured/ictexam-mcp) — MCP server for ICTExam — read exams, gradebooks and item analysis; parse papers with AI and publish exams. By ICT Innovations.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [codemagic-mcp](https://freemcp.space/featured/codemagic-mcp) — Build, sign, and publish iOS & Android apps through AI agents — Codemagic CI/CD + App Store Connect + Google Play
 - [mcp-laya](https://freemcp.space/featured/mcp-laya) — Fast, local, non-autoregressive System-1 decision engine as MCP tools — typed decisions (classify / score / yes-no) over text, email, tickets or JSON in 100+ languages, with calibrated confidence and no text generation, so nothing to hallucinate. Offloads routing/triage/gating judgment calls from the main model; runs on-device, offline by default. `pipx install mcp-laya`
 - [proxykit-mcp](https://freemcp.space/featured/proxykit-mcp) — MCP server for ProxyKit — drive a local HTTP(S) debugging proxy from Claude, Cursor, and any MCP host.
-- [postman-mcp-server](https://freemcp.space/featured/postman-mcp-server) — An MCP server that provides access to Postman.
-- [yandex-lavka-mcp](https://freemcp.space/featured/yandex-lavka-mcp) — Unofficial MCP server for ordering Yandex Lavka groceries from an AI assistant (search, cart, checkout with confirmation)
-- [warp-agent-mcp](https://freemcp.space/featured/warp-agent-mcp) — MCP server for the Warp freight API. Quote, book, and track LTL/FTL shipments from any MCP-compatible AI agent.
-- [royalmail-mcp](https://freemcp.space/featured/royalmail-mcp) — Book, label, track and cancel Royal Mail and Parcelforce shipments from any MCP-compatible AI.
-- [claw-tsaver](https://freemcp.space/featured/claw-tsaver) — A token-saving MCP proxy for OpenClaw users. Cuts tool call payloads by 90%+ via lazy expansion.
-- [parcel-shipping-rates-mcp](https://freemcp.space/featured/parcel-shipping-rate) — MCP server for live USPS, UPS and FedEx rates on a parcel sent from the US: domestic, Canada, UK, Germany, Australia. No scale, no account, no API key.
-- [packzoo-mcp](https://freemcp.space/featured/packzoo-mcp) — PackZoo MCP server — compare parcel and letter delivery prices across 60+ carriers in 27 European countries.
-- [peckish](https://freemcp.space/featured/peckish) — Order food and groceries on DoorDash via its CLI (macOS arm64): search stores, compare fee-included totals, build carts; orders need user approval.
 <!-- freemcp:end -->
 
 ---
