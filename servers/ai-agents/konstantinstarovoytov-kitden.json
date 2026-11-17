@@ -1,0 +1,17 @@
+{
+  "name": "kitden",
+  "description": "See the MCP servers, plugins and skills Claude Code, Codex and Cursor load, and which skills got cut",
+  "git_url": "https://github.com/KonstantinStarovoytov/kitden",
+  "author_github": "KonstantinStarovoytov",
+  "category": "ai-agents",
+  "tags": [
+    "aicoding",
+    "claudecode",
+    "claudecodemarketplace",
+    "claudeplugin",
+    "codex"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/kitden/"
+}
