@@ -1,0 +1,16 @@
+{
+  "name": "FairValid",
+  "description": "Official hosted MCP server for email verification and FairMatch verified work-email discovery at https://mcp.fairvalid.com/mcp (Streamable HTTP). Requires a FairValid account with OAuth or an API key. Includes 300 shared free credits monthly; optional paid credits. The public repository contains integration packages and setup skills, while the hosted service is proprietary.",
+  "git_url": "https://github.com/moonlitnayeem/fairvalid-ai",
+  "author_github": "moonlitnayeem",
+  "category": "communication",
+  "tags": [
+    "email-verification",
+    "lead-generation",
+    "fairmatch",
+    "remote-mcp"
+  ],
+  "license": "Proprietary (hosted service); MIT (integration package)",
+  "status": "active",
+  "homepage": "https://fairvalid.com/en/help/mcp"
+}
