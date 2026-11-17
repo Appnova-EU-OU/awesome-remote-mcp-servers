@@ -1,0 +1,17 @@
+{
+  "name": "proton-mail-mcp",
+  "description": "Unofficial MCP server for Proton Mail Bridge: search and read mail, write drafts, guarded cleanup. Not affiliated with Proton AG.",
+  "git_url": "https://github.com/legalaspro/proton-mail-mcp",
+  "author_github": "legalaspro",
+  "category": "search",
+  "tags": [
+    "email",
+    "imap",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://manajev.com/proton-mail-mcp/"
+}
