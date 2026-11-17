@@ -1,0 +1,17 @@
+{
+  "name": "dinoctor-mcp",
+  "description": "MCP server for Dinoctor: let Claude, Cursor or any MCP app direct animated videos in the free Dinoctor app.",
+  "git_url": "https://github.com/Dinoctor/dinoctor-mcp",
+  "author_github": "Dinoctor",
+  "category": "media",
+  "tags": [
+    "animation",
+    "claude",
+    "cursor",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dinoctor.com"
+}
