@@ -1,0 +1,17 @@
+{
+  "name": "onlinecompiler-mcp",
+  "description": "MCP server for OnlineCompiler.io: run and judge code in 46 languages from AI assistants and coding tools such as Claude, ChatGPT, Gemini CLI, Cursor and Codex.",
+  "git_url": "https://github.com/onlinecompiler-io/onlinecompiler-mcp",
+  "author_github": "onlinecompiler-io",
+  "category": "databases",
+  "tags": [
+    "claude",
+    "codeexecution",
+    "geminicliextension",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://onlinecompiler.io/mcp-code-execution"
+}
