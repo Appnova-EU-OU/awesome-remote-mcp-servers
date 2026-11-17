@@ -1,0 +1,17 @@
+{
+  "name": "penlydoc-mcp",
+  "description": "MCP server for PenlyDoc e-signatures: send documents for signature, see who signed, download sealed PDFs",
+  "git_url": "https://github.com/OrestKlymko/penlydoc-mcp",
+  "author_github": "OrestKlymko",
+  "category": "security",
+  "tags": [
+    "aitools",
+    "documentsigning",
+    "esignature",
+    "eidas",
+    "electronicsignature"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://penlydoc.com"
+}
