@@ -1,0 +1,17 @@
+{
+  "name": "swarmnest-mcp",
+  "description": "Swarmnest MCP server: search AI agent tools, APIs, MCP servers and Agent Skills from Claude, Cursor, VS Code or any MCP client. Remote endpoint https://swarmnest.ai/mcp",
+  "git_url": "https://github.com/swarmnest/swarmnest-mcp",
+  "author_github": "swarmnest",
+  "category": "search",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "claude",
+    "cursor",
+    "directory"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://swarmnest.ai/mcp-server/"
+}
