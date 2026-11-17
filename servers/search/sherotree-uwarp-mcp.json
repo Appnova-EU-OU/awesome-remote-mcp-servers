@@ -1,0 +1,16 @@
+{
+  "name": "uwarp-mcp",
+  "description": "WCAG contrast checks, HSL palette + :root CSS generation, and search over 500+ free Uwarp UI design tools.",
+  "git_url": "https://github.com/sherotree/uwarp-mcp",
+  "author_github": "sherotree",
+  "category": "search",
+  "tags": [
+    "uwarp",
+    "wcag",
+    "contrast",
+    "checks",
+    "hsl"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
