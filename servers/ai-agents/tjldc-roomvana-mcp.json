@@ -1,0 +1,17 @@
+{
+  "name": "roomvana-mcp",
+  "description": "MCP server for Roomvana — browse room types & design styles and get a direct link to the Roomvana AI interior-design studio at https://roomvana.ai",
+  "git_url": "https://github.com/TJLDC/roomvana-mcp",
+  "author_github": "TJLDC",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "homedesign",
+    "interiordesign",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://roomvana.ai"
+}
