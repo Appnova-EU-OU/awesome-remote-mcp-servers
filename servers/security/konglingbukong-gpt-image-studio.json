@@ -1,0 +1,17 @@
+{
+  "name": "gpt-image-studio",
+  "description": "Let your AI agent generate images with OpenAI gpt-image-2.5 or any OpenAI-compatible relay — live web gallery, cost tracking, MCP, 5 languages",
+  "git_url": "https://github.com/konglingbukong/gpt-image-studio",
+  "author_github": "konglingbukong",
+  "category": "security",
+  "tags": [
+    "aiagent",
+    "aitools",
+    "claudecode",
+    "codex",
+    "gptimage"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://konglingbukong.github.io/gpt-image-studio/"
+}
