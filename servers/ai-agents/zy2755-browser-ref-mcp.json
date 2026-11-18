@@ -1,0 +1,16 @@
+{
+  "name": "browser-ref-mcp",
+  "description": "Reliable browser-control MCP server for AI agents: click by ref, self-healing sessions. No browser download.",
+  "git_url": "https://github.com/zy2755/browser-ref-mcp",
+  "author_github": "zy2755",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "browserautomation",
+    "claude",
+    "cursor",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
