@@ -1,0 +1,17 @@
+{
+  "name": "metrecept-opensource",
+  "description": "Metrecept open client tools: MCP server, SDK helpers, receipt verifiers",
+  "git_url": "https://github.com/iwasinnam2/metrecept-opensource",
+  "author_github": "iwasinnam2",
+  "category": "security",
+  "tags": [
+    "agents",
+    "cache",
+    "llm",
+    "mcp",
+    "metrecept"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://metrecept.co.uk"
+}
