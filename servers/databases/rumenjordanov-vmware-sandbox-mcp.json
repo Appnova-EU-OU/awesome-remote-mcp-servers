@@ -1,0 +1,16 @@
+{
+  "name": "vmware-sandbox-mcp",
+  "description": "MCP server that gives AI agents a disposable Linux VM on VMware Workstation: run code, copy files, click and type, then throw it away.",
+  "git_url": "https://github.com/rumenjordanov/vmware-sandbox-mcp",
+  "author_github": "rumenjordanov",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claude",
+    "codeexecution",
+    "computeruse",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
