@@ -1,0 +1,17 @@
+{
+  "name": "consult",
+  "description": "Get a second opinion on your code from every coding agent you have. Claude Code, Codex and Grok review each other's diffs and answer each other's questions, even inside a session that's already running. Uses the CLIs you're signed in to, no API keys.",
+  "git_url": "https://github.com/neelsatyavolu/consult",
+  "author_github": "neelsatyavolu",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codex",
+    "grok",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://getconsult.dev"
+}
