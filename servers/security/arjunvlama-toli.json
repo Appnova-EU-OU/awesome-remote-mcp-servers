@@ -1,0 +1,16 @@
+{
+  "name": "toli",
+  "description": "Let Claude Code, Codex, OpenClaw or any other agent work together, on one machine or across many.",
+  "git_url": "https://github.com/arjunvlama/toli",
+  "author_github": "arjunvlama",
+  "category": "security",
+  "tags": [
+    "a2a",
+    "agenttoagent",
+    "aiagents",
+    "claudecode",
+    "codex"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
