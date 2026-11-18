@@ -1,0 +1,16 @@
+{
+  "name": "sqai-mcp",
+  "description": "SQAI (Structured Query AI) MCP server — the three governed, deterministic, read-only structured-data tools (listSources, queryData, explainQuery) for any MCP host. npm: @thyn-ai/sqai-mcp. A Thyn product, Apache-2.0.",
+  "git_url": "https://github.com/thyn-ai/sqai-mcp",
+  "author_github": "thyn-ai",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "hacktoberfest",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
