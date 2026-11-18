@@ -1,0 +1,16 @@
+{
+  "name": "sendkuy-mcp",
+  "description": "WhatsApp, SMS and email for agents through SendKuy: send messages and batches, verify OTP codes, check WhatsApp numbers and run campaigns, with tools filtered by the API key's scopes.",
+  "git_url": "https://github.com/sendkuy/sendkuy-mcp",
+  "author_github": "sendkuy",
+  "category": "communication",
+  "tags": [
+    "sendkuy",
+    "whatsapp",
+    "sms",
+    "email",
+    "agents"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
