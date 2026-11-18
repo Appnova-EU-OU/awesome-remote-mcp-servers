@@ -1,0 +1,16 @@
+{
+  "name": "SoraCommander",
+  "description": "Let ChatGPT work on your Windows PC from an ordinary chat, approving each step locally. Developer preview.",
+  "git_url": "https://github.com/kurojack-jp/SoraCommander",
+  "author_github": "kurojack-jp",
+  "category": "communication",
+  "tags": [
+    "automation",
+    "chatgpt",
+    "mcp",
+    "mcpserver",
+    "python"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active"
+}
