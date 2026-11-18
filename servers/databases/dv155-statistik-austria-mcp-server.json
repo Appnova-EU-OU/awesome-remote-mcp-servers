@@ -1,0 +1,16 @@
+{
+  "name": "Statistik-Austria-MCP-Server",
+  "description": "Model Context Protocol (MCP) server for querying Statistik Austria's free OGD datasets.",
+  "git_url": "https://github.com/DV155/Statistik-Austria-MCP-Server",
+  "author_github": "DV155",
+  "category": "databases",
+  "tags": [
+    "statistik",
+    "austria",
+    "querying",
+    "free",
+    "ogd"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
