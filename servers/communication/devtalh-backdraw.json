@@ -1,0 +1,17 @@
+{
+  "name": "backdraw",
+  "description": "Let Claude generate images with your own ChatGPT account in a background Chrome tab. Local MCP server + Chrome extension, no API key, no open ports.",
+  "git_url": "https://github.com/devtalh/backdraw",
+  "author_github": "devtalh",
+  "category": "communication",
+  "tags": [
+    "aitools",
+    "chatgpt",
+    "chromeextension",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/devtalh/backdraw/releases/tag/v2.1.0"
+}
