@@ -91,6 +91,47 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [Handmade](https://freemcp.space/hhiramkarogo/handmade) — **Build AI-generated interfaces that look intentionally engineered, not generated.**
+- [handmade](https://freemcp.space/featured/handmade) — Handmade is a Model Context Protocol (MCP) server tailored to eliminate generic AI output by enforcing comprehensive prompt coverage and proactively clarifying ambiguities before generation.
+- [m4r-data](https://freemcp.space/featured/m4r-data) — Structured data from Music For Robots — music composed for machines, reviewed by AI critics
+- [gpt-image-studio](https://freemcp.space/featured/gpt-image-studio) — Let your AI agent generate images with OpenAI gpt-image-2.5 or any OpenAI-compatible relay — live web gallery, cost tracking, MCP, 5 languages
+- [spotify-data-mcp](https://freemcp.space/featured/spotify-data-mcp) — MCP server for Spotify data: play counts, monthly listeners, charts, artist stats, playlists and ISRC lookup for Claude, Cursor and VS Code
+- [bayze-mcp](https://freemcp.space/featured/bayze-mcp) — Local-first AI model-routing core: waterfall workflows with structured cross-vendor review (draft → review → revise). BYOK or unified API. MCP stdio. npm: bayze-mcp
+- [kitden](https://freemcp.space/featured/kitden) — See the MCP servers, plugins and skills Claude Code, Codex and Cursor load, and which skills got cut
+- [mcp-b2b-prospect-engine](https://freemcp.space/featured/mcp-b2b-prospect-eng) — MCP server for the Mamba Labs Prospect Engine actor on Apify
+- [verify-atom](https://freemcp.space/featured/verify-atom) — Give AI agents cryptographically signed proof of web observations: Ed25519-signed proof packets (HTTP status, page title, body SHA-256, DNS, TLS) for any public URL. Install: `uvx verify-atom-mcp`.
+- [dagon-mcp](https://freemcp.space/featured/dagon-mcp) — MCP server for Dagon Inference: uncensored LLMs, pay with Solana USDC
+- [multi-mail-mcp](https://freemcp.space/featured/multi-mail-mcp) — MCP server for searching, reading and writing mail across several Gmail accounts (Claude Desktop, Claude Code, ChatGPT)
+- [xonta-max-mcp](https://freemcp.space/featured/xonta-max-mcp) — MCP server for building bots and mini-apps for the MAX messenger (max.ru): current Bot API facts, code checks, Telegram migration hints, bot templates, deep links, ad tracking and test fixtures. English and Russian.
+- [proton-mail-mcp](https://freemcp.space/featured/proton-mail-mcp-2) — Unofficial MCP server for Proton Mail Bridge: search and read mail, write drafts, guarded cleanup. Not affiliated with Proton AG.
+- [whatsapp-messaging-api-mcp](https://freemcp.space/jevil257/whatsapp-messaging-a) — Send WhatsApp messages from Claude and any MCP client. No Meta Business approval or WhatsApp Business account.
+- [discord-management-mcp](https://freemcp.space/featured/discord-management-m) — Safe-by-default Discord management MCP server with JSON backups, restore planning and guarded mutations
+- [hellohop-mcp](https://freemcp.space/socialground/hellohop-mcp) — MCP server for the HelloHop WhatsApp API. Read chats, groups and communities from Claude, Cursor or any MCP client.
+- [blueticks-mcp](https://freemcp.space/featured/blueticks-mcp) — Blueticks MCP server for Claude Desktop / Cursor / Cline
+- [gmail-tidy-mcp](https://freemcp.space/featured/gmail-tidy-mcp) — MCP server that reads and organizes several Gmail accounts (labels, filters, archiving, drafts) and can never send or delete mail.
+- [mail-mcp-server](https://freemcp.space/featured/mail-mcp-server) — Read-only mail for AI agents: on-premises Exchange and any IMAP mailbox, with local search inside PDF, Office and ZIP attachments.
+- [mac-terminal-mcp](https://freemcp.space/featured/mac-terminal-mcp) — A sandboxed terminal for Claude on your Mac. No dialogs, no dependencies, no telemetry.
+- [spm](https://freemcp.space/featured/spm) — A simple, cross-platform manager for native system services.
+- [model-worker-mcp](https://freemcp.space/featured/model-worker-mcp) — MCP server delegating bounded coding tasks to an OpenAI-compatible model: explicit read/write paths, diff validation, risk-based routing.
+- [contextsmith](https://freemcp.space/featured/contextsmith) — Give your coding agent the right code, not more code. Local context engine for Claude Code, Cursor & Codex: code graph + hybrid search + embeddings + git history, packed into a token budget. Held-out SWE-bench: right file in 4k tokens 92% vs 29% for search + whole files. MIT, no API keys.
+- [onlinecompiler-mcp](https://freemcp.space/featured/onlinecompiler-mcp) — MCP server for OnlineCompiler.io: run and judge code in 46 languages from AI assistants and coding tools such as Claude, ChatGPT, Gemini CLI, Cursor and Codex.
+- [Viewport-iq](https://freemcp.space/featured/viewport-iq) — Production-grade Browser Inspection & Responsive Testing MCP Server. Inspect websites, test across viewports, detect layout overflow, capture screenshots, and run audits via Playwright & MCP.
+- [softglaze-claude-plugin](https://freemcp.space/featured/softglaze-claude-plu) — SoftGlaze Browser plugin for Claude Code and Cowork: isolated browser profiles, proxies and macros, with your approval for every change.
+- [nullprint-mcp](https://freemcp.space/featured/nullprint-mcp) — MCP server for Nullprint, the AI antidetect browser: let Claude, Codex, DeepSeek and other AI agents create, launch, check and drive browser profiles.
+- [cat-burglar](https://freemcp.space/featured/cat-burglar) — A stealth browser MCP for agents: three engines, diff observations, site memory, a human CAPTCHA handoff, and a benchmark harness.
+- [roomvana-mcp](https://freemcp.space/featured/roomvana-mcp) — MCP server for Roomvana — browse room types & design styles and get a direct link to the Roomvana AI interior-design studio at https://roomvana.ai
+- [uwarp-mcp](https://freemcp.space/featured/uwarp-mcp) — WCAG contrast checks, HSL palette + :root CSS generation, and search over 500+ free Uwarp UI design tools.
+- [omniverse-mcp](https://freemcp.space/featured/omniverse-mcp) — MCP server + Kit extension that lets AI assistants drive NVIDIA Omniverse apps (Isaac Sim, USD Composer): inspect and edit USD scenes, capture viewports with segmentation, control robots, physics and recordings.
+- [tag-per-track-mcp](https://freemcp.space/featured/tag-per-track-mcp) — Model Context Protocol (MCP) server enabling AI agents to perform musical audio analysis, lyrics transcription, and Spotify A&R tracking via x402 USDC micropayments on Base.
+- [dinoctor-mcp](https://freemcp.space/featured/dinoctor-mcp) — MCP server for Dinoctor: let Claude, Cursor or any MCP app direct animated videos in the free Dinoctor app.
+- [pour-cli](https://freemcp.space/featured/pour-cli) — Audit any URL against WCAG 2.2 from the terminal, in CI, and from AI agents over MCP.
+- [penlydoc-mcp](https://freemcp.space/featured/penlydoc-mcp) — MCP server for PenlyDoc e-signatures: send documents for signature, see who signed, download sealed PDFs
+- [mcpgate](https://freemcp.space/wensun1217/mcpgate) — MCP production gateway: API-key auth, per-key rate limiting, response caching, circuit breakers, and Prometheus metrics for MCP servers.
+- [swarmnest-mcp](https://freemcp.space/featured/swarmnest-mcp) — Swarmnest MCP server: search AI agent tools, APIs, MCP servers and Agent Skills from Claude, Cursor, VS Code or any MCP client. Remote endpoint https://swarmnest.ai/mcp
+- [x402-router-mcp](https://freemcp.space/featured/x402-router-mcp) — MCP server + free API for x402 Router: search and route to ~21k live, reliability-scored x402 pay-per-call endpoints (Base, Solana, USDC)
+- [agent-data-tools](https://freemcp.space/featured/agent-data-tools) — Focused APIs by monthly plan or pay per call: company check (EU VAT, Nordic and French registers, sanctions), PDF to text, web page to Markdown, plus 700 pay-per-call tools for AI agents over HTTP and MCP. Card, x402 or MPP.
+- [nexusgrid-mcp](https://freemcp.space/featured/nexusgrid-mcp) — Official MCP server providing edge-native AI agent tools: Web-to-Markdown scraper (NexusScrape), email deliverability & RFC 7208 auditor (MailAuthGuard), and disposable email fraud detector (FraudShield).
+- [onaa-protocol](https://freemcp.space/featured/onaa-protocol) — Open directory of stores where AI agents reached checkout (payment not tested), plus payment, escrow and shipping providers. Links only; ONAA never pays.
 - [SignsofAI](https://freemcp.space/featured/signsofai) — A free, privacy-first tool that flags the tells of AI-generated writing, overused vocabulary, rhetorical crutches, robotic sentence rhythm and, for every finding, tells you how to fix it.
 - [amazon-mcp](https://freemcp.space/featured/amazon-mcp) — Amazon MCP server by HasData: keyword search, product details, seller profiles and seller catalogues, as JSON.
 - [walmart-mcp](https://freemcp.space/featured/walmart-mcp) — MCP server for Walmart: keyword and category search, product pages with the buy box and other sellers, and the review feed with its filter block. 1,000 free credits every month.
@@ -150,47 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [axiom-advanced-math-mcp](https://freemcp.space/featured/axiom-advanced-math) — Exact symbolic math for LLMs: integrals, equations, matrices, and claim verification via Giac/Xcas. MCP server + CLI.
 - [renoun-mcp](https://freemcp.space/featured/renoun-mcp) — Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence patterns across 17 channels without analyzing content. MCP server + REST API.
 - [mcp-gnu-units](https://freemcp.space/featured/mcp-gnu-units) — Unit converter for AI agents, powered by the GNU units database — convert 3000+ units of measurement, evaluate compound unit expressions, reduce to SI base units, dimensional analysis. Offline, deterministic.
-- [jevx-mcp](https://freemcp.space/featured/jevx-mcp) — MCP server for Jevx (jevx.org): run Jev AI typed decisions from any MCP client
-- [optuna-mcp](https://freemcp.space/featured/optuna-mcp) — The Optuna MCP Server is a Model Context Protocol (MCP) server to interact with Optuna APIs.
-- [MCPR](https://freemcp.space/featured/mcpr) —  MCPR enables AI agents to participate in interactive R sessions for professional analysis workflows.
-- [oraclaw](https://freemcp.space/featured/oraclaw) — Deterministic decision-intelligence MCP server for AI agents — 17 tools (bandits/LinUCB, HiGHS LP/MIP, PageRank, Monte Carlo, CMA-ES, conformal). Sub-25ms. Zero LLM cost. 11 free, no key. Listed on the MCP Registry & Glama.
-- [code-guardian](https://freemcp.space/featured/code-guardian) — Code Guardian Studio – AI-powered code refactor engine for large repositories, built on Claude Code + MCP.
-- [mcp-turboquant](https://freemcp.space/featured/mcp-turboquant) — MCP server for LLM quantization. Compress any model to GGUF/GPTQ/AWQ in one tool call. First MCP server for model compression.
-- [kaggle-mcp-server](https://freemcp.space/featured/kaggle-mcp-server) — This project provides an MCP (Model Context Protocol) server for interacting with Kaggle competitions from Claude Desktop (or any MCP-compatible client)
-- [mcp-compress](https://freemcp.space/featured/mcp-compress) — First MCP server for data compression. 60x compression on docs, 30x on SQL, 20x on logs. Zero dependencies. Lossless. Auto-picks best algorithm. 7 tools for any AI agent.
-- [ephemeris-mcp](https://freemcp.space/featured/ephemeris-mcp) — MCP server for time-series foundation model (TSFM) forecasting: probabilistic forecasts from Chronos-2, TimesFM 2.5, Toto 2, TiRex-2 and IBM Granite models, or an accuracy-weighted ensemble.
-- [jupyter-notebook-mcp](https://freemcp.space/featured/jupyter-notebook-mcp) — A Model Context Protocol (MCP) for Jupyter Notebook
-- [label-studio-mcp-server](https://freemcp.space/featured/label-studio-mcp-ser) — Create, manage and automate Label Studio projects, tasks and predictions for data labeling workflows.
-- [WaveGuardClient](https://freemcp.space/featured/waveguardclient) — Python SDK for WaveGuard  physics-based anomaly detection API. One call. Any data.
-- [data-profiler-mcp](https://freemcp.space/featured/data-profiler-mcp) — MCP server that profiles tabular data files (CSV, Parquet, Excel, JSON) for LLM agents like Claude.
-- [rigor](https://freemcp.space/featured/rigor) — Verified statistical inference for AI agents -- classical and non-parametric hypothesis testing, correlation/regression, effect sizes, power/sample-size, multiple-comparisons correction, a test-recommendation helper, and a batch pairwise-comparison tool, as a CLI and an MCP server
-- [gnomon-mcp](https://freemcp.space/featured/gnomon-mcp) — Deterministic date, math and unit tools: time snapshots, calendar math with natural-language parsing, expression evaluation and Pint-based unit conversion.
-- [cortexcloud-mcp](https://freemcp.space/featured/cortexcloud-mcp) — x402 pay-per-call MCP server — 22 AI/data/RPC tools, USDC on Base, no API keys
-- [polymath-megablaster-mcp](https://freemcp.space/featured/polymath-megablaster) — Local MCP toolkit giving AI agents deterministic calculation instead of guessing: 15 free tools for exact math, dates, unit conversion, hashing, networking. 100% local, no network calls, no API keys, no telemetry.
-- [website-downloader](https://freemcp.space/featured/website-downloader) — MCP server to download entire websites
-- [chronulus-mcp](https://freemcp.space/featured/chronulus-mcp) — MCP Server for Chronulus AI Forecasting and Prediction Agents
-- [growthbook-mcp](https://freemcp.space/featured/growthbook-mcp) — Official GrowthBook MCP server for creating flags, getting experiments, and more.
-- [networkx-mcp-server](https://freemcp.space/featured/networkx-mcp-server) — 🕸️ First NetworkX MCP server for graph analysis in AI conversations | Community & Enterprise editions | Graph algorithms • Network analysis • MCP integration
-- [math-mcp-learning-server](https://freemcp.space/featured/math-mcp-learning-se) — Educational MCP server with math operations, matrix algebra, data visualization, and persistent workspace
-- [llm-advisor-mcp](https://freemcp.space/featured/llm-advisor-mcp) — Real-time LLM and VLM comparison with benchmarks, prices and personalized recommendations from multiple data sources.
-- [filter-mcp-server](https://freemcp.space/featured/filter-mcp-server) — MCP server comparing approximate filters (Bloom, Counting Bloom, Cuckoo, SuRF). Listed in awesome-mcp-servers.
-- [neurocode](https://freemcp.space/featured/neurocode) — In-memory Code Property Graph context slicer for local models (Ollama, Cursor, Claude Desktop): extracts sub-1,200 token reachability closures for autonomous repository bug repair on consumer edge hardware (4GB–8GB VRAM) without cloud API dependency.
-- [kaggle-mcp](https://freemcp.space/featured/kaggle-mcp-2) — MCP server for Kaggle
-- [fermat-mcp](https://freemcp.space/featured/fermat-mcp) — 🚀 Fermat MCP: The Ultimate Math Engine - Unifying SymPy, NumPy & Matplotlib in one powerful server! Perfect for devs & researchers. 
-- [mathlas](https://freemcp.space/featured/mathlas) — Airtight math tools an AI uses over MCP — 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.
-- [calculator-server](https://freemcp.space/featured/calculator-server) — A comprehensive Go-based MCP server for mathematical computations with 13+ tools
-- [stella-mcp](https://freemcp.space/featured/stella-mcp) — MCP server for Stella
-- [dataloupe](https://freemcp.space/featured/dataloupe) — Offline data explorer + MCP server: turn CSV/Parquet/Excel into ONE self-contained interactive HTML file, or let your AI assistant query local data — nothing leaves your machine.
-- [mathmethods-mcp](https://freemcp.space/featured/mathmethods-mcp) — MCP server for numerical methods and dynamic systems: root finding, integration, ODEs, Monte Carlo, 1D/2D dynamical systems, and combat models.
-- [decisionmatrix-mcp](https://freemcp.space/featured/decisionmatrix-mcp) — Deterministic multi-criteria decision analysis (MCDA) for AI agents over MCP — score, rank & explain options against weighted criteria. Weighted-sum, weighted-product, TOPSIS. Exact decimals. Live remote server + self-host.
-- [otakit](https://freemcp.space/featured/otakit) — Push updates directly to your Capacitor app without app store reviews.
-- [mcp-architect](https://freemcp.space/featured/mcp-architect) — Give any AI assistant real architectural understanding of a codebase — local, private, zero-config MCP serve
-- [Unfour](https://freemcp.space/featured/unfour) — Local-first backend troubleshooting workspace for tracing failures across API, SSH, and databases, with MCP-assisted runtime evidence.
-- [qa-probe](https://freemcp.space/featured/qa-probe) — Local QA agent — maps frontend routes to backend APIs, probes every endpoint live, scores pages 0–100, and explains why data is missing. Built for LightShield SIEM. Works with any FastAPI / Express / Next.js app.
-- [amendor-mcp](https://freemcp.space/featured/amendor-mcp) — Connect your coding agent to Amendor. Pulls change requests into your agent so it builds them and opens PRs.
-- [codemagic-mcp](https://freemcp.space/featured/codemagic-mcp) — Build, sign, and publish iOS & Android apps through AI agents — Codemagic CI/CD + App Store Connect + Google Play
-- [mcp-laya](https://freemcp.space/featured/mcp-laya) — Fast, local, non-autoregressive System-1 decision engine as MCP tools — typed decisions (classify / score / yes-no) over text, email, tickets or JSON in 100+ languages, with calibrated confidence and no text generation, so nothing to hallucinate. Offloads routing/triage/gating judgment calls from the main model; runs on-device, offline by default. `pipx install mcp-laya`
-- [proxykit-mcp](https://freemcp.space/featured/proxykit-mcp) — MCP server for ProxyKit — drive a local HTTP(S) debugging proxy from Claude, Cursor, and any MCP host.
 <!-- freemcp:end -->
 
 ---
