@@ -1,0 +1,17 @@
+{
+  "name": "sonjari",
+  "description": "Your PC does the work. You get the proof. Sonjari is a free local AI agent for Windows: web research, Excel and Word documents, and code. Works on its own, or takes on tasks from Claude and Codex. No meter.",
+  "git_url": "https://github.com/sonjari/sonjari",
+  "author_github": "sonjari",
+  "category": "search",
+  "tags": [
+    "aiagent",
+    "browserautomation",
+    "desktopapp",
+    "localfirst",
+    "localllm"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://sonjari.com"
+}
