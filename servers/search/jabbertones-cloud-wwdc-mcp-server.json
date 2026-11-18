@@ -1,0 +1,16 @@
+{
+  "name": "wwdc-mcp-server",
+  "description": "Apple developer intelligence for coding agents: WWDC20–WWDC26, HIG, Swift, App Review, API history, and source-grounded app audits — 45 read-only MCP tools.",
+  "git_url": "https://github.com/jabbertones-cloud/wwdc-mcp-server",
+  "author_github": "jabbertones-cloud",
+  "category": "search",
+  "tags": [
+    "appstore",
+    "apple",
+    "appledeveloper",
+    "claude",
+    "codex"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
