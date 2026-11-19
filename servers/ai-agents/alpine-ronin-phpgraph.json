@@ -1,0 +1,16 @@
+{
+  "name": "phpgraph",
+  "description": "Knowledge graph of PHP codebases for AI coding agents (Claude Code, Codex, Cursor) over MCP. Static analysis, no LLM.",
+  "git_url": "https://github.com/alpine-ronin/phpgraph",
+  "author_github": "alpine-ronin",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "callgraph",
+    "claudecode",
+    "codex",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
