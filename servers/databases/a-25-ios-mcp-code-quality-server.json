@@ -1,0 +1,16 @@
+{
+  "name": "ios-mcp-code-quality-server",
+  "description": "This server enables AI assistants to run Xcode tests, perform linter analysis, and provide detailed feedback on iOS projects through structured, actionable reports.",
+  "git_url": "https://github.com/a-25/ios-mcp-code-quality-server",
+  "author_github": "a-25",
+  "category": "databases",
+  "tags": [
+    "autotest",
+    "linter",
+    "modelcontextprotocolserver",
+    "swift",
+    "swiftlint"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
