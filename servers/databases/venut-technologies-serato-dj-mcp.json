@@ -1,0 +1,17 @@
+{
+  "name": "serato-dj-mcp",
+  "description": "Ask Claude or any AI assistant about your Serato DJ library: harmonic search by BPM and Camelot key, crate browsing, duplicate and missing-file audits, and new crates built with a preview before anything is written. Local, macOS. Not affiliated with Serato.",
+  "git_url": "https://github.com/Venut-Technologies/serato-dj-mcp",
+  "author_github": "Venut-Technologies",
+  "category": "databases",
+  "tags": [
+    "claude",
+    "crates",
+    "dj",
+    "djlibrary",
+    "harmonicmixing"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/Venut-Technologies/serato-dj-mcp#readme"
+}
