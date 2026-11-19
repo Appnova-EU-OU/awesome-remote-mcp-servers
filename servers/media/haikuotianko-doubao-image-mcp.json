@@ -1,0 +1,17 @@
+{
+  "name": "doubao-image-mcp",
+  "description": "把豆包网页版生图封装成本地 MCP 服务：无需 API Key，支持扫码登录、多账号排队、多图全量返回",
+  "git_url": "https://github.com/haikuotianko/doubao-image-mcp",
+  "author_github": "haikuotianko",
+  "category": "media",
+  "tags": [
+    "aiimagegeneration",
+    "claude",
+    "cursor",
+    "desktopapp",
+    "doubao"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://haikuotianko.github.io/doubao-image-mcp/"
+}
