@@ -1,0 +1,17 @@
+{
+  "name": "browserdo",
+  "description": "MCP server for Embiody, the Windows browser your AI agent works in while you keep using your PC.",
+  "git_url": "https://github.com/zhaijunlong/browserdo",
+  "author_github": "zhaijunlong",
+  "category": "ai-agents",
+  "tags": [
+    "agentskill",
+    "agentskills",
+    "agentic",
+    "agenticai",
+    "agents"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/browserdo-mcp"
+}
