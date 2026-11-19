@@ -1,0 +1,17 @@
+{
+  "name": "indec-mcp",
+  "description": "MCP no oficial sobre el Catálogo API-INDEC (Argentina): inflación, canastas, salarios, EMAE, pobreza, empleo, comercio exterior. Mirror DuckDB + servidor MCP con rate limits.",
+  "git_url": "https://github.com/MagcDEV/indec-mcp",
+  "author_github": "MagcDEV",
+  "category": "databases",
+  "tags": [
+    "argentina",
+    "datosabiertos",
+    "duckdb",
+    "indec",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://indec-mcp-production.up.railway.app/"
+}
