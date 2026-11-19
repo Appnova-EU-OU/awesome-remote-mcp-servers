@@ -91,6 +91,37 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [imsg-mcp](https://freemcp.space/featured/imsg-mcp) — Let your AI assistant read your iMessage/SMS and send the replies you approve. An MCP server and agent plugin for Claude, ChatGPT, Codex and Cursor, built for proactive agents like Claude Duet and dots. Runs on a Mac you control, with server-side send guardrails.
+- [sonjari](https://freemcp.space/featured/sonjari) — Your PC does the work. You get the proof. Sonjari is a free local AI agent for Windows: web research, Excel and Word documents, and code. Works on its own, or takes on tasks from Claude and Codex. No meter.
+- [claude-duet-bridge](https://freemcp.space/calebtgrimes/claude-duet-bridge) — Connect Claude Duet to Claude Code: an MCP connector that lets Duet start Claude Code sessions, talk to your open terminal windows, and get answers back. Remote MCP server on Cloudflare Workers + a Claude Code channel.
+- [cmdshellmcp](https://freemcp.space/featured/cmdshellmcp) — command shell mcp server with additional tools (e.g. for coding)
+- [agentic-browser](https://freemcp.space/featured/agentic-browser) — Give any AI agent your real Chrome: token-cheap text perception, a visible cursor, MCP + HTTP API. Optional chat watcher.
+- [backdraw](https://freemcp.space/featured/backdraw) — Let Claude generate images with your own ChatGPT account in a background Chrome tab. Local MCP server + Chrome extension, no API key, no open ports.
+- [api-shakedown](https://freemcp.space/featured/api-shakedown) — OpenAPI spec in, chaos test harness out: WireMock stubs, contract tests and failure scenarios from a team of local LLM agents.
+- [Gulliver](https://freemcp.space/veldrosinus/gulliver) — Test on tiny data before you run on giant data. MCP server + CLI that gives AI agents a dress rehearsal for SQL: cost preflight, scale lint with auto-fix, rehearse on 1% → 10%, predict 100%, run only within budget. DuckDB, Postgres, BigQuery, Snowflake. Local-first, MIT.
+- [bee-public](https://freemcp.space/featured/bee-public) — Public developer surface for Bee: Quantum Intelligence — Apache-2.0 SDKs, MCP server, API contracts and trust material.
+- [enclave-gateway](https://freemcp.space/featured/enclave-gateway) — Run CLI, multi-hop SSH, SOCKS5 and governed MCP across Windows VPN appliances and RDP bastions.
+- [toli](https://freemcp.space/featured/toli) — Let Claude Code, Codex, OpenClaw or any other agent work together, on one machine or across many.
+- [vmware-sandbox-mcp](https://freemcp.space/featured/vmware-sandbox-mcp) — MCP server that gives AI agents a disposable Linux VM on VMware Workstation: run code, copy files, click and type, then throw it away.
+- [wwdc-mcp-server](https://freemcp.space/featured/wwdc-mcp-server) — Apple developer intelligence for coding agents: WWDC20–WWDC26, HIG, Swift, App Review, API history, and source-grounded app audits — 45 read-only MCP tools.
+- [metrecept-opensource](https://freemcp.space/featured/metrecept-opensource) — Metrecept open client tools: MCP server, SDK helpers, receipt verifiers
+- [cosmos-semantic-platform](https://freemcp.space/featured/cosmos-semantic-plat) — Open-source semantic layer with an ontology at its core: governed metrics and business rules for AI agents (MCP), the same number on eight databases, with evidence on every answer.
+- [cost-guard-mcp](https://freemcp.space/featured/cost-guard-mcp) — Pre-flight query cost and result-size guardrails for AI agents across BigQuery, Snowflake, and Databricks
+- [gage](https://freemcp.space/featured/gage) — Caller ID and a wax seal for AI agents: signed, sealed handoffs between agents, with trust the receiver computes. No accounts; keys stay on your machine.
+- [sendkuy-mcp](https://freemcp.space/featured/sendkuy-mcp) — WhatsApp, SMS and email for agents through SendKuy: send messages and batches, verify OTP codes, check WhatsApp numbers and run campaigns, with tools filtered by the API key's scopes.
+- [SoraCommander](https://freemcp.space/featured/soracommander) — Let ChatGPT work on your Windows PC from an ordinary chat, approving each step locally. Developer preview.
+- [benchwarmers](https://freemcp.space/featured/benchwarmers) — Self-hosted panel gateway for LLMs: ask a collection of models at once, keep every answer side by side, rotate explorer models in, and let your verdicts pick the next panel. OpenAI, Anthropic, Gemini and Ollama APIs, an MCP server, Python stdlib.
+- [consult](https://freemcp.space/featured/consult) — Get a second opinion on your code from every coding agent you have. Claude Code, Codex and Grok review each other's diffs and answer each other's questions, even inside a session that's already running. Uses the CLIs you're signed in to, no API keys.
+- [agentsocks](https://freemcp.space/featured/agentsocks) — Native messaging between Claude Code, Codex and other coding-agent sessions.
+- [vsphere-console-mcp](https://freemcp.space/featured/vsphere-console-mcp) — MCP server that lets an AI agent see and drive VMware vSphere VM consoles (screen, mouse, keyboard) through vCenter. Zero dependencies, no guest agent.
+- [ui-loop](https://freemcp.space/featured/ui-loop) — Context-budgeted visual feedback for coding agents: diff-only crops + structured summaries within a token budget. MCP server + Claude Code plugin.
+- [browser-ref-mcp](https://freemcp.space/hou332005/browser-ref-mcp) — Reliable browser-control MCP server for AI agents: click by ref, self-healing sessions. No browser download.
+- [sandboxapis-mcp](https://freemcp.space/featured/sandboxapis-mcp) — The SandboxAPIs MCP server: read-only, API-compatible replicas of 21 developer APIs, preloaded with one simulated company, for testing agents without a test account.
+- [CICD-AIops](https://freemcp.space/featured/cicd-aiops) — Governed AI-ops for self-managed GitLab + Gitea CI/CD: pipelines, jobs, runners, artifacts, repo hyg
+- [sqai-mcp](https://freemcp.space/featured/sqai-mcp) — SQAI (Structured Query AI) MCP server — the three governed, deterministic, read-only structured-data tools (listSources, queryData, explainQuery) for any MCP host. npm: @thyn-ai/sqai-mcp. A Thyn product, Apache-2.0.
+- [loudtzu-actors-mcp](https://freemcp.space/featured/loudtzu-actors-mcp) — MCP server: 9 Canadian data & price tools (LOUDTZU Apify Actors), run with your own Apify token
+- [dbu-waste-finder](https://freemcp.space/featured/dbu-waste-finder) — Free read-only Databricks notebook + MCP server that finds DBU waste from system tables and proposes fixes
+- [Statistik-Austria-MCP-Server](https://freemcp.space/featured/statistik-austria-mc) — Model Context Protocol (MCP) server for querying Statistik Austria's free OGD datasets.
 - [Handmade](https://freemcp.space/hhiramkarogo/handmade) — **Build AI-generated interfaces that look intentionally engineered, not generated.**
 - [handmade](https://freemcp.space/featured/handmade) — Handmade is a Model Context Protocol (MCP) server tailored to eliminate generic AI output by enforcing comprehensive prompt coverage and proactively clarifying ambiguities before generation.
 - [m4r-data](https://freemcp.space/featured/m4r-data) — Structured data from Music For Robots — music composed for machines, reviewed by AI critics
@@ -160,37 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mcp-server-kicad](https://freemcp.space/featured/mcp-server-kicad) — Maintenance mode: security and KiCad compatibility fixes only (see README for why). KiCad MCP server: 100+ Model Context Protocol tools that let an AI assistant do schematic capture and PCB layout, run ERC and DRC, and export Gerbers, BOM and 3D models.
 - [sheetsdata-mcp](https://freemcp.space/featured/sheetsdata-mcp) — sheetsdata-mcp
 - [misterclaw](https://freemcp.space/featured/misterclaw) — 👾🦀 MiSTerClaw — MCP Remote Control for MiSTer-FPGA
-- [fw-context-mcp](https://freemcp.space/featured/fw-context-mcp) — C/C++ semantic index for AI coding assistants — powered by your compile_commands.json. Query the program your compiler actually builds, not just the source files.
-- [platformio.mcp](https://freemcp.space/featured/platformio-mcp) — MCP server that lets AI coding agents drive PlatformIO: build, flash, serial monitor, tests, crash decoding, size reports
-- [ugs-mcp](https://freemcp.space/featured/ugs-mcp) — MCP server for controlling CNC machines via Universal GCode Sender
-- [stm32-gdb-mcp](https://freemcp.space/302875837/stm32-gdb-mcp) — MCP server that lets AI agents debug STM32 firmware on real hardware (GDB + OpenOCD/ST-Link/J-Link): HardFault triage, FreeRTOS, SWO/RTT, decoded structured results.
-- [serial-mcp-server](https://freemcp.space/featured/serial-mcp-server) — Rust MCP server and CLI for serial/UART devices, with JSON macro automation and agent skills for repeatable timed workflows.
-- [opcua-mcp](https://freemcp.space/featured/opcua-mcp) — An MCP server that connects to OPC UA-enabled industrial systems.
-- [modbus-mcp](https://freemcp.space/featured/modbus-mcp) — An MCP server that standardizes and contextualizes industrial Modbus data.
-- [ByteAsk-Embedded-MCP](https://freemcp.space/featured/byteask-embedded-mcp) — The open-source MCP server behind ByteAsk Embedded Docs: a source-grounded, page-cited evidence-retrieval server for coding agents (Claude Code, Codex, Cursor) that write firmware / driver / protocol code and need exact facts.
-- [redcon](https://freemcp.space/featured/redcon) — Context budgeting layer for coding agents: selects, compresses, caches and budgets repository context. Public benchmark (context-eval), MCP. Open source.
-- [openbaud](https://freemcp.space/featured/openbaud) — Turn serial devices into reusable, auditable tools for coding agents — discover, decode, visualize, capture, and replay.
-- [obsbot-mcp](https://freemcp.space/featured/obsbot-mcp) — Cross-platform MCP server for OBSBOT Tiny 2 (UVC) camera control
-- [smolmux](https://freemcp.space/featured/smolmux) — C11 device multiplexer: share serial UART / GDB SWD across humans, scripts, and AI agents (MCP). MIT.
-- [Comparador Luz Gas](https://freemcp.space/nuncaeslupus/comparador-luz-gas) — **El comparador oficial de tarifas de luz y gas de la CNMC, como librería, CLI y servidor MCP.**
-- [Numerador Facturas](https://freemcp.space/nuncaeslupus/numerador-facturas) — **Numera facturas PDF en lote desde el navegador.** Estampa un número correlativo (`F-0001`, `F-0002`…) en **todas las páginas** de cada factura y te devuelve un ZIP listo para entregar. Todo ocurre del lado del cliente: **los PDFs nunca salen de tu equipo.**
-- [Doc Control](https://freemcp.space/nuncaeslupus/doc-control) — **Lets AI agents edit Word documents as tracked changes the writer can accept or reject.**
-- [Drawspec](https://freemcp.space/nuncaeslupus/drawspec) — **Diagrams from a JSON description — no coordinates, so nothing to misplace.** You say what the diagram *means*: the boxes, the arrows, the labels, and a role for each. drawspec decides every position, size, route and colour, and draws a clean SVG, PNG or plain-text diagram.
-- [mcp-server-atlassian-bitbucket](https://freemcp.space/featured/mcp-server-atlassian-3) — Node.js/TypeScript MCP server for Atlassian Bitbucket. Enables AI systems (LLMs) to interact with workspaces, repositories, and pull requests via tools (list, get, comment, search). Connects AI directly to version control workflows through the standard MCP interface.
-- [csvglow](https://freemcp.space/featured/csvglow) — Generate beautiful interactive HTML dashboards from CSV/Excel files
-- [Glyphic](https://freemcp.space/featured/glyphic) — Glyphic is an open source diagram engine that lets AI agents generate production-quality diagrams from structured JSON, without SVG, Mermaid, or a browser.
-- [matter-controller-mcp](https://freemcp.space/featured/matter-controller-mc) — An MCP server for Matter Controller, enabling AI agents to control and interact with Matter devices.
-- [cli](https://freemcp.space/featured/cli) — cli & mcp-server package for Push To Display
-- [telinksdk-builder-mcp](https://freemcp.space/featured/telinksdk-builder-mc) — Build Telink and other embedded SDKs (Eclipse headless, Make or generic) via natural language, with automatic build pattern detection.
-- [chartlink-agents](https://freemcp.space/featured/chartlink-agents) — chartlink for agents: Claude Code plugin, MCP bridge and listing kit for charts with live-updating embeds
-- [drawspec](https://freemcp.space/featured/drawspec) — Declarative diagram spec → clean, themeable SVG. JSON with no coordinates, so an LLM can write it correctly.
-- [mcp-server-weaviate](https://freemcp.space/featured/mcp-server-weaviate) — MCP (Model Context Protocol) server for Weaviate
-- [mcp-dashboards](https://freemcp.space/featured/mcp-dashboards) — Turn your data into interactive dashboards inside any AI client - MCP Apps powered
-- [ply-visualizer](https://freemcp.space/featured/ply-visualizer) — Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
-- [charted](https://freemcp.space/featured/charted) — Zero-dependency Python SVG chart generator. Generate beautiful, customisable charts in SVG from Python data structures. Inspired by mermaid.js.
-- [axiom-advanced-math-mcp](https://freemcp.space/featured/axiom-advanced-math) — Exact symbolic math for LLMs: integrals, equations, matrices, and claim verification via Giac/Xcas. MCP server + CLI.
-- [renoun-mcp](https://freemcp.space/featured/renoun-mcp) — Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence patterns across 17 channels without analyzing content. MCP server + REST API.
-- [mcp-gnu-units](https://freemcp.space/featured/mcp-gnu-units) — Unit converter for AI agents, powered by the GNU units database — convert 3000+ units of measurement, evaluate compound unit expressions, reduce to SI base units, dimensional analysis. Offline, deterministic.
 <!-- freemcp:end -->
 
 ---
