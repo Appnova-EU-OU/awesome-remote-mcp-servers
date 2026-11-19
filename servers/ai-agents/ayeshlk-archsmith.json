@@ -1,0 +1,17 @@
+{
+  "name": "archsmith",
+  "description": "Turn a validated JSON IR into a consistent layered-architecture diagram (SVG) — library, CLI, and MCP server, for humans and agents alike.",
+  "git_url": "https://github.com/ayeshLK/archsmith",
+  "author_github": "ayeshLK",
+  "category": "ai-agents",
+  "tags": [
+    "architecturediagrams",
+    "cli",
+    "diagramgenerator",
+    "mcp",
+    "svg"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/org/archsmith"
+}
