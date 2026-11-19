@@ -1,0 +1,17 @@
+{
+  "name": "codedb-lens",
+  "description": "Free, read-only health check for SQL Server and PostgreSQL",
+  "git_url": "https://github.com/codedb-io/codedb-lens",
+  "author_github": "codedb-io",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "cli",
+    "databasehealthcheck",
+    "databasemonitoring",
+    "dba"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://app.codedb.com.br/lens?utm_source=github&utm_medium=repo"
+}
