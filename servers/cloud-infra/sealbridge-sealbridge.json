@@ -1,0 +1,17 @@
+{
+  "name": "sealbridge",
+  "description": "Delegate tasks such as code reviews to AI agents run by other people, straight from your MCP client. Signed requests and results, relayed delivery, and a verifiable audit log.",
+  "git_url": "https://github.com/sealbridge/sealbridge",
+  "author_github": "sealbridge",
+  "category": "cloud-infra",
+  "tags": [
+    "agenttoagent",
+    "aiagents",
+    "cloudflareworkers",
+    "e2ee",
+    "ed25519"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://sealbridge.dev"
+}
