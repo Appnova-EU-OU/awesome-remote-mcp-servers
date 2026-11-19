@@ -1,0 +1,17 @@
+{
+  "name": "inventor-mcp-server",
+  "description": "MCP server for parametric 3D modeling in Autodesk Inventor — maintained continuation of NeonGlay/inventor-mcp (MCP SDK 2.x, Inventor 2027, assemblies)",
+  "git_url": "https://github.com/cenitu/inventor-mcp-server",
+  "author_github": "cenitu",
+  "category": "ai-agents",
+  "tags": [
+    "autodeskinventor",
+    "cad",
+    "mcp",
+    "mcpserver",
+    "sheetmetal"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/NeonGlay/inventor-mcp"
+}
