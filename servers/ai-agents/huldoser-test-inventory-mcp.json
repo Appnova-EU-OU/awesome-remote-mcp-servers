@@ -1,0 +1,17 @@
+{
+  "name": "test-inventory-mcp",
+  "description": "MCP server for test-inventory: AI agents ask which Playwright, Vitest, Jest, Mocha, Jasmine, Cypress, WebdriverIO, node:test and Bun tests a project has, which are skipped and why, and which a change can affect, without running them.",
+  "git_url": "https://github.com/Huldoser/test-inventory-mcp",
+  "author_github": "Huldoser",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "bun",
+    "cypress",
+    "jasmine",
+    "jest"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://huldoser.github.io/test-inventory/guide/agents#mcp-server"
+}
