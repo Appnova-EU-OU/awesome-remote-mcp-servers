@@ -1,0 +1,17 @@
+{
+  "name": "context-guardian",
+  "description": "40 turns: 1,130,722 tokens upstream -> 161,141. A fail-open compaction proxy for local OpenAI-compatible models.",
+  "git_url": "https://github.com/LuminariSoftwares/context-guardian",
+  "author_github": "LuminariSoftwares",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "aitool",
+    "codingassistant",
+    "compaction",
+    "contextmanagement"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/context-guardian/"
+}
