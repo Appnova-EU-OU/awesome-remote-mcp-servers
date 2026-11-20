@@ -1,0 +1,17 @@
+{
+  "name": "mathlas",
+  "description": "Airtight math tools an AI uses over MCP — 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.",
+  "git_url": "https://github.com/Archerkattri/mathlas",
+  "author_github": "Archerkattri",
+  "category": "search",
+  "tags": [
+    "aitools",
+    "claude",
+    "formalverification",
+    "lean4",
+    "math"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/mathlas-mcp/"
+}
