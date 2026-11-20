@@ -1,0 +1,17 @@
+{
+  "name": "networkx-mcp-server",
+  "description": "🕸️ First NetworkX MCP server for graph analysis in AI conversations | Community & Enterprise editions | Graph algorithms • Network analysis • MCP integration",
+  "git_url": "https://github.com/Bright-L01/networkx-mcp-server",
+  "author_github": "Bright-L01",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "algorithms",
+    "communitydetection",
+    "enterprise",
+    "firstofkind"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://networkx-mcp-server.readthedocs.io"
+}
