@@ -1,0 +1,16 @@
+{
+  "name": "ui-loop",
+  "description": "Context-budgeted visual feedback for coding agents: diff-only crops + structured summaries within a token budget. MCP server + Claude Code plugin.",
+  "git_url": "https://github.com/djig/ui-loop",
+  "author_github": "djig",
+  "category": "databases",
+  "tags": [
+    "loop",
+    "budgeted",
+    "visual",
+    "feedback",
+    "coding"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
