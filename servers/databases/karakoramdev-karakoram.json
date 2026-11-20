@@ -1,0 +1,17 @@
+{
+  "name": "Karakoram",
+  "description": "Self-hosted database and stateful-service orchestration on infrastructure you run: Zerops, Dokploy or Nomad.",
+  "git_url": "https://github.com/KarakoramDev/Karakoram",
+  "author_github": "KarakoramDev",
+  "category": "databases",
+  "tags": [
+    "backup",
+    "database",
+    "dokploy",
+    "elasticsearch",
+    "highavailability"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://karakoram.dev"
+}
