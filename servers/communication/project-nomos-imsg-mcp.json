@@ -1,0 +1,16 @@
+{
+  "name": "imsg-mcp",
+  "description": "Let your AI assistant read your iMessage/SMS and send the replies you approve. An MCP server and agent plugin for Claude, ChatGPT, Codex and Cursor, built for proactive agents like Claude Duet and dots. Runs on a Mac you control, with server-side send guardrails.",
+  "git_url": "https://github.com/project-nomos/imsg-mcp",
+  "author_github": "project-nomos",
+  "category": "communication",
+  "tags": [
+    "agentplugins",
+    "agentskills",
+    "aiagents",
+    "aiassistant",
+    "chatgpt"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
