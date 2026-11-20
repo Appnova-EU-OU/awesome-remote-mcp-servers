@@ -1,0 +1,16 @@
+{
+  "name": "mcp-events-bridge",
+  "description": "Turn webhooks into MCP Events for AI agents, with the hosted Hookdeck Event Gateway receiving and delivering them. Sources include Resend, GitHub, Stripe, Slack and any signed webhook. Poll tools and a Claude Code plugin cover clients without MCP Events support.",
+  "git_url": "https://github.com/hookdeck/mcp-events-bridge",
+  "author_github": "hookdeck",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "chatgpt",
+    "claudecode",
+    "eventgateway",
+    "githubwebhooks"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
