@@ -1,0 +1,16 @@
+{
+  "name": "redcon",
+  "description": "Context budgeting layer for coding agents: selects, compresses, caches and budgets repository context. Public benchmark (context-eval), MCP. Open source.",
+  "git_url": "https://github.com/natiixnt/redcon",
+  "author_github": "natiixnt",
+  "category": "security",
+  "tags": [
+    "agent",
+    "aiagent",
+    "aiagents",
+    "aitools",
+    "benchmark"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
