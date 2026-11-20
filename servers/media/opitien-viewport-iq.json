@@ -1,0 +1,17 @@
+{
+  "name": "Viewport-iq",
+  "description": "Production-grade Browser Inspection & Responsive Testing MCP Server. Inspect websites, test across viewports, detect layout overflow, capture screenshots, and run audits via Playwright & MCP.",
+  "git_url": "https://github.com/Opitien/Viewport-iq",
+  "author_github": "Opitien",
+  "category": "media",
+  "tags": [
+    "browserautomation",
+    "claudedesktop",
+    "devtools",
+    "layoutaudit",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/opitien/viewport-iq#readme"
+}
