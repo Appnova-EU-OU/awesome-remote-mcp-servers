@@ -1,0 +1,17 @@
+{
+  "name": "onaa-protocol",
+  "description": "Open directory of stores where AI agents reached checkout (payment not tested), plus payment, escrow and shipping providers. Links only; ONAA never pays.",
+  "git_url": "https://github.com/actimod/onaa-protocol",
+  "author_github": "actimod",
+  "category": "security",
+  "tags": [
+    "a2a",
+    "agentprotocol",
+    "agentregistry",
+    "agenticcommerce",
+    "aiagents"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://api.onaa.net/"
+}
