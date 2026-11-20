@@ -1,0 +1,17 @@
+{
+  "name": "string-utility-belt",
+  "description": "Chain string transformations into visual pipelines with live previews — 246 utilities as a web app, CLI, HTTP API, MCP server and browser/VS Code extensions.",
+  "git_url": "https://github.com/String-Utility-Belt/string-utility-belt",
+  "author_github": "String-Utility-Belt",
+  "category": "cloud-infra",
+  "tags": [
+    "base64",
+    "browserextension",
+    "cli",
+    "cloudflareworkers",
+    "decoding"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://stringutilitybelt.com"
+}
