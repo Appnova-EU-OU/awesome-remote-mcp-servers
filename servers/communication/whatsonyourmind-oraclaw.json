@@ -1,0 +1,17 @@
+{
+  "name": "oraclaw",
+  "description": "Deterministic decision-intelligence MCP server for AI agents — 17 tools (bandits/LinUCB, HiGHS LP/MIP, PageRank, Monte Carlo, CMA-ES, conformal). Sub-25ms. Zero LLM cost. 11 free, no key. Listed on the MCP Registry & Glama.",
+  "git_url": "https://github.com/Whatsonyourmind/oraclaw",
+  "author_github": "Whatsonyourmind",
+  "category": "communication",
+  "tags": [
+    "agenttools",
+    "aiagents",
+    "algorithms",
+    "anthropic",
+    "api"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://web-olive-one-89.vercel.app"
+}
