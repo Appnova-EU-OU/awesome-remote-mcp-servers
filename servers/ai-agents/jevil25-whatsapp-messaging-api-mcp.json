@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-messaging-api-mcp",
+  "description": "Send WhatsApp messages from Claude and any MCP client. No Meta Business approval or WhatsApp Business account.",
+  "git_url": "https://github.com/jevil25/whatsapp-messaging-api-mcp",
+  "author_github": "jevil25",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://whatsapp-messaging.retentionstack.agency"
+}
