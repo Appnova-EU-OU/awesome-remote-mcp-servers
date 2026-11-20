@@ -1,0 +1,31 @@
+{
+  "name": "popnow-api-mcp",
+  "description": "Official PopNow developer MCP server: generate images, video, music and speech through the PopNow API with an API key. Each paid call returns a price quote before it runs and is billed per run. Includes the @popnow/mcp stdio bridge to the hosted Streamable HTTP endpoint.",
+  "git_url": "https://github.com/popnow-ai/popnow-api-mcp",
+  "npm_package": "@popnow/mcp",
+  "homepage": "https://popnow.ai/api/mcp",
+  "author_github": "popnow-ai",
+  "category": "media",
+  "tags": [
+    "mcp",
+    "image-generation",
+    "video-generation",
+    "music",
+    "speech",
+    "ai"
+  ],
+  "env_keys": [
+    {
+      "key": "POPNOW_API_KEY",
+      "kind": "required",
+      "description": "PopNow API key from https://popnow.ai/api/console/keys"
+    },
+    {
+      "key": "POPNOW_MCP_URL",
+      "kind": "optional",
+      "description": "Endpoint override (default https://api.popnow.ai/api/v1/mcp)"
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
