@@ -1,0 +1,13 @@
+{
+  "name": "kaggle-mcp",
+  "description": "MCP server for Kaggle",
+  "git_url": "https://github.com/arrismo/kaggle-mcp",
+  "author_github": "arrismo",
+  "category": "developer-tools",
+  "tags": [
+    "kaggle",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
