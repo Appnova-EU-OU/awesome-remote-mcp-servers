@@ -1,0 +1,17 @@
+{
+  "name": "benchwarmers",
+  "description": "Self-hosted panel gateway for LLMs: ask a collection of models at once, keep every answer side by side, rotate explorer models in, and let your verdicts pick the next panel. OpenAI, Anthropic, Gemini and Ollama APIs, an MCP server, Python stdlib.",
+  "git_url": "https://github.com/WendellResearch-AI/benchwarmers",
+  "author_github": "WendellResearch-AI",
+  "category": "security",
+  "tags": [
+    "benchmark",
+    "claudecode",
+    "codereview",
+    "cursor",
+    "litellm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.michaelbeardsley.now/projects/benchwarmers/"
+}
