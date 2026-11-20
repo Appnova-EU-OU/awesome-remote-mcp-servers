@@ -1,0 +1,17 @@
+{
+  "name": "ictcontact-mcp",
+  "description": "MCP server for ICTContact / ICTDialer — monitor outbound campaigns and start/stop them. By ICT Innovations.",
+  "git_url": "https://github.com/ictinnovations/ictcontact-mcp",
+  "author_github": "ictinnovations",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "claude",
+    "contactcenter",
+    "ictcontact",
+    "ictdialer"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ictcontact.com"
+}
