@@ -1,0 +1,16 @@
+{
+  "name": "vibe-monitor",
+  "description": "Apache-2.0 local stdio MCP server for read-only architecture checks, evolution checkpoints, and actionable findings for AI coding agents.",
+  "git_url": "https://github.com/tubban1/vibe-monitor",
+  "author_github": "tubban1",
+  "category": "ai-agents",
+  "tags": [
+    "vibe",
+    "monitor",
+    "apache",
+    "local",
+    "stdio"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
