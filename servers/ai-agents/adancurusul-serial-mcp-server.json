@@ -1,0 +1,16 @@
+{
+  "name": "serial-mcp-server",
+  "description": "Rust MCP server and CLI for serial/UART devices, with JSON macro automation and agent skills for repeatable timed workflows.",
+  "git_url": "https://github.com/adancurusul/serial-mcp-server",
+  "author_github": "adancurusul",
+  "category": "ai-agents",
+  "tags": [
+    "agentskill",
+    "aiagents",
+    "claudecode",
+    "cli",
+    "codexskill"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
