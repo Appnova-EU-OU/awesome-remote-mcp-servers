@@ -1,0 +1,17 @@
+{
+  "name": "mini-cms-mcp",
+  "description": "Small self-hosted CMS managed by an AI assistant over MCP: the AI changes content, never code. PHP 8, no database. · Un CMS mic administrat de un asistent AI prin MCP. AI-ul schimbă conținutul, niciodată codul. PHP 8, fără bază de date.",
+  "git_url": "https://github.com/paycodero/mini-cms-mcp",
+  "author_github": "paycodero",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "claude",
+    "cms",
+    "cpanel",
+    "flatfilecms"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://cms.paycode.ro"
+}
