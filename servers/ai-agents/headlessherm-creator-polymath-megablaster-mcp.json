@@ -1,0 +1,16 @@
+{
+  "name": "polymath-megablaster-mcp",
+  "description": "Local MCP toolkit giving AI agents deterministic calculation instead of guessing: 15 free tools for exact math, dates, unit conversion, hashing, networking. 100% local, no network calls, no API keys, no telemetry.",
+  "git_url": "https://github.com/headlessherm-creator/polymath-megablaster-mcp",
+  "author_github": "headlessherm-creator",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "developertools",
+    "llmtools",
+    "localfirst",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
