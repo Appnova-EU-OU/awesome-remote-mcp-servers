@@ -1,0 +1,17 @@
+{
+  "name": "brewpage-openapi",
+  "description": "Open API Specification for https://brewpage.app - Free HTML, Markdown, AI Artifacts & File Instant Hosting",
+  "git_url": "https://github.com/kochetkov-ma/brewpage-openapi",
+  "author_github": "kochetkov-ma",
+  "category": "security",
+  "tags": [
+    "aiagent",
+    "aitools",
+    "anthropic",
+    "apidocumentation",
+    "apihosting"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://brewpage.app"
+}
