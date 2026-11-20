@@ -1,0 +1,17 @@
+{
+  "name": "cosmos-semantic-platform",
+  "description": "Open-source semantic layer with an ontology at its core: governed metrics and business rules for AI agents (MCP), the same number on eight databases, with evidence on every answer.",
+  "git_url": "https://github.com/WiliamRosa/cosmos-semantic-platform",
+  "author_github": "WiliamRosa",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "datagovernance",
+    "databricks",
+    "knowledgegraph",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://wiliamrosa.github.io/cosmos-semantic-platform/"
+}
