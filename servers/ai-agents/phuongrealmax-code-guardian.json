@@ -1,0 +1,17 @@
+{
+  "name": "code-guardian",
+  "description": "Code Guardian Studio – AI-powered code refactor engine for large repositories, built on Claude Code + MCP.",
+  "git_url": "https://github.com/phuongrealmax/code-guardian",
+  "author_github": "phuongrealmax",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "claudecode",
+    "codequality",
+    "coderefactoring",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://codeguardian.studio"
+}
