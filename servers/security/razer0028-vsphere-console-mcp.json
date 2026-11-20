@@ -1,0 +1,16 @@
+{
+  "name": "vsphere-console-mcp",
+  "description": "MCP server that lets an AI agent see and drive VMware vSphere VM consoles (screen, mouse, keyboard) through vCenter. Zero dependencies, no guest agent.",
+  "git_url": "https://github.com/Razer0028/vsphere-console-mcp",
+  "author_github": "Razer0028",
+  "category": "security",
+  "tags": [
+    "aiagent",
+    "claude",
+    "esxi",
+    "homelab",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
