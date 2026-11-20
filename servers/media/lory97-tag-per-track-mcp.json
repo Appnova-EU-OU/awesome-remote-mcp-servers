@@ -1,0 +1,16 @@
+{
+  "name": "tag-per-track-mcp",
+  "description": "Model Context Protocol (MCP) server enabling AI agents to perform musical audio analysis, lyrics transcription, and Spotify A&R tracking via x402 USDC micropayments on Base.",
+  "git_url": "https://github.com/Lory97/tag-per-track-mcp",
+  "author_github": "Lory97",
+  "category": "media",
+  "tags": [
+    "mcp",
+    "musicanalysis",
+    "x402",
+    "x402payment"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tag-per-track.cloud/"
+}
