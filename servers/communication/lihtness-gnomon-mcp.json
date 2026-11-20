@@ -1,0 +1,16 @@
+{
+  "name": "gnomon-mcp",
+  "description": "Deterministic date, math and unit tools: time snapshots, calendar math with natural-language parsing, expression evaluation and Pint-based unit conversion.",
+  "git_url": "https://github.com/lihtness/gnomon-mcp",
+  "author_github": "lihtness",
+  "category": "communication",
+  "tags": [
+    "agents",
+    "agentsaiagentsclaude",
+    "aiagents",
+    "anthropic",
+    "calculator"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
