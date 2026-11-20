@@ -1,0 +1,16 @@
+{
+  "name": "claude-duet-bridge",
+  "description": "Connect Claude Duet to Claude Code: an MCP connector that lets Duet start Claude Code sessions, talk to your open terminal windows, and get answers back. Remote MCP server on Cloudflare Workers + a Claude Code channel.",
+  "git_url": "https://github.com/calebgrimes/claude-duet-bridge",
+  "author_github": "calebgrimes",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "anthropic",
+    "claude",
+    "claudeai",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
