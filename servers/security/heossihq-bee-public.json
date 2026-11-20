@@ -1,0 +1,17 @@
+{
+  "name": "bee-public",
+  "description": "Public developer surface for Bee: Quantum Intelligence — Apache-2.0 SDKs, MCP server, API contracts and trust material.",
+  "git_url": "https://github.com/heossihq/bee-public",
+  "author_github": "heossihq",
+  "category": "security",
+  "tags": [
+    "ai",
+    "cybersecurity",
+    "llm",
+    "lora",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://bee.heossi.com"
+}
