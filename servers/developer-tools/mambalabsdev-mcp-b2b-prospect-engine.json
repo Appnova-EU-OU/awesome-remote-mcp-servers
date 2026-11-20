@@ -1,0 +1,17 @@
+{
+  "name": "mcp-b2b-prospect-engine",
+  "description": "MCP server for the Mamba Labs Prospect Engine actor on Apify",
+  "git_url": "https://github.com/mambalabsdev/mcp-b2b-prospect-engine",
+  "author_github": "mambalabsdev",
+  "category": "developer-tools",
+  "tags": [
+    "prospect",
+    "engine",
+    "mamba",
+    "labs",
+    "actor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://apify.com/mambalabs/b2b-prospect-engine"
+}
