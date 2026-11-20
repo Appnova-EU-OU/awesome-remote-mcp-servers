@@ -1,0 +1,16 @@
+{
+  "name": "spm",
+  "description": "A simple, cross-platform manager for native system services.",
+  "git_url": "https://github.com/eyvant/spm",
+  "author_github": "eyvant",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "claudecode",
+    "claudecodeplugin",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
