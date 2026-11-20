@@ -1,0 +1,17 @@
+{
+  "name": "sandboxapis-mcp",
+  "description": "The SandboxAPIs MCP server: read-only, API-compatible replicas of 21 developer APIs, preloaded with one simulated company, for testing agents without a test account.",
+  "git_url": "https://github.com/driftwork-llc/sandboxapis-mcp",
+  "author_github": "driftwork-llc",
+  "category": "databases",
+  "tags": [
+    "agentevaluation",
+    "githubapi",
+    "jira",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sandboxapis.dev/docs/mcp"
+}
