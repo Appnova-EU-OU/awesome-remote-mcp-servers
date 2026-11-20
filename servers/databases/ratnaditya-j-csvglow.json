@@ -1,0 +1,16 @@
+{
+  "name": "csvglow",
+  "description": "Generate beautiful interactive HTML dashboards from CSV/Excel files",
+  "git_url": "https://github.com/Ratnaditya-J/csvglow",
+  "author_github": "Ratnaditya-J",
+  "category": "databases",
+  "tags": [
+    "analytics",
+    "csv",
+    "dashboard",
+    "data",
+    "datavisualization"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
