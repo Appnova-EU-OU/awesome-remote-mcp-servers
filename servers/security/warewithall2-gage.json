@@ -1,0 +1,17 @@
+{
+  "name": "gage",
+  "description": "Caller ID and a wax seal for AI agents: signed, sealed handoffs between agents, with trust the receiver computes. No accounts; keys stay on your machine.",
+  "git_url": "https://github.com/warewithall2/gage",
+  "author_github": "warewithall2",
+  "category": "security",
+  "tags": [
+    "a2a",
+    "agenttoagent",
+    "aiagents",
+    "cli",
+    "ed25519"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://gage.sh"
+}
