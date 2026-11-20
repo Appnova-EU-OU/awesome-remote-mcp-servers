@@ -1,0 +1,16 @@
+{
+  "name": "xonta-max-mcp",
+  "description": "MCP server for building bots and mini-apps for the MAX messenger (max.ru): current Bot API facts, code checks, Telegram migration hints, bot templates, deep links, ad tracking and test fixtures. English and Russian.",
+  "git_url": "https://github.com/mrsergeiluzhnov/xonta-max-mcp",
+  "author_github": "mrsergeiluzhnov",
+  "category": "communication",
+  "tags": [
+    "xonta",
+    "max",
+    "building",
+    "bots",
+    "mini"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
