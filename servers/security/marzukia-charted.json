@@ -1,0 +1,17 @@
+{
+  "name": "charted",
+  "description": "Zero-dependency Python SVG chart generator. Generate beautiful, customisable charts in SVG from Python data structures. Inspired by mermaid.js.",
+  "git_url": "https://github.com/marzukia/charted",
+  "author_github": "marzukia",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "charts",
+    "chartsandgraphs",
+    "dataviz",
+    "graphs"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://charted.mrzk.io/"
+}
