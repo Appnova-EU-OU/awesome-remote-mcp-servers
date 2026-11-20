@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server-kicad",
+  "description": "Maintenance mode: security and KiCad compatibility fixes only (see README for why). KiCad MCP server: 100+ Model Context Protocol tools that let an AI assistant do schematic capture and PCB layout, run ERC and DRC, and export Gerbers, BOM and 3D models.",
+  "git_url": "https://github.com/ProductOfAmerica/mcp-server-kicad",
+  "author_github": "ProductOfAmerica",
+  "category": "security",
+  "tags": [
+    "ai",
+    "claude",
+    "claudecode",
+    "drc",
+    "eda"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/mcp-server-kicad"
+}
