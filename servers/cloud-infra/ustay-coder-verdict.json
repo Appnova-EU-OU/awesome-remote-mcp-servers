@@ -1,0 +1,17 @@
+{
+  "name": "verdict",
+  "description": "One rubric, every decision model. Run the same typed questions on Jev, Clef and OpenAI's Decisions API, and see where they disagree on your own cases.",
+  "git_url": "https://github.com/Ustay-coder/verdict",
+  "author_github": "Ustay-coder",
+  "category": "cloud-infra",
+  "tags": [
+    "cli",
+    "cloudflareworkers",
+    "decisionmodels",
+    "evaluation",
+    "llmevaluation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://docs.verdict-ai.dev"
+}
