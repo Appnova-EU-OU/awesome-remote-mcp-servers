@@ -1,0 +1,16 @@
+{
+  "name": "label-studio-mcp-server",
+  "description": "Create, manage and automate Label Studio projects, tasks and predictions for data labeling workflows.",
+  "git_url": "https://github.com/HumanSignal/label-studio-mcp-server",
+  "author_github": "HumanSignal",
+  "category": "databases",
+  "tags": [
+    "label",
+    "studio",
+    "create",
+    "manage",
+    "automate"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
