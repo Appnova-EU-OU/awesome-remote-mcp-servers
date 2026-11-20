@@ -1,0 +1,16 @@
+{
+  "name": "cmdshellmcp",
+  "description": "command shell mcp server with additional tools (e.g. for coding)",
+  "git_url": "https://github.com/ag88/cmdshellmcp",
+  "author_github": "ag88",
+  "category": "ai-agents",
+  "tags": [
+    "llmtools",
+    "mcp",
+    "mcpserver",
+    "mcpservers",
+    "mcptools"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
