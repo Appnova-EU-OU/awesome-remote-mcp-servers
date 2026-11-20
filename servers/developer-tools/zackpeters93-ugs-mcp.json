@@ -1,0 +1,16 @@
+{
+  "name": "ugs-mcp",
+  "description": "MCP server for controlling CNC machines via Universal GCode Sender",
+  "git_url": "https://github.com/zackpeters93/ugs-mcp",
+  "author_github": "zackpeters93",
+  "category": "developer-tools",
+  "tags": [
+    "claude",
+    "cnc",
+    "cncmilling",
+    "gcode",
+    "grbl"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
