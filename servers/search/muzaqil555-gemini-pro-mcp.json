@@ -1,0 +1,17 @@
+{
+  "name": "gemini-pro-mcp",
+  "description": "Use your Google AI Pro subscription from Claude, Codex, Antigravity and Gemini CLI: Gemini via Antigravity, Flow, Gemini app, Notebooks, Jules, Omni video and Nano Banana images. One-command setup. MCP server.",
+  "git_url": "https://github.com/Muzaqil555/gemini-pro-mcp",
+  "author_github": "Muzaqil555",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "antigravity",
+    "antigravitycli",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/gemini-pro-mcp/"
+}
