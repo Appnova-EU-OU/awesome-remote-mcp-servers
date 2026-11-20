@@ -1,0 +1,16 @@
+{
+  "name": "nexusgrid-mcp",
+  "description": "Official MCP server providing edge-native AI agent tools: Web-to-Markdown scraper (NexusScrape), email deliverability & RFC 7208 auditor (MailAuthGuard), and disposable email fraud detector (FraudShield).",
+  "git_url": "https://github.com/benjaminsamson0210/nexusgrid-mcp",
+  "author_github": "benjaminsamson0210",
+  "category": "communication",
+  "tags": [
+    "nexusgrid",
+    "official",
+    "providing",
+    "edge",
+    "native"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
