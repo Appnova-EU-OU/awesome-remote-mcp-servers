@@ -1,0 +1,16 @@
+{
+  "name": "api-shakedown",
+  "description": "OpenAPI spec in, chaos test harness out: WireMock stubs, contract tests and failure scenarios from a team of local LLM agents.",
+  "git_url": "https://github.com/anzar-ahsan-commits/api-shakedown",
+  "author_github": "anzar-ahsan-commits",
+  "category": "security",
+  "tags": [
+    "apitesting",
+    "chaosengineering",
+    "contracttesting",
+    "langgraph",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
