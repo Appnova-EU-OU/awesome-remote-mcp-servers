@@ -1,0 +1,16 @@
+{
+  "name": "loudtzu-actors-mcp",
+  "description": "MCP server: 9 Canadian data & price tools (LOUDTZU Apify Actors), run with your own Apify token",
+  "git_url": "https://github.com/travisjmurphy/loudtzu-actors-mcp",
+  "author_github": "travisjmurphy",
+  "category": "databases",
+  "tags": [
+    "loudtzu",
+    "actors",
+    "canadian",
+    "data",
+    "price"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
