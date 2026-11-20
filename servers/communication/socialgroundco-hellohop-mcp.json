@@ -1,0 +1,17 @@
+{
+  "name": "hellohop-mcp",
+  "description": "MCP server for the HelloHop WhatsApp API. Read chats, groups and communities from Claude, Cursor or any MCP client.",
+  "git_url": "https://github.com/socialgroundco/hellohop-mcp",
+  "author_github": "socialgroundco",
+  "category": "communication",
+  "tags": [
+    "api",
+    "mcp",
+    "mcpserver",
+    "webhooks",
+    "whatsapp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://hellohop.app/docs/mcp"
+}
