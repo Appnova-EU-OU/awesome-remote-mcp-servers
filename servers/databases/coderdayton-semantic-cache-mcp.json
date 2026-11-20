@@ -1,0 +1,17 @@
+{
+  "name": "semantic-cache-mcp",
+  "description": "MCP file cache for AI coding agents. Re-reads cost ~40 tokens instead of the whole file; changed files come back as diffs. Works with Claude Code, Cursor, Codex and VS Code.",
+  "git_url": "https://github.com/CoderDayton/semantic-cache-mcp",
+  "author_github": "CoderDayton",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "bm25",
+    "caching",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/CoderDayton/semantic-cache-mcp"
+}
