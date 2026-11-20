@@ -1,0 +1,16 @@
+{
+  "name": "mcpgate",
+  "description": "MCP production gateway: API-key auth, per-key rate limiting, response caching, circuit breakers, and Prometheus metrics for MCP servers.",
+  "git_url": "https://github.com/sunwen1983/mcpgate",
+  "author_github": "sunwen1983",
+  "category": "security",
+  "tags": [
+    "mcpgate",
+    "production",
+    "gateway",
+    "api",
+    "key"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
