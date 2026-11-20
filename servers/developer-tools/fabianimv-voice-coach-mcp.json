@@ -1,0 +1,16 @@
+{
+  "name": "voice-coach-mcp",
+  "description": "Local voice coach: records the mic and measures singing pitch accuracy (cents, vibrato, MIDI melody), phoneme-level English pronunciation and public-speaking pace, pauses and filler words, with a coaching skill and progress log.",
+  "git_url": "https://github.com/FabianIMV/voice-coach-mcp",
+  "author_github": "FabianIMV",
+  "category": "developer-tools",
+  "tags": [
+    "voice",
+    "coach",
+    "local",
+    "records",
+    "mic"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
