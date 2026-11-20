@@ -91,6 +91,29 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [dataranger](https://freemcp.space/featured/dataranger) — Open-source AI agent that patrols your data, fixes only what it can prove against the source, and sends the rest to a person with the evidence. Works with Snowflake, dbt and DuckDB, runs as a GitHub Action, and speaks MCP.
+- [codedb-lens](https://freemcp.space/featured/codedb-lens) — Free, read-only health check for SQL Server and PostgreSQL
+- [chorono-editor](https://freemcp.space/featured/chorono-editor) — Open-source 2D animation editor. Create with Claude Code or Codex via MCP, then refine layers and keyframes visually.
+- [inventor-mcp-server](https://freemcp.space/featured/inventor-mcp-server) — MCP server for parametric 3D modeling in Autodesk Inventor — maintained continuation of NeonGlay/inventor-mcp (MCP SDK 2.x, Inventor 2027, assemblies)
+- [archsmith](https://freemcp.space/featured/archsmith) — Turn a validated JSON IR into a consistent layered-architecture diagram (SVG) — library, CLI, and MCP server, for humans and agents alike.
+- [phpgraph](https://freemcp.space/featured/phpgraph) — Knowledge graph of PHP codebases for AI coding agents (Claude Code, Codex, Cursor) over MCP. Static analysis, no LLM.
+- [3dcraft](https://freemcp.space/featured/3dcraft) — An open-source parametric 3D CAD modeller built with and for AI: every action is a command, and every result is checked. Pure Rust, its own kernel.
+- [mcps](https://freemcp.space/featured/mcps) — MCP servers for Google Workspace, Notion, Romanian e-invoicing and company registers, open banking, invoicing, domains, Expo and more, on one shared toolkit
+- [brewpage-openapi](https://freemcp.space/featured/brewpage-openapi) — Open API Specification for https://brewpage.app - Free HTML, Markdown, AI Artifacts & File Instant Hosting
+- [browserdo](https://freemcp.space/featured/browserdo) — MCP server for Embiody, the Windows browser your AI agent works in while you keep using your PC.
+- [doubao-image-mcp](https://freemcp.space/featured/doubao-image-mcp) — 把豆包网页版生图封装成本地 MCP 服务：无需 API Key，支持扫码登录、多账号排队、多图全量返回
+- [sealbridge](https://freemcp.space/featured/sealbridge) — Delegate tasks such as code reviews to AI agents run by other people, straight from your MCP client. Signed requests and results, relayed delivery, and a verifiable audit log.
+- [bruster](https://freemcp.space/featured/bruster) — Native webview browser automation for AI agents. Rust-powered, with JSON-lines control and a built-in MCP server. Runs on macOS, Linux, and Windows.
+- [claude-bridge-blender](https://freemcp.space/featured/claude-bridge-blende) — Drive a live Blender with Claude: in-Blender chat on your subscription + token-lean MCP ops for Claude Code
+- [semantic-cache-mcp](https://freemcp.space/featured/semantic-cache-mcp) — MCP file cache for AI coding agents. Re-reads cost ~40 tokens instead of the whole file; changed files come back as diffs. Works with Claude Code, Cursor, Codex and VS Code.
+- [rebuild-dossier](https://freemcp.space/featured/rebuild-dossier) — MCP server that reverse engineers a locked rebuild spec (CLAUDE.md, .claude config, mutation tested tests) from an existing app
+- [opendrs](https://freemcp.space/featured/opendrs) — PR blast radius analyzer: a 0-1 risk score for every pull request so AI-reviewed, low-risk PRs auto-approve into the merge queue. GitHub Action, CLI, Claude Code plugin, MCP server.
+- [test-inventory-mcp](https://freemcp.space/featured/test-inventory-mcp) — MCP server for test-inventory: AI agents ask which Playwright, Vitest, Jest, Mocha, Jasmine, Cypress, WebdriverIO, node:test and Bun tests a project has, which are skipped and why, and which a change can affect, without running them.
+- [indec-mcp](https://freemcp.space/featured/indec-mcp) — MCP no oficial sobre el Catálogo API-INDEC (Argentina): inflación, canastas, salarios, EMAE, pobreza, empleo, comercio exterior. Mirror DuckDB + servidor MCP con rate limits.
+- [MongrelDB-Viewer](https://freemcp.space/featured/mongreldb-viewer) — Multi-platform desktop viewer for MongrelDB: direct + server connections, schema map, SQL, dense ANN, MCP, and chat.
+- [context-guardian](https://freemcp.space/luminarisoftwares/context-guardian) — 40 turns: 1,130,722 tokens upstream -> 161,141. A fail-open compaction proxy for local OpenAI-compatible models.
+- [nano-mcp-termux](https://freemcp.space/featured/nano-mcp-termux) — Zero-dependency MCP server for AI agents, natively running on Termux (Android), Raspberry Pi, and Linux. Single-file, Docker-ready, protocol-tested.
+- [telegram-dev](https://freemcp.space/featured/telegram-dev) — Telegram development skill and documentation MCP for Codex, Claude Code and Cursor
 - [imsg-mcp](https://freemcp.space/featured/imsg-mcp) — Let your AI assistant read your iMessage/SMS and send the replies you approve. An MCP server and agent plugin for Claude, ChatGPT, Codex and Cursor, built for proactive agents like Claude Duet and dots. Runs on a Mac you control, with server-side send guardrails.
 - [sonjari](https://freemcp.space/featured/sonjari) — Your PC does the work. You get the proof. Sonjari is a free local AI agent for Windows: web research, Excel and Word documents, and code. Works on its own, or takes on tasks from Claude and Codex. No meter.
 - [claude-duet-bridge](https://freemcp.space/calebtgrimes/claude-duet-bridge) — Connect Claude Duet to Claude Code: an MCP connector that lets Duet start Claude Code sessions, talk to your open terminal windows, and get answers back. Remote MCP server on Cloudflare Workers + a Claude Code channel.
@@ -168,29 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [walmart-mcp](https://freemcp.space/featured/walmart-mcp) — MCP server for Walmart: keyword and category search, product pages with the buy box and other sellers, and the review feed with its filter block. 1,000 free credits every month.
 - [pktctl](https://freemcp.space/featured/pktctl) — The MCP server that puts Cisco Packet Tracer under your AI agent's control. Native PTMP, 72 tools, one static binary.
 - [mcp-yandex-merchants](https://freemcp.space/featured/mcp-yandex-merchants) — MCP server for Yandex Merchants (Yandex Tovary): change prices, discounts and product visibility without re-uploading the YML feed
-- [mcp-google-merchants](https://freemcp.space/featured/mcp-google-merchants) — MCP server for Google Merchant Center (Merchant API): diagnose disapproved products, manage product data, feeds and promotions, read performance reports
-- [shopscout-mcp](https://freemcp.space/featured/shopscout-mcp) — Let your agent shop and compare: Shopify catalog search, offer ranking and shipping-plan comparison, $0.01 USDC per call via x402 on Base.
-- [paxaver-mcp](https://freemcp.space/featured/paxaver-mcp) — Paxaver school community platform: student lunch ordering with allergy and dietary checks, wallets, school calendars, volunteering, memberships and payments.
-- [brightspace-mcp-server](https://freemcp.space/featured/brightspace-mcp-serv) — MCP server for Brightspace (D2L). Works with any school.
-- [pronounce](https://freemcp.space/featured/pronounce) — 🔊 Hear how developers actually pronounce kubectl, nginx, GIF & 1,900+ tech terms. Sourced dictionary + CLI + VS Code + GitHub Action + MCP + Agent Skill.
-- [ictexam-mcp](https://freemcp.space/featured/ictexam-mcp) — MCP server for ICTExam — read exams, gradebooks and item analysis; parse papers with AI and publish exams. By ICT Innovations.
-- [scorm-mcp-server](https://freemcp.space/featured/scorm-mcp-server) — Turn HTML, Claude Design bundles or mobile-learning exports into LMS-ready SCORM 2004/1.2 packages — and validate any SCORM zip. Offline, tracked, MIT.
-- [learn-shell](https://freemcp.space/featured/learn-shell) — An agent-native teaching OS — a classroom that remembers, for you and your AI. MCP server + self-hosted web app.
-- [mcp-server-pronunciation](https://freemcp.space/featured/mcp-server-pronuncia) — Local MCP voice coach with English pronunciation, grammar, and fluency feedback.
-- [voice-coach-mcp](https://freemcp.space/featured/voice-coach-mcp) — Local voice coach: records the mic and measures singing pitch accuracy (cents, vibrato, MIDI melody), phoneme-level English pronunciation and public-speaking pace, pauses and filler words, with a coaching skill and progress log.
-- [geogebra-mcp](https://freemcp.space/featured/geogebra-mcp) — MCP server that lets AI (Claude, Cursor…) draw, check and fix plane-geometry figures live on GeoGebra Calculator
-- [esp-mcp](https://freemcp.space/featured/esp-mcp) — Centralize ESP32 related commands and simplify getting started with seamless, LLM-driven interaction and help.
-- [usb-rea](https://freemcp.space/featured/usb-rea) — Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
-- [campus-cli](https://freemcp.space/featured/campus-cli) — CLI no oficial para UPC Aula Virtual (Blackboard Learn) — terminal + MCP para Claude
-- [brightspace-d2l-mcp](https://freemcp.space/featured/brightspace-d2l-mcp) — Brightspace D2L MCP server for Claude, ChatGPT, Cursor and Copilot. Knows what you already handed in, so it only tells you what is actually left. Due dates, grades and course files at any school with normal SSO sign-in.
-- [canvas-mcp](https://freemcp.space/featured/canvas-mcp) — Local-first Canvas LMS MCP server. Stdio transport, ~125 lines of Python.
-- [moodle-mcp-server](https://freemcp.space/featured/moodle-mcp-server) — Open-source MCP server that connects AI agents to Moodle LMS data through Moodle Web Services.
-- [ent1-mcp](https://freemcp.space/featured/ent1-mcp) — Serveur MCP (Model Context Protocol) en Rust pour l'ENT ONE / Edifice : messagerie avec les enseignants, carnet de liaison, cahier de texte, actualités… depuis Claude ou ChatGPT.
-- [servomotor-mcp](https://freemcp.space/featured/servomotor-mcp) — Drive Gearotons M17 open-source servomotors from natural language (MCP server).
-- [gnuradioMCP](https://freemcp.space/featured/gnuradiomcp) — MCP server for GNU Radio
-- [mcp-server-kicad](https://freemcp.space/featured/mcp-server-kicad) — Maintenance mode: security and KiCad compatibility fixes only (see README for why). KiCad MCP server: 100+ Model Context Protocol tools that let an AI assistant do schematic capture and PCB layout, run ERC and DRC, and export Gerbers, BOM and 3D models.
-- [sheetsdata-mcp](https://freemcp.space/featured/sheetsdata-mcp) — sheetsdata-mcp
-- [misterclaw](https://freemcp.space/featured/misterclaw) — 👾🦀 MiSTerClaw — MCP Remote Control for MiSTer-FPGA
 <!-- freemcp:end -->
 
 ---
