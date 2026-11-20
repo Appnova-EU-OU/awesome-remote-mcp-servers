@@ -1,0 +1,17 @@
+{
+  "name": "dataloupe",
+  "description": "Offline data explorer + MCP server: turn CSV/Parquet/Excel into ONE self-contained interactive HTML file, or let your AI assistant query local data — nothing leaves your machine.",
+  "git_url": "https://github.com/aurelio-nakamura/dataloupe",
+  "author_github": "aurelio-nakamura",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "cli",
+    "csv",
+    "data",
+    "dataexploration"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://aurelio-nakamura.github.io/dataloupe/"
+}
