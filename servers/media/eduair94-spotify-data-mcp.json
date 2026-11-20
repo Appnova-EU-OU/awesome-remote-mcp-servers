@@ -1,0 +1,17 @@
+{
+  "name": "spotify-data-mcp",
+  "description": "MCP server for Spotify data: play counts, monthly listeners, charts, artist stats, playlists and ISRC lookup for Claude, Cursor and VS Code",
+  "git_url": "https://github.com/eduair94/spotify-data-mcp",
+  "author_github": "eduair94",
+  "category": "media",
+  "tags": [
+    "claude",
+    "cursor",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://spotify.checkleaked.cc"
+}
