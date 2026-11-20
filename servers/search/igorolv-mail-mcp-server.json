@@ -1,0 +1,16 @@
+{
+  "name": "mail-mcp-server",
+  "description": "Read-only mail for AI agents: on-premises Exchange and any IMAP mailbox, with local search inside PDF, Office and ZIP attachments.",
+  "git_url": "https://github.com/igorolv/mail-mcp-server",
+  "author_github": "igorolv",
+  "category": "search",
+  "tags": [
+    "email",
+    "ews",
+    "exchange",
+    "gmail",
+    "imap"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
