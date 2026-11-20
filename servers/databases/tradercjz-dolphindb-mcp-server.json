@@ -1,0 +1,12 @@
+{
+  "name": "dolphindb-mcp-server",
+  "description": "dolphindb-mcp-server",
+  "git_url": "https://github.com/tradercjz/dolphindb-mcp-server",
+  "author_github": "tradercjz",
+  "category": "databases",
+  "tags": [
+    "dolphindb"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
