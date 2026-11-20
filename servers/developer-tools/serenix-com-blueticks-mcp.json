@@ -1,0 +1,16 @@
+{
+  "name": "blueticks-mcp",
+  "description": "Blueticks MCP server for Claude Desktop / Cursor / Cline",
+  "git_url": "https://github.com/serenix-com/blueticks-mcp",
+  "author_github": "serenix-com",
+  "category": "developer-tools",
+  "tags": [
+    "blueticks",
+    "claude",
+    "desktop",
+    "cursor",
+    "cline"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
