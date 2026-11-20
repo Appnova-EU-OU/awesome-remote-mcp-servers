@@ -1,0 +1,17 @@
+{
+  "name": "bruster",
+  "description": "Native webview browser automation for AI agents. Rust-powered, with JSON-lines control and a built-in MCP server. Runs on macOS, Linux, and Windows.",
+  "git_url": "https://github.com/aliilyas/bruster",
+  "author_github": "aliilyas",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "mcp",
+    "mcpserver",
+    "rust"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://aliilyas.github.io/bruster/"
+}
