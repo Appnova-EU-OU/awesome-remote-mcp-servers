@@ -1,0 +1,16 @@
+{
+  "name": "website-downloader",
+  "description": "MCP server to download entire websites",
+  "git_url": "https://github.com/pskill9/website-downloader",
+  "author_github": "pskill9",
+  "category": "developer-tools",
+  "tags": [
+    "website",
+    "downloader",
+    "download",
+    "entire",
+    "websites"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
