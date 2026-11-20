@@ -1,0 +1,17 @@
+{
+  "name": "agent-data-tools",
+  "description": "Focused APIs by monthly plan or pay per call: company check (EU VAT, Nordic and French registers, sanctions), PDF to text, web page to Markdown, plus 700 pay-per-call tools for AI agents over HTTP and MCP. Card, x402 or MPP.",
+  "git_url": "https://github.com/Nutshell2000/agent-data-tools",
+  "author_github": "Nutshell2000",
+  "category": "security",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "api",
+    "base",
+    "bitcoinfees"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://tools.funwords.eu"
+}
