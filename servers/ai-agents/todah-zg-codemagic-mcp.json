@@ -1,0 +1,16 @@
+{
+  "name": "codemagic-mcp",
+  "description": "Build, sign, and publish iOS & Android apps through AI agents — Codemagic CI/CD + App Store Connect + Google Play",
+  "git_url": "https://github.com/todah-zg/codemagic-mcp",
+  "author_github": "todah-zg",
+  "category": "ai-agents",
+  "tags": [
+    "android",
+    "codemagic",
+    "flutter",
+    "ios",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
