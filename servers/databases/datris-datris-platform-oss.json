@@ -1,0 +1,17 @@
+{
+  "name": "datris-platform-oss",
+  "description": "The Data Control Plane for AI Agents — acquire, validate, and land data over MCP with scoped keys, approval gates, and an audit log. Self-hosted, open source.",
+  "git_url": "https://github.com/datris/datris-platform-oss",
+  "author_github": "datris",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claude",
+    "dataengineering",
+    "dataingestion",
+    "datapipeline"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://datris.ai"
+}
