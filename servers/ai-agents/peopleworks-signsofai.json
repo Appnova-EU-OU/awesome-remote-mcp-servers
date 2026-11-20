@@ -1,0 +1,17 @@
+{
+  "name": "SignsofAI",
+  "description": "A free, privacy-first tool that flags the tells of AI-generated writing, overused vocabulary, rhetorical crutches, robotic sentence rhythm and, for every finding, tells you how to fix it.",
+  "git_url": "https://github.com/peopleworks/SignsofAI",
+  "author_github": "peopleworks",
+  "category": "ai-agents",
+  "tags": [
+    "academicintegrity",
+    "aidetection",
+    "aihumanizer",
+    "aiwriting",
+    "blazor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://peopleworks.github.io/SignsofAI/"
+}
