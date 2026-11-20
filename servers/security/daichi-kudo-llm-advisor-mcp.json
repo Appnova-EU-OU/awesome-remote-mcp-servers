@@ -1,0 +1,17 @@
+{
+  "name": "llm-advisor-mcp",
+  "description": "Real-time LLM and VLM comparison with benchmarks, prices and personalized recommendations from multiple data sources.",
+  "git_url": "https://github.com/Daichi-Kudo/llm-advisor-mcp",
+  "author_github": "Daichi-Kudo",
+  "category": "security",
+  "tags": [
+    "ai",
+    "benchmarks",
+    "claudecode",
+    "llm",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://cognisant.io"
+}
