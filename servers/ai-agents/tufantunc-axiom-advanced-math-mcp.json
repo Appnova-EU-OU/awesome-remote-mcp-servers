@@ -1,0 +1,17 @@
+{
+  "name": "axiom-advanced-math-mcp",
+  "description": "Exact symbolic math for LLMs: integrals, equations, matrices, and claim verification via Giac/Xcas. MCP server + CLI.",
+  "git_url": "https://github.com/tufantunc/axiom-advanced-math-mcp",
+  "author_github": "tufantunc",
+  "category": "ai-agents",
+  "tags": [
+    "advancedmathematics",
+    "cas",
+    "claude",
+    "cli",
+    "computeralgebra"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/axiom-math"
+}
