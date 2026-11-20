@@ -1,0 +1,16 @@
+{
+  "name": "mcp-laya",
+  "description": "Fast, local, non-autoregressive System-1 decision engine as MCP tools — typed decisions (classify / score / yes-no) over text, email, tickets or JSON in 100+ languages, with calibrated confidence and no text generation, so nothing to hallucinate. Offloads routing/triage/gating judgment calls from the main model; runs on-device, offline by default. `pipx install mcp-laya`",
+  "git_url": "https://github.com/dockndevai/mcp-laya",
+  "author_github": "dockndevai",
+  "category": "communication",
+  "tags": [
+    "ai",
+    "classification",
+    "laya",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
