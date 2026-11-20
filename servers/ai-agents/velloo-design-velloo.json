@@ -1,0 +1,17 @@
+{
+  "name": "velloo",
+  "description": "Local-first design canvas for AI coding agents. Recreate a real React screen, explore directions visually, then ship the winner back into your app.",
+  "git_url": "https://github.com/velloo-design/velloo",
+  "author_github": "velloo-design",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aiagents",
+    "bun",
+    "canvas",
+    "cli"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://velloo.design"
+}
