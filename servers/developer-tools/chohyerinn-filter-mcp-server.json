@@ -1,0 +1,15 @@
+{
+  "name": "filter-mcp-server",
+  "description": "MCP server comparing approximate filters (Bloom, Counting Bloom, Cuckoo, SuRF). Listed in awesome-mcp-servers.",
+  "git_url": "https://github.com/chohyerinn/filter-mcp-server",
+  "author_github": "chohyerinn",
+  "category": "developer-tools",
+  "tags": [
+    "bloomfilter",
+    "cuckoofilter",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
