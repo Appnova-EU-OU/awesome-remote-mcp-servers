@@ -1,0 +1,16 @@
+{
+  "name": "spring-runtime-mcp",
+  "description": "Read-only, sanitized Spring Boot runtime diagnostics (beans, conditions, routes, health, migrations, startup, config, OpenAPI, drift) for coding agents over MCP",
+  "git_url": "https://github.com/neilmorse/spring-runtime-mcp",
+  "author_github": "neilmorse",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "codex",
+    "codingagents",
+    "diagnostics"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
