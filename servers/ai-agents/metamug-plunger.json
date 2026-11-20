@@ -1,0 +1,17 @@
+{
+  "name": "plunger",
+  "description": "An HTTP client built for AI agents: an MCP server and a command line that send requests safely, plus a native window to see what the agent did. Rust, no account, no telemetry.",
+  "git_url": "https://github.com/metamug/plunger",
+  "author_github": "metamug",
+  "category": "ai-agents",
+  "tags": [
+    "apitesting",
+    "curl",
+    "developertools",
+    "egui",
+    "httpclient"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://metamug.com/util/plunger/"
+}
