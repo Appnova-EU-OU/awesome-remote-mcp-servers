@@ -1,0 +1,17 @@
+{
+  "name": "geogebra-mcp",
+  "description": "MCP server that lets AI (Claude, Cursor…) draw, check and fix plane-geometry figures live on GeoGebra Calculator",
+  "git_url": "https://github.com/haison8x/geogebra-mcp",
+  "author_github": "haison8x",
+  "category": "ai-agents",
+  "tags": [
+    "claude",
+    "claudecodeplugin",
+    "geogebra",
+    "geometry",
+    "math"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/geogebra-mcp"
+}
