@@ -1,0 +1,17 @@
+{
+  "name": "data-profiler-mcp",
+  "description": "MCP server that profiles tabular data files (CSV, Parquet, Excel, JSON) for LLM agents like Claude.",
+  "git_url": "https://github.com/haiiibin/data-profiler-mcp",
+  "author_github": "haiiibin",
+  "category": "ai-agents",
+  "tags": [
+    "claude",
+    "csv",
+    "dataprofiling",
+    "dataquality",
+    "exploratorydataanalysis"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/data-profiler-mcp/"
+}
