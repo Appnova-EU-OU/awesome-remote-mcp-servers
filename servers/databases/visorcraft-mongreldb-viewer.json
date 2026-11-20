@@ -1,0 +1,17 @@
+{
+  "name": "MongrelDB-Viewer",
+  "description": "Multi-platform desktop viewer for MongrelDB: direct + server connections, schema map, SQL, dense ANN, MCP, and chat.",
+  "git_url": "https://github.com/visorcraft/MongrelDB-Viewer",
+  "author_github": "visorcraft",
+  "category": "databases",
+  "tags": [
+    "ai",
+    "ann",
+    "columnar",
+    "database",
+    "datafusion"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.mongreldb.com"
+}
