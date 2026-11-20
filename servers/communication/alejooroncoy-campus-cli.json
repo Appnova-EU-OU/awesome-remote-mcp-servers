@@ -1,0 +1,17 @@
+{
+  "name": "campus-cli",
+  "description": "CLI no oficial para UPC Aula Virtual (Blackboard Learn) — terminal + MCP para Claude",
+  "git_url": "https://github.com/alejooroncoy/campus-cli",
+  "author_github": "alejooroncoy",
+  "category": "communication",
+  "tags": [
+    "aulavirtual",
+    "blackboard",
+    "blackboardlearn",
+    "chatgpt",
+    "claude"
+  ],
+  "license": "ISC",
+  "status": "active",
+  "homepage": "https://campuscli.com"
+}
