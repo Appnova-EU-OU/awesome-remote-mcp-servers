@@ -1,0 +1,18 @@
+{
+  "name": "JobsPipe MCP",
+  "description": "Hosted MCP for searching live job postings across 30+ ATS feeds and job boards in one normalized schema.",
+  "git_url": "https://github.com/jobspipe/mcp",
+  "homepage": "https://jobspipe.dev",
+  "author_github": "jobspipe",
+  "category": "search",
+  "tags": ["jobs", "hiring", "ats", "job-search", "remote", "hosted"],
+  "env_keys": [
+    {
+      "key": "JOBSPIPE_API_KEY",
+      "kind": "optional",
+      "description": "JobsPipe API key (Bearer). Free tier available; no-key demo at https://jobspipe.dev/mcp"
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
