@@ -1,0 +1,17 @@
+{
+  "name": "m4r-data",
+  "description": "Structured data from Music For Robots — music composed for machines, reviewed by AI critics",
+  "git_url": "https://github.com/luchtan-GIT/m4r-data",
+  "author_github": "luchtan-GIT",
+  "category": "media",
+  "tags": [
+    "agentskills",
+    "aimusic",
+    "antigravity",
+    "audiodataset",
+    "claudeskills"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://huggingface.co/datasets/music4robots/music-for-robots"
+}
