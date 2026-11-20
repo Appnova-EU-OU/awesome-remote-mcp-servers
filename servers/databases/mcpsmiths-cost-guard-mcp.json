@@ -1,0 +1,17 @@
+{
+  "name": "cost-guard-mcp",
+  "description": "Pre-flight query cost and result-size guardrails for AI agents across BigQuery, Snowflake, and Databricks",
+  "git_url": "https://github.com/mcpsmiths/cost-guard-mcp",
+  "author_github": "mcpsmiths",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "bigquery",
+    "costoptimization",
+    "datawarehouse",
+    "llmtools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/cost-guard-mcp/"
+}
