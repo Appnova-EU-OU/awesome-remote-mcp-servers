@@ -1,0 +1,17 @@
+{
+  "name": "mcp-architect",
+  "description": "Give any AI assistant real architectural understanding of a codebase — local, private, zero-config MCP serve",
+  "git_url": "https://github.com/kannajune/mcp-architect",
+  "author_github": "kannajune",
+  "category": "ai-agents",
+  "tags": [
+    "agents",
+    "ai",
+    "claudecursor",
+    "codeanalysis",
+    "developertools"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://modelcontextprotocol.io"
+}
