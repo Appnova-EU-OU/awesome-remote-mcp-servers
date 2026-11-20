@@ -1,0 +1,16 @@
+{
+  "name": "fw-context-mcp",
+  "description": "C/C++ semantic index for AI coding assistants — powered by your compile_commands.json. Query the program your compiler actually builds, not just the source files.",
+  "git_url": "https://github.com/turbyho/fw-context-mcp",
+  "author_github": "turbyho",
+  "category": "search",
+  "tags": [
+    "semantic",
+    "index",
+    "coding",
+    "assistants",
+    "powered"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
