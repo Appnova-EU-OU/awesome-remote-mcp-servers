@@ -1,0 +1,17 @@
+{
+  "name": "pronounce",
+  "description": "🔊 Hear how developers actually pronounce kubectl, nginx, GIF & 1,900+ tech terms. Sourced dictionary + CLI + VS Code + GitHub Action + MCP + Agent Skill.",
+  "git_url": "https://github.com/anzy-renlab-ai/pronounce",
+  "author_github": "anzy-renlab-ai",
+  "category": "cloud-infra",
+  "tags": [
+    "agentskills",
+    "aiagents",
+    "bash",
+    "claudecode",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pronounce.renlab.ai"
+}
