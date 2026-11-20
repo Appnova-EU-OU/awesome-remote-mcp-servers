@@ -1,0 +1,16 @@
+{
+  "name": "mathmethods-mcp",
+  "description": "MCP server for numerical methods and dynamic systems: root finding, integration, ODEs, Monte Carlo, 1D/2D dynamical systems, and combat models.",
+  "git_url": "https://github.com/agmonetti/mathmethods-mcp",
+  "author_github": "agmonetti",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "llmtools",
+    "mcp",
+    "numericalmethods",
+    "odesolver"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
