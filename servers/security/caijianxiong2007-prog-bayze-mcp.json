@@ -1,0 +1,17 @@
+{
+  "name": "bayze-mcp",
+  "description": "Local-first AI model-routing core: waterfall workflows with structured cross-vendor review (draft → review → revise). BYOK or unified API. MCP stdio. npm: bayze-mcp",
+  "git_url": "https://github.com/caijianxiong2007-prog/bayze-mcp",
+  "author_github": "caijianxiong2007-prog",
+  "category": "security",
+  "tags": [
+    "airouter",
+    "byok",
+    "cherrystudio",
+    "crossvendor",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/bayze-mcp"
+}
