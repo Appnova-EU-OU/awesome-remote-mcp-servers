@@ -1,0 +1,16 @@
+{
+  "name": "multi-mail-mcp",
+  "description": "MCP server for searching, reading and writing mail across several Gmail accounts (Claude Desktop, Claude Code, ChatGPT)",
+  "git_url": "https://github.com/yybd/multi-mail-mcp",
+  "author_github": "yybd",
+  "category": "search",
+  "tags": [
+    "multi",
+    "mail",
+    "searching",
+    "reading",
+    "writing"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
