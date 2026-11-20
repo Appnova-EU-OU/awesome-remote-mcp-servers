@@ -1,0 +1,16 @@
+{
+  "name": "learn-shell",
+  "description": "An agent-native teaching OS — a classroom that remembers, for you and your AI. MCP server + self-hosted web app.",
+  "git_url": "https://github.com/sf-shenfeng/learn-shell",
+  "author_github": "sf-shenfeng",
+  "category": "ai-agents",
+  "tags": [
+    "agentmemory",
+    "aiagents",
+    "education",
+    "fsrs",
+    "learning"
+  ],
+  "license": "AGPL-3.0",
+  "status": "active"
+}
