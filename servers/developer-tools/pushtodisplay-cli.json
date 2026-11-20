@@ -1,0 +1,17 @@
+{
+  "name": "cli",
+  "description": "cli & mcp-server package for Push To Display",
+  "git_url": "https://github.com/pushtodisplay/cli",
+  "author_github": "pushtodisplay",
+  "category": "developer-tools",
+  "tags": [
+    "android",
+    "api",
+    "board",
+    "cli",
+    "device"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pushtodisplay.com"
+}
