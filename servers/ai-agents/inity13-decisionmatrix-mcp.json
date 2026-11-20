@@ -1,0 +1,17 @@
+{
+  "name": "decisionmatrix-mcp",
+  "description": "Deterministic multi-criteria decision analysis (MCDA) for AI agents over MCP — score, rank & explain options against weighted criteria. Weighted-sum, weighted-product, TOPSIS. Exact decimals. Live remote server + self-host.",
+  "git_url": "https://github.com/inity13/decisionmatrix-mcp",
+  "author_github": "inity13",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cursor",
+    "decisionmaking",
+    "decisionmatrix"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://decisionmatrix-mcp.pages.dev"
+}
