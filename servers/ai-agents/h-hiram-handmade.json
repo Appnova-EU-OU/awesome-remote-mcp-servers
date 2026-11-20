@@ -1,0 +1,17 @@
+{
+  "name": "handmade",
+  "description": "Handmade is a Model Context Protocol (MCP) server tailored to eliminate generic AI output by enforcing comprehensive prompt coverage and proactively clarifying ambiguities before generation.",
+  "git_url": "https://github.com/h-hiram/handmade",
+  "author_github": "h-hiram",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "aislop",
+    "aislopfree",
+    "angular",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/handmade/"
+}
