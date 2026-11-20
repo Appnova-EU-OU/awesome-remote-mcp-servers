@@ -1,0 +1,17 @@
+{
+  "name": "walmart-mcp",
+  "description": "MCP server for Walmart: keyword and category search, product pages with the buy box and other sellers, and the review feed with its filter block. 1,000 free credits every month.",
+  "git_url": "https://github.com/HasData/walmart-mcp",
+  "author_github": "HasData",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cursor",
+    "ecommerce",
+    "hasdata"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://hasdata.com/mcp/walmart"
+}
