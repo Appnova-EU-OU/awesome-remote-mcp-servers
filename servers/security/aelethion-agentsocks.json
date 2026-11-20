@@ -1,0 +1,17 @@
+{
+  "name": "agentsocks",
+  "description": "Native messaging between Claude Code, Codex and other coding-agent sessions.",
+  "git_url": "https://github.com/Aelethion/agentsocks",
+  "author_github": "Aelethion",
+  "category": "security",
+  "tags": [
+    "agentcommunication",
+    "aiagents",
+    "anthropicclaude",
+    "claudecode",
+    "cli"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/agentsocks"
+}
