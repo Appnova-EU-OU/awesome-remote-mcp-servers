@@ -1,0 +1,17 @@
+{
+  "name": "ephemeris-mcp",
+  "description": "MCP server for time-series foundation model (TSFM) forecasting: probabilistic forecasts from Chronos-2, TimesFM 2.5, Toto 2, TiRex-2 and IBM Granite models, or an accuracy-weighted ensemble.",
+  "git_url": "https://github.com/TensorLink-AI/ephemeris-mcp",
+  "author_github": "TensorLink-AI",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "chronos",
+    "claude",
+    "claudecodeplugin",
+    "cursor"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ephemeris.cascade.industries"
+}
