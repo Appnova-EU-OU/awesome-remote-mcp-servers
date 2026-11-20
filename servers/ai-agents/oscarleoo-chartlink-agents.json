@@ -1,0 +1,16 @@
+{
+  "name": "chartlink-agents",
+  "description": "chartlink for agents: Claude Code plugin, MCP bridge and listing kit for charts with live-updating embeds",
+  "git_url": "https://github.com/oscarleoo/chartlink-agents",
+  "author_github": "oscarleoo",
+  "category": "ai-agents",
+  "tags": [
+    "chartlink",
+    "agents",
+    "claude",
+    "code",
+    "plugin"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
