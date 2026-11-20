@@ -1,0 +1,17 @@
+{
+  "name": "stm32-gdb-mcp",
+  "description": "MCP server that lets AI agents debug STM32 firmware on real hardware (GDB + OpenOCD/ST-Link/J-Link): HardFault triage, FreeRTOS, SWO/RTT, decoded structured results.",
+  "git_url": "https://github.com/Zeraissh/stm32-gdb-mcp",
+  "author_github": "Zeraissh",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "claudecodeplugin",
+    "cortexm",
+    "embedded"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/stm32-gdb-mcp/"
+}
