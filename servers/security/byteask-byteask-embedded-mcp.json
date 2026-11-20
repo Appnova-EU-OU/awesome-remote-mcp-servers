@@ -1,0 +1,17 @@
+{
+  "name": "ByteAsk-Embedded-MCP",
+  "description": "The open-source MCP server behind ByteAsk Embedded Docs: a source-grounded, page-cited evidence-retrieval server for coding agents (Claude Code, Codex, Cursor) that write firmware / driver / protocol code and need exact facts.",
+  "git_url": "https://github.com/ByteAsk/ByteAsk-Embedded-MCP",
+  "author_github": "ByteAsk",
+  "category": "security",
+  "tags": [
+    "arm",
+    "documentation",
+    "embedded",
+    "firmware",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://docs.byteask.ai/embedded"
+}
