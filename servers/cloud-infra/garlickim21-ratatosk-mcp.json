@@ -1,0 +1,17 @@
+{
+  "name": "ratatosk-mcp",
+  "description": "MCP server for Ratatosk — CNCF release intelligence facts for AI agents. check_stack compares your running versions locally; only project slugs leave your cluster.",
+  "git_url": "https://github.com/garlicKim21/ratatosk-mcp",
+  "author_github": "garlicKim21",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "cloudnative",
+    "cncf",
+    "devops",
+    "golang"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://ratatosk.io"
+}
