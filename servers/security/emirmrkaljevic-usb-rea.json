@@ -1,0 +1,16 @@
+{
+  "name": "usb-rea",
+  "description": "Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.",
+  "git_url": "https://github.com/emirmrkaljevic/usb-rea",
+  "author_github": "emirmrkaljevic",
+  "category": "security",
+  "tags": [
+    "cli",
+    "drivers",
+    "libusb",
+    "linux",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
