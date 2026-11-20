@@ -1,0 +1,16 @@
+{
+  "name": "growthbook-mcp",
+  "description": "Official GrowthBook MCP server for creating flags, getting experiments, and more.",
+  "git_url": "https://github.com/growthbook/growthbook-mcp",
+  "author_github": "growthbook",
+  "category": "developer-tools",
+  "tags": [
+    "abtesting",
+    "featureflags",
+    "mcp",
+    "mcpserver"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://docs.growthbook.io/integrations/mcp"
+}
