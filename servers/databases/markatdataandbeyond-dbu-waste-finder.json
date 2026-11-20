@@ -1,0 +1,17 @@
+{
+  "name": "dbu-waste-finder",
+  "description": "Free read-only Databricks notebook + MCP server that finds DBU waste from system tables and proposes fixes",
+  "git_url": "https://github.com/markatdataandbeyond/dbu-waste-finder",
+  "author_github": "markatdataandbeyond",
+  "category": "databases",
+  "tags": [
+    "costoptimization",
+    "databricks",
+    "finops",
+    "mcp",
+    "systemtables"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://markatdataandbeyond.github.io/dbu-waste-finder/"
+}
