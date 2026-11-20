@@ -1,0 +1,17 @@
+{
+  "name": "scorm-mcp-server",
+  "description": "Turn HTML, Claude Design bundles or mobile-learning exports into LMS-ready SCORM 2004/1.2 packages — and validate any SCORM zip. Offline, tracked, MIT.",
+  "git_url": "https://github.com/giacomomaria81/scorm-mcp-server",
+  "author_github": "giacomomaria81",
+  "category": "security",
+  "tags": [
+    "claude",
+    "claudedesktop",
+    "cmi5",
+    "elearning",
+    "elearningauthoring"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://scormpackager.vercel.app"
+}
