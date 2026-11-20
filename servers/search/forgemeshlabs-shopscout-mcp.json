@@ -1,0 +1,16 @@
+{
+  "name": "shopscout-mcp",
+  "description": "Let your agent shop and compare: Shopify catalog search, offer ranking and shipping-plan comparison, $0.01 USDC per call via x402 on Base.",
+  "git_url": "https://github.com/forgemeshlabs/shopscout-mcp",
+  "author_github": "forgemeshlabs",
+  "category": "search",
+  "tags": [
+    "shopscout",
+    "let",
+    "your",
+    "agent",
+    "shop"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
