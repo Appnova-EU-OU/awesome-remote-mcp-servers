@@ -1,0 +1,17 @@
+{
+  "name": "Gulliver",
+  "description": "Test on tiny data before you run on giant data. MCP server + CLI that gives AI agents a dress rehearsal for SQL: cost preflight, scale lint with auto-fix, rehearse on 1% → 10%, predict 100%, run only within budget. DuckDB, Postgres, BigQuery, Snowflake. Local-first, MIT.",
+  "git_url": "https://github.com/laaielichter/Gulliver",
+  "author_github": "laaielichter",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "bigquery",
+    "claudecode",
+    "claudeplugin",
+    "costoptimization"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://laaielichter.github.io/Gulliver/"
+}
