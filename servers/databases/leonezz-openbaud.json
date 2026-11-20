@@ -1,0 +1,17 @@
+{
+  "name": "openbaud",
+  "description": "Turn serial devices into reusable, auditable tools for coding agents — discover, decode, visualize, capture, and replay.",
+  "git_url": "https://github.com/Leonezz/openbaud",
+  "author_github": "Leonezz",
+  "category": "databases",
+  "tags": [
+    "codexplugin",
+    "embedded",
+    "hardware",
+    "mcp",
+    "modbus"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://baud.zhuwenq.cc/"
+}
