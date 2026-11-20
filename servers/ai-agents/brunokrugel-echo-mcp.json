@@ -1,0 +1,16 @@
+{
+  "name": "echo-mcp",
+  "description": "Enable AI assistants to interact with your Echo API ",
+  "git_url": "https://github.com/BrunoKrugel/echo-mcp",
+  "author_github": "BrunoKrugel",
+  "category": "ai-agents",
+  "tags": [
+    "claude",
+    "echoframework",
+    "go",
+    "golang",
+    "mcp"
+  ],
+  "license": "GPL-3.0",
+  "status": "active"
+}
