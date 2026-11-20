@@ -1,0 +1,17 @@
+{
+  "name": "dataranger",
+  "description": "Open-source AI agent that patrols your data, fixes only what it can prove against the source, and sends the rest to a person with the evidence. Works with Snowflake, dbt and DuckDB, runs as a GitHub Action, and speaks MCP.",
+  "git_url": "https://github.com/akshaysharma1088/dataranger",
+  "author_github": "akshaysharma1088",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "benchmark",
+    "conformalprediction",
+    "datacleaning",
+    "dataengineering"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/dataranger/"
+}
