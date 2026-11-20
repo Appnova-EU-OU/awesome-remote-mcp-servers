@@ -1,0 +1,16 @@
+{
+  "name": "telegram-dev",
+  "description": "Telegram development skill and documentation MCP for Codex, Claude Code and Cursor",
+  "git_url": "https://github.com/Kay0k1/telegram-dev",
+  "author_github": "Kay0k1",
+  "category": "communication",
+  "tags": [
+    "agentskills",
+    "claudecode",
+    "codex",
+    "cursor",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
