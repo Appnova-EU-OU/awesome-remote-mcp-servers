@@ -1,0 +1,16 @@
+{
+  "name": "CICD-AIops",
+  "description": "Governed AI-ops for self-managed GitLab + Gitea CI/CD: pipelines, jobs, runners, artifacts, repo hyg",
+  "git_url": "https://github.com/AIops-tools/CICD-AIops",
+  "author_github": "AIops-tools",
+  "category": "ai-agents",
+  "tags": [
+    "agentskills",
+    "aiops",
+    "cicd",
+    "gitea",
+    "gitlab"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
