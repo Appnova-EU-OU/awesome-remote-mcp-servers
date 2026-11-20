@@ -1,0 +1,17 @@
+{
+  "name": "mcps",
+  "description": "MCP servers for Google Workspace, Notion, Romanian e-invoicing and company registers, open banking, invoicing, domains, Expo and more, on one shared toolkit",
+  "git_url": "https://github.com/foreverworks/mcps",
+  "author_github": "foreverworks",
+  "category": "communication",
+  "tags": [
+    "anaf",
+    "appstoreconnect",
+    "bitwarden",
+    "bnr",
+    "efactura"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://foreverworks.github.io/mcps/"
+}
