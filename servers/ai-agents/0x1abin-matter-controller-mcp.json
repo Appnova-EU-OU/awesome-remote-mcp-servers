@@ -1,0 +1,17 @@
+{
+  "name": "matter-controller-mcp",
+  "description": "An MCP server for Matter Controller, enabling AI agents to control and interact with Matter devices.",
+  "git_url": "https://github.com/0x1abin/matter-controller-mcp",
+  "author_github": "0x1abin",
+  "category": "ai-agents",
+  "tags": [
+    "matter",
+    "controller",
+    "enabling",
+    "agents",
+    "control"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/0x1abin/matter-controller-mcp"
+}
