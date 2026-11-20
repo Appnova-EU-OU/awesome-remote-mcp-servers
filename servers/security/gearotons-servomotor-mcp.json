@@ -1,0 +1,17 @@
+{
+  "name": "servomotor-mcp",
+  "description": "Drive Gearotons M17 open-source servomotors from natural language (MCP server).",
+  "git_url": "https://github.com/Gearotons/servomotor-mcp",
+  "author_github": "Gearotons",
+  "category": "security",
+  "tags": [
+    "claude",
+    "hardware",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://gearotons.com"
+}
