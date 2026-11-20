@@ -1,0 +1,17 @@
+{
+  "name": "fermat-mcp",
+  "description": "🚀 Fermat MCP: The Ultimate Math Engine - Unifying SymPy, NumPy & Matplotlib in one powerful server! Perfect for devs & researchers. ",
+  "git_url": "https://github.com/abhiphile/fermat-mcp",
+  "author_github": "abhiphile",
+  "category": "search",
+  "tags": [
+    "mathematics",
+    "matplotlib",
+    "mcp",
+    "mcpserver",
+    "numericalcomputation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mcpmarket.com/server/fermat"
+}
