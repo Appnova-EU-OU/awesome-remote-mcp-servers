@@ -1,0 +1,16 @@
+{
+  "name": "postfader-fl-studio-mcp",
+  "description": "FL Studio MCP server: let Claude, Codex, Cursor, or any MCP client read, mix, compose, and edit the project you have open. Read-only by default, every change read back. Windows + macOS.",
+  "git_url": "https://github.com/synopsys0/postfader-fl-studio-mcp",
+  "author_github": "synopsys0",
+  "category": "security",
+  "tags": [
+    "aimusic",
+    "audio",
+    "audioanalysis",
+    "claude",
+    "codex"
+  ],
+  "license": "Apache-2.0",
+  "status": "active"
+}
