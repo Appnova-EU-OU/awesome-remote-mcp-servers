@@ -1,0 +1,16 @@
+{
+  "name": "chronulus-mcp",
+  "description": "MCP Server for Chronulus AI Forecasting and Prediction Agents",
+  "git_url": "https://github.com/ChronulusAI/chronulus-mcp",
+  "author_github": "ChronulusAI",
+  "category": "ai-agents",
+  "tags": [
+    "chronulus",
+    "forecasting",
+    "prediction",
+    "agents"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.chronulus.com"
+}
