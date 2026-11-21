@@ -1,0 +1,17 @@
+{
+  "name": "LynxMCP",
+  "description": "LynxMCP: local MCP server for the code questions grep can't answer. Call graph and blast radius, hybrid semantic + lexical code search on ONNX Runtime, library docs and PDFs as sources. No cloud, no PyTorch.",
+  "git_url": "https://github.com/lorenzo-cambiaghi/LynxMCP",
+  "author_github": "lorenzo-cambiaghi",
+  "category": "search",
+  "tags": [
+    "aitools",
+    "callgraph",
+    "claude",
+    "claudecode",
+    "codeintelligence"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://github.com/lorenzo-cambiaghi/LynxMCP"
+}
