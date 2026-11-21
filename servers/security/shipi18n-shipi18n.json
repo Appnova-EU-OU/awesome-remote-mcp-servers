@@ -1,0 +1,17 @@
+{
+  "name": "shipi18n",
+  "description": "Catch broken translations before you ship: dropped placeholders, missing keys, collapsed plurals — and, with your own LLM key, the mistranslations structure checks cannot see. CLI, MCP server, GitHub Action. Apache-2.0, no account, no server.",
+  "git_url": "https://github.com/Shipi18n/shipi18n",
+  "author_github": "Shipi18n",
+  "category": "security",
+  "tags": [
+    "anthropic",
+    "ci",
+    "cli",
+    "codequality",
+    "developertools"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://shipi18n.com"
+}
