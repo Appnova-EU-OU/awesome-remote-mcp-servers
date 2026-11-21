@@ -1,0 +1,17 @@
+{
+  "name": "openregistry",
+  "description": "OpenRegistry - the world's first MCP and API for live company profile, directors, shareholders, financials and filings directly from official government registries worldwide. 90+ countries.",
+  "git_url": "https://github.com/sophymarine/openregistry",
+  "author_github": "sophymarine",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "aml",
+    "claude",
+    "datajournalism",
+    "duediligence"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://openregistry.sophymarine.com"
+}
