@@ -1,0 +1,16 @@
+{
+  "name": "xmcp Docs",
+  "description": "Search and retrieve official xmcp framework documentation through the hosted, read-only Streamable HTTP endpoint https://xmcp.dev/mcp. No authentication is required; the source lives in apps/website in the linked monorepo.",
+  "git_url": "https://github.com/basementstudio/xmcp",
+  "author_github": "basementstudio",
+  "category": "developer-tools",
+  "tags": [
+    "documentation",
+    "typescript",
+    "remote",
+    "read-only"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://xmcp.dev/docs/guides/xmcp-mcp-server"
+}
