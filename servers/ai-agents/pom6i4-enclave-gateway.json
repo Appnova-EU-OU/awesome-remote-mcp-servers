@@ -1,0 +1,17 @@
+{
+  "name": "enclave-gateway",
+  "description": "Run CLI, multi-hop SSH, SOCKS5 and governed MCP across Windows VPN appliances and RDP bastions.",
+  "git_url": "https://github.com/pom6i4/enclave-gateway",
+  "author_github": "pom6i4",
+  "category": "ai-agents",
+  "tags": [
+    "airgapped",
+    "anyconnect",
+    "bastion",
+    "devopstools",
+    "enclave"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/pom6i4/enclave-gateway/blob/main/docs/GUIDE.md"
+}
