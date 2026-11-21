@@ -1,0 +1,17 @@
+{
+  "name": "allure-testops-mcp",
+  "description": "MCP server for Allure TestOps — projects, launches, test cases, test results",
+  "git_url": "https://github.com/mshegolev/allure-testops-mcp",
+  "author_github": "mshegolev",
+  "category": "developer-tools",
+  "tags": [
+    "allure",
+    "testops",
+    "projects",
+    "launches",
+    "test"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/allure-testops-mcp/"
+}
