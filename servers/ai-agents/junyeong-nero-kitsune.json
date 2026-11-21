@@ -1,0 +1,17 @@
+{
+  "name": "kitsune",
+  "description": "MCP server that lets AI agents use your Firefox, Zen, or LibreWolf browser.",
+  "git_url": "https://github.com/junyeong-nero/kitsune",
+  "author_github": "junyeong-nero",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "browserautomation",
+    "claudecode",
+    "firefox",
+    "firefoxextension"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://junyeong-nero.github.io/kitsune/"
+}
