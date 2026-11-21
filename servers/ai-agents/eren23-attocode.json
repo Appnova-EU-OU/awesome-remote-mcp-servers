@@ -1,0 +1,16 @@
+{
+  "name": "attocode",
+  "description": "A series of lessons, 0 to hero ai coding agent building guide.",
+  "git_url": "https://github.com/eren23/attocode",
+  "author_github": "eren23",
+  "category": "ai-agents",
+  "tags": [
+    "agent",
+    "agenticai",
+    "ai",
+    "aicoding",
+    "codingagent"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
