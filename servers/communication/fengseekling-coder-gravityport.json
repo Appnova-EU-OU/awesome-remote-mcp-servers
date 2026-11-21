@@ -1,0 +1,17 @@
+{
+  "name": "gravityport",
+  "description": "GravityPort is a free AI asset manager for macOS and Windows. Images and videos from ChatGPT, Gemini, Flow, Google AI Studio, Codex, Grok and Jimeng land in a library on your computer, with their prompts, reference images and sources. Every AI creation leaves a trail.",
+  "git_url": "https://github.com/fengseekling-coder/gravityport",
+  "author_github": "fengseekling-coder",
+  "category": "communication",
+  "tags": [
+    "aiassetmanagement",
+    "aiimagemanagement",
+    "aivideo",
+    "chatgpt",
+    "chromeextension"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://gravityport.azhuilab.com/en/?ref=github"
+}
