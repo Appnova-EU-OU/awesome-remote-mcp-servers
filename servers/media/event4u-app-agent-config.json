@@ -1,0 +1,17 @@
+{
+  "name": "agent-config",
+  "description": "Skills, rules, slash commands and subagents for Claude Code, routed by intent and compiled into other coding agents — every claim machine-checked, including the artifact counts in these badges.",
+  "git_url": "https://github.com/event4u-app/agent-config",
+  "author_github": "event4u-app",
+  "category": "media",
+  "tags": [
+    "agentgovernance",
+    "agentrules",
+    "agentskills",
+    "aiagent",
+    "aivideo"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://event4u.app"
+}
