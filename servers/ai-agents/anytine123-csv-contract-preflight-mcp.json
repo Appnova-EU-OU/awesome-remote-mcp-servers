@@ -1,0 +1,16 @@
+{
+  "name": "csv-contract-preflight-mcp",
+  "description": "Local MCP adapter for autonomous-agent CSV checks using the buyer's own Apify account. Free MIT adapter; upstream $0.01 per completed report.",
+  "git_url": "https://github.com/anytine123/csv-contract-preflight-mcp",
+  "author_github": "anytine123",
+  "category": "ai-agents",
+  "tags": [
+    "csv",
+    "contract",
+    "preflight",
+    "local",
+    "adapter"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
