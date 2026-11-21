@@ -1,0 +1,19 @@
+{
+  "name": "I2v.ai",
+  "description": "Official remote MCP server for image generation and image-to-video or text-to-video across 12 image and 16 video models, with a USD quote before every paid task.",
+  "git_url": "https://github.com/i2v-ai/i2v-mcp",
+  "homepage": "https://i2v.ai/docs/mcp",
+  "npm_package": "@i2v-ai/cli",
+  "author_github": "i2v-ai",
+  "category": "media",
+  "tags": ["image", "video", "media", "official"],
+  "env_keys": [
+    {
+      "key": "I2V_API_KEY",
+      "kind": "required",
+      "description": "i2v.ai API key from https://i2v.ai/dashboard/api-keys for the local stdio server."
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
