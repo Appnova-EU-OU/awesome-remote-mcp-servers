@@ -1,0 +1,17 @@
+{
+  "name": "opendrs",
+  "description": "PR blast radius analyzer: a 0-1 risk score for every pull request so AI-reviewed, low-risk PRs auto-approve into the merge queue. GitHub Action, CLI, Claude Code plugin, MCP server.",
+  "git_url": "https://github.com/error-path/opendrs",
+  "author_github": "error-path",
+  "category": "security",
+  "tags": [
+    "aicodereview",
+    "autoapproval",
+    "autoapprove",
+    "autoapprovebot",
+    "automerge"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://error-path.github.io/opendrs/"
+}
