@@ -91,12 +91,20 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [kitsune](https://freemcp.space/featured/kitsune) — MCP server that lets AI agents use your Firefox, Zen, or LibreWolf browser.
+- [openregistry](https://freemcp.space/featured/openregistry) — OpenRegistry - the world's first MCP and API for live company profile, directors, shareholders, financials and filings directly from official government registries worldwide. 90+ countries.
+- [agent-config](https://freemcp.space/featured/agent-config) — Skills, rules, slash commands and subagents for Claude Code, routed by intent and compiled into other coding agents — every claim machine-checked, including the artifact counts in these badges.
+- [fm-mcp](https://freemcp.space/featured/fm-mcp) — Let Claude Code and Codex delegate simple text work to the on-device model for Apple Foundation Models. One Rust binary.
+- [allure-testops-mcp](https://freemcp.space/featured/allure-testops-mcp) — MCP server for Allure TestOps — projects, launches, test cases, test results
+- [datasentry](https://freemcp.space/featured/datasentry) — Find, explain, and safely fix bad data. Local-first data quality for files, databases, CI pipelines, and AI agents.
+- [csv-contract-preflight-mcp](https://freemcp.space/featured/csv-contract-preflig) — Local MCP adapter for autonomous-agent CSV checks using the buyer's own Apify account. Free MIT adapter; upstream $0.01 per completed report.
+- [shipi18n](https://freemcp.space/featured/shipi18n) — Catch broken translations before you ship: dropped placeholders, missing keys, collapsed plurals — and, with your own LLM key, the mistranslations structure checks cannot see. CLI, MCP server, GitHub Action. Apache-2.0, no account, no server.
 - [attocode](https://freemcp.space/featured/attocode) — A series of lessons, 0 to hero ai coding agent building guide.
 - [ictcontact-mcp](https://freemcp.space/featured/ictcontact-mcp) — MCP server for ICTContact / ICTDialer — monitor outbound campaigns and start/stop them. By ICT Innovations.
 - [postfader-fl-studio-mcp](https://freemcp.space/featured/postfader-fl-studio) — FL Studio MCP server: let Claude, Codex, Cursor, or any MCP client read, mix, compose, and edit the project you have open. Read-only by default, every change read back. Windows + macOS.
 - [msty-admin-mcp](https://freemcp.space/featured/msty-admin-mcp) — AI-powered administration for Msty Studio Desktop. 56 MCP tools for database insights, config sync, local model orchestration, and Claude handoff workflows.
 - [datris-platform-oss](https://freemcp.space/featured/datris-platform-oss) — The Data Control Plane for AI Agents — acquire, validate, and land data over MCP with scoped keys, approval gates, and an audit log. Self-hosted, open source.
-- [gravityport](https://freemcp.space/featured/gravityport) — GravityPort is a free AI asset manager for macOS and Windows. Images and videos from ChatGPT, Gemini, Flow, Google AI Studio, Codex, Grok and Jimeng land in a library on your computer, with their prompts, reference images and sources. Every AI creation leaves a trail.
+- [gravityport](https://freemcp.space/fengseekling/gravityport) — GravityPort is a free AI asset manager for macOS and Windows. Images and videos from ChatGPT, Gemini, Flow, Google AI Studio, Codex, Grok and Jimeng land in a library on your computer, with their prompts, reference images and sources. Every AI creation leaves a trail.
 - [gemini-pro-mcp](https://freemcp.space/featured/gemini-pro-mcp) — Use your Google AI Pro subscription from Claude, Codex, Antigravity and Gemini CLI: Gemini via Antigravity, Flow, Gemini app, Notebooks, Jules, Omni video and Nano Banana images. One-command setup. MCP server.
 - [plunger](https://freemcp.space/featured/plunger) — An HTTP client built for AI agents: an MCP server and a command line that send requests safely, plus a native window to see what the agent did. Rust, no account, no telemetry.
 - [velloo](https://freemcp.space/featured/velloo) — Local-first design canvas for AI coding agents. Recreate a real React screen, explore directions visually, then ship the winner back into your app.
@@ -183,14 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [mail-mcp-server](https://freemcp.space/featured/mail-mcp-server) — Read-only mail for AI agents: on-premises Exchange and any IMAP mailbox, with local search inside PDF, Office and ZIP attachments.
 - [mac-terminal-mcp](https://freemcp.space/featured/mac-terminal-mcp) — A sandboxed terminal for Claude on your Mac. No dialogs, no dependencies, no telemetry.
 - [spm](https://freemcp.space/featured/spm) — A simple, cross-platform manager for native system services.
-- [model-worker-mcp](https://freemcp.space/featured/model-worker-mcp) — MCP server delegating bounded coding tasks to an OpenAI-compatible model: explicit read/write paths, diff validation, risk-based routing.
-- [contextsmith](https://freemcp.space/featured/contextsmith) — Give your coding agent the right code, not more code. Local context engine for Claude Code, Cursor & Codex: code graph + hybrid search + embeddings + git history, packed into a token budget. Held-out SWE-bench: right file in 4k tokens 92% vs 29% for search + whole files. MIT, no API keys.
-- [onlinecompiler-mcp](https://freemcp.space/featured/onlinecompiler-mcp) — MCP server for OnlineCompiler.io: run and judge code in 46 languages from AI assistants and coding tools such as Claude, ChatGPT, Gemini CLI, Cursor and Codex.
-- [Viewport-iq](https://freemcp.space/featured/viewport-iq) — Production-grade Browser Inspection & Responsive Testing MCP Server. Inspect websites, test across viewports, detect layout overflow, capture screenshots, and run audits via Playwright & MCP.
-- [softglaze-claude-plugin](https://freemcp.space/featured/softglaze-claude-plu) — SoftGlaze Browser plugin for Claude Code and Cowork: isolated browser profiles, proxies and macros, with your approval for every change.
-- [nullprint-mcp](https://freemcp.space/featured/nullprint-mcp) — MCP server for Nullprint, the AI antidetect browser: let Claude, Codex, DeepSeek and other AI agents create, launch, check and drive browser profiles.
-- [cat-burglar](https://freemcp.space/featured/cat-burglar) — A stealth browser MCP for agents: three engines, diff observations, site memory, a human CAPTCHA handoff, and a benchmark harness.
-- [roomvana-mcp](https://freemcp.space/featured/roomvana-mcp) — MCP server for Roomvana — browse room types & design styles and get a direct link to the Roomvana AI interior-design studio at https://roomvana.ai
 <!-- freemcp:end -->
 
 ---
