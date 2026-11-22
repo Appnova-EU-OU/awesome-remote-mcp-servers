@@ -1,0 +1,22 @@
+{
+  "name": "Social Fetch",
+  "description": "Public social media data as JSON via a hosted MCP server and a local stdio server.",
+  "git_url": "https://github.com/social-freak-ltd/socialfetch-mcp",
+  "homepage": "https://www.socialfetch.dev/docs",
+  "author_github": "social-freak-ltd",
+  "category": "search",
+  "tags": ["social", "search", "mcp", "api", "data"],
+  "license": "MIT",
+  "status": "active"
+}
+
+
+
+
+
+
+
+
+
+
+
