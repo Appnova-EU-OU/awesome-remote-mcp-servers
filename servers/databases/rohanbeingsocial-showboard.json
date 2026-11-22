@@ -1,0 +1,17 @@
+{
+  "name": "showboard",
+  "description": "Your coding agent answers with dashboards, not paragraphs. An MCP server for Claude Code, Codex, Cursor, Gemini CLI and more: charts and tables from read-only SQL on Postgres, SQLite, Excel or CSV, in your browser, your app or a terminal pane. 2.7× cheaper than Claude Code making the charts itself.",
+  "git_url": "https://github.com/rohanbeingsocial/showboard",
+  "author_github": "rohanbeingsocial",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claude",
+    "claudecode",
+    "codex",
+    "codingagents"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://rohanbeingsocial.github.io/showboard/"
+}
