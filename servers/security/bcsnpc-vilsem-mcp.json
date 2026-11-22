@@ -1,0 +1,16 @@
+{
+  "name": "vilsem-mcp",
+  "description": "Author custom Power BI visuals on the live Power BI Desktop model: real-data previews with automatic critique, then commit to PBIP reports and edit later in plain language.",
+  "git_url": "https://github.com/bcsnpc/vilsem-mcp",
+  "author_github": "bcsnpc",
+  "category": "security",
+  "tags": [
+    "vilsem",
+    "author",
+    "custom",
+    "power",
+    "visuals"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
