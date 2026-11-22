@@ -1,0 +1,13 @@
+{
+  "name": "ruTS-mcp",
+  "description": "MCP-сервер для ruTS: статистики русского текста как инструменты для LLM-агентов",
+  "git_url": "https://github.com/SergeyShk/ruTS-mcp",
+  "author_github": "SergeyShk",
+  "category": "ai-agents",
+  "tags": [
+    "ruts",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
