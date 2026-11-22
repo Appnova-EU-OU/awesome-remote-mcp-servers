@@ -1,0 +1,17 @@
+{
+  "name": "smitline",
+  "description": "Make phone calls and join Zoom, Microsoft Teams and Google Meet meetings from any AI agent. Open source and self-hosted, or use the hosted version (beta) at www.smitline.com",
+  "git_url": "https://github.com/kaelorlabs/smitline",
+  "author_github": "kaelorlabs",
+  "category": "security",
+  "tags": [
+    "aiagents",
+    "googlemeet",
+    "mcp",
+    "mcpserver",
+    "meetingbot"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://smitline.com"
+}
