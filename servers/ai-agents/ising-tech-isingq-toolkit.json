@@ -1,0 +1,17 @@
+{
+  "name": "isingq-toolkit",
+  "description": "IsingQ toolkit for MCP and DeepSeek Harness: guided QUBO modeling, local validation, and user-confirmed solving. 面向 MCP 与原生 Agent 的 QUBO 建模与 IsingQ 求解工具集。",
+  "git_url": "https://github.com/ising-tech/isingq-toolkit",
+  "author_github": "ising-tech",
+  "category": "ai-agents",
+  "tags": [
+    "agenttools",
+    "combinatorialoptimization",
+    "deepseekharness",
+    "dsh",
+    "dshplugin"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://www.isingq.com/"
+}
