@@ -1,0 +1,16 @@
+{
+  "name": "mesh2cad",
+  "description": "Convert STL/OBJ/PLY meshes into editable CAD (STEP + parametric CadQuery/OpenSCAD/FreeCAD) with primitive fitting. CLI + MCP server",
+  "git_url": "https://github.com/emirmrkaljevic/mesh2cad",
+  "author_github": "emirmrkaljevic",
+  "category": "security",
+  "tags": [
+    "3dprinting",
+    "cad",
+    "mcp",
+    "mcpserver",
+    "opencascade"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
