@@ -1,0 +1,17 @@
+{
+  "name": "tempmd-mcp",
+  "description": "MCP server for temp.md — one stable public link for agent-made artifacts, updated in place",
+  "git_url": "https://github.com/huangdun/tempmd-mcp",
+  "author_github": "huangdun",
+  "category": "ai-agents",
+  "tags": [
+    "tempmd",
+    "temp",
+    "one",
+    "stable",
+    "public"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://temp.md"
+}
