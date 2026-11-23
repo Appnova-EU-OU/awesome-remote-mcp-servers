@@ -1,0 +1,16 @@
+{
+  "name": "jaeger-mcp",
+  "description": "MCP server for Jaeger — search traces, inspect spans, map service dependencies",
+  "git_url": "https://github.com/mshegolev/jaeger-mcp",
+  "author_github": "mshegolev",
+  "category": "search",
+  "tags": [
+    "jaeger",
+    "search",
+    "traces",
+    "inspect",
+    "spans"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
