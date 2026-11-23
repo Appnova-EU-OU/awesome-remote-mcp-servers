@@ -1,0 +1,17 @@
+{
+  "name": "mcp-yango-retail",
+  "description": "MCP server for Yango Tech Retail: manage stores, catalog, prices, stock and orders from an AI app",
+  "git_url": "https://github.com/A1-x-Tech/mcp-yango-retail",
+  "author_github": "A1-x-Tech",
+  "category": "ai-agents",
+  "tags": [
+    "ai",
+    "claude",
+    "codex",
+    "cursor",
+    "grocery"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://t.me/a1_mcp"
+}
