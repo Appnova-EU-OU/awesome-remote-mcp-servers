@@ -1,0 +1,16 @@
+{
+  "name": "flashgate",
+  "description": "The agent can't claim the firmware works — until the board says so. Hardware-in-the-loop verification gate: build → flash → boot banner → exit code.",
+  "git_url": "https://github.com/Lion-1209/flashgate",
+  "author_github": "Lion-1209",
+  "category": "security",
+  "tags": [
+    "agentverification",
+    "claudecode",
+    "codingagent",
+    "embedded",
+    "firmware"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
