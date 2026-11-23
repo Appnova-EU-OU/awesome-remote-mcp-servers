@@ -1,0 +1,17 @@
+{
+  "name": "pico-bay",
+  "description": "App and MCP Server for managing Raspberry Pi Pico and ESP32 boards with MicroPython or CircuitPython over USB.",
+  "git_url": "https://github.com/ctrlpi/pico-bay",
+  "author_github": "ctrlpi",
+  "category": "cloud-infra",
+  "tags": [
+    "circuitpython",
+    "esp32",
+    "esp32c3",
+    "esp32s3",
+    "filemanager"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ctrlpi.com/pico-bay"
+}
