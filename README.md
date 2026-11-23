@@ -91,6 +91,13 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [smitline](https://freemcp.space/featured/smitline) — Make phone calls and join Zoom, Microsoft Teams and Google Meet meetings from any AI agent. Open source and self-hosted, or use the hosted version (beta) at www.smitline.com
+- [mesh2cad](https://freemcp.space/featured/mesh2cad) — Convert STL/OBJ/PLY meshes into editable CAD (STEP + parametric CadQuery/OpenSCAD/FreeCAD) with primitive fitting. CLI + MCP server
+- [archlang](https://freemcp.space/featured/archlang) — 【Every star you give feeds a hungry developer's motivation! ⭐️】Floor plans as code. Your AI writes ArchLang; the compiler draws a precise, dimensioned plan (SVG, DXF, PDF) and tells it what's wrong. Open source, MIT.
+- [showboard](https://freemcp.space/featured/showboard) — Your coding agent answers with dashboards, not paragraphs. An MCP server for Claude Code, Codex, Cursor, Gemini CLI and more: charts and tables from read-only SQL on Postgres, SQLite, Excel or CSV, in your browser, your app or a terminal pane. 2.7× cheaper than Claude Code making the charts itself.
+- [vilsem-mcp](https://freemcp.space/featured/vilsem-mcp) — Author custom Power BI visuals on the live Power BI Desktop model: real-data previews with automatic critique, then commit to PBIP reports and edit later in plain language.
+- [isingq-toolkit](https://freemcp.space/featured/isingq-toolkit) — IsingQ toolkit for MCP and DeepSeek Harness: guided QUBO modeling, local validation, and user-confirmed solving. 面向 MCP 与原生 Agent 的 QUBO 建模与 IsingQ 求解工具集。
+- [ruTS-mcp](https://freemcp.space/featured/ruts-mcp) — MCP-сервер для ruTS: статистики русского текста как инструменты для LLM-агентов
 - [kitsune](https://freemcp.space/featured/kitsune) — MCP server that lets AI agents use your Firefox, Zen, or LibreWolf browser.
 - [openregistry](https://freemcp.space/featured/openregistry) — OpenRegistry - the world's first MCP and API for live company profile, directors, shareholders, financials and filings directly from official government registries worldwide. 90+ countries.
 - [agent-config](https://freemcp.space/featured/agent-config) — Skills, rules, slash commands and subagents for Claude Code, routed by intent and compiled into other coding agents — every claim machine-checked, including the artifact counts in these badges.
@@ -184,13 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [xonta-max-mcp](https://freemcp.space/featured/xonta-max-mcp) — MCP server for building bots and mini-apps for the MAX messenger (max.ru): current Bot API facts, code checks, Telegram migration hints, bot templates, deep links, ad tracking and test fixtures. English and Russian.
 - [proton-mail-mcp](https://freemcp.space/featured/proton-mail-mcp-2) — Unofficial MCP server for Proton Mail Bridge: search and read mail, write drafts, guarded cleanup. Not affiliated with Proton AG.
 - [whatsapp-messaging-api-mcp](https://freemcp.space/jevil257/whatsapp-messaging-a) — Send WhatsApp messages from Claude and any MCP client. No Meta Business approval or WhatsApp Business account.
-- [discord-management-mcp](https://freemcp.space/featured/discord-management-m) — Safe-by-default Discord management MCP server with JSON backups, restore planning and guarded mutations
-- [hellohop-mcp](https://freemcp.space/socialground/hellohop-mcp) — MCP server for the HelloHop WhatsApp API. Read chats, groups and communities from Claude, Cursor or any MCP client.
-- [blueticks-mcp](https://freemcp.space/featured/blueticks-mcp) — Blueticks MCP server for Claude Desktop / Cursor / Cline
-- [gmail-tidy-mcp](https://freemcp.space/featured/gmail-tidy-mcp) — MCP server that reads and organizes several Gmail accounts (labels, filters, archiving, drafts) and can never send or delete mail.
-- [mail-mcp-server](https://freemcp.space/featured/mail-mcp-server) — Read-only mail for AI agents: on-premises Exchange and any IMAP mailbox, with local search inside PDF, Office and ZIP attachments.
-- [mac-terminal-mcp](https://freemcp.space/featured/mac-terminal-mcp) — A sandboxed terminal for Claude on your Mac. No dialogs, no dependencies, no telemetry.
-- [spm](https://freemcp.space/featured/spm) — A simple, cross-platform manager for native system services.
 <!-- freemcp:end -->
 
 ---
