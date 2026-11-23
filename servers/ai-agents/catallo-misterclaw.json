@@ -1,0 +1,16 @@
+{
+  "name": "misterclaw",
+  "description": "👾🦀 MiSTerClaw — MCP Remote Control for MiSTer-FPGA",
+  "git_url": "https://github.com/catallo/misterclaw",
+  "author_github": "catallo",
+  "category": "ai-agents",
+  "tags": [
+    "aiagent",
+    "clawexec",
+    "de10nano",
+    "fpga",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
