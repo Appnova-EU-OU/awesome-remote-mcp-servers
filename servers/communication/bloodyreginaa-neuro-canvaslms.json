@@ -1,0 +1,17 @@
+{
+  "name": "Neuro-CanvasLMS",
+  "description": "Canvas LMS MCP server for Claude and ChatGPT. Ask your AI about deadlines, grades, lecture files and announcements. Read-only, deployed to your own free Cloudflare account with one command. Works at any Canvas school.",
+  "git_url": "https://github.com/BloodyReginaa/Neuro-CanvasLMS",
+  "author_github": "BloodyReginaa",
+  "category": "communication",
+  "tags": [
+    "aiassistant",
+    "canvas",
+    "canvaslms",
+    "canvasmcp",
+    "chatgpt"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://bloodyreginaa.github.io/Neuro-CanvasLMS/"
+}
