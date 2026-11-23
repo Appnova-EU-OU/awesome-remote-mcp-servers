@@ -1,0 +1,17 @@
+{
+  "name": "itu-mcp",
+  "description": "İTÜ Ninova + OBS’yi Claude, Cursor ve Codex’e bağlayan yerel MCP sunucusu. Ders, ödev, not, transkript ve daha fazlası.",
+  "git_url": "https://github.com/yatuk/itu-mcp",
+  "author_github": "yatuk",
+  "category": "communication",
+  "tags": [
+    "chatgpt",
+    "claude",
+    "istanbultechnicaluniversity",
+    "itu",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/itu-mcp/"
+}
