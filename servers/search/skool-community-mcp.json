@@ -1,0 +1,24 @@
+{
+  "name": "Skool Community Scraper",
+  "description": "Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.",
+  "git_url": "https://github.com/GeminiGeorge22/publicrecords-mcp",
+  "homepage": "https://apify.com/publicrecords/skool-community-growth-tracker",
+  "author_github": "GeminiGeorge22",
+  "category": "search",
+  "tags": [
+    "skool",
+    "communities",
+    "search",
+    "growth",
+    "apify"
+  ],
+  "env_keys": [
+    {
+      "key": "APIFY_TOKEN",
+      "kind": "required",
+      "description": "Apify API token; tool calls run the Apify Actor on your account (tools/list works without it)"
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
