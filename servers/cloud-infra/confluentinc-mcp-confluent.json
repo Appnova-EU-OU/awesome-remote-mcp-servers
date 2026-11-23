@@ -1,0 +1,16 @@
+{
+  "name": "mcp-confluent",
+  "description": "Confluent integration to interact with Confluent Kafka and Confluent Cloud REST APIs.",
+  "git_url": "https://github.com/confluentinc/mcp-confluent",
+  "author_github": "confluentinc",
+  "category": "cloud-infra",
+  "tags": [
+    "confluent",
+    "integration",
+    "interact",
+    "kafka",
+    "cloud"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
