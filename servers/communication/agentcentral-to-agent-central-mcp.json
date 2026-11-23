@@ -1,0 +1,17 @@
+{
+  "name": "agent-central-mcp",
+  "description": "Agent Central connects the AI you already use to your Amazon Seller Central account. Hosted Amazon Seller Central and Amazon Ads MCP server for Claude, ChatGPT, Claude Code, Cursor, and other MCP clients.",
+  "git_url": "https://github.com/agentcentral-to/agent-central-mcp",
+  "author_github": "agentcentral-to",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "amazonads",
+    "amazonadsapi",
+    "amazonadsmcp",
+    "amazonmcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agentcentral.to/amazon-seller-central-mcp"
+}
