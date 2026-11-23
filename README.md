@@ -7,6 +7,7 @@ Remote MCP servers are accessible via a URL. Paste the endpoint into your AI cli
 **→ Want to host your own?** [freemcp.space](https://freemcp.space) deploys any MCP server from a Dockerfile or GitHub repo in seconds.
 
 ---
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 
 ## Registry Structure
 
