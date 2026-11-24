@@ -1,0 +1,17 @@
+{
+  "name": "agent-kit",
+  "description": "Live Amazon data for AI agents: MCP server, Claude/Codex skill and keyless x402 API. Product details, reviews, search, best-sellers, deals, offers/stock, sellers across 20 marketplaces.",
+  "git_url": "https://github.com/apiguru-app/agent-kit",
+  "author_github": "apiguru-app",
+  "category": "search",
+  "tags": [
+    "aiagents",
+    "amazon",
+    "amazonapi",
+    "claude",
+    "ecommerce"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://apiguru.app"
+}
