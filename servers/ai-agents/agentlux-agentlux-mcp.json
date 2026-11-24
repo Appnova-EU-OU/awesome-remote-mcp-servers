@@ -1,0 +1,16 @@
+{
+  "name": "agentlux-mcp",
+  "description": "Embedded MCP toolkit for AgentLux marketplace, identity, creator, services, and social flows",
+  "git_url": "https://github.com/agentlux/agentlux-mcp",
+  "author_github": "agentlux",
+  "category": "ai-agents",
+  "tags": [
+    "agentlux",
+    "embedded",
+    "toolkit",
+    "marketplace",
+    "identity"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
