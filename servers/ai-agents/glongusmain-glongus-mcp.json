@@ -1,0 +1,17 @@
+{
+  "name": "glongus-mcp",
+  "description": "Let your agent buy and sell physical goods, with escrow and shipping. MCP server for the Glongus marketplace.",
+  "git_url": "https://github.com/glongusmain/glongus-mcp",
+  "author_github": "glongusmain",
+  "category": "ai-agents",
+  "tags": [
+    "agents",
+    "aiagents",
+    "ecommerce",
+    "marketplace",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://glongus.com"
+}
