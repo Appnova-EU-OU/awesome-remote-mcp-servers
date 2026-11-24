@@ -1,0 +1,17 @@
+{
+  "name": "agentshare-mcp",
+  "description": "Curated MCP registry (editor-reviewed) plus AgentShare own MCP: dual-auth, 12 tools. Commerce and Solana/Meteora are Lab. https://agentshare.dev/registry",
+  "git_url": "https://github.com/anhmtk/agentshare-mcp",
+  "author_github": "anhmtk",
+  "category": "security",
+  "tags": [
+    "agentdiscovery",
+    "agenteconomy",
+    "agentpaid",
+    "agents",
+    "agentshare"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://agentshare.dev"
+}
