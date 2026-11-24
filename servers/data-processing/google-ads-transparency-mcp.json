@@ -1,0 +1,24 @@
+{
+  "name": "Google Ads Transparency MCP",
+  "description": "Competitor Google ads from the Google Ads Transparency Center: give it a domain, advertiser ID, Transparency Center link or advertiser name and get the ads that are new, still running or stopped, with first and last shown dates, format and ad links. Tool calls run an Apify Actor billed to your own Apify account ($1 per 1,000 ads).",
+  "git_url": "https://github.com/GeminiGeorge22/google-ads-transparency-mcp",
+  "homepage": "https://apify.com/publicrecords/google-ads-transparency-scraper",
+  "author_github": "GeminiGeorge22",
+  "category": "data-processing",
+  "tags": [
+    "google-ads",
+    "advertising",
+    "competitor-research",
+    "marketing",
+    "apify"
+  ],
+  "env_keys": [
+    {
+      "key": "APIFY_TOKEN",
+      "kind": "required",
+      "description": "Apify API token; tool calls run the Apify Actor on your account (tools/list works without it)"
+    }
+  ],
+  "license": "MIT",
+  "status": "active"
+}
