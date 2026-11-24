@@ -91,6 +91,13 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-confluent](https://freemcp.space/featured/mcp-confluent) — Confluent integration to interact with Confluent Kafka and Confluent Cloud REST APIs.
+- [itu-mcp](https://freemcp.space/featured/itu-mcp) — İTÜ Ninova + OBS’yi Claude, Cursor ve Codex’e bağlayan yerel MCP sunucusu. Ders, ödev, not, transkript ve daha fazlası.
+- [pico-bay](https://freemcp.space/featured/pico-bay) — App and MCP Server for managing Raspberry Pi Pico and ESP32 boards with MicroPython or CircuitPython over USB.
+- [agent-central-mcp](https://freemcp.space/featured/agent-central-mcp) — Agent Central connects the AI you already use to your Amazon Seller Central account. Hosted Amazon Seller Central and Amazon Ads MCP server for Claude, ChatGPT, Claude Code, Cursor, and other MCP clients.
+- [flashgate](https://freemcp.space/featured/flashgate) — The agent can't claim the firmware works — until the board says so. Hardware-in-the-loop verification gate: build → flash → boot banner → exit code.
+- [mcp-yango-retail](https://freemcp.space/featured/mcp-yango-retail) — MCP server for Yango Tech Retail: manage stores, catalog, prices, stock and orders from an AI app
+- [Neuro-CanvasLMS](https://freemcp.space/featured/neuro-canvaslms) — Canvas LMS MCP server for Claude and ChatGPT. Ask your AI about deadlines, grades, lecture files and announcements. Read-only, deployed to your own free Cloudflare account with one command. Works at any Canvas school.
 - [smitline](https://freemcp.space/featured/smitline) — Make phone calls and join Zoom, Microsoft Teams and Google Meet meetings from any AI agent. Open source and self-hosted, or use the hosted version (beta) at www.smitline.com
 - [mesh2cad](https://freemcp.space/featured/mesh2cad) — Convert STL/OBJ/PLY meshes into editable CAD (STEP + parametric CadQuery/OpenSCAD/FreeCAD) with primitive fitting. CLI + MCP server
 - [archlang](https://freemcp.space/featured/archlang) — 【Every star you give feeds a hungry developer's motivation! ⭐️】Floor plans as code. Your AI writes ArchLang; the compiler draws a precise, dimensioned plan (SVG, DXF, PDF) and tells it what's wrong. Open source, MIT.
@@ -184,13 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [spotify-data-mcp](https://freemcp.space/featured/spotify-data-mcp) — MCP server for Spotify data: play counts, monthly listeners, charts, artist stats, playlists and ISRC lookup for Claude, Cursor and VS Code
 - [bayze-mcp](https://freemcp.space/featured/bayze-mcp) — Local-first AI model-routing core: waterfall workflows with structured cross-vendor review (draft → review → revise). BYOK or unified API. MCP stdio. npm: bayze-mcp
 - [kitden](https://freemcp.space/featured/kitden) — See the MCP servers, plugins and skills Claude Code, Codex and Cursor load, and which skills got cut
-- [mcp-b2b-prospect-engine](https://freemcp.space/featured/mcp-b2b-prospect-eng) — MCP server for the Mamba Labs Prospect Engine actor on Apify
-- [verify-atom](https://freemcp.space/featured/verify-atom) — Give AI agents cryptographically signed proof of web observations: Ed25519-signed proof packets (HTTP status, page title, body SHA-256, DNS, TLS) for any public URL. Install: `uvx verify-atom-mcp`.
-- [dagon-mcp](https://freemcp.space/featured/dagon-mcp) — MCP server for Dagon Inference: uncensored LLMs, pay with Solana USDC
-- [multi-mail-mcp](https://freemcp.space/featured/multi-mail-mcp) — MCP server for searching, reading and writing mail across several Gmail accounts (Claude Desktop, Claude Code, ChatGPT)
-- [xonta-max-mcp](https://freemcp.space/featured/xonta-max-mcp) — MCP server for building bots and mini-apps for the MAX messenger (max.ru): current Bot API facts, code checks, Telegram migration hints, bot templates, deep links, ad tracking and test fixtures. English and Russian.
-- [proton-mail-mcp](https://freemcp.space/featured/proton-mail-mcp-2) — Unofficial MCP server for Proton Mail Bridge: search and read mail, write drafts, guarded cleanup. Not affiliated with Proton AG.
-- [whatsapp-messaging-api-mcp](https://freemcp.space/jevil257/whatsapp-messaging-a) — Send WhatsApp messages from Claude and any MCP client. No Meta Business approval or WhatsApp Business account.
 <!-- freemcp:end -->
 
 ---
