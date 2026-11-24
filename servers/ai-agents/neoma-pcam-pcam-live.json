@@ -1,0 +1,17 @@
+{
+  "name": "pcam-live",
+  "description": "NEOMA P-CAM: Deterministic Sub-0.03ms Physical Reflex Core (Rust Axum). 64-Spin Ising Physical Solver (Measured Latency: 0.011ms), Phi-3 Embodied Cognitive Synthesis, and Zero-Trust 1:1.1 PoPW Ledger with Silicon Root-of-Trust (SEAL-CORE).",
+  "git_url": "https://github.com/neoma-pcam/pcam-live",
+  "author_github": "neoma-pcam",
+  "category": "ai-agents",
+  "tags": [
+    "autonomousvehicles",
+    "batterysimulation",
+    "computationalchemistry",
+    "edgecomputingartificialintelli",
+    "energyminimization"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://apify.com/neoma-pcam/neoma-pcam-mcp"
+}
