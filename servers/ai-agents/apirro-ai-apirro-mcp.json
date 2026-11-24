@@ -1,0 +1,16 @@
+{
+  "name": "apirro-mcp",
+  "description": "Apirro MCP Server — Infrastructure layer for agentic commerce and AI readiness scanning.",
+  "git_url": "https://github.com/Apirro-AI/apirro-mcp",
+  "author_github": "Apirro-AI",
+  "category": "ai-agents",
+  "tags": [
+    "apirro",
+    "infrastructure",
+    "layer",
+    "agentic",
+    "commerce"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
