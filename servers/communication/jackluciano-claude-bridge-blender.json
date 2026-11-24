@@ -1,0 +1,17 @@
+{
+  "name": "claude-bridge-blender",
+  "description": "Drive a live Blender with Claude: in-Blender chat on your subscription + token-lean MCP ops for Claude Code",
+  "git_url": "https://github.com/JackLuciano/claude-bridge-blender",
+  "author_github": "JackLuciano",
+  "category": "communication",
+  "tags": [
+    "3d",
+    "3dmodeling",
+    "ai",
+    "aiassistant",
+    "anthropic"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://github.com/JackLuciano/claude-bridge-blender#readme"
+}
