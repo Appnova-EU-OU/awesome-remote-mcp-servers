@@ -1,0 +1,17 @@
+{
+  "name": "amazon-in-mcp",
+  "description": "MCP server for amazon.in — cheapest in-stock, best-value picks, and price history links. No paid APIs.",
+  "git_url": "https://github.com/justadityaraj/amazon-in-mcp",
+  "author_github": "justadityaraj",
+  "category": "ai-agents",
+  "tags": [
+    "amazon",
+    "cheapest",
+    "stock",
+    "best",
+    "value"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dev.adityarajsingh.com/amazon-in-mcp/"
+}
