@@ -1,0 +1,17 @@
+{
+  "name": "amazon-orders-mcp",
+  "description": "An MCP server for Amazon order history, line items, and transactions, built on amazon-orders",
+  "git_url": "https://github.com/alexdlaird/amazon-orders-mcp",
+  "author_github": "alexdlaird",
+  "category": "developer-tools",
+  "tags": [
+    "amazon",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol",
+    "orderhistory"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://amazon-orders-mcp.readthedocs.io"
+}
