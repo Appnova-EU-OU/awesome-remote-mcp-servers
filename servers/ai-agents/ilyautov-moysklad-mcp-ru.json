@@ -1,0 +1,17 @@
+{
+  "name": "moysklad-mcp-ru",
+  "description": "MCP-сервер для МойСклад (JSON API 1.2): остатки, товары, заказы, документы, отчёты и запись документов через safety-гейт. Schema-driven, мультикабинет, поиск по-русски. | MCP server for the MoySklad JSON API.",
+  "git_url": "https://github.com/ilyautov/moysklad-mcp-ru",
+  "author_github": "ilyautov",
+  "category": "ai-agents",
+  "tags": [
+    "1calternative",
+    "accounting",
+    "aiagents",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://moysklad-mcp-ru.aifrontier.tech"
+}
