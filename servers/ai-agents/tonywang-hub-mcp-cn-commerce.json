@@ -1,0 +1,17 @@
+{
+  "name": "mcp-cn-commerce",
+  "description": "中国电商 MCP 连接器：8 个平台、155 个已注册工具。开源标准版，含能力矩阵与实际工程验收记录；真实商家联调状态逐项公开。Chinese commerce MCP connectors with documented capabilities and validation status.",
+  "git_url": "https://github.com/TonyWang-hub/mcp-cn-commerce",
+  "author_github": "TonyWang-hub",
+  "category": "ai-agents",
+  "tags": [
+    "agenttool",
+    "aiagent",
+    "aitools",
+    "businessdata",
+    "chinaecommerce"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/TonyWang-hub/mcp-cn-commerce/releases"
+}
