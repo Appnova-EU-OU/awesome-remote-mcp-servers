@@ -1,0 +1,16 @@
+{
+  "name": "yanifend-mcp",
+  "description": "YaniFend MCP server — manage your YaniFend feedback questionary (works on any website) and read answers from Claude",
+  "git_url": "https://github.com/skippedaga/yanifend-mcp",
+  "author_github": "skippedaga",
+  "category": "databases",
+  "tags": [
+    "yanifend",
+    "manage",
+    "your",
+    "feedback",
+    "questionary"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
