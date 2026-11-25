@@ -91,6 +91,13 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [amazon-orders-mcp](https://freemcp.space/featured/amazon-orders-mcp) — An MCP server for Amazon order history, line items, and transactions, built on amazon-orders
+- [agent-kit](https://freemcp.space/featured/agent-kit) — Live Amazon data for AI agents: MCP server, Claude/Codex skill and keyless x402 API. Product details, reviews, search, best-sellers, deals, offers/stock, sellers across 20 marketplaces.
+- [agentshare-mcp](https://freemcp.space/featured/agentshare-mcp) — Curated MCP registry (editor-reviewed) plus AgentShare own MCP: dual-auth, 12 tools. Commerce and Solana/Meteora are Lab. https://agentshare.dev/registry
+- [agentlux-mcp](https://freemcp.space/featured/agentlux-mcp-2) — Embedded MCP toolkit for AgentLux marketplace, identity, creator, services, and social flows
+- [pcam-live](https://freemcp.space/featured/pcam-live) — NEOMA P-CAM: Deterministic Sub-0.03ms Physical Reflex Core (Rust Axum). 64-Spin Ising Physical Solver (Measured Latency: 0.011ms), Phi-3 Embodied Cognitive Synthesis, and Zero-Trust 1:1.1 PoPW Ledger with Silicon Root-of-Trust (SEAL-CORE).
+- [glongus-mcp](https://freemcp.space/featured/glongus-mcp) — Let your agent buy and sell physical goods, with escrow and shipping. MCP server for the Glongus marketplace.
+- [apirro-mcp](https://freemcp.space/featured/apirro-mcp) — Apirro MCP Server — Infrastructure layer for agentic commerce and AI readiness scanning.
 - [mcp-confluent](https://freemcp.space/featured/mcp-confluent) — Confluent integration to interact with Confluent Kafka and Confluent Cloud REST APIs.
 - [itu-mcp](https://freemcp.space/featured/itu-mcp) — İTÜ Ninova + OBS’yi Claude, Cursor ve Codex’e bağlayan yerel MCP sunucusu. Ders, ödev, not, transkript ve daha fazlası.
 - [pico-bay](https://freemcp.space/featured/pico-bay) — App and MCP Server for managing Raspberry Pi Pico and ESP32 boards with MicroPython or CircuitPython over USB.
@@ -184,13 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [loudtzu-actors-mcp](https://freemcp.space/featured/loudtzu-actors-mcp) — MCP server: 9 Canadian data & price tools (LOUDTZU Apify Actors), run with your own Apify token
 - [dbu-waste-finder](https://freemcp.space/featured/dbu-waste-finder) — Free read-only Databricks notebook + MCP server that finds DBU waste from system tables and proposes fixes
 - [Statistik-Austria-MCP-Server](https://freemcp.space/featured/statistik-austria-mc) — Model Context Protocol (MCP) server for querying Statistik Austria's free OGD datasets.
-- [Handmade](https://freemcp.space/hhiramkarogo/handmade) — **Build AI-generated interfaces that look intentionally engineered, not generated.**
-- [handmade](https://freemcp.space/featured/handmade) — Handmade is a Model Context Protocol (MCP) server tailored to eliminate generic AI output by enforcing comprehensive prompt coverage and proactively clarifying ambiguities before generation.
-- [m4r-data](https://freemcp.space/featured/m4r-data) — Structured data from Music For Robots — music composed for machines, reviewed by AI critics
-- [gpt-image-studio](https://freemcp.space/featured/gpt-image-studio) — Let your AI agent generate images with OpenAI gpt-image-2.5 or any OpenAI-compatible relay — live web gallery, cost tracking, MCP, 5 languages
-- [spotify-data-mcp](https://freemcp.space/featured/spotify-data-mcp) — MCP server for Spotify data: play counts, monthly listeners, charts, artist stats, playlists and ISRC lookup for Claude, Cursor and VS Code
-- [bayze-mcp](https://freemcp.space/featured/bayze-mcp) — Local-first AI model-routing core: waterfall workflows with structured cross-vendor review (draft → review → revise). BYOK or unified API. MCP stdio. npm: bayze-mcp
-- [kitden](https://freemcp.space/featured/kitden) — See the MCP servers, plugins and skills Claude Code, Codex and Cursor load, and which skills got cut
 <!-- freemcp:end -->
 
 ---
