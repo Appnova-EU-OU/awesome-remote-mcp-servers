@@ -1,0 +1,17 @@
+{
+  "name": "trendyol-seller-mcp",
+  "description": "Unofficial MCP server for the Trendyol Marketplace seller API — store ops via an AI assistant: products, orders, customer Q&A, stock/price. Write operations env-guarded; PII redacted by default",
+  "git_url": "https://github.com/koraynar/trendyol-seller-mcp",
+  "author_github": "koraynar",
+  "category": "ai-agents",
+  "tags": [
+    "claude",
+    "claudedesktop",
+    "ecommerce",
+    "ecommerceautomation",
+    "marketplaceapi"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/koraynar"
+}
