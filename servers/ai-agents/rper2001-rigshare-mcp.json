@@ -1,0 +1,17 @@
+{
+  "name": "rigshare-mcp",
+  "description": "Model Context Protocol server for RIGShare — browse construction equipment and Robotics & AI hardware rentals from any MCP-compatible AI agent. Also recruits equipment owners.",
+  "git_url": "https://github.com/RPER2001/rigshare-mcp",
+  "author_github": "RPER2001",
+  "category": "ai-agents",
+  "tags": [
+    "rigshare",
+    "browse",
+    "construction",
+    "equipment",
+    "robotics"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.rigshare.app"
+}
