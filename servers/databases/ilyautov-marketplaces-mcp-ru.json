@@ -1,0 +1,17 @@
+{
+  "name": "marketplaces-mcp-ru",
+  "description": "MCP-сервер для кабинетов Wildberries, Ozon, Яндекс Маркета и Авито: продажи, заказы, остатки, цены, финансы, отзывы через API напрямую, без браузера. 1022 метода schema-driven, safety-гейт на запись. | MCP server for Wildberries, Ozon, Yandex Market and Avito seller APIs. Open-source MIT.",
+  "git_url": "https://github.com/ilyautov/marketplaces-mcp-ru",
+  "author_github": "ilyautov",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "avito",
+    "avitoapi",
+    "claude",
+    "claudecode"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://marketplaces-mcp-ru.aifrontier.tech/"
+}
