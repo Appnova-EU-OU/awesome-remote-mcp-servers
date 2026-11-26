@@ -1,0 +1,16 @@
+{
+  "name": "mac-terminal-mcp",
+  "description": "A sandboxed terminal for Claude on your Mac. No dialogs, no dependencies, no telemetry.",
+  "git_url": "https://github.com/mureev/mac-terminal-mcp",
+  "author_github": "mureev",
+  "category": "databases",
+  "tags": [
+    "claude",
+    "claudedesktop",
+    "cowork",
+    "macos",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
