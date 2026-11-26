@@ -1,0 +1,17 @@
+{
+  "name": "melbis-shop",
+  "description": "Self-hosted e-commerce platform with an AI agent on staff: Windows back-office, PHP storefront, MCP server with per-command permissions.",
+  "git_url": "https://github.com/melbis/melbis-shop",
+  "author_github": "melbis",
+  "category": "databases",
+  "tags": [
+    "aiagent",
+    "claudecode",
+    "cms",
+    "crm",
+    "docker"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://melbis.com"
+}
