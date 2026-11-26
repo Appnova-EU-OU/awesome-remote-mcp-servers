@@ -1,0 +1,17 @@
+{
+  "name": "auth-fetch-mcp",
+  "description": "MCP server that lets AI assistants fetch content from authenticated web pages.",
+  "git_url": "https://github.com/ymw0407/auth-fetch-mcp",
+  "author_github": "ymw0407",
+  "category": "security",
+  "tags": [
+    "claude",
+    "llm",
+    "mcp",
+    "playwright",
+    "webscrapper"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/auth-fetch-mcp"
+}
