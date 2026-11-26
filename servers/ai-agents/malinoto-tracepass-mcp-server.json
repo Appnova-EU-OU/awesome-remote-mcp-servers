@@ -1,0 +1,17 @@
+{
+  "name": "tracepass-mcp-server",
+  "description": "Model Context Protocol server for TracePass — the EU Digital Product Passport platform",
+  "git_url": "https://github.com/malinoto/tracepass-mcp-server",
+  "author_github": "malinoto",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "digitalproductpassport",
+    "dpp",
+    "espr",
+    "euregulation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.tracepass.eu"
+}
