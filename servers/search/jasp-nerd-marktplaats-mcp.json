@@ -1,0 +1,17 @@
+{
+  "name": "marktplaats-mcp",
+  "description": "MCP server for Marktplaats.nl: search, monitor and send messages or biddings on Dutch/Belgian listings from any AI agent",
+  "git_url": "https://github.com/jasp-nerd/marktplaats-mcp",
+  "author_github": "jasp-nerd",
+  "category": "search",
+  "tags": [
+    "2dehands",
+    "ai",
+    "aiagents",
+    "anthropic",
+    "belgium"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://marktplaats-mcp.jaspnerd.dev"
+}
