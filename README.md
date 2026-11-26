@@ -91,6 +91,12 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [mcp-cn-commerce](https://freemcp.space/featured/mcp-cn-commerce) — 中国电商 MCP 连接器：8 个平台、155 个已注册工具。开源标准版，含能力矩阵与实际工程验收记录；真实商家联调状态逐项公开。Chinese commerce MCP connectors with documented capabilities and validation status.
+- [marketplaces-mcp-ru](https://freemcp.space/featured/marketplaces-mcp-ru) — MCP-сервер для кабинетов Wildberries, Ozon, Яндекс Маркета и Авито: продажи, заказы, остатки, цены, финансы, отзывы через API напрямую, без браузера. 1022 метода schema-driven, safety-гейт на запись. | MCP server for Wildberries, Ozon, Yandex Market and Avito seller APIs. Open-source MIT.
+- [amazon-in-mcp](https://freemcp.space/featured/amazon-in-mcp) — MCP server for amazon.in — cheapest in-stock, best-value picks, and price history links. No paid APIs.
+- [moysklad-mcp-ru](https://freemcp.space/featured/moysklad-mcp-ru) — MCP-сервер для МойСклад (JSON API 1.2): остатки, товары, заказы, документы, отчёты и запись документов через safety-гейт. Schema-driven, мультикабинет, поиск по-русски. | MCP server for the MoySklad JSON API.
+- [rigshare-mcp](https://freemcp.space/featured/rigshare-mcp) — Model Context Protocol server for RIGShare — browse construction equipment and Robotics & AI hardware rentals from any MCP-compatible AI agent. Also recruits equipment owners.
+- [trendyol-seller-mcp](https://freemcp.space/featured/trendyol-seller-mcp) — Unofficial MCP server for the Trendyol Marketplace seller API — store ops via an AI assistant: products, orders, customer Q&A, stock/price. Write operations env-guarded; PII redacted by default
 - [amazon-orders-mcp](https://freemcp.space/featured/amazon-orders-mcp) — An MCP server for Amazon order history, line items, and transactions, built on amazon-orders
 - [agent-kit](https://freemcp.space/featured/agent-kit) — Live Amazon data for AI agents: MCP server, Claude/Codex skill and keyless x402 API. Product details, reviews, search, best-sellers, deals, offers/stock, sellers across 20 marketplaces.
 - [agentshare-mcp](https://freemcp.space/featured/agentshare-mcp) — Curated MCP registry (editor-reviewed) plus AgentShare own MCP: dual-auth, 12 tools. Commerce and Solana/Meteora are Lab. https://agentshare.dev/registry
@@ -185,12 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [vsphere-console-mcp](https://freemcp.space/featured/vsphere-console-mcp) — MCP server that lets an AI agent see and drive VMware vSphere VM consoles (screen, mouse, keyboard) through vCenter. Zero dependencies, no guest agent.
 - [ui-loop](https://freemcp.space/featured/ui-loop) — Context-budgeted visual feedback for coding agents: diff-only crops + structured summaries within a token budget. MCP server + Claude Code plugin.
 - [browser-ref-mcp](https://freemcp.space/hou332005/browser-ref-mcp) — Reliable browser-control MCP server for AI agents: click by ref, self-healing sessions. No browser download.
-- [sandboxapis-mcp](https://freemcp.space/featured/sandboxapis-mcp) — The SandboxAPIs MCP server: read-only, API-compatible replicas of 21 developer APIs, preloaded with one simulated company, for testing agents without a test account.
-- [CICD-AIops](https://freemcp.space/featured/cicd-aiops) — Governed AI-ops for self-managed GitLab + Gitea CI/CD: pipelines, jobs, runners, artifacts, repo hyg
-- [sqai-mcp](https://freemcp.space/featured/sqai-mcp) — SQAI (Structured Query AI) MCP server — the three governed, deterministic, read-only structured-data tools (listSources, queryData, explainQuery) for any MCP host. npm: @thyn-ai/sqai-mcp. A Thyn product, Apache-2.0.
-- [loudtzu-actors-mcp](https://freemcp.space/featured/loudtzu-actors-mcp) — MCP server: 9 Canadian data & price tools (LOUDTZU Apify Actors), run with your own Apify token
-- [dbu-waste-finder](https://freemcp.space/featured/dbu-waste-finder) — Free read-only Databricks notebook + MCP server that finds DBU waste from system tables and proposes fixes
-- [Statistik-Austria-MCP-Server](https://freemcp.space/featured/statistik-austria-mc) — Model Context Protocol (MCP) server for querying Statistik Austria's free OGD datasets.
 <!-- freemcp:end -->
 
 ---
