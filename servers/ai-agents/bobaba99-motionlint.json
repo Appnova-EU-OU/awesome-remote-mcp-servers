@@ -1,0 +1,17 @@
+{
+  "name": "motionlint",
+  "description": "Catch bad animations before they ship. Deterministic motion audit + vision-LLM design review for your terminal and Claude Code.",
+  "git_url": "https://github.com/bobaba99/motionlint",
+  "author_github": "bobaba99",
+  "category": "ai-agents",
+  "tags": [
+    "accessibility",
+    "animation",
+    "claudecode",
+    "cli",
+    "designreview"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.resila.ai/motionlint"
+}
