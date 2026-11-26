@@ -1,0 +1,17 @@
+{
+  "name": "google-ecommerce-mcp",
+  "description": "MCP server for online shops and agencies: GA4, Search Console, Merchant Center, Tag Manager, Google Ads, Meta Ads, ChatGPT Ads. Multi-client, read-only by default, controlled writes (plan, approval, audit, rollback).",
+  "git_url": "https://github.com/MoonEyes/google-ecommerce-mcp",
+  "author_github": "MoonEyes",
+  "category": "search",
+  "tags": [
+    "agency",
+    "chatgptads",
+    "claude",
+    "ecommerce",
+    "ga4"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.mooneyeswargame.com"
+}
