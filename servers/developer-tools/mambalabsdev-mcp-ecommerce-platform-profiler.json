@@ -1,0 +1,17 @@
+{
+  "name": "mcp-ecommerce-platform-profiler",
+  "description": "Detect the ecommerce platform, payment providers and catalogue size behind a storefront.",
+  "git_url": "https://github.com/mambalabsdev/mcp-ecommerce-platform-profiler",
+  "author_github": "mambalabsdev",
+  "category": "developer-tools",
+  "tags": [
+    "ecommerce",
+    "platform",
+    "profiler",
+    "detect",
+    "payment"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://mambabuilt.com"
+}
