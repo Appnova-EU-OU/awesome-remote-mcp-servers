@@ -1,0 +1,17 @@
+{
+  "name": "rakuten-mcp",
+  "description": "MCP server for the Rakuten Web Service API. 28 read-only tools across Ichiba (e-commerce), Books, Travel, Recipe, Kobo, and GORA (golf). Bilingual EN/JA tool descriptions.",
+  "git_url": "https://github.com/mrslbt/rakuten-mcp",
+  "author_github": "mrslbt",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "claude",
+    "claudecode",
+    "cursor",
+    "ecommerce"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/rakuten-mcp"
+}
