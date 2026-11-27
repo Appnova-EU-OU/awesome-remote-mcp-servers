@@ -1,0 +1,16 @@
+{
+  "name": "k11techlab-selenium-qa-mcp",
+  "description": "MCP server & Claude Code plugin for Selenium in Python and Java: verified locators, user story to tests, and self-healing locators with an audit trail",
+  "git_url": "https://github.com/K11-Software-Solutions/k11techlab-selenium-qa-mcp",
+  "author_github": "K11-Software-Solutions",
+  "category": "ai-agents",
+  "tags": [
+    "claudecode",
+    "java",
+    "junit",
+    "mcp",
+    "pytest"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
