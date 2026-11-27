@@ -1,0 +1,17 @@
+{
+  "name": "global-executables",
+  "description": "A public cross-ecosystem dataset of executable names, continuously collected from package ecosystems and exposed to AI agents via MCP.",
+  "git_url": "https://github.com/asopitech-labs/global-executables",
+  "author_github": "asopitech-labs",
+  "category": "ai-agents",
+  "tags": [
+    "aiagents",
+    "cli",
+    "dataset",
+    "mcp",
+    "packagemanagers"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://asopitech-labs.github.io/global-executables/"
+}
