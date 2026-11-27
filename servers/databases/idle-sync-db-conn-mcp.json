@@ -1,0 +1,16 @@
+{
+  "name": "db-conn-mcp",
+  "description": "A dead-simple, self-hosted MCP server for safely querying your databases with AI agents (PostgreSQL, native read-only enforcement).",
+  "git_url": "https://github.com/Idle-Sync/db-conn-mcp",
+  "author_github": "Idle-Sync",
+  "category": "databases",
+  "tags": [
+    "conn",
+    "dead",
+    "simple",
+    "self",
+    "hosted"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
