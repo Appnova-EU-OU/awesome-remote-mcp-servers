@@ -1,0 +1,17 @@
+{
+  "name": "Enhanciar",
+  "description": "A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve.",
+  "git_url": "https://github.com/enhanciar/enhanciar-mcp",
+  "homepage": "https://enhanciar.in/mcp",
+  "author_github": "enhanciar",
+  "category": "search",
+  "tags": [
+    "knowledge-base",
+    "company-brain",
+    "slack",
+    "notion",
+    "remote"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
