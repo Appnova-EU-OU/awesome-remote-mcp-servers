@@ -1,0 +1,17 @@
+{
+  "name": "web2mcp",
+  "description": "Turn any website or REST API into MCP tools on Cloudflare Workers — config-driven, zero-dependency gateway so any AI agent can call them. 把任意网站/API 变成 AI 可调用的 MCP 工具",
+  "git_url": "https://github.com/charleswei118/web2mcp",
+  "author_github": "charleswei118",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagents",
+    "aitools",
+    "apigateway",
+    "cloudflareworkers",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://web2mcp.cwei59969.workers.dev"
+}
