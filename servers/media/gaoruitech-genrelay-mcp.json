@@ -1,0 +1,17 @@
+{
+  "name": "genrelay-mcp",
+  "description": "MCP server for video & image generation — use Veo 3.1, Grok Imagine and Nano Banana from Claude Desktop and Cursor",
+  "git_url": "https://github.com/gaoruitech/genrelay-mcp",
+  "author_github": "gaoruitech",
+  "category": "media",
+  "tags": [
+    "claude",
+    "cursor",
+    "generativeai",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://genrelay.ai"
+}
