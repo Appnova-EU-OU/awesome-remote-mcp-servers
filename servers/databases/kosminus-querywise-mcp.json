@@ -1,0 +1,16 @@
+{
+  "name": "querywise-mcp",
+  "description": "An MCP server (and a CLI) that lets an LLM query your databases in natural language through a business semantic layer — glossary, metric definitions, data dictionary, knowledge base, and example queries — grounded against your real schema.",
+  "git_url": "https://github.com/kosminus/querywise-mcp",
+  "author_github": "kosminus",
+  "category": "databases",
+  "tags": [
+    "agenticai",
+    "databasemcpserver",
+    "mcp",
+    "mcpserver",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
