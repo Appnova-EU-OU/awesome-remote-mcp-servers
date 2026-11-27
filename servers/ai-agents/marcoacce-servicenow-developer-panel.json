@@ -1,0 +1,16 @@
+{
+  "name": "ServiceNow_Developer_Panel",
+  "description": "ServiceNow desktop client and MCP server: query, join and cache Table API data, from the UI or your AI assistant. Read-only.",
+  "git_url": "https://github.com/MarcoAcce/ServiceNow_Developer_Panel",
+  "author_github": "MarcoAcce",
+  "category": "ai-agents",
+  "tags": [
+    "developertools",
+    "llm",
+    "llmagents",
+    "llmtools",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
