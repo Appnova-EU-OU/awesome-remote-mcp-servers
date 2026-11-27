@@ -1,0 +1,17 @@
+{
+  "name": "k11techlab-performance-qa-mcp",
+  "description": "MCP server & CI tool for load and performance testing as release evidence: API flows as load scenarios, per-endpoint SLOs, statistically significant regressions, k6 or builtin engine, guardrails",
+  "git_url": "https://github.com/K11-Software-Solutions/k11techlab-performance-qa-mcp",
+  "author_github": "K11-Software-Solutions",
+  "category": "ai-agents",
+  "tags": [
+    "claudecode",
+    "k6",
+    "loadtesting",
+    "mcp",
+    "performancetesting"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://pypi.org/project/k11-performance-qa-mcp/"
+}
