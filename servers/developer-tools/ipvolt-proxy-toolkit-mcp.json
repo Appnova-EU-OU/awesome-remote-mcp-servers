@@ -1,0 +1,17 @@
+{
+  "name": "proxy-toolkit-mcp",
+  "description": "Reviewed proxy guides, tested configuration templates and bounded diagnostics for MCP clients.",
+  "git_url": "https://github.com/ipvolt/proxy-toolkit-mcp",
+  "author_github": "ipvolt",
+  "category": "developer-tools",
+  "tags": [
+    "curl",
+    "developertools",
+    "httpproxy",
+    "httpx",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://ipvolt.com/mcp"
+}
