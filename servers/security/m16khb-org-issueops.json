@@ -1,0 +1,17 @@
+{
+  "name": "issueops",
+  "description": "IssueOps agent harness: team memory for coding agents. Cautions and ADRs ship in the same PR as the code. Works with Codex, Claude Code, Omo, omp, and opencode.",
+  "git_url": "https://github.com/m16khb-org/issueops",
+  "author_github": "m16khb-org",
+  "category": "security",
+  "tags": [
+    "adr",
+    "agent",
+    "agentharness",
+    "agentmemory",
+    "aiagents"
+  ],
+  "license": "GPL-3.0",
+  "status": "active",
+  "homepage": "https://m16khb-org.github.io/issueops/"
+}
