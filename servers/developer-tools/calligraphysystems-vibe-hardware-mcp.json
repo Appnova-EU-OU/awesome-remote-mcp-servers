@@ -1,0 +1,17 @@
+{
+  "name": "vibe-hardware-mcp",
+  "description": "Autonomous 0-DRC PCB Routing Foundry & Model Context Protocol (MCP) Server for KiCad, Robotics, IoT, ESP32, STM32 & Embedded Hardware (https://calligraphyeda.com)",
+  "git_url": "https://github.com/calligraphysystems/vibe-hardware-mcp",
+  "author_github": "calligraphysystems",
+  "category": "developer-tools",
+  "tags": [
+    "claudecode",
+    "cursor",
+    "eda",
+    "ergogen",
+    "esp32"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://calligraphyeda.com"
+}
