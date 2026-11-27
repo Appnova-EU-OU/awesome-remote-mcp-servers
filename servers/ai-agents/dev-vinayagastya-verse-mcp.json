@@ -1,0 +1,16 @@
+{
+  "name": "verse-mcp",
+  "description": "Verse MCP server: publish and query Verse scenes from AI agents",
+  "git_url": "https://github.com/dev-vinayagastya/verse-mcp",
+  "author_github": "dev-vinayagastya",
+  "category": "ai-agents",
+  "tags": [
+    "verse",
+    "publish",
+    "query",
+    "scenes",
+    "from"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
