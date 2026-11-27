@@ -1,0 +1,17 @@
+{
+  "name": "otipi-mcp",
+  "description": "MCP server for Otipi: send and verify SMS, email and OTP codes in Israel from Claude, Cursor and other AI agents. Remote at https://otipi.co.il/mcp or npx otipi-mcp.",
+  "git_url": "https://github.com/otipi-il/otipi-mcp",
+  "author_github": "otipi-il",
+  "category": "communication",
+  "tags": [
+    "aiagents",
+    "claude",
+    "cursor",
+    "israel",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://otipi.co.il/en?utm_source=github&utm_medium=repo&utm_campaign=otipi-mcp"
+}
