@@ -1,0 +1,17 @@
+{
+  "name": "fm-mcp",
+  "description": "Let Claude Code and Codex delegate simple text work to the on-device model for Apple Foundation Models. One Rust binary.",
+  "git_url": "https://github.com/yrangana/fm-mcp",
+  "author_github": "yrangana",
+  "category": "developer-tools",
+  "tags": [
+    "applefoundationmodels",
+    "claudecode",
+    "codex",
+    "macos",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://yrangana.github.io/fm-mcp/"
+}
