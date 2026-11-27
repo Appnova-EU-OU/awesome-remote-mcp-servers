@@ -1,0 +1,17 @@
+{
+  "name": "mcp-broker",
+  "description": "Local MCP broker that exposes one compact MCP entry for MCP clients while routing to many configured upstream servers.",
+  "git_url": "https://github.com/NavinAgrawal/mcp-broker",
+  "author_github": "NavinAgrawal",
+  "category": "ai-agents",
+  "tags": [
+    "aitools",
+    "claude",
+    "codex",
+    "developertools",
+    "geminicli"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/NavinAgrawal/mcp-broker#readme"
+}
