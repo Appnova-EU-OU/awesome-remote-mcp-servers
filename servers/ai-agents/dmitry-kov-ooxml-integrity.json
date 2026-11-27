@@ -1,0 +1,17 @@
+{
+  "name": "ooxml-integrity",
+  "description": "Catch what AI agents and scripts silently break in Word .docx edits - lost comments, tracked changes, footnotes - plus .pptx text overflow. Local, deterministic.",
+  "git_url": "https://github.com/Dmitry-Kov/ooxml-integrity",
+  "author_github": "Dmitry-Kov",
+  "category": "ai-agents",
+  "tags": [
+    "aiagenttools",
+    "aiagents",
+    "documentintegrity",
+    "docx",
+    "docxvalidation"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://dmitry-kov.github.io/ooxml-integrity/"
+}
