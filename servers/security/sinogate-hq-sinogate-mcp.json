@@ -1,0 +1,16 @@
+{
+  "name": "sinogate-mcp",
+  "description": "OpenAI-compatible MCP server for SinoGate Chinese LLM APIs",
+  "git_url": "https://github.com/sinogate-hq/sinogate-mcp",
+  "author_github": "sinogate-hq",
+  "category": "security",
+  "tags": [
+    "sinogate",
+    "openai",
+    "compatible",
+    "chinese",
+    "llm"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
