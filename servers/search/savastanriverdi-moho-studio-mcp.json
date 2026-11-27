@@ -1,0 +1,17 @@
+{
+  "name": "moho-studio-mcp",
+  "description": "Zero-dependency MCP server and Lua 5.4 plugin for live rigging, vector editing, glTF 2.0 export, and CLI rendering in Moho Pro 14.4 (Windows)",
+  "git_url": "https://github.com/SavasTanriverdi/moho-studio-mcp",
+  "author_github": "SavasTanriverdi",
+  "category": "search",
+  "tags": [
+    "2danimation",
+    "claudedesktop",
+    "codex",
+    "cursor",
+    "gltf"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://github.com/SavasTanriverdi/moho-studio-mcp"
+}
