@@ -1,0 +1,17 @@
+{
+  "name": "open-primeagent",
+  "description": "What one coding agent learns about your repo, written into AGENTS.md so Claude Code, Codex and opencode all read it. One MCP server. Benchmarks include the ones we lost.",
+  "git_url": "https://github.com/softkleenex/open-primeagent",
+  "author_github": "softkleenex",
+  "category": "security",
+  "tags": [
+    "agentmemory",
+    "agentsmd",
+    "aiagents",
+    "claudecode",
+    "claudecodeplugin"
+  ],
+  "license": "Apache-2.0",
+  "status": "active",
+  "homepage": "https://pypi.org/project/open-primeagent/"
+}
