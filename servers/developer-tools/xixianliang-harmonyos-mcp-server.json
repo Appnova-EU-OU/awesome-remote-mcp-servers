@@ -1,0 +1,15 @@
+{
+  "name": "HarmonyOS-mcp-server",
+  "description": "MCP server for manipulating HarmonyOS next devices.",
+  "git_url": "https://github.com/XixianLiang/HarmonyOS-mcp-server",
+  "author_github": "XixianLiang",
+  "category": "developer-tools",
+  "tags": [
+    "harmonyos",
+    "manipulating",
+    "next",
+    "devices"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
