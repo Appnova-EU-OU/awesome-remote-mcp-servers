@@ -1,0 +1,17 @@
+{
+  "name": "paralon-mcp",
+  "description": "MCP server for ParalonCloud: rent GPUs by the minute from Claude Code, Cursor or any agent, and as a provider manage your nodes, prices and earnings.",
+  "git_url": "https://github.com/ParalonCloud/paralon-mcp",
+  "author_github": "ParalonCloud",
+  "category": "cloud-infra",
+  "tags": [
+    "aiagent",
+    "claude",
+    "gpu",
+    "gpurental",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://paraloncloud.com/docs/rental-api/mcp"
+}
