@@ -1,0 +1,17 @@
+{
+  "name": "diogenes-database-intelligence-mcp",
+  "description": "12 deterministic database intelligence, AST SQL & schema reliability tools: natural language to SQL synthesizer, AST SQL injection & tautology auditor, query plan EXPLAIN optimizer, breaking schema migration differ, polyglot SQL transpiler (PostgreSQL/MySQL/SQLite), composite B-tree index advisor, relational 3NF/BCNF normalization validat",
+  "git_url": "https://github.com/stand-out-of-my-sun/diogenes-database-intelligence-mcp",
+  "author_github": "stand-out-of-my-sun",
+  "category": "databases",
+  "tags": [
+    "astparser",
+    "database",
+    "glama",
+    "l402",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://diogenesgateway.com#mcp-packages"
+}
