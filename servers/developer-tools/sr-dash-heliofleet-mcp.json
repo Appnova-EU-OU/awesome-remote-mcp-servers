@@ -1,0 +1,17 @@
+{
+  "name": "heliofleet-mcp",
+  "description": "Where heliophysics spacecraft are and when they line up: Parker Solar Probe, Solar Orbiter, STEREO and more. MCP server, JSON CLI and Python, from JPL Horizons.",
+  "git_url": "https://github.com/sr-dash/heliofleet-mcp",
+  "author_github": "sr-dash",
+  "category": "developer-tools",
+  "tags": [
+    "astronomy",
+    "astrophysics",
+    "cli",
+    "ephemeris",
+    "esa"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://sr-dash.github.io/heliofleet-mcp/"
+}
