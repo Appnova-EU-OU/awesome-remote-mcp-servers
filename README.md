@@ -91,6 +91,12 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [rakuten-mcp](https://freemcp.space/featured/rakuten-mcp) — MCP server for the Rakuten Web Service API. 28 read-only tools across Ichiba (e-commerce), Books, Travel, Recipe, Kobo, and GORA (golf). Bilingual EN/JA tool descriptions.
+- [melbis-shop](https://freemcp.space/featured/melbis-shop) — Self-hosted e-commerce platform with an AI agent on staff: Windows back-office, PHP storefront, MCP server with per-command permissions.
+- [marktplaats-mcp](https://freemcp.space/featured/marktplaats-mcp) — MCP server for Marktplaats.nl: search, monitor and send messages or biddings on Dutch/Belgian listings from any AI agent
+- [google-ecommerce-mcp](https://freemcp.space/featured/google-ecommerce-mcp) — MCP server for online shops and agencies: GA4, Search Console, Merchant Center, Tag Manager, Google Ads, Meta Ads, ChatGPT Ads. Multi-client, read-only by default, controlled writes (plan, approval, audit, rollback).
+- [tracepass-mcp-server](https://freemcp.space/featured/tracepass-mcp-server) — Model Context Protocol server for TracePass — the EU Digital Product Passport platform
+- [mcp-ecommerce-platform-profiler](https://freemcp.space/featured/mcp-ecommerce-platfo) — Detect the ecommerce platform, payment providers and catalogue size behind a storefront.
 - [mcp-cn-commerce](https://freemcp.space/featured/mcp-cn-commerce) — 中国电商 MCP 连接器：8 个平台、155 个已注册工具。开源标准版，含能力矩阵与实际工程验收记录；真实商家联调状态逐项公开。Chinese commerce MCP connectors with documented capabilities and validation status.
 - [marketplaces-mcp-ru](https://freemcp.space/featured/marketplaces-mcp-ru) — MCP-сервер для кабинетов Wildberries, Ozon, Яндекс Маркета и Авито: продажи, заказы, остатки, цены, финансы, отзывы через API напрямую, без браузера. 1022 метода schema-driven, safety-гейт на запись. | MCP server for Wildberries, Ozon, Yandex Market and Avito seller APIs. Open-source MIT.
 - [amazon-in-mcp](https://freemcp.space/featured/amazon-in-mcp) — MCP server for amazon.in — cheapest in-stock, best-value picks, and price history links. No paid APIs.
@@ -185,12 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [gage](https://freemcp.space/featured/gage) — Caller ID and a wax seal for AI agents: signed, sealed handoffs between agents, with trust the receiver computes. No accounts; keys stay on your machine.
 - [sendkuy-mcp](https://freemcp.space/featured/sendkuy-mcp) — WhatsApp, SMS and email for agents through SendKuy: send messages and batches, verify OTP codes, check WhatsApp numbers and run campaigns, with tools filtered by the API key's scopes.
 - [SoraCommander](https://freemcp.space/featured/soracommander) — Let ChatGPT work on your Windows PC from an ordinary chat, approving each step locally. Developer preview.
-- [benchwarmers](https://freemcp.space/featured/benchwarmers) — Self-hosted panel gateway for LLMs: ask a collection of models at once, keep every answer side by side, rotate explorer models in, and let your verdicts pick the next panel. OpenAI, Anthropic, Gemini and Ollama APIs, an MCP server, Python stdlib.
-- [consult](https://freemcp.space/featured/consult) — Get a second opinion on your code from every coding agent you have. Claude Code, Codex and Grok review each other's diffs and answer each other's questions, even inside a session that's already running. Uses the CLIs you're signed in to, no API keys.
-- [agentsocks](https://freemcp.space/featured/agentsocks) — Native messaging between Claude Code, Codex and other coding-agent sessions.
-- [vsphere-console-mcp](https://freemcp.space/featured/vsphere-console-mcp) — MCP server that lets an AI agent see and drive VMware vSphere VM consoles (screen, mouse, keyboard) through vCenter. Zero dependencies, no guest agent.
-- [ui-loop](https://freemcp.space/featured/ui-loop) — Context-budgeted visual feedback for coding agents: diff-only crops + structured summaries within a token budget. MCP server + Claude Code plugin.
-- [browser-ref-mcp](https://freemcp.space/hou332005/browser-ref-mcp) — Reliable browser-control MCP server for AI agents: click by ref, self-healing sessions. No browser download.
 <!-- freemcp:end -->
 
 ---
