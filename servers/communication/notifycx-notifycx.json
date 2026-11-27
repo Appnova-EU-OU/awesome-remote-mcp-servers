@@ -1,0 +1,16 @@
+{
+  "name": "notifycx",
+  "description": "Official Notify MCP: send transactional email, rehearse sends, verify sending domains (SPF/DKIM), and manage webhooks and logs. `npx -y notifycx-mcp`",
+  "git_url": "https://github.com/notifycx/notifycx",
+  "author_github": "notifycx",
+  "category": "communication",
+  "tags": [
+    "emailapi",
+    "mcp",
+    "nodejs",
+    "notify",
+    "transactionalemail"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
