@@ -1,0 +1,20 @@
+{
+  "name": "Frank AI Researcher",
+  "description": "Remote MCP server for Frank AI Researcher (hifrank.ai): create customer interview studies, run AI-moderated voice interviews with your own customers in 50+ languages, and read transcripts and themes in your assistant. Hosted at https://api.hifrank.ai/mcp (Streamable HTTP, OAuth). Available as an app in ChatGPT; also works with Claude, Grok and Muse.",
+  "git_url": "https://github.com/nar-vardanyan/frank-mcp",
+  "homepage": "https://www.hifrank.ai/mcp?utm_source=freemcp&utm_medium=directory&utm_campaign=mcp",
+  "author_github": "nar-vardanyan",
+  "category": "productivity",
+  "tags": [
+    "chatgpt",
+    "customer-research",
+    "interviews",
+    "mcp",
+    "oauth",
+    "remote",
+    "user-research",
+    "voice"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
