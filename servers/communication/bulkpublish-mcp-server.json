@@ -1,0 +1,11 @@
+{
+  "name": "BulkPublish MCP Server",
+  "description": "API and hosted MCP for adapting, scheduling, and publishing approved social-media content across platforms.",
+  "git_url": "https://github.com/azeemkafridi/bulkpublish-api",
+  "author_github": "azeemkafridi",
+  "category": "communication",
+  "tags": ["social-media", "publishing", "content", "scheduling", "api", "mcp"],
+  "homepage": "https://app.bulkpublish.com/docs",
+  "license": "MIT",
+  "status": "active"
+}
