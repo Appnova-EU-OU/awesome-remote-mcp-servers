@@ -1,0 +1,17 @@
+{
+  "name": "easypanel-mcp-server",
+  "description": "MCP Server for Easypanel — control deployments, services, logs and databases from Claude Code, Cursor and Claude Desktop",
+  "git_url": "https://github.com/helbertparanhos/easypanel-mcp-server",
+  "author_github": "helbertparanhos",
+  "category": "databases",
+  "tags": [
+    "automation",
+    "claude",
+    "claudecode",
+    "cursor",
+    "deployment"
+  ],
+  "license": "MIT",
+  "status": "active",
+  "homepage": "https://www.npmjs.com/package/easypanel-mcp-server"
+}
