@@ -1,0 +1,16 @@
+{
+  "name": "legwork",
+  "description": "Your AI finds the open-source tool it needs on GitHub. Legwork installs it in a sandbox.",
+  "git_url": "https://github.com/kumarganduri/legwork",
+  "author_github": "kumarganduri",
+  "category": "databases",
+  "tags": [
+    "aiagents",
+    "claudecode",
+    "developertools",
+    "llm",
+    "mcp"
+  ],
+  "license": "MIT",
+  "status": "active"
+}
