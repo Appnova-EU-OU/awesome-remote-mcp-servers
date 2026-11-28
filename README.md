@@ -91,6 +91,28 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 ## Hosted on freemcp.space
 
 <!-- freemcp:start -->
+- [issueops](https://freemcp.space/featured/issueops) — IssueOps agent harness: team memory for coding agents. Cautions and ADRs ship in the same PR as the code. Works with Codex, Claude Code, Omo, omp, and opencode.
+- [web2mcp](https://freemcp.space/featured/web2mcp) — Turn any website or REST API into MCP tools on Cloudflare Workers — config-driven, zero-dependency gateway so any AI agent can call them. 把任意网站/API 变成 AI 可调用的 MCP 工具
+- [db-conn-mcp](https://freemcp.space/featured/db-conn-mcp) — A dead-simple, self-hosted MCP server for safely querying your databases with AI agents (PostgreSQL, native read-only enforcement).
+- [swarmail](https://freemcp.space/featured/swarmail) — Mail between coding-agent sessions, on one machine or across machines: an MCP server and CLI on Bun and SQLite.
+- [paralon-mcp](https://freemcp.space/featured/paralon-mcp) — MCP server for ParalonCloud: rent GPUs by the minute from Claude Code, Cursor or any agent, and as a provider manage your nodes, prices and earnings.
+- [sinogate-mcp](https://freemcp.space/featured/sinogate-mcp) — OpenAI-compatible MCP server for SinoGate Chinese LLM APIs
+- [ooxml-integrity](https://freemcp.space/featured/ooxml-integrity) — Catch what AI agents and scripts silently break in Word .docx edits - lost comments, tracked changes, footnotes - plus .pptx text overflow. Local, deterministic.
+- [open-primeagent](https://freemcp.space/featured/open-primeagent) — What one coding agent learns about your repo, written into AGENTS.md so Claude Code, Codex and opencode all read it. One MCP server. Benchmarks include the ones we lost.
+- [vibe-hardware-mcp](https://freemcp.space/featured/vibe-hardware-mcp) — Autonomous 0-DRC PCB Routing Foundry & Model Context Protocol (MCP) Server for KiCad, Robotics, IoT, ESP32, STM32 & Embedded Hardware (https://calligraphyeda.com)
+- [ServiceNow_Developer_Panel](https://freemcp.space/featured/servicenow-developer) — ServiceNow desktop client and MCP server: query, join and cache Table API data, from the UI or your AI assistant. Read-only.
+- [verse-mcp](https://freemcp.space/featured/verse-mcp) — Verse MCP server: publish and query Verse scenes from AI agents
+- [proxy-toolkit-mcp](https://freemcp.space/featured/proxy-toolkit-mcp) — Reviewed proxy guides, tested configuration templates and bounded diagnostics for MCP clients.
+- [global-executables](https://freemcp.space/featured/global-executables) — A public cross-ecosystem dataset of executable names, continuously collected from package ecosystems and exposed to AI agents via MCP.
+- [k11techlab-performance-qa-mcp](https://freemcp.space/featured/k11techlab-performan) — MCP server & CI tool for load and performance testing as release evidence: API flows as load scenarios, per-endpoint SLOs, statistically significant regressions, k6 or builtin engine, guardrails
+- [diogenes-database-intelligence-mcp](https://freemcp.space/featured/diogenes-database-in) — 12 deterministic database intelligence, AST SQL & schema reliability tools: natural language to SQL synthesizer, AST SQL injection & tautology auditor, query plan EXPLAIN optimizer, breaking schema migration differ, polyglot SQL transpiler (PostgreSQL/MySQL/SQLite), composite B-tree index advisor, relational 3NF/BCNF normalization validat
+- [otipi-mcp](https://freemcp.space/featured/otipi-mcp) — MCP server for Otipi: send and verify SMS, email and OTP codes in Israel from Claude, Cursor and other AI agents. Remote at https://otipi.co.il/mcp or npx otipi-mcp.
+- [notifycx](https://freemcp.space/featured/notifycx) — Official Notify MCP: send transactional email, rehearse sends, verify sending domains (SPF/DKIM), and manage webhooks and logs. `npx -y notifycx-mcp`
+- [k11techlab-selenium-qa-mcp](https://freemcp.space/featured/k11techlab-selenium) — MCP server & Claude Code plugin for Selenium in Python and Java: verified locators, user story to tests, and self-healing locators with an audit trail
+- [moho-studio-mcp](https://freemcp.space/featured/moho-studio-mcp) — Zero-dependency MCP server and Lua 5.4 plugin for live rigging, vector editing, glTF 2.0 export, and CLI rendering in Moho Pro 14.4 (Windows)
+- [genrelay-mcp](https://freemcp.space/featured/genrelay-mcp) — MCP server for video & image generation — use Veo 3.1, Grok Imagine and Nano Banana from Claude Desktop and Cursor
+- [heliofleet-mcp](https://freemcp.space/dashsoumya922/heliofleet-mcp) — Where heliophysics spacecraft are and when they line up: Parker Solar Probe, Solar Orbiter, STEREO and more. MCP server, JSON CLI and Python, from JPL Horizons.
+- [textokit-mcp](https://freemcp.space/featured/textokit-mcp) — MCP server for tienda.textokit.store: 17 pay-per-cal x402 tools on Base plus free catalog and samples
 - [rakuten-mcp](https://freemcp.space/featured/rakuten-mcp) — MCP server for the Rakuten Web Service API. 28 read-only tools across Ichiba (e-commerce), Books, Travel, Recipe, Kobo, and GORA (golf). Bilingual EN/JA tool descriptions.
 - [melbis-shop](https://freemcp.space/featured/melbis-shop) — Self-hosted e-commerce platform with an AI agent on staff: Windows back-office, PHP storefront, MCP server with per-command permissions.
 - [marktplaats-mcp](https://freemcp.space/featured/marktplaats-mcp) — MCP server for Marktplaats.nl: search, monitor and send messages or biddings on Dutch/Belgian listings from any AI agent
@@ -169,28 +191,6 @@ Most AI clients support remote MCP via SSE or HTTP. Add the server URL in your c
 - [test-inventory-mcp](https://freemcp.space/featured/test-inventory-mcp) — MCP server for test-inventory: AI agents ask which Playwright, Vitest, Jest, Mocha, Jasmine, Cypress, WebdriverIO, node:test and Bun tests a project has, which are skipped and why, and which a change can affect, without running them.
 - [indec-mcp](https://freemcp.space/featured/indec-mcp) — MCP no oficial sobre el Catálogo API-INDEC (Argentina): inflación, canastas, salarios, EMAE, pobreza, empleo, comercio exterior. Mirror DuckDB + servidor MCP con rate limits.
 - [MongrelDB-Viewer](https://freemcp.space/featured/mongreldb-viewer) — Multi-platform desktop viewer for MongrelDB: direct + server connections, schema map, SQL, dense ANN, MCP, and chat.
-- [context-guardian](https://freemcp.space/luminarisoftwares/context-guardian) — 40 turns: 1,130,722 tokens upstream -> 161,141. A fail-open compaction proxy for local OpenAI-compatible models.
-- [nano-mcp-termux](https://freemcp.space/featured/nano-mcp-termux) — Zero-dependency MCP server for AI agents, natively running on Termux (Android), Raspberry Pi, and Linux. Single-file, Docker-ready, protocol-tested.
-- [telegram-dev](https://freemcp.space/featured/telegram-dev) — Telegram development skill and documentation MCP for Codex, Claude Code and Cursor
-- [imsg-mcp](https://freemcp.space/featured/imsg-mcp) — Let your AI assistant read your iMessage/SMS and send the replies you approve. An MCP server and agent plugin for Claude, ChatGPT, Codex and Cursor, built for proactive agents like Claude Duet and dots. Runs on a Mac you control, with server-side send guardrails.
-- [sonjari](https://freemcp.space/featured/sonjari) — Your PC does the work. You get the proof. Sonjari is a free local AI agent for Windows: web research, Excel and Word documents, and code. Works on its own, or takes on tasks from Claude and Codex. No meter.
-- [claude-duet-bridge](https://freemcp.space/calebtgrimes/claude-duet-bridge) — Connect Claude Duet to Claude Code: an MCP connector that lets Duet start Claude Code sessions, talk to your open terminal windows, and get answers back. Remote MCP server on Cloudflare Workers + a Claude Code channel.
-- [cmdshellmcp](https://freemcp.space/featured/cmdshellmcp) — command shell mcp server with additional tools (e.g. for coding)
-- [agentic-browser](https://freemcp.space/featured/agentic-browser) — Give any AI agent your real Chrome: token-cheap text perception, a visible cursor, MCP + HTTP API. Optional chat watcher.
-- [backdraw](https://freemcp.space/featured/backdraw) — Let Claude generate images with your own ChatGPT account in a background Chrome tab. Local MCP server + Chrome extension, no API key, no open ports.
-- [api-shakedown](https://freemcp.space/featured/api-shakedown) — OpenAPI spec in, chaos test harness out: WireMock stubs, contract tests and failure scenarios from a team of local LLM agents.
-- [Gulliver](https://freemcp.space/veldrosinus/gulliver) — Test on tiny data before you run on giant data. MCP server + CLI that gives AI agents a dress rehearsal for SQL: cost preflight, scale lint with auto-fix, rehearse on 1% → 10%, predict 100%, run only within budget. DuckDB, Postgres, BigQuery, Snowflake. Local-first, MIT.
-- [bee-public](https://freemcp.space/featured/bee-public) — Public developer surface for Bee: Quantum Intelligence — Apache-2.0 SDKs, MCP server, API contracts and trust material.
-- [enclave-gateway](https://freemcp.space/featured/enclave-gateway) — Run CLI, multi-hop SSH, SOCKS5 and governed MCP across Windows VPN appliances and RDP bastions.
-- [toli](https://freemcp.space/featured/toli) — Let Claude Code, Codex, OpenClaw or any other agent work together, on one machine or across many.
-- [vmware-sandbox-mcp](https://freemcp.space/featured/vmware-sandbox-mcp) — MCP server that gives AI agents a disposable Linux VM on VMware Workstation: run code, copy files, click and type, then throw it away.
-- [wwdc-mcp-server](https://freemcp.space/jabbertones/wwdc-mcp-server) — Apple developer intelligence for coding agents: WWDC20–WWDC26, HIG, Swift, App Review, API history, and source-grounded app audits — 45 read-only MCP tools.
-- [metrecept-opensource](https://freemcp.space/featured/metrecept-opensource) — Metrecept open client tools: MCP server, SDK helpers, receipt verifiers
-- [cosmos-semantic-platform](https://freemcp.space/featured/cosmos-semantic-plat) — Open-source semantic layer with an ontology at its core: governed metrics and business rules for AI agents (MCP), the same number on eight databases, with evidence on every answer.
-- [cost-guard-mcp](https://freemcp.space/featured/cost-guard-mcp) — Pre-flight query cost and result-size guardrails for AI agents across BigQuery, Snowflake, and Databricks
-- [gage](https://freemcp.space/featured/gage) — Caller ID and a wax seal for AI agents: signed, sealed handoffs between agents, with trust the receiver computes. No accounts; keys stay on your machine.
-- [sendkuy-mcp](https://freemcp.space/featured/sendkuy-mcp) — WhatsApp, SMS and email for agents through SendKuy: send messages and batches, verify OTP codes, check WhatsApp numbers and run campaigns, with tools filtered by the API key's scopes.
-- [SoraCommander](https://freemcp.space/featured/soracommander) — Let ChatGPT work on your Windows PC from an ordinary chat, approving each step locally. Developer preview.
 <!-- freemcp:end -->
 
 ---
